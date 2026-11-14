@@ -273,7 +273,13 @@ def test_appends_profiles_missing_from_configured_order() -> None:
         "tech-blog",
         "ai-creator",
         "ai-news",
+        "chips-compute",
+        "ev-energy",
         "finance-news",
+        "robotics-autonomy",
+        "science-bio",
+        "space",
+        "tech-industry",
     ]
 
 

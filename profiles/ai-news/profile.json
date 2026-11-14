@@ -1,8 +1,8 @@
 {
   "id": "ai-news",
-  "name": "AI News",
+  "name": "AI",
   "display_names": {
-    "zh": "AI 要闻"
+    "zh": "人工智能"
   },
   "match": "match.md",
   "analysis": "analysis.md",

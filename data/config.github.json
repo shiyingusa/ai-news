@@ -11,15 +11,39 @@
       "en",
       "zh"
     ],
-    "analysis_concurrency": 5,
-    "enrichment_concurrency": 5
+    "analysis_concurrency": 8,
+    "enrichment_concurrency": 6
   },
   "processing": {
     "profiles_dir": "profiles",
-    "default_profile": "ai-news",
+    "default_profile": "tech-industry",
     "profile_settings": {
       "ai-news": {
         "threshold": 6.5,
+        "topic_dedup": true
+      },
+      "chips-compute": {
+        "threshold": 6.5,
+        "topic_dedup": true
+      },
+      "robotics-autonomy": {
+        "threshold": 6.5,
+        "topic_dedup": true
+      },
+      "ev-energy": {
+        "threshold": 6.5,
+        "topic_dedup": true
+      },
+      "space": {
+        "threshold": 6.5,
+        "topic_dedup": true
+      },
+      "science-bio": {
+        "threshold": 6.5,
+        "topic_dedup": true
+      },
+      "tech-industry": {
+        "threshold": 7.0,
         "topic_dedup": true
       },
       "tech-blog": {
@@ -34,70 +58,408 @@
         "name": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "enabled": true,
-        "category": "ai-labs",
+        "category": "ai",
         "profile": "ai-news"
       },
       {
         "name": "Google DeepMind",
         "url": "https://deepmind.google/blog/rss.xml",
         "enabled": true,
-        "category": "ai-labs",
+        "category": "ai",
         "profile": "ai-news"
       },
       {
         "name": "Google Research",
         "url": "https://research.google/blog/rss/",
         "enabled": true,
-        "category": "ai-labs",
+        "category": "ai",
         "profile": "ai-news"
       },
       {
-        "name": "NVIDIA Blog",
-        "url": "https://blogs.nvidia.com/feed/",
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
         "enabled": true,
-        "category": "ai-labs",
+        "category": "ai",
         "profile": "ai-news"
       },
       {
         "name": "Hugging Face Blog",
         "url": "https://huggingface.co/blog/feed.xml",
         "enabled": true,
-        "category": "ai-labs",
+        "category": "ai",
         "profile": "ai-news"
+      },
+      {
+        "name": "Berkeley AI Research",
+        "url": "https://bair.berkeley.edu/blog/feed.xml",
+        "enabled": true,
+        "category": "ai",
+        "profile": "ai-news"
+      },
+      {
+        "name": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/feed/",
+        "enabled": true,
+        "category": "chips",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy"
+        ]
       },
       {
         "name": "TechCrunch AI",
         "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "enabled": true,
-        "category": "ai-media",
+        "category": "ai",
         "profile": "ai-news"
       },
       {
         "name": "The Verge AI",
         "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "enabled": true,
-        "category": "ai-media",
+        "category": "ai",
         "profile": "ai-news"
       },
       {
-        "name": "MIT Technology Review AI",
-        "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "name": "Wired AI",
+        "url": "https://www.wired.com/feed/tag/ai/latest/rss",
         "enabled": true,
-        "category": "ai-media",
+        "category": "ai",
         "profile": "ai-news"
       },
       {
-        "name": "Ars Technica AI",
-        "url": "https://arstechnica.com/ai/feed/",
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/feed/",
         "enabled": true,
-        "category": "ai-media",
+        "category": "ai",
         "profile": "ai-news"
+      },
+      {
+        "name": "Techmeme",
+        "url": "https://www.techmeme.com/feed.xml",
+        "enabled": true,
+        "category": "general",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+        "enabled": true,
+        "category": "general",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/feed/",
+        "enabled": true,
+        "category": "general",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/feeds/feed.rss",
+        "enabled": true,
+        "category": "general",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "Wired",
+        "url": "https://www.wired.com/feed/rss",
+        "enabled": true,
+        "category": "general",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "enabled": true,
+        "category": "general",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
+        "enabled": true,
+        "category": "general",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/feed/latest/",
+        "enabled": true,
+        "category": "general",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "SemiAnalysis",
+        "url": "https://newsletter.semianalysis.com/feed",
+        "enabled": true,
+        "category": "chips",
+        "profile": "chips-compute"
+      },
+      {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/feeds/all",
+        "enabled": true,
+        "category": "chips",
+        "profile": [
+          "chips-compute",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "ServeTheHome",
+        "url": "https://www.servethehome.com/feed/",
+        "enabled": true,
+        "category": "chips",
+        "profile": "chips-compute"
+      },
+      {
+        "name": "EE Times",
+        "url": "https://www.eetimes.com/feed/",
+        "enabled": true,
+        "category": "chips",
+        "profile": "chips-compute"
+      },
+      {
+        "name": "The Quantum Insider",
+        "url": "https://thequantuminsider.com/feed/",
+        "enabled": true,
+        "category": "chips",
+        "profile": "chips-compute"
+      },
+      {
+        "name": "Google News: chips",
+        "url": "https://news.google.com/rss/search?q=semiconductor+OR+Nvidia+OR+TSMC+OR+%22AI+chip%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "chips",
+        "profile": "chips-compute"
+      },
+      {
+        "name": "The Robot Report",
+        "url": "https://www.therobotreport.com/feed/",
+        "enabled": true,
+        "category": "robotics",
+        "profile": "robotics-autonomy"
+      },
+      {
+        "name": "Google News: robots",
+        "url": "https://news.google.com/rss/search?q=humanoid+robot+OR+robotaxi+OR+Waymo+OR+%22Tesla+Optimus%22+OR+%22Full+Self-Driving%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "robotics",
+        "profile": "robotics-autonomy"
+      },
+      {
+        "name": "Electrek",
+        "url": "https://electrek.co/feed/",
+        "enabled": true,
+        "category": "energy",
+        "profile": [
+          "ev-energy",
+          "robotics-autonomy"
+        ]
+      },
+      {
+        "name": "Teslarati",
+        "url": "https://www.teslarati.com/feed/",
+        "enabled": true,
+        "category": "energy",
+        "profile": [
+          "ev-energy",
+          "robotics-autonomy",
+          "space"
+        ]
+      },
+      {
+        "name": "Not a Tesla App",
+        "url": "https://www.notateslaapp.com/rss",
+        "enabled": true,
+        "category": "energy",
+        "profile": [
+          "ev-energy",
+          "robotics-autonomy"
+        ]
+      },
+      {
+        "name": "InsideEVs",
+        "url": "https://insideevs.com/rss/news/all/",
+        "enabled": true,
+        "category": "energy",
+        "profile": "ev-energy"
+      },
+      {
+        "name": "Electrive",
+        "url": "https://www.electrive.com/feed/",
+        "enabled": true,
+        "category": "energy",
+        "profile": "ev-energy"
+      },
+      {
+        "name": "TechCrunch Climate",
+        "url": "https://techcrunch.com/category/climate/feed/",
+        "enabled": true,
+        "category": "energy",
+        "profile": "ev-energy"
+      },
+      {
+        "name": "Canary Media",
+        "url": "https://www.canarymedia.com/rss.rss",
+        "enabled": true,
+        "category": "energy",
+        "profile": "ev-energy"
+      },
+      {
+        "name": "pv magazine",
+        "url": "https://www.pv-magazine.com/feed/",
+        "enabled": true,
+        "category": "energy",
+        "profile": "ev-energy"
+      },
+      {
+        "name": "World Nuclear News",
+        "url": "https://www.world-nuclear-news.org/rss",
+        "enabled": true,
+        "category": "energy",
+        "profile": "ev-energy"
+      },
+      {
+        "name": "Google News: Tesla",
+        "url": "https://news.google.com/rss/search?q=Tesla+when:1d&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "energy",
+        "profile": [
+          "ev-energy",
+          "robotics-autonomy",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "Google News: energy",
+        "url": "https://news.google.com/rss/search?q=%22battery+breakthrough%22+OR+%22solid-state+battery%22+OR+fusion+energy+OR+%22small+modular+reactor%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "energy",
+        "profile": "ev-energy"
+      },
+      {
+        "name": "SpaceNews",
+        "url": "https://spacenews.com/feed/",
+        "enabled": true,
+        "category": "space",
+        "profile": "space"
+      },
+      {
+        "name": "NASASpaceflight",
+        "url": "https://www.nasaspaceflight.com/feed/",
+        "enabled": true,
+        "category": "space",
+        "profile": "space"
+      },
+      {
+        "name": "Space.com",
+        "url": "https://www.space.com/feeds/all",
+        "enabled": true,
+        "category": "space",
+        "profile": "space"
+      },
+      {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/feed/",
+        "enabled": true,
+        "category": "science",
+        "profile": "science-bio"
+      },
+      {
+        "name": "STAT News",
+        "url": "https://www.statnews.com/feed/",
+        "enabled": true,
+        "category": "science",
+        "profile": "science-bio"
+      },
+      {
+        "name": "MIT News",
+        "url": "https://news.mit.edu/rss/feed",
+        "enabled": true,
+        "category": "science",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
       },
       {
         "name": "Simon Willison",
         "url": "https://simonwillison.net/atom/everything/",
         "enabled": true,
-        "category": "ai-analysis",
+        "category": "analysis",
         "profile": "tech-blog",
         "content_extractor": "trafilatura"
       },
@@ -105,7 +467,7 @@
         "name": "Import AI",
         "url": "https://importai.substack.com/feed",
         "enabled": true,
-        "category": "ai-analysis",
+        "category": "analysis",
         "profile": "tech-blog",
         "content_extractor": "trafilatura"
       },
@@ -113,7 +475,7 @@
         "name": "Interconnects",
         "url": "https://www.interconnects.ai/feed",
         "enabled": true,
-        "category": "ai-analysis",
+        "category": "analysis",
         "profile": "tech-blog",
         "content_extractor": "trafilatura"
       },
@@ -121,7 +483,7 @@
         "name": "Latent Space",
         "url": "https://www.latent.space/feed",
         "enabled": true,
-        "category": "ai-analysis",
+        "category": "analysis",
         "profile": "tech-blog",
         "content_extractor": "trafilatura"
       },
@@ -129,29 +491,68 @@
         "name": "QbitAI (量子位)",
         "url": "https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml",
         "enabled": true,
-        "category": "china-ai",
-        "profile": "ai-news"
+        "category": "china",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
       },
       {
         "name": "AI Era (新智元)",
         "url": "https://wechat2rss.xlab.app/feed/ede30346413ea70dbef5d485ea5cbb95cca446e7.xml",
         "enabled": true,
-        "category": "china-ai",
-        "profile": "ai-news"
+        "category": "china",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
+      },
+      {
+        "name": "GeekPark (极客公园)",
+        "url": "https://www.geekpark.net/rss",
+        "enabled": true,
+        "category": "china",
+        "profile": [
+          "ai-news",
+          "chips-compute",
+          "robotics-autonomy",
+          "ev-energy",
+          "space",
+          "science-bio",
+          "tech-industry"
+        ]
       },
       {
         "name": "GitHub Trending - Daily",
         "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
         "enabled": true,
-        "category": "ai-community",
+        "category": "community",
         "profile": "ai-news"
       }
     ],
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 30,
-      "min_score": 150,
-      "profile": "ai-news"
+      "fetch_top_stories": 50,
+      "min_score": 120,
+      "profile": [
+        "ai-news",
+        "chips-compute",
+        "robotics-autonomy",
+        "ev-energy",
+        "space",
+        "science-bio",
+        "tech-industry"
+      ]
     },
     "reddit": {
       "enabled": true,
@@ -182,6 +583,72 @@
           "fetch_limit": 10,
           "min_score": 100,
           "profile": "ai-news"
+        },
+        {
+          "subreddit": "hardware",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 150,
+          "profile": "chips-compute"
+        },
+        {
+          "subreddit": "robotics",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 60,
+          "profile": "robotics-autonomy"
+        },
+        {
+          "subreddit": "teslamotors",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 300,
+          "profile": [
+            "ev-energy",
+            "robotics-autonomy"
+          ]
+        },
+        {
+          "subreddit": "electricvehicles",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 150,
+          "profile": "ev-energy"
+        },
+        {
+          "subreddit": "energy",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 150,
+          "profile": "ev-energy"
+        },
+        {
+          "subreddit": "spacex",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 250,
+          "profile": "space"
+        },
+        {
+          "subreddit": "space",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 500,
+          "profile": "space"
         }
       ],
       "users": [],
@@ -223,7 +690,7 @@
       "country": "US",
       "ceid": null,
       "max_results": 40,
-      "category": "ai-media",
+      "category": "ai",
       "profile": "ai-news"
     },
     "telegram": {
@@ -235,34 +702,71 @@
     "time_window_hours": 24
   },
   "digest": {
-    "max_items": 25,
+    "max_items": 40,
     "profile_order": [
       "ai-news",
+      "chips-compute",
+      "robotics-autonomy",
+      "ev-energy",
+      "space",
+      "science-bio",
+      "tech-industry",
       "tech-blog"
     ],
     "category_groups": {
-      "labs": {
-        "limit": 7,
+      "ai": {
+        "limit": 9,
         "categories": [
-          "ai-labs"
+          "ai",
+          "community"
         ]
       },
-      "media": {
-        "limit": 6,
+      "chips": {
+        "limit": 5,
         "categories": [
-          "ai-media"
+          "chips"
+        ]
+      },
+      "robotics": {
+        "limit": 4,
+        "categories": [
+          "robotics"
+        ]
+      },
+      "energy": {
+        "limit": 7,
+        "categories": [
+          "energy"
+        ]
+      },
+      "space": {
+        "limit": 4,
+        "categories": [
+          "space"
+        ]
+      },
+      "science": {
+        "limit": 3,
+        "categories": [
+          "science"
+        ]
+      },
+      "general": {
+        "limit": 10,
+        "categories": [
+          "general"
         ]
       },
       "analysis": {
-        "limit": 4,
+        "limit": 3,
         "categories": [
-          "ai-analysis"
+          "analysis"
         ]
       },
       "china": {
         "limit": 4,
         "categories": [
-          "china-ai"
+          "china"
         ]
       }
     },

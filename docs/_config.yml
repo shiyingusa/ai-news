@@ -1,5 +1,5 @@
 title: AI Daily Radar
-description: The AI news that matters, picked and explained every morning in English and Chinese.
+description: AI and the frontier tech around it (chips, robots, EVs and energy, space, science), picked and explained every morning in English and Chinese.
 url: "https://aidailyradar.com"
 baseurl: ""
 lang: en
@@ -40,7 +40,7 @@ defaults:
     values:
       layout: "post"
       image: /assets/share.png
-      description: "Today's most important AI stories, each with a short summary, background and a link to the source."
+      description: "Today's most important stories in AI, chips, robots, EVs and energy, space and science, each with a short summary, background and a link to the source."
   - scope:
       path: ""
     values:
