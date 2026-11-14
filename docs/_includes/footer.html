@@ -1,0 +1,17 @@
+<footer class="site-footer">
+  <div class="wrap footer-row">
+    <p class="footer-line">
+      <span class="l-en">AI Daily Radar is an independent daily briefing. Stories are selected and summarised with the help of AI and link to their original sources.</span>
+      <span class="l-zh">AI 每日雷达是一份独立的每日简报。新闻在 AI 辅助下筛选和摘要，每条都附原始来源链接。</span>
+    </p>
+    <nav class="footer-nav" aria-label="Footer">
+      <a href="{{ '/about/' | relative_url }}"><span class="l-en">About</span><span class="l-zh">关于</span></a>
+      <a href="{{ '/archive/' | relative_url }}"><span class="l-en">Archive</span><span class="l-zh">往期</span></a>
+      <a href="{{ '/privacy/' | relative_url }}"><span class="l-en">Privacy</span><span class="l-zh">隐私政策</span></a>
+      <a href="{{ '/feed-en.xml' | relative_url }}">RSS (EN)</a>
+      <a href="{{ '/feed-zh.xml' | relative_url }}">RSS (中文)</a>
+      <a href="mailto:{{ site.contact_email }}"><span class="l-en">Contact</span><span class="l-zh">联系</span></a>
+    </nav>
+    <p class="footer-small">© {{ site.time | date: "%Y" }} AI Daily Radar · <span class="l-en">Built on</span><span class="l-zh">基于开源项目</span> <a href="https://github.com/Thysrael/Horizon">Horizon</a> (MIT)</p>
+  </div>
+</footer>

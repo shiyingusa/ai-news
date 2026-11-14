@@ -1,0 +1,272 @@
+{
+  "ai": {
+    "provider": "deepseek",
+    "model": "deepseek-v4-flash",
+    "base_url": "https://api.deepseek.com",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "temperature": 0.3,
+    "max_tokens": 8192,
+    "throttle_sec": 1,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "analysis_concurrency": 5,
+    "enrichment_concurrency": 5
+  },
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "ai-news",
+    "profile_settings": {
+      "ai-news": {
+        "threshold": 6.5,
+        "topic_dedup": true
+      },
+      "tech-blog": {
+        "threshold": 6.0,
+        "topic_dedup": false
+      }
+    }
+  },
+  "sources": {
+    "rss": [
+      {
+        "name": "OpenAI News",
+        "url": "https://openai.com/news/rss.xml",
+        "enabled": true,
+        "category": "ai-labs",
+        "profile": "ai-news"
+      },
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "enabled": true,
+        "category": "ai-labs",
+        "profile": "ai-news"
+      },
+      {
+        "name": "Google Research",
+        "url": "https://research.google/blog/rss/",
+        "enabled": true,
+        "category": "ai-labs",
+        "profile": "ai-news"
+      },
+      {
+        "name": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/feed/",
+        "enabled": true,
+        "category": "ai-labs",
+        "profile": "ai-news"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "enabled": true,
+        "category": "ai-labs",
+        "profile": "ai-news"
+      },
+      {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "enabled": true,
+        "category": "ai-media",
+        "profile": "ai-news"
+      },
+      {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        "enabled": true,
+        "category": "ai-media",
+        "profile": "ai-news"
+      },
+      {
+        "name": "MIT Technology Review AI",
+        "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "enabled": true,
+        "category": "ai-media",
+        "profile": "ai-news"
+      },
+      {
+        "name": "Ars Technica AI",
+        "url": "https://arstechnica.com/ai/feed/",
+        "enabled": true,
+        "category": "ai-media",
+        "profile": "ai-news"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/atom/everything/",
+        "enabled": true,
+        "category": "ai-analysis",
+        "profile": "tech-blog",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "Import AI",
+        "url": "https://importai.substack.com/feed",
+        "enabled": true,
+        "category": "ai-analysis",
+        "profile": "tech-blog",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "Interconnects",
+        "url": "https://www.interconnects.ai/feed",
+        "enabled": true,
+        "category": "ai-analysis",
+        "profile": "tech-blog",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "Latent Space",
+        "url": "https://www.latent.space/feed",
+        "enabled": true,
+        "category": "ai-analysis",
+        "profile": "tech-blog",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "QbitAI (量子位)",
+        "url": "https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml",
+        "enabled": true,
+        "category": "china-ai",
+        "profile": "ai-news"
+      },
+      {
+        "name": "AI Era (新智元)",
+        "url": "https://wechat2rss.xlab.app/feed/ede30346413ea70dbef5d485ea5cbb95cca446e7.xml",
+        "enabled": true,
+        "category": "china-ai",
+        "profile": "ai-news"
+      },
+      {
+        "name": "GitHub Trending - Daily",
+        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+        "enabled": true,
+        "category": "ai-community",
+        "profile": "ai-news"
+      }
+    ],
+    "hackernews": {
+      "enabled": true,
+      "fetch_top_stories": 30,
+      "min_score": 150,
+      "profile": "ai-news"
+    },
+    "reddit": {
+      "enabled": true,
+      "subreddits": [
+        {
+          "subreddit": "MachineLearning",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 60,
+          "profile": "ai-news"
+        },
+        {
+          "subreddit": "LocalLLaMA",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 80,
+          "profile": "ai-news"
+        },
+        {
+          "subreddit": "artificial",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 100,
+          "profile": "ai-news"
+        }
+      ],
+      "users": [],
+      "fetch_comments": 10
+    },
+    "github": [
+      {
+        "type": "user_events",
+        "username": "karpathy",
+        "enabled": true,
+        "profile": "ai-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "vllm-project",
+        "repo": "vllm",
+        "enabled": true,
+        "profile": "ai-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "ollama",
+        "repo": "ollama",
+        "enabled": true,
+        "profile": "ai-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "huggingface",
+        "repo": "transformers",
+        "enabled": true,
+        "profile": "ai-news"
+      }
+    ],
+    "google_news": {
+      "enabled": true,
+      "query": "artificial intelligence",
+      "language": "en",
+      "country": "US",
+      "ceid": null,
+      "max_results": 40,
+      "category": "ai-media",
+      "profile": "ai-news"
+    },
+    "telegram": {
+      "enabled": false,
+      "channels": []
+    }
+  },
+  "collection": {
+    "time_window_hours": 24
+  },
+  "digest": {
+    "max_items": 25,
+    "profile_order": [
+      "ai-news",
+      "tech-blog"
+    ],
+    "category_groups": {
+      "labs": {
+        "limit": 7,
+        "categories": [
+          "ai-labs"
+        ]
+      },
+      "media": {
+        "limit": 6,
+        "categories": [
+          "ai-media"
+        ]
+      },
+      "analysis": {
+        "limit": 4,
+        "categories": [
+          "ai-analysis"
+        ]
+      },
+      "china": {
+        "limit": 4,
+        "categories": [
+          "china-ai"
+        ]
+      }
+    },
+    "default_group": "other",
+    "default_group_limit": 6
+  }
+}

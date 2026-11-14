@@ -1,0 +1,59 @@
+title: AI Daily Radar
+description: The AI news that matters, picked and explained every morning in English and Chinese.
+url: "https://aidailyradar.com"
+baseurl: ""
+lang: en
+
+# ---------------------------------------------------------------------------
+# Google AdSense
+# Paste your publisher ID (it looks like ca-pub-1234567890123456) between the
+# quotes. That one line turns on the AdSense script on every page and fills
+# in /ads.txt automatically. Leave it empty until AdSense gives you the ID.
+adsense_client: ""
+# Optional: an ad unit ID ("data-ad-slot") for the fixed slot under each issue.
+# Leave empty to rely on Auto ads only.
+adsense_slot: ""
+# ---------------------------------------------------------------------------
+
+contact_email: "hello@aidailyradar.com"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+future: true
+permalink: /:year/:month/:day/:title/
+timezone: America/New_York
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+feed:
+  path: feed.xml
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      image: /assets/share.png
+      description: "Today's most important AI stories, each with a short summary, background and a link to the source."
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      image: /assets/share.png
+
+exclude:
+  - ".github"
+  - "node_modules"
+  - "shots"
+  - ".taste-skill"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "vendor"
+
+logo: /assets/favicon.svg

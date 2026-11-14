@@ -1,0 +1,78 @@
+name: Daily AI briefing
+
+on:
+  schedule:
+    # 11:17 UTC = 6:17 am New York in winter (7:17 am in summer).
+    # GitHub may start scheduled runs some minutes late.
+    - cron: '17 11 * * *'
+  workflow_dispatch:      # "Run workflow" button for a manual run
+
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
+jobs:
+  daily-summary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.11.26"
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Prepare config
+        run: cp data/config.github.json data/config.json
+
+      - name: Check the model key is set
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          if [ -z "$DEEPSEEK_API_KEY" ]; then
+            echo "::error::Add the DEEPSEEK_API_KEY secret in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
+      - name: Run AI Daily Radar
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: uv run horizon --hours 24
+
+      - name: Keep the digest archive for next runs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f data/summaries/*.md 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Archive digest $(date -u +%F)"
+          git push || echo "::warning::Could not push the digest archive; the site still deploys."
+
+      - name: Set current date
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          keep_files: true   # keeps every past issue on the gh-pages branch
+          commit_message: "Daily briefing: ${{ env.DATE }}"
+          publish_branch: gh-pages
+          enable_jekyll: true

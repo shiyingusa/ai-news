@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{% if page.lang == 'zh' %}zh-Hans{% else %}en{% endif %}">
+<head>
+{% include head.html %}
+</head>
+<body class="{{ page.body_class | default: 'page' }}">
+{% include header.html %}
+<main id="main" class="main-content">
+{{ content }}
+</main>
+{% include footer.html %}
+</body>
+</html>
