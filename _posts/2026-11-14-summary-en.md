@@ -1,5 +1,8 @@
 ---
-layout: post
+layout: issue
+permalink: /briefing/2026-11-14/
+redirect_from:
+  - /2026/11/14/summary-en/
 title: "AI News Briefing: November 14, 2026"
 date: 2026-11-14
 lang: en

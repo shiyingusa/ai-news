@@ -1,5 +1,8 @@
 ---
-layout: post
+layout: issue
+permalink: /zh/briefing/2026-11-14/
+redirect_from:
+  - /2026/11/14/summary-zh/
 title: "AI 新闻简报：2026年11月14日"
 date: 2026-11-14
 lang: zh
