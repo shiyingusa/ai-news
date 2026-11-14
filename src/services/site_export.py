@@ -79,7 +79,14 @@ def make_dek(text: str, limit: int = 240, minimum: int = 90) -> str:
             break
     if not dek:
         cut = text[: limit - 1]
-        dek = (cut.rsplit(" ", 1)[0] if " " in cut else cut) + "…"
+        for mark in ("; ", " — ", "—", ", ", "，", "；"):
+            pos = cut.rfind(mark)
+            if pos >= minimum:
+                cut = cut[:pos]
+                break
+        else:
+            cut = cut.rsplit(" ", 1)[0] if " " in cut else cut
+        dek = cut.rstrip(",;，；— ") + "…"
     return dek
 
 
