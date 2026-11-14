@@ -1,0 +1,25 @@
+---
+layout: default
+lang: zh
+title: "往期每日简报"
+description: "AI 每日雷达全部往期简报，涵盖 AI 与前沿科技。"
+permalink: /zh/briefing/
+---
+{%- include vars.html -%}
+{%- assign issues = site.posts | where: "lang", L -%}
+<div class="wrap section-page">
+  <header class="section-head"><h1>{{ T.briefings }}</h1><p>已发布的全部简报，最新的在前。</p></header>
+  {%- assign by_month = issues | group_by_exp: "p", "p.date | date: '%Y年%-m月'" -%}
+  {%- for month in by_month %}
+  <section class="archive-month">
+    <h2 class="rail-head">{{ month.name }}</h2>
+    <ul class="issue-strip">
+      {%- for p in month.items %}
+      <li><a href="{{ p.url | relative_url }}"><span class="issue-day">{{ p.date | date: "%-m月%-d日" }}</span></a></li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- else %}
+  <p class="empty-state">{{ T.first_issue }}</p>
+  {%- endfor %}
+</div>

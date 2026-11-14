@@ -1,0 +1,104 @@
+---
+layout: default
+---
+{%- include vars.html -%}
+{%- assign sec = site.data.sections | where: "id", page.section | first -%}
+{%- if L == "zh" -%}
+  {%- assign sname = sec.zh -%}{%- assign surl = "/zh/" | append: sec.slug | append: "/" -%}
+  {%- assign issue_url = "/zh/briefing/" | append: page.issue | append: "/" -%}
+  {%- assign day = page.date | date: "%Y年%-m月%-d日" -%}
+{%- else -%}
+  {%- assign sname = sec.en -%}{%- assign surl = "/" | append: sec.slug | append: "/" -%}
+  {%- assign issue_url = "/briefing/" | append: page.issue | append: "/" -%}
+  {%- assign day = page.date | date: "%B %-d, %Y" -%}
+{%- endif -%}
+{%- assign src_host = page.source_url | split: "/" | slice: 2 | first | remove_first: "www." -%}
+<div class="wrap story-wrap" style="--sec: {{ sec.color }}">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="{{ P | append: '/' | relative_url }}">{{ T.home }}</a><span aria-hidden="true">/</span><a href="{{ surl | relative_url }}">{{ sname }}</a>
+  </nav>
+  <article class="story-page">
+    <header class="story-head">
+      <h1>{{ page.title | escape }}</h1>
+      <div class="byline">
+        <p><span>{{ T.by }} {{ T.byline }}</span><span class="dot" aria-hidden="true">·</span><time datetime="{{ page.date | date_to_xmlschema }}">{{ day }}</time><span class="dot" aria-hidden="true">·</span><a class="sec-link" href="{{ surl | relative_url }}">{{ sname }}</a>{% if page.score %}<span class="dot" aria-hidden="true">·</span><span class="score" title="{{ T.score_help }}">{{ T.radar_score }} {{ page.score | round: 1 }}</span>{% endif %}</p>
+        <p class="byline-note">{{ T.byline_note }}</p>
+      </div>
+    </header>
+    {%- if page.art %}
+    <figure class="story-hero">
+      <img src="{{ page.art | relative_url }}" alt="" width="1200" height="675" fetchpriority="high">
+    </figure>
+    {%- endif %}
+    <div class="story-grid">
+      <div class="story-body prose">
+{{ content }}
+        <aside class="source-box">
+          <h2>{{ T.original_report }}</h2>
+          <p><strong>{{ page.source_name | escape }}</strong>{% if src_host and src_host != "" %} · {{ src_host }}{% endif %}</p>
+          <p class="source-actions">
+            <a class="button" href="{{ page.source_url }}" target="_blank" rel="noopener">{{ T.read_at }} {{ src_host | default: page.source_name }}<span class="visually-hidden"> ({% if L == "zh" %}新窗口{% else %}opens in a new tab{% endif %})</span></a>
+            {%- if page.discussion_url %}
+            <a class="button button-quiet" href="{{ page.discussion_url }}" target="_blank" rel="noopener">{{ T.discussion }}</a>
+            {%- endif %}
+          </p>
+        </aside>
+        {%- if page.topics and page.topics.size > 0 %}
+        <ul class="topic-chips" aria-label="{{ T.topics }}">
+          {%- for t in page.topics %}
+          <li><a href="{{ P | append: '/topics/' | append: t | append: '/' | relative_url }}">{{ page.tags[forloop.index0] | escape }}</a></li>
+          {%- endfor %}
+        </ul>
+        {%- endif %}
+        <div class="share">
+          <span>{{ T.share }}</span>
+          <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | uri_escape }}&amp;text={{ page.title | uri_escape }}" target="_blank" rel="noopener">X</a>
+          <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | uri_escape }}" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | uri_escape }}" target="_blank" rel="noopener">Facebook</a>
+          <button type="button" class="copy-link" data-url="{{ page.url | absolute_url }}" data-done="{% if L == 'zh' %}已复制{% else %}Copied{% endif %}">{{ T.copy_link }}</button>
+        </div>
+      </div>
+      <aside class="story-rail">
+        {%- assign today = site.stories | where: "lang", L | where: "issue", page.issue | sort: "score" | reverse -%}
+        <section>
+          <h2 class="rail-head">{{ T.also_today }}</h2>
+          <ol class="ranked">
+            {%- assign n = 0 -%}
+            {%- for s in today -%}
+              {%- if s.url == page.url -%}{%- continue -%}{%- endif -%}
+              {%- assign n = n | plus: 1 -%}{%- if n > 6 -%}{%- break -%}{%- endif %}
+            <li>{% include card.html s=s v="compact" h=3 %}</li>
+            {%- endfor %}
+          </ol>
+          <a class="text-link" href="{{ issue_url | relative_url }}">{{ T.read_briefing }}</a>
+        </section>
+        {% include ad.html kind="rail" %}
+      </aside>
+    </div>
+  </article>
+
+  {%- assign more = site.stories | where: "lang", L | where: "section", page.section | sort: "order" | reverse -%}
+  <section class="more-section" aria-labelledby="more-title">
+    <header class="sec-head">
+      <h2 id="more-title"><a href="{{ surl | relative_url }}">{{ T.more_in }} {{ sname }}</a></h2>
+      <a class="sec-more" href="{{ surl | relative_url }}">{{ T.see_all }}</a>
+    </header>
+    <div class="grid-4">
+      {%- assign n = 0 -%}
+      {%- for s in more -%}
+        {%- if s.url == page.url -%}{%- continue -%}{%- endif -%}
+        {%- assign n = n | plus: 1 -%}{%- if n > 4 -%}{%- break -%}{%- endif %}
+      {% include card.html s=s v="card" h=3 %}
+      {%- endfor %}
+    </div>
+  </section>
+</div>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+{"@type":"ListItem","position":1,"name":{{ T.home | jsonify }},"item":{{ P | append: '/' | absolute_url | jsonify }}},
+{"@type":"ListItem","position":2,"name":{{ sname | jsonify }},"item":{{ surl | absolute_url | jsonify }}},
+{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":{{ page.url | absolute_url | jsonify }}}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"NewsArticle","headline":{{ page.title | jsonify }},"description":{{ page.dek | jsonify }},"image":[{{ page.image | default: site.image | absolute_url | jsonify }}],"datePublished":{{ page.date | date_to_xmlschema | jsonify }},"dateModified":{{ page.date | date_to_xmlschema | jsonify }},"inLanguage":{% if L == "zh" %}"zh-Hans"{% else %}"en"{% endif %},"articleSection":{{ sname | jsonify }},"keywords":{{ page.tags | jsonify }},"isBasedOn":{{ page.source_url | jsonify }},"mainEntityOfPage":{{ page.url | absolute_url | jsonify }},"author":{"@type":"Organization","name":"AI Daily Radar","url":{{ "/about/" | absolute_url | jsonify }}},"publisher":{"@type":"Organization","name":"AI Daily Radar","logo":{"@type":"ImageObject","url":{{ site.logo | absolute_url | jsonify }}}}}
+</script>

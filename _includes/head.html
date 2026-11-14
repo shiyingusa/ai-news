@@ -1,36 +1,38 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#121316" media="(prefers-color-scheme: dark)">
-{%- if page.lang -%}
-<script>document.documentElement.dataset.lang = "{{ page.lang }}";</script>
-{%- else -%}
-<script>
-  (function () {
-    var l = null;
-    try { l = localStorage.getItem("adr-lang"); } catch (e) {}
-    document.documentElement.dataset.lang = l === "zh" ? "zh" : "en";
-  })();
-</script>
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111214" media="(prefers-color-scheme: dark)">
+{%- assign thin = false -%}
+{%- if page.layout == "topic" -%}
+  {%- assign topic_count = site.stories | where: "lang", L | where_exp: "s", "s.topics contains page.topic" | size -%}
+  {%- if topic_count < 3 -%}{%- assign thin = true -%}{%- endif -%}
+{%- endif -%}
+{%- if page.noindex or thin %}
+<meta name="robots" content="noindex, follow">
+{%- else %}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 {%- endif %}
 {% seo %}
-{%- if page.lang and page.date -%}
-  {%- assign other_lang = "zh" -%}
-  {%- if page.lang == "zh" -%}{%- assign other_lang = "en" -%}{%- endif -%}
-  {%- assign other_suffix = "summary-" | append: other_lang -%}
-  {%- assign this_suffix = "summary-" | append: page.lang -%}
-  {%- assign other_url = page.url | replace: this_suffix, other_suffix -%}
-<link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url | absolute_url }}">
-<link rel="alternate" hreflang="{% if other_lang == 'zh' %}zh-Hans{% else %}en{% endif %}" href="{{ other_url | absolute_url }}">
+{%- unless page.no_alternate %}
+{%- if L == "zh" %}
+<link rel="alternate" hreflang="zh-Hans" href="{{ page.url | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ alt_url | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ alt_url | absolute_url }}">
+{%- else %}
+<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}">
+<link rel="alternate" hreflang="zh-Hans" href="{{ alt_url | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
 {%- endif %}
+{%- endunless %}
 <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
-<link rel="alternate" type="application/atom+xml" title="AI Daily Radar (English)" href="{{ '/feed-en.xml' | relative_url }}">
-<link rel="alternate" type="application/atom+xml" title="AI 每日雷达（中文）" href="{{ '/feed-zh.xml' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/logo.png' | relative_url }}">
+<link rel="alternate" type="application/atom+xml" title="AI Daily Radar" href="{{ '/feed.xml' | relative_url }}">
+<link rel="alternate" type="application/atom+xml" title="AI 每日雷达" href="{{ '/zh/feed.xml' | relative_url }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,650&family=Public+Sans:wght@400;500;600&display=swap">
-<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,650;1,6..72,400&family=Public+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=3">
 {%- if site.adsense_client and site.adsense_client != "" %}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}" crossorigin="anonymous"></script>
 {%- endif %}
-<script src="{{ '/assets/js/horizon.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>

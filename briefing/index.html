@@ -1,0 +1,25 @@
+---
+layout: default
+lang: en
+title: "Daily Briefing archive"
+description: "Every past issue of the AI Daily Radar briefing on AI and frontier technology."
+permalink: /briefing/
+---
+{%- include vars.html -%}
+{%- assign issues = site.posts | where: "lang", L -%}
+<div class="wrap section-page">
+  <header class="section-head"><h1>{{ T.briefings }}</h1><p>Every issue we have published, newest first.</p></header>
+  {%- assign by_month = issues | group_by_exp: "p", "p.date | date: '%B %Y'" -%}
+  {%- for month in by_month %}
+  <section class="archive-month">
+    <h2 class="rail-head">{{ month.name }}</h2>
+    <ul class="issue-strip">
+      {%- for p in month.items %}
+      <li><a href="{{ p.url | relative_url }}"><span class="issue-day">{{ p.date | date: "%a, %b %-d" }}</span></a></li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- else %}
+  <p class="empty-state">{{ T.first_issue }}</p>
+  {%- endfor %}
+</div>

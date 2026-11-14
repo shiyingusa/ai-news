@@ -1,0 +1,97 @@
+---
+layout: default
+---
+{%- include vars.html -%}
+{%- assign all = site.stories | where: "lang", L | sort: "order" | reverse -%}
+{%- assign latest = all | first -%}
+{%- if latest -%}
+{%- assign today = all | where: "issue", latest.issue -%}
+{%- assign by_score = today | sort: "score" | reverse -%}
+{%- assign lead = by_score | first -%}
+{%- assign brief_key = latest.issue | append: "-" | append: L -%}
+{%- assign brief = site.data.briefs[brief_key] -%}
+{%- if L == "zh" -%}{%- assign issue_url = "/zh/briefing/" | append: latest.issue | append: "/" -%}{%- else -%}{%- assign issue_url = "/briefing/" | append: latest.issue | append: "/" -%}{%- endif -%}
+<h1 class="visually-hidden">{% if L == "zh" %}AI 每日雷达：AI 与前沿科技每日新闻{% else %}AI Daily Radar: daily news on AI and frontier technology{% endif %}</h1>
+
+<section class="wrap front" aria-label="{{ T.top_stories }}">
+  <div class="front-lead">
+    {% include card.html s=lead v="lead" h=2 %}
+  </div>
+  <aside class="front-rail">
+    {%- if brief %}
+    <section class="brief-box" aria-labelledby="brief-title">
+      <h2 class="rail-head" id="brief-title">{{ T.big_picture }}</h2>
+      <p class="brief-headline"><a href="{{ issue_url | relative_url }}">{{ brief.headline | escape }}</a></p>
+      <p class="brief-text">{{ brief.paragraphs[0] | escape | truncatewords: 60 }}</p>
+      <a class="text-link" href="{{ issue_url | relative_url }}">{{ T.read_briefing }}</a>
+    </section>
+    {%- endif %}
+    <section aria-labelledby="top-title">
+      <h2 class="rail-head" id="top-title">{{ T.top_stories }}</h2>
+      <ol class="ranked">
+        {%- assign n = 0 -%}
+        {%- for s in by_score -%}
+          {%- if s.url == lead.url -%}{%- continue -%}{%- endif -%}
+          {%- assign n = n | plus: 1 -%}
+          {%- if n > 5 -%}{%- break -%}{%- endif %}
+        <li>{% include card.html s=s v="compact" h=3 %}</li>
+        {%- endfor %}
+      </ol>
+    </section>
+  </aside>
+</section>
+
+<section class="wrap band" aria-label="{{ T.latest }}">
+  <div class="grid-4">
+    {%- assign n = 0 -%}
+    {%- for s in by_score offset: 6 -%}
+      {%- assign n = n | plus: 1 -%}{%- if n > 4 -%}{%- break -%}{%- endif %}
+    {% include card.html s=s v="card" h=3 %}
+    {%- endfor %}
+  </div>
+</section>
+
+{% include ad.html kind="inline" %}
+
+<div class="wrap sections-grid">
+  {%- for sec in site.data.sections -%}
+    {%- assign sec_today = today | where: "section", sec.id | sort: "rank" -%}
+    {%- assign sec_all = all | where: "section", sec.id -%}
+    {%- if sec_all.size == 0 -%}{%- continue -%}{%- endif -%}
+    {%- if sec_today.size > 0 -%}{%- assign pool = sec_today -%}{%- else -%}{%- assign pool = sec_all -%}{%- endif -%}
+    {%- if L == "zh" -%}{%- assign sname = sec.zh -%}{%- assign surl = "/zh/" | append: sec.slug | append: "/" -%}{%- else -%}{%- assign sname = sec.en -%}{%- assign surl = "/" | append: sec.slug | append: "/" -%}{%- endif %}
+  <section class="sec-block" style="--sec: {{ sec.color }}" aria-labelledby="sec-{{ sec.slug }}">
+    <header class="sec-head">
+      <h2 id="sec-{{ sec.slug }}"><a href="{{ surl | relative_url }}">{{ sname }}</a></h2>
+      <a class="sec-more" href="{{ surl | relative_url }}">{{ T.see_all }}<span class="visually-hidden"> {{ sname }}</span></a>
+    </header>
+    <div class="sec-body">
+      {%- for s in pool limit: 1 %}
+      {% include card.html s=s v="feature" h=3 %}
+      {%- endfor %}
+      <ul class="headline-list">
+        {%- for s in pool offset: 1 limit: 4 %}
+        <li>{% include card.html s=s v="compact" h=3 %}</li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </section>
+  {%- endfor %}
+</div>
+
+<section class="wrap recent-issues" aria-labelledby="issues-title">
+  <h2 class="rail-head" id="issues-title">{{ T.briefings }}</h2>
+  <ul class="issue-strip">
+    {%- assign issues = site.posts | where: "lang", L -%}
+    {%- for p in issues limit: 7 %}
+    <li><a href="{{ p.url | relative_url }}"><span class="issue-day">{% if L == "zh" %}{{ p.date | date: "%-m月%-d日" }}{% else %}{{ p.date | date: "%a, %b %-d" }}{% endif %}</span></a></li>
+    {%- endfor %}
+    <li><a href="{{ P | append: '/briefing/' | relative_url }}"><span class="issue-day">{{ T.archive }}</span></a></li>
+  </ul>
+</section>
+{%- else -%}
+<section class="wrap empty-state">
+  <h1>{% if L == "zh" %}AI 每日雷达{% else %}AI Daily Radar{% endif %}</h1>
+  <p>{{ T.first_issue }}</p>
+</section>
+{%- endif -%}

@@ -1,0 +1,26 @@
+{%- comment -%}
+Story card. include.s = story, include.v = lead | feature | card | compact | row, include.h = heading level (default 3)
+{%- endcomment -%}
+{%- assign s = include.s -%}
+{%- assign v = include.v | default: "card" -%}
+{%- assign h = include.h | default: 3 -%}
+{%- assign sec = site.data.sections | where: "id", s.section | first -%}
+{%- if s.lang == "zh" -%}{%- assign sec_name = sec.zh -%}{%- assign d = s.date | date: "%-m月%-d日" -%}{%- assign sec_url = "/zh/" | append: sec.slug | append: "/" -%}{%- else -%}{%- assign sec_name = sec.en -%}{%- assign d = s.date | date: "%b %-d" -%}{%- assign sec_url = "/" | append: sec.slug | append: "/" -%}{%- endif -%}
+<article class="story story-{{ v }}" style="--sec: {{ sec.color | default: '#d9480f' }}">
+  {%- if s.art and v != "compact" and v != "row-plain" %}
+  <a class="story-art" href="{{ s.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    {%- if v == "lead" %}
+    <img src="{{ s.art | relative_url }}" {% if s.thumb %}srcset="{{ s.thumb | relative_url }} 560w, {{ s.art | relative_url }} 1200w" sizes="(max-width: 900px) 100vw, 800px" {% endif %}alt="" width="1200" height="675" fetchpriority="high" decoding="async">
+    {%- else %}
+    <img src="{{ s.thumb | default: s.art | relative_url }}" alt="" width="560" height="315" loading="lazy" decoding="async">
+    {%- endif %}
+  </a>
+  {%- endif %}
+  <div class="story-text">
+    <h{{ h }} class="story-title"><a href="{{ s.url | relative_url }}">{{ s.title | escape }}</a></h{{ h }}>
+    {%- if v == "lead" or v == "feature" or v == "card" or v == "row" %}
+    <p class="story-dek">{% if v == "card" or v == "row" %}{% if s.lang == "zh" %}{{ s.dek | truncate: 64 | escape }}{% else %}{{ s.dek | truncatewords: 26 | escape }}{% endif %}{% else %}{{ s.dek | escape }}{% endif %}</p>
+    {%- endif %}
+    <p class="story-meta"><span class="sec-link">{{ sec_name }}</span><span class="dot" aria-hidden="true">·</span><time datetime="{{ s.date | date_to_xmlschema }}">{{ d }}</time>{% if s.score %}<span class="dot" aria-hidden="true">·</span><span class="score" title="{{ site.data.i18n[s.lang].score_help }}">{{ s.score | round: 1 }}</span>{% endif %}</p>
+  </div>
+</article>

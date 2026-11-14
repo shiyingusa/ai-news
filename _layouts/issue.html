@@ -1,0 +1,50 @@
+---
+layout: default
+---
+{%- include vars.html -%}
+{%- assign day_key = page.date | date: "%Y-%m-%d" -%}
+{%- assign stories = site.stories | where: "lang", L | where: "issue", day_key | sort: "rank" -%}
+{%- assign brief = site.data.briefs[day_key | append: "-" | append: L] -%}
+{%- assign same = site.posts | where: "lang", L -%}
+{%- for p in same -%}{%- if p.url == page.url -%}{%- assign i = forloop.index0 -%}{%- endif -%}{%- endfor -%}
+{%- assign newer_i = i | minus: 1 -%}{%- assign older_i = i | plus: 1 -%}
+<div class="wrap issue-page">
+  <header class="section-head">
+    <h1>{% if L == "zh" %}每日简报 · {{ page.date | date: "%Y年%-m月%-d日" }}{% else %}Daily Briefing: {{ page.date | date: "%A, %B %-d, %Y" }}{% endif %}</h1>
+    <p>{{ stories.size }} {{ T.stories_count }}</p>
+  </header>
+  {%- if brief %}
+  <section class="brief-full" aria-labelledby="bp">
+    <h2 id="bp" class="rail-head">{{ T.big_picture }}</h2>
+    <p class="brief-headline">{{ brief.headline | escape }}</p>
+    {%- for para in brief.paragraphs %}
+    <p>{{ para | escape }}</p>
+    {%- endfor %}
+    {%- if brief.takeaways.size > 0 %}
+    <h3>{{ T.takeaways }}</h3>
+    <ul>{%- for t in brief.takeaways %}<li>{{ t | escape }}</li>{%- endfor %}</ul>
+    {%- endif %}
+    <p class="byline-note">{{ T.byline_note }}</p>
+  </section>
+  {%- endif %}
+  {% include ad.html kind="inline" %}
+  {%- for sec in site.data.sections -%}
+    {%- assign list = stories | where: "section", sec.id -%}
+    {%- if list.size == 0 -%}{%- continue -%}{%- endif %}
+  <section class="issue-sec" style="--sec: {{ sec.color }}">
+    <h2 class="rail-head">{% if L == "zh" %}{{ sec.zh }}{% else %}{{ sec.en }}{% endif %}</h2>
+    <ul class="river">
+      {%- for s in list %}
+      <li>{% include card.html s=s v="row" h=3 %}</li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endfor %}
+  {%- if stories.size == 0 %}
+  <div class="prose">{{ content }}</div>
+  {%- endif %}
+  <nav class="pager" aria-label="{{ T.briefings }}">
+    {%- if same[older_i] %}<a href="{{ same[older_i].url | relative_url }}">← {{ T.previous }}</a>{% endif %}
+    {%- if newer_i >= 0 and same[newer_i] %}<a class="pager-next" href="{{ same[newer_i].url | relative_url }}">{{ T.next }} →</a>{% endif %}
+  </nav>
+</div>

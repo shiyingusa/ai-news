@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{%- include vars.html -%}
+{%- assign stories = site.stories | where: "lang", L | where_exp: "s", "s.topics contains page.topic" | sort: "order" | reverse -%}
+{%- comment -%} Thin topic pages are kept out of search until they have at least three stories. {%- endcomment -%}
+<div class="wrap section-page">
+  <header class="section-head">
+    <p class="section-crumb"><a href="{{ P | append: '/topics/' | relative_url }}">{{ T.topics }}</a></p>
+    <h1>{{ page.title | escape }}</h1>
+    <p>{{ T.stories_on }} {{ page.title | escape }} · {{ stories.size }} {{ T.stories_count }}</p>
+  </header>
+  <ul class="river">
+    {%- for s in stories limit: 80 %}
+    <li>{% include card.html s=s v="row" h=2 %}</li>
+    {%- endfor %}
+  </ul>
+</div>

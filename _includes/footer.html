@@ -1,17 +1,34 @@
 <footer class="site-footer">
-  <div class="wrap footer-row">
-    <p class="footer-line">
-      <span class="l-en">AI Daily Radar is an independent daily briefing. Stories are selected and summarised with the help of AI and link to their original sources.</span>
-      <span class="l-zh">AI 每日雷达是一份独立的每日简报。新闻在 AI 辅助下筛选和摘要，每条都附原始来源链接。</span>
-    </p>
-    <nav class="footer-nav" aria-label="Footer">
-      <a href="{{ '/about/' | relative_url }}"><span class="l-en">About</span><span class="l-zh">关于</span></a>
-      <a href="{{ '/archive/' | relative_url }}"><span class="l-en">Archive</span><span class="l-zh">往期</span></a>
-      <a href="{{ '/privacy/' | relative_url }}"><span class="l-en">Privacy</span><span class="l-zh">隐私政策</span></a>
-      <a href="{{ '/feed-en.xml' | relative_url }}">RSS (EN)</a>
-      <a href="{{ '/feed-zh.xml' | relative_url }}">RSS (中文)</a>
-      <a href="mailto:{{ site.contact_email }}"><span class="l-en">Contact</span><span class="l-zh">联系</span></a>
+  <div class="wrap footer-grid">
+    <div class="footer-about">
+      <a class="brand brand-footer" href="{{ P | append: '/' | relative_url }}">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="13" fill="none" stroke="currentColor" stroke-width="2.4"/><circle cx="16" cy="16" r="6.5" fill="none" stroke="currentColor" stroke-width="2.4" opacity=".55"/><circle cx="24.2" cy="8.6" r="3.6" class="brand-blip"/></svg>
+        <span class="brand-name">{% if L == "zh" %}AI 每日雷达{% else %}AI Daily Radar{% endif %}</span>
+      </a>
+      <p>{{ T.footer_line }}</p>
+    </div>
+    <nav aria-label="{{ T.sections }}">
+      <h2 class="footer-head">{{ T.sections }}</h2>
+      <ul>
+        {%- for s in site.data.sections %}
+        <li><a href="{{ P | append: '/' | append: s.slug | append: '/' | relative_url }}">{% if L == "zh" %}{{ s.zh }}{% else %}{{ s.en }}{% endif %}</a></li>
+        {%- endfor %}
+      </ul>
     </nav>
-    <p class="footer-small">© {{ site.time | date: "%Y" }} AI Daily Radar · <span class="l-en">Built on</span><span class="l-zh">基于开源项目</span> <a href="https://github.com/Thysrael/Horizon">Horizon</a> (MIT)</p>
+    <nav aria-label="AI Daily Radar">
+      <h2 class="footer-head">AI Daily Radar</h2>
+      <ul>
+        <li><a href="{{ P | append: '/briefing/' | relative_url }}">{{ T.briefings }}</a></li>
+        <li><a href="{{ P | append: '/topics/' | relative_url }}">{{ T.topics }}</a></li>
+        <li><a href="{{ P | append: '/about/' | relative_url }}">{{ T.about }}</a></li>
+        <li><a href="{{ P | append: '/privacy/' | relative_url }}">{{ T.privacy }}</a></li>
+        <li><a href="mailto:{{ site.contact_email }}">{{ T.contact }}</a></li>
+        <li><a href="{{ P | append: '/feed.xml' | relative_url }}">RSS</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="wrap footer-base">
+    <p>© {{ site.time | date: "%Y" }} AI Daily Radar · {% if L == "zh" %}基于开源项目{% else %}Built on{% endif %} <a href="https://github.com/Thysrael/Horizon">Horizon</a> (MIT)</p>
+    <p><a href="{{ alt_url | relative_url }}" lang="{% if L == 'zh' %}en{% else %}zh-Hans{% endif %}">{{ T.switch_label }}</a></p>
   </div>
 </footer>
