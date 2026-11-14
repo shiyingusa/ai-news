@@ -1,0 +1,11 @@
+{%- comment -%} Sets: L (lang), T (strings), P (url prefix), alt_url {%- endcomment -%}
+{%- assign L = page.lang | default: "en" -%}
+{%- assign T = site.data.i18n[L] -%}
+{%- if L == "zh" -%}{%- assign P = "/zh" -%}{%- else -%}{%- assign P = "" -%}{%- endif -%}
+{%- if L == "zh" -%}
+  {%- assign alt_url = page.url | remove_first: "/zh" -%}
+  {%- if alt_url == "" -%}{%- assign alt_url = "/" -%}{%- endif -%}
+{%- else -%}
+  {%- assign alt_url = "/zh" | append: page.url -%}
+{%- endif -%}
+{%- if page.alt_url -%}{%- assign alt_url = page.alt_url -%}{%- endif -%}

@@ -1,0 +1,36 @@
+---
+layout: default
+---
+{%- include vars.html -%}
+{%- assign sec = site.data.sections | where: "id", page.section_page | first -%}
+{%- if L == "zh" -%}{%- assign sname = sec.zh -%}{%- assign sdesc = sec.desc_zh -%}{%- else -%}{%- assign sname = sec.en -%}{%- assign sdesc = sec.desc_en -%}{%- endif -%}
+{%- assign stories = site.stories | where: "lang", L | where: "section", sec.id | sort: "order" | reverse -%}
+<div class="wrap section-page" style="--sec: {{ sec.color }}">
+  <header class="section-head">
+    <h1>{{ sname }}</h1>
+    <p>{{ sdesc }}</p>
+  </header>
+  {%- if stories.size > 0 %}
+  <div class="section-top">
+    {%- for s in stories limit: 1 %}
+    <div class="section-lead">{% include card.html s=s v="lead" h=2 %}</div>
+    {%- endfor %}
+    <ul class="section-side">
+      {%- for s in stories offset: 1 limit: 3 %}
+      <li>{% include card.html s=s v="row" h=2 %}</li>
+      {%- endfor %}
+    </ul>
+  </div>
+  {% include ad.html kind="inline" %}
+  <section aria-labelledby="latest-title">
+    <h2 class="rail-head" id="latest-title">{{ T.latest }}</h2>
+    <ul class="river">
+      {%- for s in stories offset: 4 limit: 60 %}
+      <li>{% include card.html s=s v="row" h=3 %}</li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- else %}
+  <p class="empty-state">{{ T.no_stories }}</p>
+  {%- endif %}
+</div>

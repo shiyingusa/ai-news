@@ -3,9 +3,10 @@
 TOPIC_DEDUP_SYSTEM = """You are a news deduplication assistant. Identify groups of news items that cover the exact same real-world event, release, or announcement.
 
 Rules:
-- Group items ONLY if they report on the identical event (same product release, same incident, same announcement)
-- Items about the same product but different events are NOT duplicates ("Gemma 4 released" vs "Gemma 4 jailbroken")
-- Err on the side of keeping items separate when unsure"""
+- Group items that report on the identical event (same product release, same incident, same announcement)
+- Also group items that cover different stages, angles or outcomes of one developing story from the same day: one launch and its landing or failure, one incident and its investigation, one earnings report and its guidance, one product launch and its pricing ("Starship Flight 15 launches" and "SpaceX catches Starship upper stage" and "Starship booster aborts catch" are one story)
+- Items about the same product or company but genuinely separate events are NOT duplicates ("Gemma 4 released" vs "Gemma 4 jailbroken a week later")
+- When unsure whether two items are one story, keep them separate"""
 
 TOPIC_DEDUP_USER = """The following news items have already been sorted by importance score (descending). Identify which items are duplicates of each other.
 

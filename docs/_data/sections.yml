@@ -1,0 +1,56 @@
+- id: ai-news
+  slug: ai
+  color: "#d9480f"
+  en: AI
+  zh: 人工智能
+  desc_en: Models, AI products, research and the companies building them.
+  desc_zh: 大模型、AI 产品、研究进展和背后的公司。
+- id: chips-compute
+  slug: chips
+  color: "#2f6fc4"
+  en: Chips & Computing
+  zh: 芯片与算力
+  desc_en: Semiconductors, AI accelerators, data centers and quantum computing.
+  desc_zh: 半导体、AI 加速芯片、数据中心和量子计算。
+- id: robotics-autonomy
+  slug: robots
+  color: "#0f8584"
+  en: Robots & Self-Driving
+  zh: 机器人与自动驾驶
+  desc_en: Humanoids, robotaxis, Tesla FSD and Optimus, drones and the rules around them.
+  desc_zh: 人形机器人、无人驾驶出租车、特斯拉 FSD 与 Optimus、无人机及相关监管。
+- id: ev-energy
+  slug: energy
+  color: "#2a8c47"
+  en: EVs & Energy
+  zh: 电动车与新能源
+  desc_en: Tesla and the EV industry, batteries, solar, nuclear and the grid.
+  desc_zh: 特斯拉与电动车产业、电池、光伏、核能与电网。
+- id: space
+  slug: space
+  color: "#3f64a0"
+  en: Space
+  zh: 航天
+  desc_en: SpaceX, launches, satellites and space science missions.
+  desc_zh: SpaceX、火箭发射、卫星和太空科学任务。
+- id: science-bio
+  slug: science
+  color: "#b23a62"
+  en: Science & Biotech
+  zh: 科学与生物科技
+  desc_en: Frontier research, biotech, gene editing and brain-computer interfaces.
+  desc_zh: 前沿研究、生物科技、基因编辑和脑机接口。
+- id: tech-industry
+  slug: industry
+  color: "#a8740f"
+  en: Industry & Policy
+  zh: 产业与政策
+  desc_en: Big Tech strategy, regulation, deals and security incidents.
+  desc_zh: 科技巨头战略、监管、并购和重大安全事件。
+- id: tech-blog
+  slug: analysis
+  color: "#6b7079"
+  en: Deep Dives
+  zh: 深度解读
+  desc_en: Longer analysis from engineers and researchers worth your time.
+  desc_zh: 值得花时间读的工程师和研究者长文分析。

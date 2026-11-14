@@ -337,7 +337,10 @@ class HorizonOrchestrator:
 
             # 7. Generate and save daily summaries for each configured language
             today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-            for lang in self.config.ai.languages:
+            story_slugs: dict[str, str] = {}
+            story_titles: dict[str, str] = {}
+            site_languages = sorted(self.config.ai.languages, key=lambda code: code != "en")
+            for lang in site_languages:
                 language_items = [
                     item for item in important_items
                     if item.processing and lang in item.processing.artifacts
@@ -369,7 +372,12 @@ class HorizonOrchestrator:
                     # Add Jekyll front matter
                     front_matter = (
                         "---\n"
-                        "layout: post\n"
+                        "layout: issue\n"
+                        + (
+                            f"permalink: /briefing/{today}/\n"
+                            if lang == "en"
+                            else f"permalink: /zh/briefing/{today}/\n"
+                        )
                         + (
                             f"title: \"AI News Briefing: {_post_date_en(today)}\"\n"
                             if lang == "en"
@@ -400,6 +408,49 @@ class HorizonOrchestrator:
                         f"[yellow]{self.icons['warning']} Failed to copy "
                         f"{lang.upper()} summary to docs/: {e}[/yellow]\n"
                     )
+
+                # One page per story for the website (docs/_stories)
+                if language_items:
+                    try:
+                        from pathlib import Path
+
+                        from .services.site_export import export_stories
+
+                        story_paths = export_stories(
+                            summarizer,
+                            language_items,
+                            today,
+                            lang,
+                            Path("docs/_stories"),
+                            story_slugs,
+                            images_root=Path("docs/assets/stories"),
+                            topics_root=Path("docs/topics"),
+                            slug_titles=story_titles,
+                        )
+                        self.console.print(
+                            f"{self.icons['document']} Wrote {len(story_paths)} "
+                            f"{lang.upper()} story pages to docs/_stories\n"
+                        )
+                        from .services.daily_brief import write_daily_brief
+
+                        ranked = sorted(
+                            language_items,
+                            key=lambda it: -(it.processing.analysis.score or 0)
+                            if it.processing and it.processing.analysis
+                            else 0,
+                        )
+                        brief_path = await write_daily_brief(
+                            self.ai_client, ranked, today, lang, Path("docs/_data/briefs")
+                        )
+                        if brief_path:
+                            self.console.print(
+                                f"{self.icons['document']} Wrote {lang.upper()} daily brief: {brief_path}\n"
+                            )
+                    except Exception as e:
+                        self.console.print(
+                            f"[yellow]{self.icons['warning']} Failed to write "
+                            f"{lang.upper()} story pages: {e}[/yellow]\n"
+                        )
 
                 # Send email if configured
                 if self.email_manager and self.config.email and self.config.email.enabled:

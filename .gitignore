@@ -63,3 +63,10 @@ logs/*.log
 todo.txt
 .ruff_cache
 .pytest_cache
+
+# Generated daily by the pipeline; published on gh-pages only
+docs/_stories/
+docs/assets/stories/
+docs/_data/briefs/
+docs/topics/*.md
+docs/zh/topics/*.md

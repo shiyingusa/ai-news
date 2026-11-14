@@ -1,0 +1,22 @@
+---
+layout: null
+permalink: /news-sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+{%- assign cutoff = site.time | date: "%s" | minus: 172800 -%}
+{%- assign items = site.stories | sort: "order" | reverse -%}
+{%- for s in items -%}
+{%- assign t = s.date | date: "%s" | plus: 0 -%}
+{%- if t < cutoff -%}{%- break -%}{%- endif %}
+  <url>
+    <loc>{{ s.url | absolute_url }}</loc>
+    <news:news>
+      <news:publication><news:name>AI Daily Radar</news:name><news:language>{% if s.lang == "zh" %}zh-cn{% else %}en{% endif %}</news:language></news:publication>
+      <news:publication_date>{{ s.date | date_to_xmlschema }}</news:publication_date>
+      <news:title>{{ s.title | xml_escape }}</news:title>
+    </news:news>
+  </url>
+{%- endfor %}
+</urlset>

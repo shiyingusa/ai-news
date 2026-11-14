@@ -1,11 +1,12 @@
+{%- include vars.html -%}
 <!DOCTYPE html>
-<html lang="{% if page.lang == 'zh' %}zh-Hans{% else %}en{% endif %}">
+<html lang="{% if L == 'zh' %}zh-Hans{% else %}en{% endif %}">
 <head>
 {% include head.html %}
 </head>
-<body class="{{ page.body_class | default: 'page' }}">
+<body class="{{ page.body_class | default: page.layout }}">
 {% include header.html %}
-<main id="main" class="main-content">
+<main id="main">
 {{ content }}
 </main>
 {% include footer.html %}

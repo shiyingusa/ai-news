@@ -1,0 +1,24 @@
+---
+layout: null
+permalink: /feed.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>AI Daily Radar</title>
+  <link href="{{ '/feed.xml' | absolute_url }}" rel="self"/>
+  <link href="{{ '/' | absolute_url }}"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ '/' | absolute_url }}</id>
+  {%- assign items = site.stories | where: "lang", "en" | sort: "order" | reverse %}
+  {%- for s in items limit: 50 %}
+  <entry>
+    <title>{{ s.title | xml_escape }}</title>
+    <link href="{{ s.url | absolute_url }}"/>
+    <id>{{ s.url | absolute_url }}</id>
+    <updated>{{ s.date | date_to_xmlschema }}</updated>
+    <summary>{{ s.dek | xml_escape }}</summary>
+    <content type="html">{{ s.content | xml_escape }}</content>
+  </entry>
+  {%- endfor %}
+</feed>

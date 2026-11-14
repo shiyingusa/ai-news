@@ -1,18 +1,29 @@
-<a class="skip-link" href="#main"><span class="l-en">Skip to content</span><span class="l-zh">跳到正文</span></a>
-<header class="site-header">
-  <div class="wrap header-row">
-    <a class="brand" href="{{ '/' | relative_url }}" aria-label="AI Daily Radar home">
-      <span class="brand-mark" aria-hidden="true"></span>
-      <span class="brand-name">AI Daily Radar</span>
-    </a>
-    <nav class="site-nav" aria-label="Main">
-      <a href="{{ '/' | relative_url }}"><span class="l-en">Today</span><span class="l-zh">今日</span></a>
-      <a href="{{ '/archive/' | relative_url }}"><span class="l-en">Archive</span><span class="l-zh">往期</span></a>
-      <a href="{{ '/about/' | relative_url }}"><span class="l-en">About</span><span class="l-zh">关于</span></a>
-      <span class="lang-toggle" role="group" aria-label="Language / 语言">
-        <button type="button" data-set-lang="en" lang="en">EN</button>
-        <button type="button" data-set-lang="zh" lang="zh-Hans">中文</button>
-      </span>
-    </nav>
+<a class="skip-link" href="#main">{{ T.skip }}</a>
+<div class="topbar">
+  <div class="wrap topbar-row">
+    <span class="topbar-date" data-today data-lang="{{ L }}">{% if L == "zh" %}{{ site.time | date: "%Y年%-m月%-d日" }}{% else %}{{ site.time | date: "%A, %B %-d, %Y" }}{% endif %}</span>
+    <span class="topbar-links">
+      <a href="{{ P | append: '/briefing/' | relative_url }}">{{ T.briefings }}</a>
+      <a class="lang-link" href="{{ alt_url | relative_url }}" hreflang="{% if L == 'zh' %}en{% else %}zh-Hans{% endif %}" lang="{% if L == 'zh' %}en{% else %}zh-Hans{% endif %}" aria-label="{{ T.switch_label }}">{{ T.switch_lang }}</a>
+    </span>
   </div>
+</div>
+<header class="masthead">
+  <div class="wrap masthead-row">
+    <a class="brand" href="{{ P | append: '/' | relative_url }}" aria-label="{% if L == 'zh' %}AI 每日雷达 首页{% else %}AI Daily Radar home{% endif %}">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="13" fill="none" stroke="currentColor" stroke-width="2.4"/><circle cx="16" cy="16" r="6.5" fill="none" stroke="currentColor" stroke-width="2.4" opacity=".55"/><circle cx="24.2" cy="8.6" r="3.6" class="brand-blip"/></svg>
+      <span class="brand-name">{% if L == "zh" %}AI 每日雷达{% else %}AI Daily Radar{% endif %}</span>
+    </a>
+    <p class="brand-tag">{% if L == "zh" %}AI 与前沿科技，每天早上讲清楚{% else %}AI and the frontier tech around it, explained every morning{% endif %}</p>
+  </div>
+  <nav class="section-nav" aria-label="{{ T.sections }}">
+    <div class="wrap">
+      <ul class="section-nav-list">
+        <li><a href="{{ P | append: '/' | relative_url }}"{% if page.layout == "home" %} aria-current="page"{% endif %}>{{ T.today }}</a></li>
+        {%- for s in site.data.sections %}
+        <li><a href="{{ P | append: '/' | append: s.slug | append: '/' | relative_url }}" style="--sec: {{ s.color }}"{% if page.section_page == s.id or page.section == s.id %} aria-current="{% if page.section_page %}page{% else %}true{% endif %}"{% endif %}>{% if L == "zh" %}{{ s.zh }}{% else %}{{ s.en }}{% endif %}</a></li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </nav>
 </header>

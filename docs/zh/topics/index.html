@@ -1,0 +1,22 @@
+---
+layout: default
+lang: zh
+title: "话题"
+description: "AI 每日雷达报道最多的公司、技术和人物。"
+permalink: /zh/topics/
+---
+{%- include vars.html -%}
+{%- assign stories = site.stories | where: "lang", L -%}
+{%- assign tags = "" | split: "" -%}
+{%- for s in stories -%}{%- for t in s.topics -%}{%- assign tags = tags | push: t -%}{%- endfor -%}{%- endfor -%}
+{%- assign grouped = tags | group_by_exp: "t", "t" | sort: "size" | reverse -%}
+<div class="wrap section-page">
+  <header class="section-head"><h1>{{ T.topics }}</h1><p>我们报道最多的公司、技术和人物。</p></header>
+  <ul class="topic-cloud">
+    {%- for g in grouped limit: 120 %}
+    {%- if g.size < 2 -%}{%- continue -%}{%- endif -%}
+    {%- assign tp = site.pages | where: "topic", g.name | where: "lang", L | first %}
+    <li><a href="{{ P | append: '/topics/' | append: g.name | append: '/' | relative_url }}">{{ tp.title | default: g.name | escape }} <span>{{ g.size }}</span></a></li>
+    {%- endfor %}
+  </ul>
+</div>

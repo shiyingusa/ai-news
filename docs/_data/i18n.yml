@@ -1,0 +1,96 @@
+en:
+  home: Home
+  today: Today
+  briefing: Daily Briefing
+  briefings: Briefings
+  archive: Archive
+  about: About
+  privacy: Privacy
+  contact: Contact
+  topics: Topics
+  sections: Sections
+  top_stories: Top stories
+  latest: Latest
+  big_picture: The Big Picture
+  big_picture_note: Our daily synthesis of what connects today's stories.
+  read_briefing: Read the full briefing
+  more_in: More in
+  see_all: See all
+  todays_briefing: Today's briefing
+  in_this_briefing: In this briefing
+  original_report: Original reporting
+  read_at: Read the original at
+  discussion: Join the discussion
+  radar_score: Radar score
+  score_help: How important our model rates this story, from 0 to 10.
+  related: More in
+  also_today: Also in today's briefing
+  published: Published
+  by: By
+  byline: AI Daily Radar
+  byline_note: Written with AI assistance from the sources linked below.
+  share: Share
+  copy_link: Copy link
+  topic: Topic
+  stories_on: Stories about
+  no_stories: No stories yet.
+  previous: Previous
+  next: Next
+  switch_lang: 中文
+  switch_label: 阅读中文版
+  skip: Skip to content
+  menu: Sections
+  footer_line: AI Daily Radar is an independent daily briefing on AI and frontier technology. Stories are selected and summarized with the help of AI, and every story links to its original source.
+  takeaways: Key takeaways
+  editions: Editions
+  first_issue: The first briefing is on its way. A new issue is published every morning, US Eastern Time.
+  stories_count: stories
+  key_points: In brief
+zh:
+  home: 首页
+  today: 今日
+  briefing: 每日简报
+  briefings: 往期简报
+  archive: 往期
+  about: 关于
+  privacy: 隐私政策
+  contact: 联系
+  topics: 话题
+  sections: 板块
+  top_stories: 今日要闻
+  latest: 最新
+  big_picture: 今日看点
+  big_picture_note: 把今天的新闻串起来看，我们的每日综述。
+  read_briefing: 阅读完整简报
+  more_in: 更多
+  see_all: 查看全部
+  todays_briefing: 今日简报
+  in_this_briefing: 本期内容
+  original_report: 原始报道
+  read_at: 阅读原文：
+  discussion: 参与讨论
+  radar_score: 雷达评分
+  score_help: 模型对这条新闻重要性的评分，满分 10 分。
+  related: 更多
+  also_today: 今日简报的其他新闻
+  published: 发布于
+  by: 作者
+  byline: AI 每日雷达
+  byline_note: 依据文末链接的信息源，在 AI 辅助下撰写。
+  share: 分享
+  copy_link: 复制链接
+  topic: 话题
+  stories_on: 相关报道：
+  no_stories: 暂无报道。
+  previous: 上一期
+  next: 下一期
+  switch_lang: EN
+  switch_label: Read in English
+  skip: 跳到正文
+  menu: 板块
+  footer_line: AI 每日雷达是一份关于 AI 与前沿科技的独立每日简报。新闻在 AI 辅助下筛选和撰写，每条都附原始来源链接。
+  takeaways: 要点
+  editions: 语言版本
+  first_issue: 第一期简报即将发布。每天早上（美东时间）更新。
+  stories_count: 条新闻
+  key_points: 要点

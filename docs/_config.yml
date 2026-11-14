@@ -1,18 +1,23 @@
 title: AI Daily Radar
+tagline: AI and the frontier tech around it
 description: AI and the frontier tech around it (chips, robots, EVs and energy, space, science), picked and explained every morning in English and Chinese.
 url: "https://aidailyradar.com"
 baseurl: ""
 lang: en
+locale: en_US
+logo: /assets/logo.png
+image: /assets/share.png
+social:
+  name: AI Daily Radar
 
 # ---------------------------------------------------------------------------
 # Google AdSense
-# Paste your publisher ID (it looks like ca-pub-1234567890123456) between the
-# quotes. That one line turns on the AdSense script on every page and fills
-# in /ads.txt automatically. Leave it empty until AdSense gives you the ID.
+# Publisher ID (ca-pub-...). Turns on the AdSense script on every page and
+# fills in /ads.txt automatically.
 adsense_client: "ca-pub-2802182975734564"
-# Optional: an ad unit ID ("data-ad-slot") for the fixed slot under each issue.
-# Leave empty to rely on Auto ads only.
+# Optional ad unit IDs for the fixed slots. Leave empty to rely on Auto ads.
 adsense_slot: ""
+adsense_slot_rail: ""
 # ---------------------------------------------------------------------------
 
 contact_email: "hello@aidailyradar.com"
@@ -22,30 +27,39 @@ kramdown:
   input: GFM
   auto_ids: true
 future: true
-permalink: /:year/:month/:day/:title/
 timezone: America/New_York
+
+collections:
+  stories:
+    output: true
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 feed:
-  path: feed.xml
+  path: feed-all.xml
 
 defaults:
   - scope:
       path: ""
-      type: "posts"
     values:
-      layout: "post"
+      layout: "page"
       image: /assets/share.png
-      description: "Today's most important stories in AI, chips, robots, EVs and energy, space and science, each with a short summary, background and a link to the source."
   - scope:
       path: ""
+      type: "stories"
     values:
-      layout: "default"
-      image: /assets/share.png
+      layout: "story"
+      seo:
+        type: WebPage
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "issue"
 
 exclude:
   - ".github"
@@ -55,5 +69,3 @@ exclude:
   - "Gemfile"
   - "Gemfile.lock"
   - "vendor"
-
-logo: /assets/favicon.svg
