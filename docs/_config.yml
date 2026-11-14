@@ -9,7 +9,7 @@ lang: en
 # Paste your publisher ID (it looks like ca-pub-1234567890123456) between the
 # quotes. That one line turns on the AdSense script on every page and fills
 # in /ads.txt automatically. Leave it empty until AdSense gives you the ID.
-adsense_client: ""
+adsense_client: "ca-pub-2802182975734564"
 # Optional: an ad unit ID ("data-ad-slot") for the fixed slot under each issue.
 # Leave empty to rely on Auto ads only.
 adsense_slot: ""
