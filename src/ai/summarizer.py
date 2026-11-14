@@ -55,7 +55,7 @@ LABELS = {
         "discussion": "Discussion",
         "references": "References",
         "tags": "Tags",
-        "selected_items": "We screened {total} AI stories from the past day and kept the {selected} worth your time.",
+        "selected_items": "We screened {total} stories from the past day and kept the {selected} worth your time.",
         "empty_analyzed": "Analyzed {total} items, but none met the importance threshold.",
         "empty_body": (
             "No story cleared our bar today. Check back tomorrow, or browse the archive.\n"
@@ -68,7 +68,7 @@ LABELS = {
         "discussion": "社区讨论",
         "references": "参考链接",
         "tags": "标签",
-        "selected_items": "过去一天共筛查 {total} 条 AI 资讯，留下最值得读的 {selected} 条。",
+        "selected_items": "过去一天共筛查 {total} 条科技资讯，留下最值得读的 {selected} 条。",
         "empty_analyzed": "已分析 {total} 条内容，但没有达到重要性阈值的条目。",
         "empty_body": (
             "今天没有达到收录标准的新闻，明天再来看看，或者翻翻往期存档。\n"

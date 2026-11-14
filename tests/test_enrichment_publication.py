@@ -80,7 +80,7 @@ def test_partial_enrichment_excludes_failures_from_digest_and_delivery(pipeline,
     summary = summary_path.read_text(encoding="utf-8")
     post_path, = (tmp_path / "docs" / "_posts").glob("*.md")
     for text in (summary, post_path.read_text(encoding="utf-8")):
-        assert "过去一天共筛查 2 条 AI 资讯，留下最值得读的 1 条" in text
+        assert "过去一天共筛查 2 条科技资讯，留下最值得读的 1 条" in text
         assert "中文标题" in text
         assert "中文摘要。" in text
         assert "Original English title" not in text

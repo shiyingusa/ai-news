@@ -151,7 +151,7 @@ def test_generate_summary_zh_uses_localized_selection_header_and_numeric_date():
         )
     )
 
-    assert "> 过去一天共筛查 10 条 AI 资讯，留下最值得读的 1 条。" in result
+    assert "> 过去一天共筛查 10 条科技资讯，留下最值得读的 1 条。" in result
     assert "tester · 4月25日 08:00" in result
     assert "From 10 items" not in result
     assert "Apr 25, 08:00" not in result
