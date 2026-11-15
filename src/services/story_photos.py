@@ -22,7 +22,7 @@ from pathlib import Path
 from typing import Iterable, Optional, Set
 
 import httpx
-from PIL import Image, ImageOps
+from PIL import Image, ImageOps, ImageStat
 
 logger = logging.getLogger(__name__)
 
@@ -206,7 +206,7 @@ def search_commons(client: httpx.Client, query: str, used: Set[str]) -> Optional
             or url in used
             or BAD_TITLE.search(title.replace("_", " "))
             or not _relevant(title, query)
-            or info.get("mime") not in {"image/jpeg", "image/png", "image/webp"}
+            or info.get("mime") not in {"image/jpeg", "image/webp"}
             or not _landscape(info.get("width", 0), info.get("height", 0))
             or not ALLOWED_LICENCES.match(licence)
             or "nc" in licence.lower().split("-")
@@ -254,6 +254,16 @@ def find_photo(queries: Iterable[str], used: Set[str], client: Optional[httpx.Cl
             client.close()
 
 
+def looks_like_photo(image: Image.Image) -> bool:
+    """Reject screenshots and near-blank frames: mostly white, mostly black or flat."""
+    grey = image.convert("L")
+    hist = grey.histogram()
+    total = sum(hist) or 1
+    white = sum(hist[235:]) / total
+    black = sum(hist[:20]) / total
+    return ImageStat.Stat(grey).stddev[0] >= 18 and white < 0.6 and black < 0.7
+
+
 def save_photo(photo: Photo, out_dir: Path, slug: str, client: Optional[httpx.Client] = None) -> bool:
     """Download, crop to 16:9 and save full-size and thumbnail JPEGs."""
     own = client is None
@@ -268,6 +278,9 @@ def save_photo(photo: Photo, out_dir: Path, slug: str, client: Optional[httpx.Cl
             client.close()
     image = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert("RGB")
     image = ImageOps.fit(image, (W, H), Image.LANCZOS, centering=(0.5, 0.45))
+    if not looks_like_photo(image):
+        logger.info("Rejected near-blank image %s", photo.url)
+        return False
     out_dir.mkdir(parents=True, exist_ok=True)
     image.save(out_dir / f"{slug}.jpg", "JPEG", quality=84, optimize=True, progressive=True)
     image.resize((560, 315), Image.LANCZOS).save(out_dir / f"{slug}-640.jpg", "JPEG", quality=80, optimize=True, progressive=True)
