@@ -1,0 +1,10 @@
+- date: "2026-11-15"
+  lang: en
+  title: "GGML, the tensor library under llama.cpp, reaches v1.0.0"
+  url: /2026/11/14/ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41/
+  note: "The summary said no release notes were available, contradicting the background section, and credited a memory-offloading feature to the release based only on user comments. Both fixed."
+- date: "2026-11-15"
+  lang: zh
+  title: "GGML 张量库发布 v1.0.0，llama.cpp 本地推理底座迎来首个正式版本"
+  url: /zh/2026/11/14/ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41/
+  note: "摘要称没有发布说明，与背景部分矛盾；已按公开的发布说明改写。"

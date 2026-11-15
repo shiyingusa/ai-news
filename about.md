@@ -30,11 +30,11 @@ Seven sections, in this order: **AI**, **Chips & Computing**, **Robots & Self-Dr
 Around 400 to 500 new items a day from more than 60 sources:
 
 - **AI labs:** OpenAI, Google DeepMind, Google Research, Microsoft Research, Hugging Face, Berkeley AI Research, NVIDIA.
-- **Technology press:** Techmeme, Ars Technica, MIT Technology Review, IEEE Spectrum, Wired, The Verge, TechCrunch, Rest of World, The Decoder.
+- **Technology press:** Ars Technica, MIT Technology Review, IEEE Spectrum, Wired, The Verge, TechCrunch, Rest of World, The Decoder.
 - **Chips and computing:** SemiAnalysis, Tom's Hardware, ServeTheHome, EE Times, The Quantum Insider.
 - **Robots, EVs and energy:** The Robot Report, Electrek, Teslarati, Not a Tesla App, InsideEVs, Electrive, Canary Media, pv magazine, World Nuclear News.
 - **Space and science:** SpaceNews, NASASpaceflight, Space.com, Quanta Magazine, STAT, MIT News.
-- **Communities and search:** Hacker News; Reddit communities on machine learning, hardware, robotics, Tesla, EVs, energy and space; GitHub releases of major AI projects; Google News searches for AI, chips, robots, Tesla and energy.
+- **Aggregators and communities:** Techmeme and Hacker News, used to discover stories (we credit and link the original publisher, not the aggregator); Reddit communities on machine learning, hardware, robotics, Tesla, EVs, energy and space; GitHub releases of major AI projects.
 - **Chinese tech media:** QbitAI (量子位), AI Era (新智元) and GeekPark (极客公园), so readers also see what is moving in China.
 
 ## How stories are picked
@@ -43,14 +43,14 @@ A large language model sorts each item into a section and scores it from 0 to 10
 
 ## How summaries are written
 
-For each selected story, a language model writes a short summary, background and, where the evidence supports it, the practical impact. It is instructed to separate announced plans from shipped products, attribute opinions and avoid hype. Every story links to its original source, and the score shown beside each headline is the model's rating.
+For each selected story, a language model writes a short summary, background and, where the evidence supports it, why it matters and what to watch next. Each story also gets a status label (Rumored, Planned, Announced, Demonstrated, Released or Available) and a "Verified and unconfirmed" box that separates what the source establishes from what rests on a company's word. Every story names and links its original publisher.
 
-Because the summaries are machine-written, they can contain mistakes. Always check the original source before relying on a detail.
+Stories are written with AI assistance and are not reviewed by a human editor before publication, so they can contain mistakes. Always check the original source before relying on a detail. Our full rules are in the [editorial standards]({{ '/standards/' | relative_url }}).
 
 ## Corrections and contact
 
-Spotted an error, or want to suggest a source? Email [{{ site.contact_email }}](mailto:{{ site.contact_email }}). We fix confirmed errors and adjust the rules that caused them.
+Spotted an error, or want to suggest a source? Email [{{ site.contact_email }}](mailto:{{ site.contact_email }}). We fix confirmed errors, note the change on the story and in our [corrections log]({{ '/corrections/' | relative_url }}), and adjust the rules that caused them.
 
 ## Advertising
 
-The site is funded by advertising served by Google AdSense. Advertisers have no say in which stories are selected or how they are described. See the [privacy policy]({{ '/privacy/' | relative_url }}) for how ads use cookies.
+The site may display advertising, for example through Google AdSense. Advertisers have no say in which stories are selected or how they are described. See the [privacy policy]({{ '/privacy/' | relative_url }}) for how ads use cookies.

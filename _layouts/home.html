@@ -18,7 +18,7 @@ layout: default
     {% include card.html s=lead v="lead" h=2 %}
   </div>
   <aside class="front-rail">
-    {%- if brief %}
+    {%- if brief and brief.paragraphs.size > 0 %}
     <section class="brief-box" aria-labelledby="brief-title">
       <h2 class="rail-head" id="brief-title">{{ T.big_picture }}</h2>
       <p class="brief-headline"><a href="{{ issue_url | relative_url }}">{{ brief.headline | escape }}</a></p>
