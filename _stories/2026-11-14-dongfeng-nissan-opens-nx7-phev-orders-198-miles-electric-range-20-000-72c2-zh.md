@@ -21,7 +21,7 @@ order: "20261114-991"
 image: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2-share.jpg"
 art: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2.jpg"
 thumb: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2-640.jpg"
-photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9896.jpg/1920px-Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9896.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Alexander-93", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9896.jpg", "provider": "Wikimedia Commons", "width": 4653, "height": 3316}
+photo_credit: null
 ---
 
 {% raw %}

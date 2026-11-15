@@ -21,7 +21,7 @@ order: "20261114-997"
 image: "/assets/stories/2026-11-14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5-share.jpg"
 art: "/assets/stories/2026-11-14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5.jpg"
 thumb: "/assets/stories/2026-11-14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5-640.jpg"
-photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Temporary_Slovak_passport_issued_in_1940_to_a_Jewish_refugee_family.jpg/1920px-Temporary_Slovak_passport_issued_in_1940_to_a_Jewish_refugee_family.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Government of Slovakia", "licence": "Public domain", "licence_url": "https://creativecommons.org/licenses/", "source_url": "https://commons.wikimedia.org/wiki/File:Temporary_Slovak_passport_issued_in_1940_to_a_Jewish_refugee_family.jpg", "provider": "Wikimedia Commons", "width": 2393, "height": 1786}
+photo_credit: null
 ---
 
 {% raw %}
