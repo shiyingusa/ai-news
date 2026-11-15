@@ -21,7 +21,7 @@ order: "20261114-997"
 image: "/assets/stories/2026-11-14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5-share.jpg"
 art: "/assets/stories/2026-11-14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5.jpg"
 thumb: "/assets/stories/2026-11-14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5-640.jpg"
-photo_credit: {"url": "https://pixabay.com/get/g8abbaab63028c6a3f1462da0a56e12db7387b450b4a1cbaf24905e418332f5ba642e5edc73f9ed6e39062b3691662e9af6f789216a423925e461b8209f9aee58_1280.jpg", "author": "Alexas_Fotos", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/handyman-construction-site-workers-3094035/", "provider": "Pixabay", "width": 5851, "height": 3567}
+photo_credit: null
 ---
 
 {% raw %}

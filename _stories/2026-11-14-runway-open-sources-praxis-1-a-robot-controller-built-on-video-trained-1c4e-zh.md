@@ -21,7 +21,7 @@ order: "20261114-995"
 image: "/assets/stories/2026-11-14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e-share.jpg"
 art: "/assets/stories/2026-11-14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e.jpg"
 thumb: "/assets/stories/2026-11-14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e-640.jpg"
-photo_credit: {"url": "https://pixabay.com/get/ge2d61f49cfb23d46707a3af1bf9b40ca1a7582a146282cf839fd96a7d5d986fbb37770d1ec627ca71ec43e76d7fa3bb98ec7b90c6b2016f80312f2ec5f3b9060_1280.jpg", "author": "FrankyFromGermany", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/aircraft-airport-runway-biplane-547105/", "provider": "Pixabay", "width": 5616, "height": 3744}
+photo_credit: null
 ---
 
 {% raw %}
