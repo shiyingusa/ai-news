@@ -60,6 +60,7 @@ layout: default
           {%- endfor %}
         </ul>
         {%- endif %}
+        {% include newsletter.html id="story" compact=true %}
         <div class="share">
           <span>{{ T.share }}</span>
           <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | uri_escape }}&amp;text={{ page.title | uri_escape }}" target="_blank" rel="noopener">X</a>

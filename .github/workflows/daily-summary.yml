@@ -56,6 +56,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
         run: uv run horizon --hours 24
 
       - name: Keep the digest archive for next runs

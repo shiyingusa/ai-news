@@ -456,6 +456,12 @@ class HorizonOrchestrator:
                             self.console.print(
                                 f"{self.icons['document']} Wrote {lang.upper()} daily brief: {brief_path}\n"
                             )
+                        if lang == "en":
+                            from .services.newsletter import send_morning_brief
+
+                            sent = send_morning_brief(today, story_paths, brief_path)
+                            if sent:
+                                self.console.print(f"{self.icons['email']} Sent the Morning Brief newsletter ({sent})\n")
                     except Exception as e:
                         from .services.site_export import PublicationHalted
 

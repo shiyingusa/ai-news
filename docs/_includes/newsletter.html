@@ -1,0 +1,14 @@
+{%- comment -%} Morning Brief signup (Buttondown). include.compact for a slimmer box. {%- endcomment -%}
+<aside class="newsletter{% if include.compact %} newsletter-compact{% endif %}" aria-labelledby="nl-{{ include.id | default: 'box' }}">
+  <div class="newsletter-copy">
+    <h2 id="nl-{{ include.id | default: 'box' }}">{{ T.nl_title }}</h2>
+    <p>{{ T.nl_pitch }}</p>
+  </div>
+  <form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/{{ site.newsletter_username }}" method="post" target="_blank">
+    <label class="visually-hidden" for="nl-email-{{ include.id | default: 'box' }}">{{ T.nl_email }}</label>
+    <input id="nl-email-{{ include.id | default: 'box' }}" type="email" name="email" required autocomplete="email" placeholder="{{ T.nl_email }}">
+    <input type="hidden" name="embed" value="1">
+    <button type="submit">{{ T.nl_button }}</button>
+  </form>
+  <p class="newsletter-fine">{{ T.nl_fine }} <a href="{{ P | append: '/privacy/' | relative_url }}#newsletter">{{ T.privacy }}</a></p>
+</aside>

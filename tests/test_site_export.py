@@ -151,3 +151,15 @@ def test_techmeme_original_link():
              "summary": '<A HREF="https://www.cnbc.com/2026/11/14/nvidia.html"><IMG SRC="x"></A>'}
     meta = _original_link(entry)
     assert meta == {"original_url": "https://www.cnbc.com/2026/11/14/nvidia.html", "publisher": "CNBC", "discovered_via": "Techmeme"}
+
+
+def test_newsletter_email(tmp_path):
+    import json as _j
+    from src.services.newsletter import build_email
+    p = tmp_path / "2026-11-15-a-en.md"
+    p.write_text('---\nlayout: story\npermalink: "/2026/11/15/a/"\ntitle: "Chip story"\ndek: "Dek."\nrank: 1\nsource_name: "Reuters"\nstatus: "Released"\n---\nbody\n', encoding="utf-8")
+    b = tmp_path / "brief.json"
+    b.write_text(_j.dumps({"headline": "Big day", "paragraphs": ["P1"], "takeaways": ["T1"]}), encoding="utf-8")
+    email = build_email("2026-11-15", [p], b)
+    assert email["subject"].startswith("Big day")
+    assert "https://aidailyradar.com/2026/11/15/a/" in email["body"] and "Reuters · Released" in email["body"]
