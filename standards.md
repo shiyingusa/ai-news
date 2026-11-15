@@ -11,7 +11,7 @@ These are the rules every AI Daily Radar story is held to. They are built into t
 
 ## How AI is used {#ai-disclosure}
 
-AI Daily Radar is produced with AI assistance. A large language model sorts incoming stories into sections, scores them, merges duplicate reports and writes the summary, background and analysis on each story page, in English and in Chinese. Stories are not reviewed by a human editor before they are published. We do not invent bylines: stories are credited to AI Daily Radar.
+AI Daily Radar is produced with AI assistance. A large language model sorts incoming stories into sections, scores them, merges duplicate reports and writes the summary, background and analysis on each story page, in English and in Chinese. Stories are not reviewed by a human editor before they are published. We do not invent bylines: stories are credited to AI Daily Radar. The site is owned and run by Ying Shi, who sets these rules and is responsible for corrections.
 
 What the AI is not allowed to do: invent facts, quotes, dates or figures that are not in the sources; present a company's claims as independently verified; or describe a plan or demo as a shipped product.
 
