@@ -21,6 +21,7 @@ order: "20261114-986"
 image: "/assets/stories/2026-11-14/masdar-completes-365-mw-solar-plus-storage-lockhart-complex-in-c88e-share.jpg"
 art: "/assets/stories/2026-11-14/masdar-completes-365-mw-solar-plus-storage-lockhart-complex-in-c88e.jpg"
 thumb: "/assets/stories/2026-11-14/masdar-completes-365-mw-solar-plus-storage-lockhart-complex-in-c88e-640.jpg"
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Solar_farms%2C_wind_farms%2C_and_battery_farms.webp/1920px-Solar_farms%2C_wind_farms%2C_and_battery_farms.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Wikideas1", "licence": "CC0", "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en", "source_url": "https://commons.wikimedia.org/wiki/File:Solar_farms,_wind_farms,_and_battery_farms.webp", "provider": "Wikimedia Commons", "width": 8091, "height": 4471}
 ---
 
 {% raw %}

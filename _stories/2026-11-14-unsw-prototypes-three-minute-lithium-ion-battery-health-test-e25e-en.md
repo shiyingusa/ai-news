@@ -21,6 +21,7 @@ order: "20261114-987"
 image: "/assets/stories/2026-11-14/unsw-prototypes-three-minute-lithium-ion-battery-health-test-e25e-share.jpg"
 art: "/assets/stories/2026-11-14/unsw-prototypes-three-minute-lithium-ion-battery-health-test-e25e.jpg"
 thumb: "/assets/stories/2026-11-14/unsw-prototypes-three-minute-lithium-ion-battery-health-test-e25e-640.jpg"
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/18650_and_21700_lithium_ion_battery_cell.jpg/1920px-18650_and_21700_lithium_ion_battery_cell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Sevenethics", "licence": "CC0", "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en", "source_url": "https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg", "provider": "Wikimedia Commons", "width": 2048, "height": 1536}
 ---
 
 {% raw %}

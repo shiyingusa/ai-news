@@ -21,6 +21,7 @@ order: "20261114-988"
 image: "/assets/stories/2026-11-14/canada-announces-634m-for-ev-charging-and-50b-grid-strategy-93dc-share.jpg"
 art: "/assets/stories/2026-11-14/canada-announces-634m-for-ev-charging-and-50b-grid-strategy-93dc.jpg"
 thumb: "/assets/stories/2026-11-14/canada-announces-634m-for-ev-charging-and-50b-grid-strategy-93dc-640.jpg"
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Autzu_EV_Cars_Charging_in_Canada.jpg/1920px-Autzu_EV_Cars_Charging_in_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Autzu-media", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Autzu_EV_Cars_Charging_in_Canada.jpg", "provider": "Wikimedia Commons", "width": 2592, "height": 1458}
 ---
 
 {% raw %}

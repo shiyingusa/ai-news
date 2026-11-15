@@ -21,6 +21,7 @@ order: "20261114-982"
 image: "/assets/stories/2026-11-14/spacex-investigating-why-starship-flight-15-booster-aborted-chopsticks-26c0-share.jpg"
 art: "/assets/stories/2026-11-14/spacex-investigating-why-starship-flight-15-booster-aborted-chopsticks-26c0.jpg"
 thumb: "/assets/stories/2026-11-14/spacex-investigating-why-starship-flight-15-booster-aborted-chopsticks-26c0-640.jpg"
+photo_credit: {"url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/SpaceX_Starship_Superheavy_Testing_February_2023_%28cropped_horizontal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "author": "Mobilus In Mobili", "licence": "CC BY-SA 2.0", "licence_url": "https://creativecommons.org/licenses/by-sa/2.0", "source_url": "https://commons.wikimedia.org/wiki/File:SpaceX_Starship_Superheavy_Testing_February_2023_(cropped_horizontal).jpg", "provider": "Wikimedia Commons", "width": 1754, "height": 1316}
 ---
 
 {% raw %}

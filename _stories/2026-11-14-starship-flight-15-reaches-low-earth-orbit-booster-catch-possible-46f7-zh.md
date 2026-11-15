@@ -21,6 +21,7 @@ order: "20261114-983"
 image: "/assets/stories/2026-11-14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7-share.jpg"
 art: "/assets/stories/2026-11-14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7.jpg"
 thumb: "/assets/stories/2026-11-14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7-640.jpg"
+photo_credit: {"url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mobile-launcher-and-mobile-sevice-tower-being-positionning-on-launch-pad-A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "author": "NASA", "licence": "Public domain", "licence_url": "https://creativecommons.org/licenses/", "source_url": "https://commons.wikimedia.org/wiki/File:Mobile-launcher-and-mobile-sevice-tower-being-positionning-on-launch-pad-A.jpg", "provider": "Wikimedia Commons", "width": 1238, "height": 947}
 ---
 
 {% raw %}

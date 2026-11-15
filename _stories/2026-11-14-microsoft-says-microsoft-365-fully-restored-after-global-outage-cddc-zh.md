@@ -21,6 +21,7 @@ order: "20261114-977"
 image: "/assets/stories/2026-11-14/microsoft-says-microsoft-365-fully-restored-after-global-outage-cddc-share.jpg"
 art: "/assets/stories/2026-11-14/microsoft-says-microsoft-365-fully-restored-after-global-outage-cddc.jpg"
 thumb: "/assets/stories/2026-11-14/microsoft-says-microsoft-365-fully-restored-after-global-outage-cddc-640.jpg"
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Data_Center_Middenmeer%2C_the_Netherlands_-_2.jpg/1920px-Microsoft_Data_Center_Middenmeer%2C_the_Netherlands_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Hay Kranen", "licence": "CC BY 4.0", "licence_url": "https://creativecommons.org/licenses/by/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Microsoft_Data_Center_Middenmeer,_the_Netherlands_-_2.jpg", "provider": "Wikimedia Commons", "width": 4032, "height": 3024}
 ---
 
 {% raw %}

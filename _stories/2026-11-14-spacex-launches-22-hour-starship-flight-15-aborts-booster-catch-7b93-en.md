@@ -21,6 +21,7 @@ order: "20261114-981"
 image: "/assets/stories/2026-11-14/spacex-launches-22-hour-starship-flight-15-aborts-booster-catch-7b93-share.jpg"
 art: "/assets/stories/2026-11-14/spacex-launches-22-hour-starship-flight-15-aborts-booster-catch-7b93.jpg"
 thumb: "/assets/stories/2026-11-14/spacex-launches-22-hour-starship-flight-15-aborts-booster-catch-7b93-640.jpg"
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/SpaceX_Starship_SN8_launch_as_viewed_from_South_Padre_Island.jpg/1920px-SpaceX_Starship_SN8_launch_as_viewed_from_South_Padre_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Forest Katsch", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:SpaceX_Starship_SN8_launch_as_viewed_from_South_Padre_Island.jpg", "provider": "Wikimedia Commons", "width": 4000, "height": 2500}
 ---
 
 {% raw %}

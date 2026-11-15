@@ -21,6 +21,7 @@ order: "20261114-989"
 image: "/assets/stories/2026-11-14/tesla-opens-29-990-cybercab-orders-to-select-customers-with-299-month-610f-share.jpg"
 art: "/assets/stories/2026-11-14/tesla-opens-29-990-cybercab-orders-to-select-customers-with-299-month-610f.jpg"
 thumb: "/assets/stories/2026-11-14/tesla-opens-29-990-cybercab-orders-to-select-customers-with-299-month-610f-640.jpg"
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Tesla_Cybercab_at_Santana_Row_side_view_dllu.jpg/1920px-Tesla_Cybercab_at_Santana_Row_side_view_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Dllu", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Tesla_Cybercab_at_Santana_Row_side_view_dllu.jpg", "provider": "Wikimedia Commons", "width": 10776, "height": 6990}
 ---
 
 {% raw %}

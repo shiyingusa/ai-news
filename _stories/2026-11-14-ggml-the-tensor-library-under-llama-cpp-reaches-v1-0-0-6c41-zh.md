@@ -21,6 +21,7 @@ order: "20261114-998"
 image: "/assets/stories/2026-11-14/ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41-share.jpg"
 art: "/assets/stories/2026-11-14/ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41.jpg"
 thumb: "/assets/stories/2026-11-14/ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41-640.jpg"
+photo_credit: {"url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Llama-dot-cpp-model-loading.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "author": "The GGML authors", "licence": "Public domain", "licence_url": "https://creativecommons.org/licenses/", "source_url": "https://commons.wikimedia.org/wiki/File:Llama-dot-cpp-model-loading.png", "provider": "Wikimedia Commons", "width": 1917, "height": 919}
 ---
 
 {% raw %}

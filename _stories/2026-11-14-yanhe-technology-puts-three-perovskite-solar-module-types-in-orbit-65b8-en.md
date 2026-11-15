@@ -21,6 +21,7 @@ order: "20261114-985"
 image: "/assets/stories/2026-11-14/yanhe-technology-puts-three-perovskite-solar-module-types-in-orbit-65b8-share.jpg"
 art: "/assets/stories/2026-11-14/yanhe-technology-puts-three-perovskite-solar-module-types-in-orbit-65b8.jpg"
 thumb: "/assets/stories/2026-11-14/yanhe-technology-puts-three-perovskite-solar-module-types-in-orbit-65b8-640.jpg"
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Satellite_solar_panels.jpg/1920px-Satellite_solar_panels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Ibex73", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Satellite_solar_panels.jpg", "provider": "Wikimedia Commons", "width": 2592, "height": 1944}
 ---
 
 {% raw %}

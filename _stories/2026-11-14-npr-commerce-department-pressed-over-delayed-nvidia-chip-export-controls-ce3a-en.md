@@ -21,6 +21,7 @@ order: "20261114-992"
 image: "/assets/stories/2026-11-14/npr-commerce-department-pressed-over-delayed-nvidia-chip-export-controls-ce3a-share.jpg"
 art: "/assets/stories/2026-11-14/npr-commerce-department-pressed-over-delayed-nvidia-chip-export-controls-ce3a.jpg"
 thumb: "/assets/stories/2026-11-14/npr-commerce-department-pressed-over-delayed-nvidia-chip-export-controls-ce3a-640.jpg"
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Nvidia_SLI_GTX280.jpg/1920px-Nvidia_SLI_GTX280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Ростислав Александрович Луценко", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Nvidia_SLI_GTX280.jpg", "provider": "Wikimedia Commons", "width": 1932, "height": 1464}
 ---
 
 {% raw %}

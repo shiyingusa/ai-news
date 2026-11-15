@@ -21,6 +21,7 @@ order: "20261114-995"
 image: "/assets/stories/2026-11-14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e-share.jpg"
 art: "/assets/stories/2026-11-14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e.jpg"
 thumb: "/assets/stories/2026-11-14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e-640.jpg"
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/STS-114_Steve_Robinson_on_Canadarm2.jpg/1920px-STS-114_Steve_Robinson_on_Canadarm2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "NASA", "licence": "Public domain", "licence_url": "https://creativecommons.org/licenses/", "source_url": "https://commons.wikimedia.org/wiki/File:STS-114_Steve_Robinson_on_Canadarm2.jpg", "provider": "Wikimedia Commons", "width": 3032, "height": 2000}
 ---
 
 {% raw %}
