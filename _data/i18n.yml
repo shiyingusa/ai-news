@@ -24,6 +24,11 @@ en:
   read_at: Read the original at
   discussion: Join the discussion
   found_via: Found via
+  nl_title: The Morning Brief
+  nl_pitch: The Big Picture and the day's top stories in AI, chips, robots, EVs and space, in your inbox every morning. Free.
+  nl_email: Your email address
+  nl_button: Subscribe
+  nl_fine: One email a day, sent in English with a link to the Chinese edition. Unsubscribe any time.
   status_help: How far this development has actually got. See our status labels.
   statuses:
     Rumored: Rumored
@@ -83,6 +88,11 @@ zh:
   read_at: 阅读原文：
   discussion: 参与讨论
   found_via: 发现渠道：
+  nl_title: 每日早报
+  nl_pitch: 每天早上把“今日看点”和 AI、芯片、机器人、电动车、航天的当日要闻发到你的邮箱，免费。
+  nl_email: 你的邮箱地址
+  nl_button: 订阅
+  nl_fine: 每天一封，正文为英文，附中文版链接；可随时退订。
   status_help: 这项进展实际走到了哪一步，见状态标签说明。
   statuses:
     Rumored: 传闻

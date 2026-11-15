@@ -14,6 +14,7 @@ social:
 # Google AdSense
 # Publisher ID (ca-pub-...). Turns on the AdSense script on every page and
 # fills in /ads.txt automatically.
+newsletter_username: aidailyradar
 adsense_client: "ca-pub-2802182975734564"
 # Optional ad unit IDs for the fixed slots. Leave empty to rely on Auto ads.
 adsense_slot: ""

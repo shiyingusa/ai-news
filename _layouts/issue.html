@@ -28,6 +28,7 @@ layout: default
     <p class="byline-note">{{ T.byline_note }}</p>
   </section>
   {%- endif %}
+  <div class="wrap">{% include newsletter.html id="issue" %}</div>
   {% include ad.html kind="inline" %}
   {%- for sec in site.data.sections -%}
     {%- assign list = stories | where: "section", sec.id -%}

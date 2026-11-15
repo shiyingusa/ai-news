@@ -30,6 +30,10 @@ This site includes Google AdSense code and may show ads served by Google. Our Ad
 
 Visitors in the European Economic Area, the United Kingdom and Switzerland see a consent message from Google's certified consent management platform, which supports the IAB Transparency and Consent Framework. You can consent, decline, or choose which purposes and partners to allow.
 
+## Newsletter {#newsletter}
+
+If you subscribe to the Morning Brief, your email address is stored by our newsletter provider, [Buttondown](https://buttondown.com/legal/privacy), and used only to send you the newsletter. Buttondown may record whether emails are opened or links are clicked. You will receive a confirmation email first, and every newsletter has an unsubscribe link. We do not sell or share subscriber lists.
+
 ## Links to other sites
 
 Every story links to its original source. Those sites have their own privacy policies, which we do not control.
