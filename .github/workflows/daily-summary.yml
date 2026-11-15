@@ -103,3 +103,6 @@ jobs:
           commit_message: "Daily briefing: ${{ env.DATE }}"
           publish_branch: gh-pages
           enable_jekyll: true
+
+      - name: Notify search engines (IndexNow)
+        run: python scripts/indexnow.py --site docs --date "${{ env.DATE }}" --wait 120
