@@ -93,7 +93,7 @@ def search_pexels(client: httpx.Client, query: str, used: Set[str]) -> Optional[
         if not url or url in used or not _landscape(photo.get("width", 0), photo.get("height", 0)):
             continue
         alt = photo.get("alt") or ""
-        if PEOPLE.search(alt) or BAD_TITLE.search(alt) or not _relevant(alt, query):
+        if PEOPLE.search(alt) or BAD_TITLE.search(alt) or _foreign_brand(alt, query) or not _relevant(alt, query):
             continue
         return Photo(
             url=url,
@@ -113,6 +113,21 @@ PEOPLE = re.compile(
     r"businessman|businesswoman|portrait|face|crowd|family|couple|selfie|model|player|players|fans?)\b",
     re.I,
 )
+
+
+BRANDS = re.compile(
+    r"\b(?:mercedes|benz|bmw|audi|toyota|honda|tesla|ford|volkswagen|vw|porsche|nissan|hyundai|kia|chevrolet|"
+    r"chevy|jeep|lexus|volvo|ferrari|lamborghini|byd|nio|xpeng|polestar|rivian|lucid|apple|iphone|ipad|macbook|"
+    r"samsung|galaxy|google|pixel|microsoft|xbox|sony|playstation|nintendo|huawei|xiaomi|nvidia|intel|amd|"
+    r"spacex|boeing|airbus|amazon|meta|facebook|instagram|whatsapp|tiktok|twitter|openai|dell|lenovo|hp)\b",
+    re.I,
+)
+
+
+def _foreign_brand(text: str, *queries: str) -> bool:
+    """True when the photo shows a brand the story does not mention."""
+    wanted = " ".join(queries).lower()
+    return any(m.group(0).lower() not in wanted for m in BRANDS.finditer(text))
 
 
 def _relevant(title: str, query: str) -> bool:
@@ -148,7 +163,7 @@ def search_pixabay(client: httpx.Client, query: str, used: Set[str]) -> Optional
         if not url or url in used or not _landscape(hit.get("imageWidth", 0), hit.get("imageHeight", 0)):
             continue
         tags = hit.get("tags", "")
-        if BAD_TITLE.search(tags) or PEOPLE.search(tags) or not _relevant(tags, query):
+        if BAD_TITLE.search(tags) or PEOPLE.search(tags) or _foreign_brand(tags, query) or not _relevant(tags, query):
             continue
         return Photo(
             url=url,
