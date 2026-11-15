@@ -1,8 +1,8 @@
 """Real photographs for story pages, from licensed sources only.
 
 Order of preference:
-1. Pexels (free for commercial use, no attribution required) when ``PEXELS_API_KEY`` is set.
-2. Wikimedia Commons, limited to public domain, CC0, CC BY and CC BY-SA files.
+1. Wikimedia Commons for the named product or place (public domain, CC0, CC BY, CC BY-SA only).
+2. Pexels (``PEXELS_API_KEY``) or Pixabay (``PIXABAY_API_KEY``) stock photos, both free for commercial use.
 3. The original radar artwork (``story_images.py``) when nothing suitable is found.
 
 Every photo is stored with its author, licence and source so the story page can
@@ -115,6 +115,43 @@ def _relevant(title: str, query: str) -> bool:
     return hits >= max(1, (len(words) + 1) // 2)
 
 
+def search_pixabay(client: httpx.Client, query: str, used: Set[str]) -> Optional[Photo]:
+    """Pixabay: free for commercial use; images must be downloaded, not hotlinked (we download)."""
+    key = os.getenv("PIXABAY_API_KEY")
+    if not key:
+        return None
+    response = _get(
+        client,
+        "https://pixabay.com/api/",
+        params={
+            "key": key,
+            "q": query[:100],
+            "image_type": "photo",
+            "orientation": "horizontal",
+            "safesearch": "true",
+            "min_width": 1200,
+            "per_page": 20,
+        },
+    )
+    for hit in response.json().get("hits", []):
+        url = hit.get("largeImageURL")
+        if not url or url in used or not _landscape(hit.get("imageWidth", 0), hit.get("imageHeight", 0)):
+            continue
+        if BAD_TITLE.search(hit.get("tags", "")):
+            continue
+        return Photo(
+            url=url,
+            author=hit.get("user") or "Pixabay",
+            licence="Pixabay Content License",
+            licence_url="https://pixabay.com/service/license-summary/",
+            source_url=hit.get("pageURL") or "https://pixabay.com/",
+            provider="Pixabay",
+            width=hit.get("imageWidth", 0),
+            height=hit.get("imageHeight", 0),
+        )
+    return None
+
+
 def search_commons(client: httpx.Client, query: str, used: Set[str]) -> Optional[Photo]:
     response = _get(
         client,
@@ -164,14 +201,19 @@ def search_commons(client: httpx.Client, query: str, used: Set[str]) -> Optional
 
 
 def find_photo(queries: Iterable[str], used: Set[str], client: Optional[httpx.Client] = None) -> Optional[Photo]:
-    """Try each query on Pexels, then on Commons; returns the first suitable photo."""
+    """Commons for the specific subject, then stock libraries; returns the first suitable photo."""
     own = client is None
     client = client or httpx.Client(timeout=20, headers={"User-Agent": USER_AGENT}, follow_redirects=True)
     try:
         queries = [q.strip() for q in queries if q and q.strip()]
-        # Pexels (unbranded stock) may use every query. Commons only gets the first,
+        # Stock libraries (Pexels, Pixabay) may use every query. Commons only gets the first,
         # specific query: generic searches there return other brands and old archives.
-        plan = [(search_pexels, q) for q in queries] + [(search_commons, q) for q in queries[:1]]
+        # Order: specific photo on Commons beats a generic stock photo, so try
+        # Commons-specific first, then stock with the generic query.
+        specific, generic = (queries + ["", ""])[:2]
+        plan = [(search_commons, specific)] + [
+            (search, q) for q in (specific, generic) if q for search in (search_pexels, search_pixabay)
+        ]
         for search, query in plan:
             try:
                 photo = search(client, query, used)
