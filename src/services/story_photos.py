@@ -31,7 +31,9 @@ W, H = 1200, 675
 ALLOWED_LICENCES = re.compile(r"^(public domain|pd|cc0|cc by(-sa)? ?[0-9.]*( [a-z]+)?)$", re.I)
 BAD_TITLE = re.compile(
     r"logo|icon|map|diagram|chart|graph|screenshot|portrait|headshot|signature|flag|coat of arms|seal|"
-    r"poster|cover|svg|drawing|sketch|painting|stamp|banknote|coin",
+    r"poster|cover|svg|drawing|sketch|painting|stamp|banknote|coin|"
+    r"\b(?:refugees?|holocaust|jewish|nazi|war|wartime|victims?|funeral|corpse|massacre|protests?|riots?|prison)\b|"
+    r"\b1[89]\d\d\b",
     re.I,
 )
 
@@ -139,7 +141,7 @@ def search_commons(client: httpx.Client, query: str, used: Set[str]) -> Optional
         if (
             not url
             or url in used
-            or BAD_TITLE.search(title)
+            or BAD_TITLE.search(title.replace("_", " "))
             or not _relevant(title, query)
             or info.get("mime") not in {"image/jpeg", "image/png", "image/webp"}
             or not _landscape(info.get("width", 0), info.get("height", 0))
@@ -167,16 +169,18 @@ def find_photo(queries: Iterable[str], used: Set[str], client: Optional[httpx.Cl
     client = client or httpx.Client(timeout=20, headers={"User-Agent": USER_AGENT}, follow_redirects=True)
     try:
         queries = [q.strip() for q in queries if q and q.strip()]
-        for search in (search_pexels, search_commons):
-            for query in queries:
-                try:
-                    photo = search(client, query, used)
-                except Exception as exc:  # network or API problems: try the next option
-                    logger.info("%s search failed for %r: %s", search.__name__, query, exc)
-                    photo = None
-                if photo:
-                    used.add(photo.url)
-                    return photo
+        # Pexels (unbranded stock) may use every query. Commons only gets the first,
+        # specific query: generic searches there return other brands and old archives.
+        plan = [(search_pexels, q) for q in queries] + [(search_commons, q) for q in queries[:1]]
+        for search, query in plan:
+            try:
+                photo = search(client, query, used)
+            except Exception as exc:  # network or API problems: try the next option
+                logger.info("%s search failed for %r: %s", search.__name__, query, exc)
+                photo = None
+            if photo:
+                used.add(photo.url)
+                return photo
         return None
     finally:
         if own:
