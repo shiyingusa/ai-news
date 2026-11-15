@@ -423,7 +423,7 @@ class DailySummarizer:
 
         if artifact:
             for block in artifact.blocks:
-                if block.primary:
+                if block.primary or block.id == "status":
                     continue
                 block_title = _escape_markdown(block.title)
                 block_content = _escape_markdown(block.content)

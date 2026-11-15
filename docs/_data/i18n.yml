@@ -6,6 +6,8 @@ en:
   archive: Archive
   about: About
   privacy: Privacy
+  standards: Editorial standards
+  corrections: Corrections
   contact: Contact
   topics: Topics
   sections: Sections
@@ -21,8 +23,17 @@ en:
   original_report: Original reporting
   read_at: Read the original at
   discussion: Join the discussion
+  found_via: Found via
+  status_help: How far this development has actually got. See our status labels.
+  statuses:
+    Rumored: Rumored
+    Planned: Planned
+    Announced: Announced
+    Demonstrated: Demonstrated
+    Released: Released
+    Available: Available
   radar_score: Radar score
-  score_help: How important our model rates this story, from 0 to 10.
+  score_help: How important our model rates this story, from 0 to 10. Click for how the score works.
   related: More in
   also_today: Also in today's briefing
   published: Published
@@ -54,6 +65,8 @@ zh:
   archive: 往期
   about: 关于
   privacy: 隐私政策
+  standards: 编辑标准
+  corrections: 更正记录
   contact: 联系
   topics: 话题
   sections: 板块
@@ -69,8 +82,17 @@ zh:
   original_report: 原始报道
   read_at: 阅读原文：
   discussion: 参与讨论
+  found_via: 发现渠道：
+  status_help: 这项进展实际走到了哪一步，见状态标签说明。
+  statuses:
+    Rumored: 传闻
+    Planned: 计划中
+    Announced: 已宣布
+    Demonstrated: 已演示
+    Released: 已发布
+    Available: 已上市
   radar_score: 雷达评分
-  score_help: 模型对这条新闻重要性的评分，满分 10 分。
+  score_help: 模型对这条新闻重要性的评分，满分 10 分，点击查看评分规则。
   related: 更多
   also_today: 今日简报的其他新闻
   published: 发布于

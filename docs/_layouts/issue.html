@@ -4,7 +4,8 @@ layout: default
 {%- include vars.html -%}
 {%- assign day_key = page.date | date: "%Y-%m-%d" -%}
 {%- assign stories = site.stories | where: "lang", L | where: "issue", day_key | sort: "rank" -%}
-{%- assign brief = site.data.briefs[day_key | append: "-" | append: L] -%}
+{%- assign brief_key = day_key | append: "-" | append: L -%}
+{%- assign brief = site.data.briefs[brief_key] -%}
 {%- assign same = site.posts | where: "lang", L -%}
 {%- for p in same -%}{%- if p.url == page.url -%}{%- assign i = forloop.index0 -%}{%- endif -%}{%- endfor -%}
 {%- assign newer_i = i | minus: 1 -%}{%- assign older_i = i | plus: 1 -%}
@@ -13,7 +14,7 @@ layout: default
     <h1>{% if L == "zh" %}每日简报 · {{ page.date | date: "%Y年%-m月%-d日" }}{% else %}Daily Briefing: {{ page.date | date: "%A, %B %-d, %Y" }}{% endif %}</h1>
     <p>{{ stories.size }} {{ T.stories_count }}</p>
   </header>
-  {%- if brief %}
+  {%- if brief and brief.paragraphs.size > 0 %}
   <section class="brief-full" aria-labelledby="bp">
     <h2 id="bp" class="rail-head">{{ T.big_picture }}</h2>
     <p class="brief-headline">{{ brief.headline | escape }}</p>

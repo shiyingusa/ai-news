@@ -68,7 +68,7 @@ def test_partial_enrichment_excludes_failures_from_digest_and_delivery(pipeline,
         failed.processing.classification.profile = "tech-blog"
     successful.processing.artifacts["zh"] = ContentArtifact(
         language="zh", title="中文标题",
-        blocks=[ContentBlock(id="summary", title="摘要", content="中文摘要。", primary=True)],
+        blocks=[ContentBlock(id="summary", title="摘要", content="中文摘要：这是一条用于测试发布关卡的完整新闻摘要。", primary=True)],
     )
     monkeypatch.setattr(orchestrator, "enrich_items", AsyncMock(return_value=EnrichmentBatchResult(
         succeeded_ids=[successful.id], failures={failed.id: "Invalid enrichment tool plan"},
@@ -82,7 +82,7 @@ def test_partial_enrichment_excludes_failures_from_digest_and_delivery(pipeline,
     for text in (summary, post_path.read_text(encoding="utf-8")):
         assert "过去一天共筛查 2 条科技资讯，留下最值得读的 1 条" in text
         assert "中文标题" in text
-        assert "中文摘要。" in text
+        assert "中文摘要：这是一条用于测试发布关卡的完整新闻摘要。" in text
         assert "Original English title" not in text
         assert "English analysis fallback" not in text
         assert str(failed.url) not in text

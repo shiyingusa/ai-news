@@ -122,3 +122,32 @@ def test_export_uses_licensed_photo_and_records_credit(tmp_path, monkeypatch):
         assert '"author": "Jane Doe"' in text and '"provider": "Wikimedia Commons"' in text
     slug = slugs["rss:item-1"]
     assert (images / "2026-11-14" / f"{slug}-share.jpg").exists()
+
+
+def test_status_and_gate_and_publisher():
+    from types import SimpleNamespace
+    from src.services.site_export import story_status, gate_problems, publisher_name, discovered_via, _fact_lines
+    assert story_status("Demonstrated.") == "Demonstrated"
+    assert story_status("已发布 Released") == "Released"
+    assert story_status("unclear") is None
+    assert gate_problems("A proper headline here", "x" * 200, "en") == []
+    assert "summary too short" in gate_problems("A proper headline here", "short", "en")
+    assert "model failure text" in gate_problems("A proper headline here", "As an AI, I cannot access the article. " * 5, "en")
+    hn = SimpleNamespace(metadata={"discussion_url": "https://news.ycombinator.com/item?id=1"},
+                         url="https://x.com/spacex/status/1", source_type=SimpleNamespace(value="hackernews"))
+    assert publisher_name(hn) == "X (Twitter)" and discovered_via(hn) == "Hacker News"
+    tm = SimpleNamespace(metadata={"feed_name": "Techmeme", "original_url": "https://www.reuters.com/a/b", "publisher": "Reuters", "discovered_via": "Techmeme"},
+                         url="https://www.techmeme.com/261114/p11", source_type=SimpleNamespace(value="rss"))
+    assert publisher_name(tm) == "Reuters" and discovered_via(tm) == "Techmeme"
+    direct = SimpleNamespace(metadata={"feed_name": "Electrek"}, url="https://electrek.co/x/y", source_type=SimpleNamespace(value="rss"))
+    assert publisher_name(direct) == "Electrek" and discovered_via(direct) is None
+    lines = _fact_lines("Verified: SpaceX says it caught the ship. Not yet confirmed: reuse timeline.")
+    assert lines.count("- **") == 2
+
+
+def test_techmeme_original_link():
+    from src.scrapers.rss import _original_link
+    entry = {"link": "https://www.techmeme.com/261114/p18#a", "title": "Investors urge board (Katie Tarasov/CNBC)",
+             "summary": '<A HREF="https://www.cnbc.com/2026/11/14/nvidia.html"><IMG SRC="x"></A>'}
+    meta = _original_link(entry)
+    assert meta == {"original_url": "https://www.cnbc.com/2026/11/14/nvidia.html", "publisher": "CNBC", "discovered_via": "Techmeme"}

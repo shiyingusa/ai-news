@@ -457,6 +457,18 @@ class HorizonOrchestrator:
                                 f"{self.icons['document']} Wrote {lang.upper()} daily brief: {brief_path}\n"
                             )
                     except Exception as e:
+                        from .services.site_export import PublicationHalted
+
+                        if isinstance(e, PublicationHalted):
+                            # Circuit breaker: keep yesterday's site as it is.
+                            for stale in Path("docs/_stories").glob(f"{today}-*-{lang}.md"):
+                                stale.unlink()
+                            dest_path.unlink(missing_ok=True)
+                            self.console.print(
+                                f"[red]{self.icons['warning']} Publication halted: {e}. "
+                                "Today's issue was not published.[/red]\n"
+                            )
+                            break
                         self.console.print(
                             f"[yellow]{self.icons['warning']} Failed to write "
                             f"{lang.upper()} story pages: {e}[/yellow]\n"
@@ -850,6 +862,21 @@ class HorizonOrchestrator:
                 if comments:
                     merged = f"{main}\n\n{COMMENTS_MARKER}\n{comments}"
                 primary.content = merged or primary.content
+                # Keep a record of every report merged into this story, for the
+                # story page's coverage timeline.
+                if primary.metadata is None:
+                    primary.metadata = {}
+                related = primary.metadata.setdefault("related", [])
+                related.extend(dup.metadata.get("related", []) if dup.metadata else [])
+                related.append({
+                    "title": dup.title,
+                    "url": str((dup.metadata or {}).get("original_url") or dup.url),
+                    "item_id": dup.id,
+                    "source_type": dup.source_type.value,
+                    "feed_name": (dup.metadata or {}).get("feed_name"),
+                    "publisher": (dup.metadata or {}).get("publisher"),
+                    "published_at": dup.published_at.isoformat() if dup.published_at else None,
+                })
                 if log:
                     self.console.print(
                         f"   [dim]dedup: keep [{primary_idx}] {primary.title}[/dim]\n"
@@ -907,6 +934,20 @@ class HorizonOrchestrator:
                     )
                 else:
                     deduped_items.extend(profile_items)
+            # One event can be classified into different sections (a launch in
+            # "space", the same launch shared on X in "tech-industry"), so run a
+            # final pass across all sections.
+            if len(profile_groups) > 1 and len(deduped_items) > 1:
+                deduped_items.sort(
+                    key=lambda item: (
+                        item.processing.analysis.score
+                        if item.processing and item.processing.analysis
+                        and item.processing.analysis.score is not None
+                        else -1
+                    ),
+                    reverse=True,
+                )
+                deduped_items = await self.merge_topic_duplicates(deduped_items, log=log)
             deduped_items.sort(
                 key=lambda item: (
                     item.processing.analysis.score

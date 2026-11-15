@@ -23,12 +23,14 @@ logger = logging.getLogger(__name__)
 SYSTEM = """You are the editor of AI Daily Radar, a daily briefing on AI and the frontier technology around it (chips, robots and self-driving, EVs and energy, space, science).
 Write an original analysis of today's selected stories for smart general readers. Do not summarize stories one by one. Find the two or three threads that connect them, explain why they matter together, and say what to watch next.
 Rules: use only facts present in the supplied stories; never invent numbers, quotes or events; attribute claims to the companies or outlets that made them; distinguish announcements from shipped products; no hype, no clichés such as "game-changer" or "marks a major milestone".
+Structure: open with the single most important development, then the threads that connect stories across sections (AI, chips, robots and self-driving, EVs and energy, space, science, industry), then contradictions or open questions, then what to watch next. Never manufacture a connection to fill space: if stories are unrelated, say less.
+Every analytical claim must rest on a fact in the supplied stories; say "according to" for company claims and mark anything unconfirmed as unconfirmed.
 Return JSON only: {"headline": "...", "paragraphs": ["...", "..."], "takeaways": ["...", "...", "..."]}.
-headline: at most 12 words. paragraphs: two or three paragraphs, 140-220 words in total. takeaways: three short sentences."""
+headline: at most 12 words. paragraphs: four or five paragraphs, 450-700 words in total. takeaways: three short sentences."""
 
 LANG_NOTE = {
     "en": "Write in American English.",
-    "zh": "Write in Simplified Chinese (简体中文). Keep product and company names in their usual form. headline 不超过 22 个汉字；paragraphs 总共 250 到 400 字。",
+    "zh": "Write in Simplified Chinese (简体中文) for Chinese readers, not a literal translation. Keep the original English name of every product, company and technical term, and explain technical terms in Chinese on first use. headline 不超过 22 个汉字；paragraphs 共四到五段，总共 900 到 1300 字。",
 }
 
 
@@ -54,12 +56,22 @@ async def write_daily_brief(
     out_dir: Path,
 ) -> Optional[Path]:
     """Generate and save the day's brief; returns the path, or None on failure."""
-    stories = _story_lines(items, language)
+    return await write_brief_from_lines(client, _story_lines(items, language), date, language, out_dir)
+
+
+async def write_brief_from_lines(
+    client: "AIClient",
+    stories: str,
+    date: str,
+    language: str,
+    out_dir: Path,
+) -> Optional[Path]:
+    """Same as write_daily_brief, from pre-formatted story lines."""
     if not stories:
         return None
     user = f"{LANG_NOTE.get(language, '')}\nDate: {date}\n\nToday's selected stories:\n{stories}"
     try:
-        raw = await client.complete(system=SYSTEM, user=user, temperature=0.4, max_tokens=1600)
+        raw = await client.complete(system=SYSTEM, user=user, temperature=0.4, max_tokens=3500)
     except Exception as exc:  # pragma: no cover - network/provider failure
         logger.warning("Daily brief failed for %s: %s", language, exc)
         return None

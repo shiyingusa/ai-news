@@ -19,9 +19,12 @@ layout: default
   </nav>
   <article class="story-page">
     <header class="story-head">
+      {%- if page.status %}
+      <p class="status-line"><a class="status status-{{ page.status | downcase }}" href="{{ P | append: '/standards/' | relative_url }}#status-labels" title="{{ T.status_help }}">{{ T.statuses[page.status] | default: page.status }}</a></p>
+      {%- endif %}
       <h1>{{ page.title | escape }}</h1>
       <div class="byline">
-        <p><span>{{ T.by }} {{ T.byline }}</span><span class="dot" aria-hidden="true">·</span><time datetime="{{ page.date | date_to_xmlschema }}">{{ day }}</time><span class="dot" aria-hidden="true">·</span><a class="sec-link" href="{{ surl | relative_url }}">{{ sname }}</a>{% if page.score %}<span class="dot" aria-hidden="true">·</span><span class="score" title="{{ T.score_help }}">{{ T.radar_score }} {{ page.score | round: 1 }}</span>{% endif %}</p>
+        <p><span>{{ T.by }} {{ T.byline }}</span><span class="dot" aria-hidden="true">·</span><time datetime="{{ page.date | date_to_xmlschema }}">{{ day }}</time>{% if page.updated %}<span class="dot" aria-hidden="true">·</span><span>{% if L == "zh" %}更新于 {{ page.updated }}{% else %}Updated {{ page.updated | date: "%b %-d, %Y" }}{% endif %}</span>{% endif %}<span class="dot" aria-hidden="true">·</span><a class="sec-link" href="{{ surl | relative_url }}">{{ sname }}</a>{% if page.score %}<span class="dot" aria-hidden="true">·</span><a class="score" href="{{ P | append: '/standards/' | relative_url }}#radar-score" title="{{ T.score_help }}">{{ T.radar_score }} {{ page.score | round: 1 }}</a>{% endif %}</p>
         <p class="byline-note">{{ T.byline_note }}</p>
       </div>
     </header>
@@ -39,7 +42,10 @@ layout: default
 {{ content }}
         <aside class="source-box">
           <h2>{{ T.original_report }}</h2>
-          <p><strong>{{ page.source_name | escape }}</strong>{% if src_host and src_host != "" %} · {{ src_host }}{% endif %}</p>
+          <p><strong>{{ page.source_name | escape }}</strong>{% if src_host and src_host != "" and src_host != page.source_name %} · {{ src_host }}{% endif %}</p>
+          {%- if page.via %}
+          <p class="source-via">{{ T.found_via }} {{ page.via | escape }}</p>
+          {%- endif %}
           <p class="source-actions">
             <a class="button" href="{{ page.source_url }}" target="_blank" rel="noopener">{{ T.read_at }} {{ src_host | default: page.source_name }}<span class="visually-hidden"> ({% if L == "zh" %}新窗口{% else %}opens in a new tab{% endif %})</span></a>
             {%- if page.discussion_url %}
@@ -104,5 +110,5 @@ layout: default
 {"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":{{ page.url | absolute_url | jsonify }}}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"NewsArticle","headline":{{ page.title | jsonify }},"description":{{ page.dek | jsonify }},"image":[{{ page.image | default: site.image | absolute_url | jsonify }}],"datePublished":{{ page.date | date_to_xmlschema | jsonify }},"dateModified":{{ page.date | date_to_xmlschema | jsonify }},"inLanguage":{% if L == "zh" %}"zh-Hans"{% else %}"en"{% endif %},"articleSection":{{ sname | jsonify }},"keywords":{{ page.tags | jsonify }},"isBasedOn":{{ page.source_url | jsonify }},"mainEntityOfPage":{{ page.url | absolute_url | jsonify }},"author":{"@type":"Organization","name":"AI Daily Radar","url":{{ "/about/" | absolute_url | jsonify }}},"publisher":{"@type":"Organization","name":"AI Daily Radar","logo":{"@type":"ImageObject","url":{{ site.logo | absolute_url | jsonify }}}}}
+{"@context":"https://schema.org","@type":"NewsArticle","headline":{{ page.title | jsonify }},"description":{{ page.dek | jsonify }},"image":[{{ page.image | default: site.image | absolute_url | jsonify }}],"datePublished":{{ page.date | date_to_xmlschema | jsonify }},"dateModified":{% if page.updated %}{{ page.updated | date_to_xmlschema | jsonify }}{% else %}{{ page.date | date_to_xmlschema | jsonify }}{% endif %},"inLanguage":{% if L == "zh" %}"zh-Hans"{% else %}"en"{% endif %},"articleSection":{{ sname | jsonify }},"keywords":{{ page.tags | jsonify }},"isBasedOn":{{ page.source_url | jsonify }},"mainEntityOfPage":{{ page.url | absolute_url | jsonify }},"author":{"@type":"Organization","name":"AI Daily Radar","url":{{ "/about/" | absolute_url | jsonify }}},"publisher":{"@type":"Organization","name":"AI Daily Radar","logo":{"@type":"ImageObject","url":{{ site.logo | absolute_url | jsonify }}}}}
 </script>

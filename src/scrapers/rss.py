@@ -176,6 +176,7 @@ class RSSScraper(BaseScraper):
                         "feed_name": source.name,
                         "category": source.category,
                         "tags": [tag.term for tag in entry.get("tags", [])],
+                        **_original_link(entry),
                     },
                 ))
             except Exception as exc:
@@ -252,3 +253,24 @@ class RSSScraper(BaseScraper):
             key=len,
             default="",
         )
+
+
+_AGGREGATOR_HOSTS = ("techmeme.com",)
+
+
+def _original_link(entry: dict) -> dict:
+    """For aggregator feeds (Techmeme), the article being linked and its publisher."""
+    import re
+
+    link = str(entry.get("link", ""))
+    if not any(host in link for host in _AGGREGATOR_HOSTS):
+        return {}
+    description = str(entry.get("summary") or entry.get("description") or "")
+    for href in re.findall(r'href="(https?://[^"]+)"', description, re.I):
+        if not any(host in href for host in _AGGREGATOR_HOSTS) and href.count("/") > 3:
+            publisher = None
+            match = re.search(r"\(([^()]+)\)\s*$", str(entry.get("title", "")))
+            if match:
+                publisher = match.group(1).split(",")[0].split("/")[-1].strip()
+            return {"original_url": href, "publisher": publisher, "discovered_via": "Techmeme"}
+    return {}

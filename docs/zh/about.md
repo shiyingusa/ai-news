@@ -30,11 +30,11 @@ AI 每日雷达是一份关于人工智能及相关前沿科技的免费每日�
 每天大约 400 到 500 条新内容，来自 60 多个信息源：
 
 - **AI 实验室：** OpenAI、Google DeepMind、Google Research、Microsoft Research、Hugging Face、伯克利 AI 研究院、NVIDIA。
-- **科技媒体：** Techmeme、Ars Technica、MIT Technology Review、IEEE Spectrum、Wired、The Verge、TechCrunch、Rest of World、The Decoder。
+- **科技媒体：** Ars Technica、MIT Technology Review、IEEE Spectrum、Wired、The Verge、TechCrunch、Rest of World、The Decoder。
 - **芯片与算力：** SemiAnalysis、Tom's Hardware、ServeTheHome、EE Times、The Quantum Insider。
 - **机器人、电动车与能源：** The Robot Report、Electrek、Teslarati、Not a Tesla App、InsideEVs、Electrive、Canary Media、pv magazine、World Nuclear News。
 - **航天与科学：** SpaceNews、NASASpaceflight、Space.com、Quanta Magazine、STAT、MIT News。
-- **社区与搜索：** Hacker News；Reddit 上机器学习、硬件、机器人、特斯拉、电动车、能源和航天社区；主要 AI 开源项目在 GitHub 上的版本发布；Google 新闻中关于 AI、芯片、机器人、特斯拉和能源的搜索结果。
+- **聚合站与社区：** Techmeme 和 Hacker News 只用来发现新闻，页面上署名和链接的是原始报道方，不是聚合站；Reddit 上机器学习、硬件、机器人、特斯拉、电动车、能源和航天社区；主要 AI 开源项目在 GitHub 上的版本发布。
 - **中文科技媒体：** 量子位、新智元、极客公园，让读者同时看到中国科技行业的动向。
 
 ## 怎么选新闻
@@ -43,14 +43,14 @@ AI 每日雷达是一份关于人工智能及相关前沿科技的免费每日�
 
 ## 摘要怎么写
 
-每条入选新闻由大语言模型撰写简短摘要、背景，以及有证据支撑时的实际影响。写作规则要求区分"宣布的计划"和"已经上线的产品"，标明观点出处，不夸大。每条都附原始来源链接，标题旁的分数是模型的评分。
+每条入选新闻由大语言模型撰写简短摘要、背景，有证据支撑时再写"为什么重要"和"后续看点"。每条还会标注进展状态（传闻、计划中、已宣布、已演示、已发布、已上市），并附一个"已证实与未证实"框，把原文能证明的事实和只是公司自己说法的内容分开。每条都写明原始报道方并附链接。
 
-摘要由机器生成，可能有错误。引用具体细节前，请先核对原文。
+稿件在 AI 辅助下写成，发布前没有人工编辑逐条审读，可能有错误。引用具体细节前，请先核对原文。完整规则见[编辑标准]({{ '/zh/standards/' | relative_url }})。
 
 ## 更正与联系
 
-发现错误，或想推荐信息源？请发邮件到 [{{ site.contact_email }}](mailto:{{ site.contact_email }})。确认的错误我们会更正，并调整导致错误的规则。
+发现错误，或想推荐信息源？请发邮件到 [{{ site.contact_email }}](mailto:{{ site.contact_email }})。确认的错误我们会更正，在原文和[更正记录]({{ '/zh/corrections/' | relative_url }})中注明，并调整导致错误的规则。
 
 ## 广告
 
-本站的运营费用来自 Google AdSense 广告。广告主不能影响新闻的选择和描述。广告如何使用 Cookie，请见[隐私政策]({{ '/zh/privacy/' | relative_url }})。
+本站可能展示广告，例如通过 Google AdSense 投放。广告主不能影响新闻的选择和描述。广告如何使用 Cookie，请见[隐私政策]({{ '/zh/privacy/' | relative_url }})。

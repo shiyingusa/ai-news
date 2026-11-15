@@ -294,22 +294,8 @@
         "profile": "chips-compute"
       },
       {
-        "name": "Google News: chips",
-        "url": "https://news.google.com/rss/search?q=semiconductor+OR+Nvidia+OR+TSMC+OR+%22AI+chip%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-        "enabled": true,
-        "category": "chips",
-        "profile": "chips-compute"
-      },
-      {
         "name": "The Robot Report",
         "url": "https://www.therobotreport.com/feed/",
-        "enabled": true,
-        "category": "robotics",
-        "profile": "robotics-autonomy"
-      },
-      {
-        "name": "Google News: robots",
-        "url": "https://news.google.com/rss/search?q=humanoid+robot+OR+robotaxi+OR+Waymo+OR+%22Tesla+Optimus%22+OR+%22Full+Self-Driving%22+when:1d&hl=en-US&gl=US&ceid=US:en",
         "enabled": true,
         "category": "robotics",
         "profile": "robotics-autonomy"
@@ -383,24 +369,6 @@
       {
         "name": "World Nuclear News",
         "url": "https://www.world-nuclear-news.org/rss",
-        "enabled": true,
-        "category": "energy",
-        "profile": "ev-energy"
-      },
-      {
-        "name": "Google News: Tesla",
-        "url": "https://news.google.com/rss/search?q=Tesla+when:1d&hl=en-US&gl=US&ceid=US:en",
-        "enabled": true,
-        "category": "energy",
-        "profile": [
-          "ev-energy",
-          "robotics-autonomy",
-          "tech-industry"
-        ]
-      },
-      {
-        "name": "Google News: energy",
-        "url": "https://news.google.com/rss/search?q=%22battery+breakthrough%22+OR+%22solid-state+battery%22+OR+fusion+energy+OR+%22small+modular+reactor%22+when:1d&hl=en-US&gl=US&ceid=US:en",
         "enabled": true,
         "category": "energy",
         "profile": "ev-energy"
@@ -684,7 +652,7 @@
       }
     ],
     "google_news": {
-      "enabled": true,
+      "enabled": false,
       "query": "artificial intelligence",
       "language": "en",
       "country": "US",
