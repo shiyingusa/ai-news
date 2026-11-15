@@ -13,9 +13,11 @@ AI Daily Radar ("we") runs aidailyradar.com. This page explains what data is col
 
 ## What we collect
 
-We do not ask you to create an account and we do not collect your name, email or other personal details through this site. If you email us, we use your message only to reply.
+We do not ask you to create an account. Apart from the optional newsletter below, we do not collect your name, email or other personal details through this site. If you email us, we use your message only to reply.
 
 The site is hosted on GitHub Pages and served through Cloudflare. Like any web host, they process technical data such as your IP address and browser type to deliver pages and protect the site from abuse.
+
+We use Cloudflare Web Analytics to count visits and page views. It does not use cookies, does not track you across sites, and gives us only aggregate numbers such as page views, referring sites and countries.
 
 Your language choice (English or Chinese) is saved in your browser's local storage so the site remembers it. It never leaves your device.
 
