@@ -11,8 +11,11 @@ section: "ai-news"
 rank: 1
 section_rank: 1
 score: 8.0
-source_name: "Hacker News · cobychapple"
+status: "Released"
+updated: "2026-11-15"
+source_name: "GitHub"
 source_url: "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+via: "Hacker News"
 discussion_url: "https://news.ycombinator.com/item?id=50493062"
 published_at: null
 tags: ["open-source AI", "local inference", "llama.cpp", "GGML", "model runtime"]
@@ -25,9 +28,10 @@ photo_credit: {"url": "https://pixabay.com/get/g67fb18791f507108591ce73165a86cf6
 ---
 
 {% raw %}
+<p class="correction-note"><strong>更正（2026 年 11 月 15 日）：</strong>本文早先版本称没有发布说明，与背景部分矛盾；还仅凭用户评论，把 MoE 模型的显存外溢功能归到这个版本。现已按公开的发布说明改写摘要，并把用户说法标明为用户说法。</p>
 <div class="story-lead" markdown="1">
 
-支撑 llama.cpp 及大量本地 AI 工具的张量库 GGML 在 GitHub 上打出了 v1.0.0 版本标签，这是该项目首次跨入 1.0 版本号。GGML 提供底层张量运算与量化能力，llama.cpp 等推理程序在其之上运行模型，因此版本号从 0.x 迈入 1.0 对依赖它的开发者具有直接的兼容性含义。本次来源未附带发布说明，具体的新特性、API 变更与破坏性改动尚未披露，v1.0.0 究竟包含哪些内容仍待查看仓库的发布记录。
+支撑 llama.cpp 及大量本地 AI 工具的开源 C 语言张量库 GGML 在 GitHub 上打出 v1.0.0 标签，这是它第一个 1.x 版本。据相关报道和 SourceForge 上的发布说明镜像，这个版本标志着项目开始正式采用语义化版本号（semantic versioning），移除了已弃用的公共 API 和旧的 DIAG_MASK 算子，并新增 FP8 支持和可配置的 YaRN 截断；这些说明我们未能在 GitHub 发布页上直接核对。讨论区用户的体验是持续小幅提升，而不是一次飞跃，有用户说每月升级通常能带来 5% 到 10% 的速度提升。
 
 </div>
 

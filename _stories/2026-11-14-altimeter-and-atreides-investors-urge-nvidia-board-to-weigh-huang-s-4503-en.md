@@ -11,8 +11,9 @@ section: "tech-industry"
 rank: 20
 section_rank: 2
 score: 7.0
-source_name: "Techmeme"
-source_url: "https://www.techmeme.com/261114/p18#a261114p18"
+source_name: "CNBC"
+source_url: "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+via: "Techmeme"
 discussion_url: null
 published_at: null
 tags: ["Nvidia", "corporate governance", "shareholder activism", "semiconductors", "leadership succession"]

@@ -1,6 +1,7 @@
 ---
 date: 2026-11-14 06:00:00 -0500
 layout: "story"
+redirect_from: ["/zh/2026/11/14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7/", "/zh/2026/11/14/spacex-launches-22-hour-starship-flight-15-aborts-booster-catch-7b93/", "/zh/2026/11/14/spacex-investigating-why-starship-flight-15-booster-aborted-chopsticks-26c0/"]
 lang: "zh"
 issue: "2026-11-14"
 story_id: "spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9"
@@ -11,8 +12,9 @@ section: "space"
 rank: 15
 section_rank: 1
 score: 9.0
-source_name: "Hacker News · ls612"
+source_name: "X (Twitter)"
 source_url: "https://x.com/i/broadcasts/2brajgZlOKRMka"
+via: "Hacker News"
 discussion_url: "https://news.ycombinator.com/item?id=50500963"
 published_at: null
 tags: ["SpaceX", "Starship", "tower catch", "reusability", "Flight 15"]
@@ -42,5 +44,11 @@ SpaceX 于 11 月 14 日在得克萨斯州星基地首次用发射塔的“筷�
 ## 社区讨论
 
 有评论把热防护盾能否经受复用视为真正的分水岭，并认为下一步是双捕获、让同一批飞船再次飞行，才可能显著压低入轨成本；另一条评论则遗憾大型火箭仍只能靠发射塔捕获，无法像龙飞船那样自带着陆腿。
+
+## 本事件的相关报道
+
+- 2026-11-14 · Ars Technica: [星舰第 15 次试飞成功入轨，周六或尝试回收助推器](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/)
+- 2026-11-14 · Space.com: [星舰第 15 飞：助推器捕获中止，飞船入轨待返场](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship)
+- 2026-11-14 · Space.com: [星舰 Flight 15 助推器中止筷子捕获，SpaceX 调查低燃料报警](https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video)
 
 {% endraw %}

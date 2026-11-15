@@ -11,8 +11,9 @@ section: "tech-industry"
 rank: 22
 section_rank: 4
 score: 7.0
-source_name: "Techmeme"
-source_url: "https://www.techmeme.com/261114/p8#a261114p8"
+source_name: "Bloomberg"
+source_url: "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages"
+via: "Techmeme"
 discussion_url: null
 published_at: null
 tags: ["microsoft", "microsoft 365", "cloud outage", "service reliability", "critical infrastructure"]

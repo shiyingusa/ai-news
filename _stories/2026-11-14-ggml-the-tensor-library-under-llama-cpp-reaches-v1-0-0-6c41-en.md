@@ -11,8 +11,11 @@ section: "ai-news"
 rank: 1
 section_rank: 1
 score: 8.0
-source_name: "Hacker News · cobychapple"
+status: "Released"
+updated: "2026-11-15"
+source_name: "GitHub"
 source_url: "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+via: "Hacker News"
 discussion_url: "https://news.ycombinator.com/item?id=50493062"
 published_at: null
 tags: ["open-source AI", "local inference", "llama.cpp", "GGML", "model runtime"]
@@ -25,9 +28,10 @@ photo_credit: {"url": "https://pixabay.com/get/g67fb18791f507108591ce73165a86cf6
 ---
 
 {% raw %}
+<p class="correction-note"><strong>Correction, Nov 15, 2026:</strong> An earlier version of this summary said no release notes were available, which contradicted the background section, and attributed a memory-offloading feature for MoE models to this release based only on user comments. The summary now reflects the published release notes and labels user reports as such.</p>
 <div class="story-lead" markdown="1">
 
-GGML, the open-source C tensor library that sits underneath llama.cpp and many other local-inference tools, has tagged version 1.0.0 — its first 1.x release. The supplied material contains no release notes, so the specific changes in this version (API stability guarantees, performance work, or breaking changes) are not confirmed here. What users describe is cumulative rather than a single leap: one long-time user says monthly upgrades typically bring 5–10% speed gains, and another notes that mixture-of-experts (MoE) models slightly larger than the GPU memory budget can keep less-used experts in host memory instead of failing to load.
+GGML, the open-source C tensor library that sits underneath llama.cpp and many other local-inference tools, has tagged version 1.0.0, its first 1.x release, on GitHub. Release coverage and a SourceForge mirror of the release notes describe the tag as the project's move to formal semantic versioning, with deprecated public APIs and legacy DIAG_MASK operators removed and FP8 support and configurable YaRN truncation added; we could not confirm those notes against the GitHub release page itself. Users in the discussion describe steady gains rather than a single leap, with one reporting 5 to 10 percent speed improvements from monthly upgrades.
 
 </div>
 
@@ -37,7 +41,7 @@ GGML is the C tensor library that supplies the low-level math kernels and hardwa
 
 ## What changes for local inference
 
-For builders whose mixture-of-experts model slightly exceeds VRAM, ggml v1.0.0's ability to keep less-used experts in host memory means the model loads and runs instead of failing — but the payoff is conditional: it depends on expert weights sitting in pinned host memory (Windows pinning limits can stop the cache from activating), on PCIe bandwidth, and on having enough cache slots to avoid thrashing, and an independent test on a PCIe 3.0 system found it roughly tied with the merged cache. Because ggml reaches hardware through dedicated backends, users on non-CUDA cards, such as Vulkan-only AMD GPUs, remain covered by the same release.
+Users report that for builders whose mixture-of-experts model slightly exceeds VRAM, keeping less-used experts in host memory (a feature they discuss alongside this release, not one the release notes list) means the model loads and runs instead of failing — but the payoff is conditional: it depends on expert weights sitting in pinned host memory (Windows pinning limits can stop the cache from activating), on PCIe bandwidth, and on having enough cache slots to avoid thrashing, and an independent test on a PCIe 3.0 system found it roughly tied with the merged cache. Because ggml reaches hardware through dedicated backends, users on non-CUDA cards, such as Vulkan-only AMD GPUs, remain covered by the same release.
 
 ## Community discussion
 

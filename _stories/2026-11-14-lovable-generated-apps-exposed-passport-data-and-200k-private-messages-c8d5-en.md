@@ -11,8 +11,9 @@ section: "ai-news"
 rank: 2
 section_rank: 2
 score: 7.0
-source_name: "Hacker News · armcat"
+source_name: "crissyfield.de"
 source_url: "https://www.crissyfield.de/research/lovable-en/"
+via: "Hacker News"
 discussion_url: "https://news.ycombinator.com/item?id=50499017"
 published_at: null
 tags: ["AI app builders", "security vulnerability", "Lovable", "Supabase", "data exposure"]

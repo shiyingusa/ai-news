@@ -11,8 +11,9 @@ section: "tech-industry"
 rank: 21
 section_rank: 3
 score: 7.0
-source_name: "Techmeme"
-source_url: "https://www.techmeme.com/261114/p14#a261114p14"
+source_name: "The Wall Street Journal"
+source_url: "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?st=zB6eBf"
+via: "Techmeme"
 discussion_url: null
 published_at: null
 tags: ["FAA outage", "critical infrastructure", "network reliability", "L3Harris", "aviation"]

@@ -11,8 +11,9 @@ section: "chips-compute"
 rank: 7
 section_rank: 3
 score: 7.0
-source_name: "Google News: chips"
+source_name: "NPR"
 source_url: "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjdnek9mQmRSSGo0bmFxaVRBcmVzbEdEbkwxV3FWNFdGa1A1T1QyN2ZZZ2d1aE9jVm0xTjA4NlowU2xsSVFzUHZFMmZ2WGNRWXdzVHh2dmh1T3Z3a0FKamNMYXRnaDRJUzFlUU5YZFhJbEJmREViR3ZEdDlVTk9TUmdmWGJqQ2xicE9tekdpajIyLVgtb3B6TGFTdE9fQVZxWGdSY3pDQWFzZW1hRy16ME85b0cxT3pCVHdZcFNxUFB6dw?oc=5"
+via: "Google News"
 discussion_url: null
 published_at: null
 tags: ["export controls", "Nvidia", "AI chips", "US-China tech policy", "semiconductor supply chain"]

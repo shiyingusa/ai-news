@@ -1,6 +1,7 @@
 ---
 date: 2026-11-14 06:00:00 -0500
 layout: "story"
+redirect_from: ["/2026/11/14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7/", "/2026/11/14/spacex-launches-22-hour-starship-flight-15-aborts-booster-catch-7b93/", "/2026/11/14/spacex-investigating-why-starship-flight-15-booster-aborted-chopsticks-26c0/"]
 lang: "en"
 issue: "2026-11-14"
 story_id: "spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9"
@@ -11,8 +12,9 @@ section: "space"
 rank: 15
 section_rank: 1
 score: 9.0
-source_name: "Hacker News · ls612"
+source_name: "X (Twitter)"
 source_url: "https://x.com/i/broadcasts/2brajgZlOKRMka"
+via: "Hacker News"
 discussion_url: "https://news.ycombinator.com/item?id=50500963"
 published_at: null
 tags: ["SpaceX", "Starship", "tower catch", "reusability", "Flight 15"]
@@ -42,5 +44,11 @@ NASA's Artemis lunar lander depends on refilling Starship in orbit with repeated
 ## Community discussion
 
 Commenters treated the catch as a turning point but focused on the unproven next steps: small_model argued the cost gains depend on the heat shield holding up and on re-flying the same ships, while hinkley said he was disappointed SpaceX is not pursuing landing gear and doubted that approach could scale to heavier rockets. Others were celebratory, with codeulike noting "dont panic" written on the fuselage.
+
+## Coverage of this story
+
+- 2026-11-14 · Ars Technica: [Starship Flight 15 reaches low-Earth orbit; booster catch possible Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/)
+- 2026-11-14 · Space.com: [SpaceX launches 22-hour Starship Flight 15, aborts booster catch](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship)
+- 2026-11-14 · Space.com: [SpaceX investigating why Starship Flight 15 booster aborted chopsticks catch](https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video)
 
 {% endraw %}
