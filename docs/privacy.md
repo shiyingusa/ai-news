@@ -28,7 +28,7 @@ This site includes Google AdSense code and may show ads served by Google. Our Ad
 - You may opt out of personalised advertising by visiting [Google Ads Settings](https://adssettings.google.com/). You can also opt out of some third-party vendors' use of cookies for personalised advertising at [www.aboutads.info](https://www.aboutads.info/choices/).
 - Learn more in [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
 
-Before personalised ads are shown to visitors in the European Economic Area, the United Kingdom and Switzerland, we will ask for consent through a Google-certified consent management platform that supports the IAB Transparency and Consent Framework.
+Visitors in the European Economic Area, the United Kingdom and Switzerland see a consent message from Google's certified consent management platform, which supports the IAB Transparency and Consent Framework. You can consent, decline, or choose which purposes and partners to allow.
 
 ## Links to other sites
 

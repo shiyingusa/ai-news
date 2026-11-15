@@ -28,7 +28,7 @@ AI 每日雷达（"我们"）运营 aidailyradar.com。本页说明你访问本�
 - 你可以在 [Google 广告设置](https://adssettings.google.com/) 中关闭个性化广告，也可以在 [www.aboutads.info](https://www.aboutads.info/choices/) 关闭部分第三方供应商的个性化广告 Cookie。
 - 详情见 [Google 如何使用来自使用其服务的网站或应用的信息](https://policies.google.com/technologies/partner-sites)。
 
-在向欧洲经济区、英国和瑞士的访客展示个性化广告之前，我们会通过经 Google 认证、支持 IAB 透明与同意框架（TCF）的同意管理平台征求同意。
+来自欧洲经济区、英国和瑞士的访客会看到 Google 认证的同意管理平台弹出的同意提示（支持 IAB 透明与同意框架 TCF），可以选择同意、拒绝，或自行选择允许的用途和合作方。
 
 ## 外部链接
 
