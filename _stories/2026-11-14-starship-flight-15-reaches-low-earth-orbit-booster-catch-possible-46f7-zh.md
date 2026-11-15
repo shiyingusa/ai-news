@@ -21,7 +21,7 @@ order: "20261114-983"
 image: "/assets/stories/2026-11-14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7-share.jpg"
 art: "/assets/stories/2026-11-14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7.jpg"
 thumb: "/assets/stories/2026-11-14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/The_launch_of_the_SpaceX_Starship_6_rocket_seen_from_the_space_station_%28iss072e220043%29.jpg/1920px-The_launch_of_the_SpaceX_Starship_6_rocket_seen_from_the_space_station_%28iss072e220043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "NASA/Don Pettit", "licence": "Public domain", "licence_url": "https://creativecommons.org/licenses/", "source_url": "https://commons.wikimedia.org/wiki/File:The_launch_of_the_SpaceX_Starship_6_rocket_seen_from_the_space_station_(iss072e220043).jpg", "provider": "Wikimedia Commons", "width": 8256, "height": 5504}
 ---
 
 {% raw %}

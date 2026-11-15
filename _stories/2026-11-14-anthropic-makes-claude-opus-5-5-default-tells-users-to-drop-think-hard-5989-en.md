@@ -21,7 +21,7 @@ order: "20261114-996"
 image: "/assets/stories/2026-11-14/anthropic-makes-claude-opus-5-5-default-tells-users-to-drop-think-hard-5989-share.jpg"
 art: "/assets/stories/2026-11-14/anthropic-makes-claude-opus-5-5-default-tells-users-to-drop-think-hard-5989.jpg"
 thumb: "/assets/stories/2026-11-14/anthropic-makes-claude-opus-5-5-default-tells-users-to-drop-think-hard-5989-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g8292de1b20215f8df60d7283bc5f79a63f4d303eae6e88119d5b61af2ba1c4eed7c1a300f26420cef8cd55f624b5121e6549d10fca286309aee676e8d0e66ea0_1280.jpg", "author": "Akela999", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/data-center-engine-room-2476790/", "provider": "Pixabay", "width": 4096, "height": 2160}
 ---
 
 {% raw %}
