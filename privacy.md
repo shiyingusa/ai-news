@@ -7,7 +7,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-*Last updated: November 14, 2026*
+*Last updated: November 15, 2026*
 
 AI Daily Radar ("we") runs aidailyradar.com. This page explains what data is collected when you visit.
 
@@ -21,14 +21,14 @@ Your language choice (English or Chinese) is saved in your browser's local stora
 
 ## Advertising and cookies
 
-We use Google AdSense to show ads.
+This site includes Google AdSense code and may show ads served by Google. Our AdSense account is under review, so ads may not appear yet.
 
 - Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website or other websites.
 - Google's use of advertising cookies enables it and its partners to serve ads to you based on your visits to this site and/or other sites on the Internet.
 - You may opt out of personalised advertising by visiting [Google Ads Settings](https://adssettings.google.com/). You can also opt out of some third-party vendors' use of cookies for personalised advertising at [www.aboutads.info](https://www.aboutads.info/choices/).
 - Learn more in [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
 
-Visitors in the European Economic Area, the United Kingdom and Switzerland are asked for consent through a Google-certified consent message before personalised ads are shown.
+Before personalised ads are shown to visitors in the European Economic Area, the United Kingdom and Switzerland, we will ask for consent through a Google-certified consent management platform that supports the IAB Transparency and Consent Framework.
 
 ## Links to other sites
 
