@@ -180,3 +180,10 @@ def make_story_images(out_dir: Path, slug: str, title: str, section: str, date_l
     art.resize((560, 315), Image.LANCZOS).save(out_dir / f"{slug}-640.jpg", "JPEG", quality=80, optimize=True, progressive=True)
     draw_share(art, title, section, date_label).save(share_path, "JPEG", quality=85, optimize=True, progressive=True)
     return art_path, share_path
+
+
+def make_share_from_photo(photo_path: Path, out_path: Path, title: str, section: str, date_label: str) -> Path:
+    """Headline card drawn over a licensed photo (for Open Graph and Discover)."""
+    base = Image.open(photo_path).convert("RGB").resize((W, H), Image.LANCZOS)
+    draw_share(base, title, section, date_label).save(out_path, "JPEG", quality=85, optimize=True, progressive=True)
+    return out_path

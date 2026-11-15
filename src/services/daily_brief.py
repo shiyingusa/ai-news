@@ -82,3 +82,44 @@ async def write_daily_brief(
         encoding="utf-8",
     )
     return path
+
+
+PHOTO_SYSTEM = """You pick search queries for licensed news photos (Wikimedia Commons and stock photo libraries).
+For each story return two short English queries (2-5 words each):
+- "specific": the named product, vehicle, rocket, chip, building, facility or place in the story (e.g. "SpaceX Starship rocket", "Tesla Cybercab", "TSMC fab Arizona")
+- "generic": a concrete visual scene a stock library will have (e.g. "rocket launch pad", "electric car charging", "server racks data center")
+Never describe a person, face, logo, screenshot, chart or text. Prefer objects, machines and places.
+Return JSON only: {"queries": [{"i": 1, "specific": "...", "generic": "..."}, ...]}"""
+
+
+async def queries_for(client: "AIClient", entries: List[tuple]) -> dict:
+    """entries: (key, title, tags). Returns key -> [specific, generic] (one model call)."""
+    if not entries:
+        return {}
+    lines = [f"{i}. {title} [tags: {', '.join(tags or [])}]" for i, (_, title, tags) in enumerate(entries, start=1)]
+    try:
+        raw = await client.complete(system=PHOTO_SYSTEM, user="\n".join(lines), temperature=0.2, max_tokens=3000)
+    except Exception as exc:  # pragma: no cover - provider failure
+        logger.warning("Photo query generation failed: %s", exc)
+        return {}
+    data = parse_json_response(raw) or {}
+    result = {}
+    for entry in data.get("queries", []):
+        try:
+            key = entries[int(entry.get("i")) - 1][0]
+        except (TypeError, ValueError, IndexError):
+            continue
+        result[key] = [str(entry.get("specific", "")), str(entry.get("generic", ""))]
+    return result
+
+
+async def photo_queries(client: "AIClient", items: List["ContentItem"]) -> dict:
+    """Map item IDs to [specific, generic] photo search queries."""
+    entries = []
+    for item in items:
+        processing = item.processing
+        artifact = processing.artifacts.get("en") if processing else None
+        title = artifact.title if artifact else item.title
+        tags = list(processing.analysis.tags) if processing and processing.analysis and processing.analysis.tags else []
+        entries.append((str(item.id), title, tags))
+    return await queries_for(client, entries)

@@ -151,6 +151,8 @@ def export_stories(
     images_root: Optional[Path] = None,
     topics_root: Optional[Path] = None,
     slug_titles: Optional[Dict[str, str]] = None,
+    photo_queries: Optional[Dict[str, List[str]]] = None,
+    used_photos: Optional[set] = None,
 ) -> List[Path]:
     """Write one Markdown page per story; returns the written paths.
 
@@ -159,6 +161,7 @@ def export_stories(
     """
     out_dir.mkdir(parents=True, exist_ok=True)
     slug_titles = slug_titles if slug_titles is not None else {}
+    used_photos = used_photos if used_photos is not None else set()
     view = summarizer.build_view(items, language)
     written: List[Path] = []
     y, m, d = date.split("-")
@@ -195,24 +198,36 @@ def export_stories(
             prefix = "" if language == "en" else "/zh"
             permalink = f"{prefix}/{y}/{m}/{d}/{slug}/"
 
-            # Original artwork, drawn once per story (the English pass runs first)
+            # Licensed photo when one fits, otherwise the original radar artwork.
+            # Drawn once per story (the English pass runs first); credit kept in a sidecar.
             image_rel = f"/assets/stories/{date}/{slug}.jpg"
             share_rel = f"/assets/stories/{date}/{slug}-share.jpg"
+            credit = None
             if images_root is not None:
-                art_file = images_root / date / f"{slug}.jpg"
+                day_dir = images_root / date
+                art_file = day_dir / f"{slug}.jpg"
+                credit_file = day_dir / f"{slug}.json"
+                share_title = title if language == "en" else (slug_titles.get(item_key) or title)
                 if not art_file.exists():
                     try:
-                        from .story_images import make_story_images
+                        from .story_images import make_share_from_photo, make_story_images
+                        from .story_photos import find_photo, save_photo
 
-                        make_story_images(
-                            images_root / date,
-                            slug,
-                            title if language == "en" else (slug_titles.get(item_key) or title),
-                            group.profile_id,
-                            _date_label(date),
-                        )
+                        photo = None
+                        queries = (photo_queries or {}).get(item_key)
+                        if queries:
+                            photo = find_photo(queries, used_photos)
+                            if photo and not save_photo(photo, day_dir, slug):
+                                photo = None
+                        if photo:
+                            make_share_from_photo(art_file, day_dir / f"{slug}-share.jpg", share_title, group.profile_id, _date_label(date))
+                            credit_file.write_text(json.dumps(photo.credit(), ensure_ascii=False), encoding="utf-8")
+                        else:
+                            make_story_images(day_dir, slug, share_title, group.profile_id, _date_label(date))
                     except Exception:  # images are optional
                         image_rel = share_rel = None
+                if credit_file.exists():
+                    credit = json.loads(credit_file.read_text(encoding="utf-8"))
             if language == "en":
                 slug_titles[item_key] = title
 
@@ -244,6 +259,7 @@ def export_stories(
                 f"image: {_yaml(share_rel)}",
                 f"art: {_yaml(image_rel)}",
                 f"thumb: {_yaml(image_rel.replace('.jpg', '-640.jpg') if image_rel else None)}",
+                f"photo_credit: {_yaml(credit)}",
                 "---",
                 "",
             ]

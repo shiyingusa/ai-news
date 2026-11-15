@@ -339,6 +339,14 @@ class HorizonOrchestrator:
             today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
             story_slugs: dict[str, str] = {}
             story_titles: dict[str, str] = {}
+            used_photos: set = set()
+            story_photo_queries: dict[str, list] = {}
+            try:
+                from .services.daily_brief import photo_queries
+
+                story_photo_queries = await photo_queries(self.ai_client, important_items)
+            except Exception as e:
+                self.console.print(f"[yellow]{self.icons['warning']} Photo queries skipped: {e}[/yellow]\n")
             site_languages = sorted(self.config.ai.languages, key=lambda code: code != "en")
             for lang in site_languages:
                 language_items = [
@@ -426,6 +434,8 @@ class HorizonOrchestrator:
                             images_root=Path("docs/assets/stories"),
                             topics_root=Path("docs/topics"),
                             slug_titles=story_titles,
+                            photo_queries=story_photo_queries,
+                            used_photos=used_photos,
                         )
                         self.console.print(
                             f"{self.icons['document']} Wrote {len(story_paths)} "

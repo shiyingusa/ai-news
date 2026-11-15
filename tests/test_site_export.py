@@ -87,3 +87,38 @@ def test_export_writes_twin_pages_with_shared_slug(tmp_path):
     assert f'"/zh/2026/11/14/{slug}/"' in zh_text
     assert "## 延伸阅读" in zh_text
     assert en[0].name.replace("-en.md", "") == zh[0].name.replace("-zh.md", "")
+
+
+def test_export_uses_licensed_photo_and_records_credit(tmp_path, monkeypatch):
+    from PIL import Image
+
+    from src.services import story_photos
+
+    def fake_find(queries, used, client=None):
+        assert queries == ["SpaceX Starship rocket", "rocket launch pad"]
+        return story_photos.Photo(
+            url="https://upload.example/x.jpg", author="Jane Doe", licence="CC BY-SA 4.0",
+            licence_url="https://creativecommons.org/licenses/by-sa/4.0", source_url="https://commons.example/File:x.jpg",
+            provider="Wikimedia Commons", width=2000, height=1200,
+        )
+
+    def fake_save(photo, out_dir, slug, client=None):
+        out_dir.mkdir(parents=True, exist_ok=True)
+        Image.new("RGB", (1200, 675), (40, 60, 90)).save(out_dir / f"{slug}.jpg")
+        Image.new("RGB", (560, 315), (40, 60, 90)).save(out_dir / f"{slug}-640.jpg")
+        return True
+
+    monkeypatch.setattr(story_photos, "find_photo", fake_find)
+    monkeypatch.setattr(story_photos, "save_photo", fake_save)
+    item = _item(1, "space", 9.0)
+    summarizer = DailySummarizer(profile_names={"space": {"default": "Space"}}, profile_order=["space"])
+    slugs: dict[str, str] = {}
+    images = tmp_path / "img"
+    queries = {"rss:item-1": ["SpaceX Starship rocket", "rocket launch pad"]}
+    en = export_stories(summarizer, [item], "2026-11-14", "en", tmp_path / "s", slugs, images_root=images, photo_queries=queries)
+    zh = export_stories(summarizer, [item], "2026-11-14", "zh", tmp_path / "s", slugs, images_root=images, photo_queries=queries)
+    for path in (en[0], zh[0]):
+        text = path.read_text(encoding="utf-8")
+        assert '"author": "Jane Doe"' in text and '"provider": "Wikimedia Commons"' in text
+    slug = slugs["rss:item-1"]
+    assert (images / "2026-11-14" / f"{slug}-share.jpg").exists()
