@@ -70,17 +70,32 @@ async def write_brief_from_lines(
     if not stories:
         return None
     user = f"{LANG_NOTE.get(language, '')}\nDate: {date}\n\nToday's selected stories:\n{stories}"
-    try:
-        raw = await client.complete(system=SYSTEM, user=user, temperature=0.4, max_tokens=3500)
-    except Exception as exc:  # pragma: no cover - network/provider failure
-        logger.warning("Daily brief failed for %s: %s", language, exc)
-        return None
-    data = parse_json_response(raw) or {}
-    headline = str(data.get("headline", "")).strip()
-    paragraphs = [str(p).strip() for p in data.get("paragraphs", []) if str(p).strip()]
-    takeaways = [str(t).strip() for t in data.get("takeaways", []) if str(t).strip()]
+    headline, paragraphs, takeaways = "", [], []
+    for attempt in range(2):
+        try:
+            raw = await client.complete(system=SYSTEM, user=user, temperature=0.4, max_tokens=8000)
+        except Exception as exc:  # pragma: no cover - network/provider failure
+            logger.warning("Daily brief failed for %s: %s", language, exc)
+            return None
+        data = parse_json_response(raw)
+        if not isinstance(data, dict) and raw and "{" in raw:
+            try:  # tolerate raw newlines inside strings
+                data = json.loads(raw[raw.index("{"): raw.rindex("}") + 1], strict=False)
+            except ValueError:
+                data = None
+        if not isinstance(data, dict):
+            data = {}
+        headline = str(data.get("headline", "")).strip()
+        paragraphs = [str(p).strip() for p in data.get("paragraphs", []) if str(p).strip()] if isinstance(data.get("paragraphs"), list) else []
+        takeaways = [str(t).strip() for t in data.get("takeaways", []) if str(t).strip()] if isinstance(data.get("takeaways"), list) else []
+        if headline and paragraphs:
+            break
+        logger.warning(
+            "Daily brief for %s came back incomplete (attempt %d, %d chars): %r ... %r",
+            language, attempt + 1, len(raw or ""), (raw or "")[:300], (raw or "")[-200:],
+        )
+        user += "\n\nReturn one valid JSON object only, with no text before or after it."
     if not headline or not paragraphs:
-        logger.warning("Daily brief for %s came back incomplete; skipped", language)
         return None
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / f"{date}-{language}.json"
