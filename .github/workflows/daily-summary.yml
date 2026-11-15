@@ -3,8 +3,13 @@ name: Daily AI briefing
 on:
   schedule:
     # 11:17 UTC = 6:17 am New York in winter (7:17 am in summer).
-    # GitHub may start scheduled runs some minutes late.
+    # GitHub can start scheduled runs hours late, so there are backup times;
+    # a backup run does nothing if today's issue is already published.
     - cron: '17 11 * * *'
+    - cron: '43 11 * * *'
+    - cron: '13 12 * * *'
+    - cron: '47 12 * * *'
+    - cron: '23 13 * * *'
   workflow_dispatch:      # "Run workflow" button for a manual run
 
 concurrency:
@@ -12,7 +17,25 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - id: check
+        run: |
+          DAY=$(date -u +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && \
+             curl -sf -o /dev/null "https://raw.githubusercontent.com/${{ github.repository }}/gh-pages/_posts/${DAY}-summary-en.md"; then
+            echo "Issue for $DAY already published; skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
   daily-summary:
+    needs: gate
+    if: needs.gate.outputs.skip != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 120
     permissions:
@@ -57,6 +80,7 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+          REPEAT_CHECK: "1"
         run: uv run horizon --hours 24
 
       - name: Keep the digest archive for next runs

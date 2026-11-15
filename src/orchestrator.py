@@ -1,6 +1,7 @@
 """Main orchestrator coordinating the entire workflow."""
 
 import asyncio
+import os
 from collections import defaultdict
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
@@ -964,6 +965,17 @@ class HorizonOrchestrator:
                 ),
                 reverse=True,
             )
+        # Drop stories the site already covered in the last few days, unless
+        # there is a real new development.
+        if deduped_items and os.environ.get("REPEAT_CHECK") == "1":
+            from .services.recent import drop_repeats, recent_titles
+
+            before_repeats = len(deduped_items)
+            deduped_items = await drop_repeats(self.ai_client, deduped_items, recent_titles())
+            if len(deduped_items) < before_repeats:
+                self.console.print(
+                    f"🔁 Dropped {before_repeats - len(deduped_items)} repeats of earlier stories\n"
+                )
         topic_dedup_removed = len(threshold_items) - len(deduped_items)
 
         if log and topic_dedup_removed:
