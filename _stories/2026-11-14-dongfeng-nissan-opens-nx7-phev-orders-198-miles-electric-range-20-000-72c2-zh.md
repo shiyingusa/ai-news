@@ -21,7 +21,7 @@ order: "20261114-991"
 image: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2-share.jpg"
 art: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2.jpg"
 thumb: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2-640.jpg"
-photo_credit: {"url": "https://pixabay.com/get/g596135e11e034fbf470996e2ccaa3be55f43e9ffc6cbf7e29f2c091947deb810e9fcaeb4fddcdc614cd0abd67e8efe32aed46b12d482134e1ad5944d660a06be_1280.jpg", "author": "9310613", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/mercedes-eqc-mercedes-ev-ev-4622242/", "provider": "Pixabay", "width": 6000, "height": 4000}
+photo_credit: null
 ---
 
 {% raw %}
