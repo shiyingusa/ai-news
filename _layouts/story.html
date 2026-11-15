@@ -30,7 +30,7 @@ layout: default
       <img src="{{ page.art | relative_url }}" alt="" width="1200" height="675" fetchpriority="high">
       {%- if page.photo_credit %}
       {%- assign pc = page.photo_credit %}
-      <figcaption>{% if L == "zh" %}图片{% else %}Photo{% endif %}: <a href="{{ pc.source_url }}" rel="noopener" target="_blank">{{ pc.author | escape }}</a> / {{ pc.provider }}{% if pc.provider != "Pexels" %} · <a href="{{ pc.licence_url }}" rel="license noopener" target="_blank">{{ pc.licence }}</a>{% if L == "zh" %}，已裁剪{% else %}, cropped{% endif %}{% endif %}</figcaption>
+      <figcaption>{% if L == "zh" %}图片{% else %}Photo{% endif %}: <a href="{{ pc.source_url }}" rel="noopener" target="_blank">{{ pc.author | escape }}</a> / {{ pc.provider }}{% if pc.provider != "Pexels" and pc.provider != "Pixabay" %} · <a href="{{ pc.licence_url }}" rel="license noopener" target="_blank">{{ pc.licence }}</a>{% if L == "zh" %}，已裁剪{% else %}, cropped{% endif %}{% endif %}</figcaption>
       {%- endif %}
     </figure>
     {%- endif %}
