@@ -20,7 +20,7 @@ en:
   see_all: See all
   todays_briefing: Today's briefing
   in_this_briefing: In this briefing
-  original_report: Original reporting
+  original_report: Original source
   read_at: Read the original at
   discussion: Join the discussion
   found_via: Found via
@@ -79,7 +79,7 @@ zh:
   see_all: 查看全部
   todays_briefing: 今日简报
   in_this_briefing: 本期内容
-  original_report: 原始报道
+  original_report: 原始来源
   read_at: 阅读原文：
   discussion: 参与讨论
   found_via: 发现渠道：

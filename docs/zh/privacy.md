@@ -7,7 +7,7 @@ permalink: /zh/privacy/
 
 # 隐私政策
 
-*最近更新：2026 年 11 月 14 日*
+*最近更新：2026 年 11 月 15 日*
 
 AI 每日雷达（"我们"）运营 aidailyradar.com。本页说明你访问本站时会收集哪些数据。
 
@@ -21,14 +21,14 @@ AI 每日雷达（"我们"）运营 aidailyradar.com。本页说明你访问本�
 
 ## 广告与 Cookie
 
-本站使用 Google AdSense 展示广告。
+本站包含 Google AdSense 代码，可能展示由 Google 投放的广告。我们的 AdSense 账户正在审核中，因此目前可能还看不到广告。
 
 - 包括 Google 在内的第三方供应商会使用 Cookie，根据你以前访问本站或其他网站的情况投放广告。
 - Google 使用广告 Cookie，使其及其合作伙伴能够根据你访问本站和/或互联网上其他网站的情况向你投放广告。
 - 你可以在 [Google 广告设置](https://adssettings.google.com/) 中关闭个性化广告，也可以在 [www.aboutads.info](https://www.aboutads.info/choices/) 关闭部分第三方供应商的个性化广告 Cookie。
 - 详情见 [Google 如何使用来自使用其服务的网站或应用的信息](https://policies.google.com/technologies/partner-sites)。
 
-来自欧洲经济区、英国和瑞士的访客，在展示个性化广告前会看到经 Google 认证的同意提示。
+在向欧洲经济区、英国和瑞士的访客展示个性化广告之前，我们会通过经 Google 认证、支持 IAB 透明与同意框架（TCF）的同意管理平台征求同意。
 
 ## 外部链接
 
