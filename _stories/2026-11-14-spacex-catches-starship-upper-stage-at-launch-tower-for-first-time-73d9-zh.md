@@ -1,7 +1,7 @@
 ---
 date: 2026-11-14 06:00:00 -0500
 layout: "story"
-redirect_from: ["/zh/2026/11/14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7/", "/zh/2026/11/14/spacex-launches-22-hour-starship-flight-15-aborts-booster-catch-7b93/", "/zh/2026/11/14/spacex-investigating-why-starship-flight-15-booster-aborted-chopsticks-26c0/"]
+redirect_from: ["/zh/2026/11/14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7/", "/zh/2026/11/14/spacex-launches-22-hour-starship-flight-15-aborts-booster-catch-7b93/", "/zh/2026/11/14/spacex-investigating-why-starship-flight-15-booster-aborted-chopsticks-26c0/", "/zh/2026/11/15/spacex-catches-starship-upper-stage-at-launch-tower-for-the-first-time-ac35/"]
 lang: "zh"
 issue: "2026-11-14"
 story_id: "spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9"

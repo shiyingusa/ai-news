@@ -1,6 +1,7 @@
 ---
 date: 2026-11-14 06:00:00 -0500
 layout: "story"
+redirect_from: ["/2026/11/15/lovable-apps-exposed-passport-data-and-200k-private-messages-c8d5/"]
 lang: "en"
 issue: "2026-11-14"
 story_id: "lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5"
