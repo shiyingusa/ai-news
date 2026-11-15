@@ -21,6 +21,7 @@ order: "20261114-993"
 image: "/assets/stories/2026-11-14/malaysia-plans-data-center-law-to-track-gpu-imports-via-power-use-1550-share.jpg"
 art: "/assets/stories/2026-11-14/malaysia-plans-data-center-law-to-track-gpu-imports-via-power-use-1550.jpg"
 thumb: "/assets/stories/2026-11-14/malaysia-plans-data-center-law-to-track-gpu-imports-via-power-use-1550-640.jpg"
+photo_credit: {"url": "https://pixabay.com/get/gb8d5645b8433427a8c28a21e1bc7e912bf721f15efd2cac2a58f8a485d9097bed115bbfbfd60782e63fef50d30f3111519fc913cc5c33a29373d652a77d7fb5d_1280.jpg", "author": "Walkerssk", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/kuala-lumpur-petronas-twin-towers-1820944/", "provider": "Pixabay", "width": 2000, "height": 1156}
 ---
 
 {% raw %}

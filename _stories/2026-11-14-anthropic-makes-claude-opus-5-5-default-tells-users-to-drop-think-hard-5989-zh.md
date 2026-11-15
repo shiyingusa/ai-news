@@ -21,6 +21,7 @@ order: "20261114-996"
 image: "/assets/stories/2026-11-14/anthropic-makes-claude-opus-5-5-default-tells-users-to-drop-think-hard-5989-share.jpg"
 art: "/assets/stories/2026-11-14/anthropic-makes-claude-opus-5-5-default-tells-users-to-drop-think-hard-5989.jpg"
 thumb: "/assets/stories/2026-11-14/anthropic-makes-claude-opus-5-5-default-tells-users-to-drop-think-hard-5989-640.jpg"
+photo_credit: {"url": "https://pixabay.com/get/g63407bdd4cd48a8d3da8524a52bad9c47d8839719dab74c34b6122c53ea4b6100a6a00c1761cd901bf06a6c39e312ed764c0f6ea956b6b29bf236425eb5e35a0_1280.jpg", "author": "pawliki", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/organs-population-internet-bank-4716069/", "provider": "Pixabay", "width": 4242, "height": 2828}
 ---
 
 {% raw %}

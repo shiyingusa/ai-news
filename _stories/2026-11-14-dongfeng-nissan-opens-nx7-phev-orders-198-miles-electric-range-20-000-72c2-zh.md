@@ -21,7 +21,7 @@ order: "20261114-991"
 image: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2-share.jpg"
 art: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2.jpg"
 thumb: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gc099ae400bb9201fdf5f01e10dcfa1ae9ac026a734833b47ce0cff9a63404d5f5f397a0addf0cfb7dc298e64f74f30e78af0008121e234476a05641d578103b4_1280.jpg", "author": "paulbr75", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/nashville-tennessee-titans-3259513/", "provider": "Pixabay", "width": 6000, "height": 4000}
 ---
 
 {% raw %}
