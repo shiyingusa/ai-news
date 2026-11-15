@@ -92,6 +92,9 @@ def search_pexels(client: httpx.Client, query: str, used: Set[str]) -> Optional[
         url = photo.get("src", {}).get("large2x") or photo.get("src", {}).get("original")
         if not url or url in used or not _landscape(photo.get("width", 0), photo.get("height", 0)):
             continue
+        alt = photo.get("alt") or ""
+        if PEOPLE.search(alt) or BAD_TITLE.search(alt) or not _relevant(alt, query):
+            continue
         return Photo(
             url=url,
             author=photo.get("photographer") or "Pexels",
@@ -103,6 +106,13 @@ def search_pexels(client: httpx.Client, query: str, used: Set[str]) -> Optional[
             height=photo["height"],
         )
     return None
+
+
+PEOPLE = re.compile(
+    r"\b(?:man|men|woman|women|people|person|persons|girl|boy|child|children|kid|kids|worker|workers|"
+    r"businessman|businesswoman|portrait|face|crowd|family|couple|selfie|model|player|players|fans?)\b",
+    re.I,
+)
 
 
 def _relevant(title: str, query: str) -> bool:
@@ -137,7 +147,8 @@ def search_pixabay(client: httpx.Client, query: str, used: Set[str]) -> Optional
         url = hit.get("largeImageURL")
         if not url or url in used or not _landscape(hit.get("imageWidth", 0), hit.get("imageHeight", 0)):
             continue
-        if BAD_TITLE.search(hit.get("tags", "")):
+        tags = hit.get("tags", "")
+        if BAD_TITLE.search(tags) or PEOPLE.search(tags) or not _relevant(tags, query):
             continue
         return Photo(
             url=url,
@@ -206,14 +217,13 @@ def find_photo(queries: Iterable[str], used: Set[str], client: Optional[httpx.Cl
     client = client or httpx.Client(timeout=20, headers={"User-Agent": USER_AGENT}, follow_redirects=True)
     try:
         queries = [q.strip() for q in queries if q and q.strip()]
-        # Stock libraries (Pexels, Pixabay) may use every query. Commons only gets the first,
-        # specific query: generic searches there return other brands and old archives.
-        # Order: specific photo on Commons beats a generic stock photo, so try
-        # Commons-specific first, then stock with the generic query.
+        # Commons gets only the specific query (generic searches there return other
+        # brands and old archives); stock libraries get only the generic scene query
+        # (brand names there match unrelated words, e.g. "Runway" -> airport runway).
         specific, generic = (queries + ["", ""])[:2]
-        plan = [(search_commons, specific)] + [
-            (search, q) for q in (specific, generic) if q for search in (search_pexels, search_pixabay)
-        ]
+        plan = [(search_commons, specific)] + (
+            [(search_pexels, generic), (search_pixabay, generic)] if generic else []
+        )
         for search, query in plan:
             try:
                 photo = search(client, query, used)

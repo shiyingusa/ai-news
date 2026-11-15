@@ -76,6 +76,11 @@ async def main() -> int:
     queries = await queries_for(client, entries)
 
     used: set = set()
+    for credit_file in (site / "assets" / "stories").glob("*/*.json"):
+        try:
+            used.add(json.loads(credit_file.read_text(encoding="utf-8")).get("url"))
+        except (OSError, ValueError):
+            pass
     updated = 0
     for path, text, day in targets:
         slug = front_value(text, "story_id")
