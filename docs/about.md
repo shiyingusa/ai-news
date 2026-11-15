@@ -47,6 +47,10 @@ For each selected story, a language model writes a short summary, background and
 
 Stories are written with AI assistance and are not reviewed by a human editor before publication, so they can contain mistakes. Always check the original source before relying on a detail. Our full rules are in the [editorial standards]({{ '/standards/' | relative_url }}).
 
+## Who runs it {#publisher}
+
+AI Daily Radar is owned and run by **Ying Shi**, who has worked in the internet industry for 25 years. Ying Shi sets the site's editorial rules, chooses its sources, and handles corrections and reader email. Day-to-day stories are written with AI assistance under those rules, as described in our [editorial standards]({{ '/standards/' | relative_url }}); they are not individually reviewed before publication.
+
 ## Corrections and contact
 
 Spotted an error, or want to suggest a source? Email [{{ site.contact_email }}](mailto:{{ site.contact_email }}). We fix confirmed errors, note the change on the story and in our [corrections log]({{ '/corrections/' | relative_url }}), and adjust the rules that caused them.
