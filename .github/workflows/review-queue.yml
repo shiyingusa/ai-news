@@ -43,6 +43,7 @@ jobs:
             python main/scripts/review_queue.py expire --site site
             MSG="Expire held stories"
           fi
+          (cd main && python -m src.services.events ../site) || echo "::warning::Event records not written"
           cd site
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

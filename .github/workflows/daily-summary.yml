@@ -119,6 +119,9 @@ jobs:
       - name: Set current date
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
+      - name: Write event records for new stories
+        run: python -m src.services.events docs || echo "::warning::Event records not written"
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
