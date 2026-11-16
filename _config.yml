@@ -16,6 +16,11 @@ social:
 # fills in /ads.txt automatically.
 indexnow_key: c10b3961760146e929bd468879c322bd
 cf_analytics_token: fa489fbe2c6d4672a2b1a51e814634ff
+giscus:
+  repo: shiyingusa/ai-news
+  repo_id: R_kgDOVuoD7A
+  category: Announcements
+  category_id: ""
 newsletter_username: aidailyradar
 adsense_client: "ca-pub-2802182975734564"
 # Optional ad unit IDs for the fixed slots. Leave empty to rely on Auto ads.

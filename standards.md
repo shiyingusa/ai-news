@@ -60,6 +60,10 @@ We do not use news organizations' photos. Story images are either licensed photo
 
 If you find an error, email [{{ site.contact_email }}](mailto:{{ site.contact_email }}) with the story link. When an error is confirmed we correct the story, add a note saying what changed and when, list it in our [corrections log]({{ '/corrections/' | relative_url }}), and change the rule or source that caused it where we can.
 
+## Reader comments {#comments-policy}
+
+Story pages have a comment section powered by giscus, which stores comments in our public GitHub Discussions; you need a GitHub account to comment. We welcome corrections, extra context and disagreement. We remove spam, advertising, personal attacks, harassment, hate speech, illegal content and personal information about others, and we may block repeat offenders. Comments are the views of their authors, not of AI Daily Radar. To report a comment, email [{{ site.contact_email }}](mailto:{{ site.contact_email }}).
+
 ## Independence {#independence}
 
 The site may display advertising. Advertisers have no say in which stories are selected, how they are scored or how they are described. We do not accept payment for coverage.
