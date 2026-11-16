@@ -1,0 +1,32 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
+# AI Daily Radar
+
+> A bilingual (English and Simplified Chinese) daily briefing on AI and the frontier tech around it: chips and compute, robots and self-driving, EVs and energy (including Tesla), space, science and biotech, and tech industry and policy. Each story credits and links its original publisher, carries a status label (Rumored, Planned, Announced, Demonstrated, Released, Available) and separates verified facts from unconfirmed claims. Written with AI assistance and run by Ying Shi.
+
+## Start here
+
+- [Home (English)]({{ '/' | absolute_url }}): today's top stories by section
+- [首页（中文）]({{ '/zh/' | absolute_url }})
+- [Daily briefings]({{ '/briefing/' | absolute_url }}): one page per day with The Big Picture analysis
+- [Editorial standards]({{ '/standards/' | absolute_url }}): how stories are selected, checked, labeled and corrected
+- [Corrections]({{ '/corrections/' | absolute_url }})
+- [About]({{ '/about/' | absolute_url }})
+
+## Sections
+
+{% for s in site.data.sections %}- [{{ s.en }}]({{ "/" | append: s.slug | append: "/" | absolute_url }}): {{ s.desc_en }}
+{% endfor %}
+## Feeds
+
+- [Atom feed (English)]({{ '/feed.xml' | absolute_url }})
+- [Atom feed (中文)]({{ '/zh/feed.xml' | absolute_url }})
+- [Sitemap]({{ '/sitemap.xml' | absolute_url }})
+
+## Latest briefings
+
+{% assign posts = site.posts | where: "lang", "en" %}{% for p in posts limit: 7 %}- [{{ p.title }}]({{ p.url | absolute_url }})
+{% endfor %}

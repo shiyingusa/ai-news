@@ -30,7 +30,8 @@
 <link rel="alternate" type="application/atom+xml" title="AI 每日雷达" href="{{ '/zh/feed.xml' | relative_url }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,650;1,6..72,400&family=Public+Sans:wght@400;500;600;700&display=swap">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,650;1,6..72,400&family=Public+Sans:wght@400;500;600;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,650;1,6..72,400&family=Public+Sans:wght@400;500;600;700&display=swap"></noscript>
 <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=3">
 {%- if site.adsense_client and site.adsense_client != "" %}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}" crossorigin="anonymous"></script>
@@ -41,3 +42,8 @@
 {%- endif %}
 <meta name="msvalidate.01" content="3C644E9AEEA48DA688D51F2B85EF1909">
 <meta name="baidu-site-verification" content="codeva-NeQoyhADhY">
+{%- if page.layout == "home" %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"NewsMediaOrganization","name":"AI Daily Radar","alternateName":"AI 每日雷达","url":{{ "/" | absolute_url | jsonify }},"logo":{"@type":"ImageObject","url":{{ "/assets/logo.png" | absolute_url | jsonify }},"width":512,"height":512},"founder":{"@type":"Person","name":"Ying Shi"},"email":"hello@aidailyradar.com","publishingPrinciples":{{ "/standards/" | absolute_url | jsonify }},"correctionsPolicy":{{ "/standards/#corrections" | absolute_url | jsonify }},"verificationFactCheckingPolicy":{{ "/standards/#verification" | absolute_url | jsonify }},"ethicsPolicy":{{ "/standards/#independence" | absolute_url | jsonify }},"actionableFeedbackPolicy":{{ "/corrections/" | absolute_url | jsonify }},"masthead":{{ "/about/#publisher" | absolute_url | jsonify }},"knowsLanguage":["en","zh-Hans"]{% if site.same_as %},"sameAs":{{ site.same_as | jsonify }}{% endif %}}
+</script>
+{%- endif %}
