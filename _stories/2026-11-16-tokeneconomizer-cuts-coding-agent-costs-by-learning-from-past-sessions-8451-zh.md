@@ -25,7 +25,7 @@ order: "20261116-0-993"
 image: "/assets/stories/2026-11-16/tokeneconomizer-cuts-coding-agent-costs-by-learning-from-past-sessions-8451-share.jpg"
 art: "/assets/stories/2026-11-16/tokeneconomizer-cuts-coding-agent-costs-by-learning-from-past-sessions-8451.jpg"
 thumb: "/assets/stories/2026-11-16/tokeneconomizer-cuts-coding-agent-costs-by-learning-from-past-sessions-8451-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g39fd932f287b2016732ff74e994a518c3b396a4451c45cd0bc181fcbc40979abb9d8d64ff08f191a23cb70532b74315c25b1dffb99705b64f4e1608456d745d3_1280.jpg", "author": "Innovalabs", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/software-development-developer-6523979/", "provider": "Pixabay", "width": 7360, "height": 4912}
 ---
 
 {% raw %}

@@ -25,7 +25,7 @@ order: "20261116-0-968"
 image: "/assets/stories/2026-11-16/ublock-origin-universal-xss-tied-to-element-picker-patched-versions-d8f5-share.jpg"
 art: "/assets/stories/2026-11-16/ublock-origin-universal-xss-tied-to-element-picker-patched-versions-d8f5.jpg"
 thumb: "/assets/stories/2026-11-16/ublock-origin-universal-xss-tied-to-element-picker-patched-versions-d8f5-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g294ac28901c67a9d5c056981a02988743965cd6ac3b214d8b99c57e345d82902dad888aa8c16c39f9a5a28e3d13053cc9440c6b41063cf3f79c1f27712989074_1280.jpg", "author": "geralt", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/registration-log-in-keyboard-hand-3938434/", "provider": "Pixabay", "width": 4896, "height": 3264}
 ---
 
 {% raw %}

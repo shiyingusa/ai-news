@@ -25,7 +25,7 @@ order: "20261116-0-976"
 image: "/assets/stories/2026-11-16/tesla-report-says-autopilot-fsd-engaged-at-74-mph-in-fatal-crash-aeb0-share.jpg"
 art: "/assets/stories/2026-11-16/tesla-report-says-autopilot-fsd-engaged-at-74-mph-in-fatal-crash-aeb0.jpg"
 thumb: "/assets/stories/2026-11-16/tesla-report-says-autopilot-fsd-engaged-at-74-mph-in-fatal-crash-aeb0-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Tesla_Model_X_100D_1X7A6736.jpg/1920px-Tesla_Model_X_100D_1X7A6736.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Alexander Migl", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_100D_1X7A6736.jpg", "provider": "Wikimedia Commons", "width": 4775, "height": 2588}
 ---
 
 {% raw %}

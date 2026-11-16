@@ -25,7 +25,7 @@ order: "20261116-0-971"
 image: "/assets/stories/2026-11-16/ula-s-vulcan-fails-mid-flight-destroying-40-amazon-leo-satellites-2eef-share.jpg"
 art: "/assets/stories/2026-11-16/ula-s-vulcan-fails-mid-flight-destroying-40-amazon-leo-satellites-2eef.jpg"
 thumb: "/assets/stories/2026-11-16/ula-s-vulcan-fails-mid-flight-destroying-40-amazon-leo-satellites-2eef-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Space_Launch_Delta_30%2C_2nd_Space_Launch_Squadron_Leadership_Visit_ULA_Vulcan_Rocket_%289525295%29.jpg/1920px-Space_Launch_Delta_30%2C_2nd_Space_Launch_Squadron_Leadership_Visit_ULA_Vulcan_Rocket_%289525295%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "U.S. Space Force photo by Staff Sgt. Joshua LeRoi", "licence": "Public domain", "licence_url": "https://creativecommons.org/licenses/", "source_url": "https://commons.wikimedia.org/wiki/File:Space_Launch_Delta_30,_2nd_Space_Launch_Squadron_Leadership_Visit_ULA_Vulcan_Rocket_(9525295).jpg", "provider": "Wikimedia Commons", "width": 5340, "height": 3553}
 ---
 
 {% raw %}

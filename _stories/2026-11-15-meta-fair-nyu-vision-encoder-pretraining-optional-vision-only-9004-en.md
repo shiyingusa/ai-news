@@ -23,7 +23,7 @@ order: "20261115-995"
 image: "/assets/stories/2026-11-15/meta-fair-nyu-vision-encoder-pretraining-optional-vision-only-9004-share.jpg"
 art: "/assets/stories/2026-11-15/meta-fair-nyu-vision-encoder-pretraining-optional-vision-only-9004.jpg"
 thumb: "/assets/stories/2026-11-15/meta-fair-nyu-vision-encoder-pretraining-optional-vision-only-9004-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gec1cbe426358881cda567032e3dbfdca1b4bce08c4d6693fdedb6690799d6432c31b39b50bd7ec93fd527a5285d1f9153158849933b82ee802d4e9aa0edcc77c_1280.jpg", "author": "stevepb", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/dumbbells-shoes-sneakers-2465478/", "provider": "Pixabay", "width": 5472, "height": 3648}
 description: "A Meta FAIR and NYU team trained more than 200 multimodal LLMs from scratch on identical data to separate three choices that standard vision encoders bundle: separate pretraining, vision-only parameters, and placement before the LLM."
 ---
 

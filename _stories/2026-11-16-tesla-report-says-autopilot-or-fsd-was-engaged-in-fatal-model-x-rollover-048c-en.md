@@ -25,7 +25,7 @@ order: "20261116-0-977"
 image: "/assets/stories/2026-11-16/tesla-report-says-autopilot-or-fsd-was-engaged-in-fatal-model-x-rollover-048c-share.jpg"
 art: "/assets/stories/2026-11-16/tesla-report-says-autopilot-or-fsd-was-engaged-in-fatal-model-x-rollover-048c.jpg"
 thumb: "/assets/stories/2026-11-16/tesla-report-says-autopilot-or-fsd-was-engaged-in-fatal-model-x-rollover-048c-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Tesla_Model_X_100D_1X7A6737.jpg/1920px-Tesla_Model_X_100D_1X7A6737.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Alexander Migl", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_100D_1X7A6737.jpg", "provider": "Wikimedia Commons", "width": 5286, "height": 2736}
 ---
 
 {% raw %}

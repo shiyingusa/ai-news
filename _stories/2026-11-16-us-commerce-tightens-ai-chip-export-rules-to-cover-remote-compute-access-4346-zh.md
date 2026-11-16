@@ -25,7 +25,7 @@ order: "20261116-0-997"
 image: "/assets/stories/2026-11-16/us-commerce-tightens-ai-chip-export-rules-to-cover-remote-compute-access-4346-share.jpg"
 art: "/assets/stories/2026-11-16/us-commerce-tightens-ai-chip-export-rules-to-cover-remote-compute-access-4346.jpg"
 thumb: "/assets/stories/2026-11-16/us-commerce-tightens-ai-chip-export-rules-to-cover-remote-compute-access-4346-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Stearman_C3B_ofh_the_U.S._Department_of_Commerce_in_11929.jpeg/1920px-Stearman_C3B_ofh_the_U.S._Department_of_Commerce_in_11929.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "NASA", "licence": "Public domain", "licence_url": "https://creativecommons.org/licenses/", "source_url": "https://commons.wikimedia.org/wiki/File:Stearman_C3B_ofh_the_U.S._Department_of_Commerce_in_11929.jpeg", "provider": "Wikimedia Commons", "width": 3025, "height": 2249}
 ---
 
 {% raw %}

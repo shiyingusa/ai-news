@@ -25,7 +25,7 @@ order: "20261116-0-995"
 image: "/assets/stories/2026-11-16/openai-starts-embedded-third-party-assessments-with-apollo-metr-ebd9-share.jpg"
 art: "/assets/stories/2026-11-16/openai-starts-embedded-third-party-assessments-with-apollo-metr-ebd9.jpg"
 thumb: "/assets/stories/2026-11-16/openai-starts-embedded-third-party-assessments-with-apollo-metr-ebd9-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g71f44e6a3d0d9a68a200202c26b015303a209fd686df2d05afd72118e3f3b16265ff07a5b687882ad2a2eff1bc0018d3a0ff1bb9bc24e8cb796ec4eaf3245f9a_1280.png", "author": "Norman_Gil", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/ai-generated-laboratory-scientist-10283046/", "provider": "Pixabay", "width": 7680, "height": 4287}
 ---
 
 {% raw %}

@@ -25,7 +25,7 @@ order: "20261116-0-973"
 image: "/assets/stories/2026-11-16/doe-issues-seventh-emergency-order-to-keep-michigan-coal-plant-open-7c0f-share.jpg"
 art: "/assets/stories/2026-11-16/doe-issues-seventh-emergency-order-to-keep-michigan-coal-plant-open-7c0f.jpg"
 thumb: "/assets/stories/2026-11-16/doe-issues-seventh-emergency-order-to-keep-michigan-coal-plant-open-7c0f-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Cooling_Tower_at_Michigan_City_Generating_Station_-_Coal_and_Natural_Gas_Fired_Power_Plant_-_Indiana_%2852951498173%29.jpg/1920px-Cooling_Tower_at_Michigan_City_Generating_Station_-_Coal_and_Natural_Gas_Fired_Power_Plant_-_Indiana_%2852951498173%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Tony Webster", "licence": "CC BY 2.0", "licence_url": "https://creativecommons.org/licenses/by/2.0", "source_url": "https://commons.wikimedia.org/wiki/File:Cooling_Tower_at_Michigan_City_Generating_Station_-_Coal_and_Natural_Gas_Fired_Power_Plant_-_Indiana_(52951498173).jpg", "provider": "Wikimedia Commons", "width": 9504, "height": 6336}
 ---
 
 {% raw %}

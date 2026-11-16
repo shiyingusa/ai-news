@@ -25,7 +25,7 @@ order: "20261116-0-974"
 image: "/assets/stories/2026-11-16/tesla-plans-3bn-grunheide-expansion-for-cybercab-production-from-2029-7e95-share.jpg"
 art: "/assets/stories/2026-11-16/tesla-plans-3bn-grunheide-expansion-for-cybercab-production-from-2029-7e95.jpg"
 thumb: "/assets/stories/2026-11-16/tesla-plans-3bn-grunheide-expansion-for-cybercab-production-from-2029-7e95-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/22-10-11-Tesla-Gigafactory-4.jpg/1920px-22-10-11-Tesla-Gigafactory-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Elfenbeinturm", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:22-10-11-Tesla-Gigafactory-4.jpg", "provider": "Wikimedia Commons", "width": 4032, "height": 3024}
 ---
 
 {% raw %}

@@ -25,7 +25,7 @@ order: "20261116-0-972"
 image: "/assets/stories/2026-11-16/bmw-opens-u-s-battery-plant-starts-packs-for-new-ix5-9f8c-share.jpg"
 art: "/assets/stories/2026-11-16/bmw-opens-u-s-battery-plant-starts-packs-for-new-ix5-9f8c.jpg"
 thumb: "/assets/stories/2026-11-16/bmw-opens-u-s-battery-plant-starts-packs-for-new-ix5-9f8c-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gc27cbfec4ca460eb31ffa645644572bf369af9e865a935c28648750ef73145a65dc7ffa54015b65db15018e5559f36e8b924bded196fa1a1515b1304509678b3_1280.jpg", "author": "VariousPhotography", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/electric-car-car-electric-vehicle-1458836/", "provider": "Pixabay", "width": 4912, "height": 2760}
 ---
 
 {% raw %}

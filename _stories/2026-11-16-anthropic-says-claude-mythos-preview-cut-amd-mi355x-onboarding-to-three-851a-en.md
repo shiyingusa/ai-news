@@ -25,7 +25,7 @@ order: "20261116-0-981"
 image: "/assets/stories/2026-11-16/anthropic-says-claude-mythos-preview-cut-amd-mi355x-onboarding-to-three-851a-share.jpg"
 art: "/assets/stories/2026-11-16/anthropic-says-claude-mythos-preview-cut-amd-mi355x-onboarding-to-three-851a.jpg"
 thumb: "/assets/stories/2026-11-16/anthropic-says-claude-mythos-preview-cut-amd-mi355x-onboarding-to-three-851a-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g30b02215d4dcdf185f240b3760f24beae43f16d2fb6dcf3d0f75dee023e5c38cd68d8788a2923b9854af56b188112a990e9e264dced42179d4109906a18d948e_1280.jpg", "author": "cookieone", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/internet-information-service-system-8097838/", "provider": "Pixabay", "width": 6000, "height": 4000}
 ---
 
 {% raw %}

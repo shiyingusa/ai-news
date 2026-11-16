@@ -25,7 +25,7 @@ order: "20261116-0-987"
 image: "/assets/stories/2026-11-16/corma-raises-125m-series-a-for-cyber-defense-ai-agents-f4be-share.jpg"
 art: "/assets/stories/2026-11-16/corma-raises-125m-series-a-for-cyber-defense-ai-agents-f4be.jpg"
 thumb: "/assets/stories/2026-11-16/corma-raises-125m-series-a-for-cyber-defense-ai-agents-f4be-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g559aeb1118c2f552660454e9fcaa8b0b9da488e49fe96e6cb6e6e5bd52ff35368eef209963efa67610e39fe67dac23c6914df0b060396cd97479d8b45160ceb3_1280.jpg", "author": "cliff1126", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/control-center-internet-8004870/", "provider": "Pixabay", "width": 5824, "height": 3264}
 ---
 
 {% raw %}

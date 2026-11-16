@@ -25,7 +25,7 @@ order: "20261116-0-979"
 image: "/assets/stories/2026-11-16/zoox-robotaxis-join-the-uber-app-in-las-vegas-01bc-share.jpg"
 art: "/assets/stories/2026-11-16/zoox-robotaxis-join-the-uber-app-in-las-vegas-01bc.jpg"
 thumb: "/assets/stories/2026-11-16/zoox-robotaxis-join-the-uber-app-in-las-vegas-01bc-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Zoox_autonomous_prototype_vehicle_on_Lombard_St_San_Francisco_dllu.jpg/1920px-Zoox_autonomous_prototype_vehicle_on_Lombard_St_San_Francisco_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Dllu", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Zoox_autonomous_prototype_vehicle_on_Lombard_St_San_Francisco_dllu.jpg", "provider": "Wikimedia Commons", "width": 8278, "height": 6206}
 ---
 
 {% raw %}

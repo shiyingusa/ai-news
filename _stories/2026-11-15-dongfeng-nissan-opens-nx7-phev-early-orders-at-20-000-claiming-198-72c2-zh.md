@@ -23,7 +23,7 @@ order: "20261115-990"
 image: "/assets/stories/2026-11-15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2-share.jpg"
 art: "/assets/stories/2026-11-15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2.jpg"
 thumb: "/assets/stories/2026-11-15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g35cb526da25cbb0567bc2e0b1a97ed93f963fa4f68eec9015e7b0d5abbfb59f4ff5830e3e6f0a075117046c0ba48156041df56fba81e8ac0b2f7587cd29ce656_1280.jpg", "author": "Joenomias", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/car-electric-car-hybrid-car-3117778/", "provider": "Pixabay", "width": 3380, "height": 2018}
 description: "东风日产于 11 月 13 日开启 NX7 插电混动车型的早期订单，宣称搭载 40 kWh 磷酸铁锂（LFP）电池，纯电续航最高 320 公里（约 198 英里），售价约 2 万美元。"
 ---
 

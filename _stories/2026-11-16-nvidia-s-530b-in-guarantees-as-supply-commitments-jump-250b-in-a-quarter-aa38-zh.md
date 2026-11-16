@@ -25,7 +25,7 @@ order: "20261116-0-980"
 image: "/assets/stories/2026-11-16/nvidia-s-530b-in-guarantees-as-supply-commitments-jump-250b-in-a-quarter-aa38-share.jpg"
 art: "/assets/stories/2026-11-16/nvidia-s-530b-in-guarantees-as-supply-commitments-jump-250b-in-a-quarter-aa38.jpg"
 thumb: "/assets/stories/2026-11-16/nvidia-s-530b-in-guarantees-as-supply-commitments-jump-250b-in-a-quarter-aa38-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gc1af575ed3b9604c4cea8bceb77fd4e5dd080aee7be389c3915c10da7b9b726b9dbeff5a36b3b67c3109bc1ebba14be16220b106fda04ba416cffba89f4df0a0_1280.png", "author": "snehasreegraphic", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/research-cleanroom-microscope-10294229/", "provider": "Pixabay", "width": 5632, "height": 3072}
 ---
 
 {% raw %}

@@ -25,7 +25,7 @@ order: "20261116-0-975"
 image: "/assets/stories/2026-11-16/tesla-expands-miami-robotaxi-area-to-59-square-miles-adds-downtown-aafa-share.jpg"
 art: "/assets/stories/2026-11-16/tesla-expands-miami-robotaxi-area-to-59-square-miles-adds-downtown-aafa.jpg"
 thumb: "/assets/stories/2026-11-16/tesla-expands-miami-robotaxi-area-to-59-square-miles-adds-downtown-aafa-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g80e983ca5cc1ad044b17d11b3f00c196eeaf0854758c4de8ab7253414dde02ea6601c59c7823c7ee99cc4bd34f6c877418b3e92cb2cd3f40b6c34fc6fa49cdd1_1280.jpg", "author": "pixel2013", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/traffic-road-street-cars-vehicles-3612474/", "provider": "Pixabay", "width": 5184, "height": 3694}
 ---
 
 {% raw %}

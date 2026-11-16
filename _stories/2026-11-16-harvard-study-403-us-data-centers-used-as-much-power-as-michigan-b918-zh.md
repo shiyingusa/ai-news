@@ -25,7 +25,7 @@ order: "20261116-0-982"
 image: "/assets/stories/2026-11-16/harvard-study-403-us-data-centers-used-as-much-power-as-michigan-b918-share.jpg"
 art: "/assets/stories/2026-11-16/harvard-study-403-us-data-centers-used-as-much-power-as-michigan-b918.jpg"
 thumb: "/assets/stories/2026-11-16/harvard-study-403-us-data-centers-used-as-much-power-as-michigan-b918-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Stanford_Research_Computing_Facility_%28SRCF%29_at_sunrise_on_SLAC_campus_%28SRCF-data-center-CC%29.jpg/1920px-Stanford_Research_Computing_Facility_%28SRCF%29_at_sunrise_on_SLAC_campus_%28SRCF-data-center-CC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Olivier Bonin/SLAC National Accelerator Laboratory", "licence": "CC BY 4.0", "licence_url": "https://creativecommons.org/licenses/by/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Stanford_Research_Computing_Facility_(SRCF)_at_sunrise_on_SLAC_campus_(SRCF-data-center-CC).jpg", "provider": "Wikimedia Commons", "width": 5446, "height": 3628}
 ---
 
 {% raw %}

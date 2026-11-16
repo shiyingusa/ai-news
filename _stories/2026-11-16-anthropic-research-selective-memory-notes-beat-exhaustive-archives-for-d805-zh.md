@@ -25,7 +25,7 @@ order: "20261116-0-990"
 image: "/assets/stories/2026-11-16/anthropic-research-selective-memory-notes-beat-exhaustive-archives-for-d805-share.jpg"
 art: "/assets/stories/2026-11-16/anthropic-research-selective-memory-notes-beat-exhaustive-archives-for-d805.jpg"
 thumb: "/assets/stories/2026-11-16/anthropic-research-selective-memory-notes-beat-exhaustive-archives-for-d805-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g890fea8df3b02edca43bc85d9a4fadc80d29c8a96bdac06144118c66d6852d45e90ecf8ea95b7b3b0da4fa74dd60d8413d60f713148d127345b2cd1f7fdf99a2_1280.jpg", "author": "Akela999", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/data-center-engine-room-2476790/", "provider": "Pixabay", "width": 4096, "height": 2160}
 ---
 
 {% raw %}

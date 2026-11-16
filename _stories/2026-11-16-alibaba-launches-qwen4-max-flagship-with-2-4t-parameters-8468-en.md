@@ -25,7 +25,7 @@ order: "20261116-0-998"
 image: "/assets/stories/2026-11-16/alibaba-launches-qwen4-max-flagship-with-2-4t-parameters-8468-share.jpg"
 art: "/assets/stories/2026-11-16/alibaba-launches-qwen4-max-flagship-with-2-4t-parameters-8468.jpg"
 thumb: "/assets/stories/2026-11-16/alibaba-launches-qwen4-max-flagship-with-2-4t-parameters-8468-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g18c9d70763f0b955152c9690da618c0952099e8b944a25fc788fb821b938302bca34a5fcee05d228e5ec210ffaa37d15d0f4722a4ce3e44c9a71c068033f9315_1280.jpg", "author": "geralt", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/web-network-technology-developer-3963945/", "provider": "Pixabay", "width": 5150, "height": 2716}
 ---
 
 {% raw %}

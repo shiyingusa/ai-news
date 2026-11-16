@@ -25,7 +25,7 @@ order: "20261116-0-994"
 image: "/assets/stories/2026-11-16/openai-adds-computer-use-agents-and-plugins-to-chatgpt-for-healthcare-cfcc-share.jpg"
 art: "/assets/stories/2026-11-16/openai-adds-computer-use-agents-and-plugins-to-chatgpt-for-healthcare-cfcc.jpg"
 thumb: "/assets/stories/2026-11-16/openai-adds-computer-use-agents-and-plugins-to-chatgpt-for-healthcare-cfcc-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gee2379d6e7f75ef1d9845a8968500ee91f8f46cd8dc21f9d4cdb8d1f8772789e51c6d96b726d729e9b85d697990f5f9b5dad7d5894e425b284bec90e24692a75_1280.jpg", "author": "DaveMeier", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/workstation-home-office-computer-405768/", "provider": "Pixabay", "width": 3000, "height": 2023}
 ---
 
 {% raw %}

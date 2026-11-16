@@ -25,7 +25,7 @@ order: "20261116-0-985"
 image: "/assets/stories/2026-11-16/ghana-lab-strips-guardrails-from-drug-discovery-ai-to-probe-bioweapon-20e8-share.jpg"
 art: "/assets/stories/2026-11-16/ghana-lab-strips-guardrails-from-drug-discovery-ai-to-probe-bioweapon-20e8.jpg"
 thumb: "/assets/stories/2026-11-16/ghana-lab-strips-guardrails-from-drug-discovery-ai-to-probe-bioweapon-20e8-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g54e67d1139ad7b3e573258030436598589fbf0b39091433a53b93aa36ca7e3185a06872e8978f5f6268bf0a64e3960d19db38af589ff2088c6a1568b071bd365_1280.jpg", "author": "Kost9n4", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/analysis-biochemistry-biologist-2030265/", "provider": "Pixabay", "width": 5443, "height": 3629}
 ---
 
 {% raw %}

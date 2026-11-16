@@ -25,7 +25,7 @@ order: "20261116-0-989"
 image: "/assets/stories/2026-11-16/noeri-raises-110m-led-by-menlo-ventures-for-ai-model-review-3dbf-share.jpg"
 art: "/assets/stories/2026-11-16/noeri-raises-110m-led-by-menlo-ventures-for-ai-model-review-3dbf.jpg"
 thumb: "/assets/stories/2026-11-16/noeri-raises-110m-led-by-menlo-ventures-for-ai-model-review-3dbf-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gf2df7e86b3565993ea3cf92d9f9cfdf48c64523a9bb6f278e15ff32cd8b29bfb5f074b52499e0cca6bb46849b7952fd73d107ad85db1fe59f9c708e14a59601b_1280.jpg", "author": "Innovalabs", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/software-developer-web-developer-6521720/", "provider": "Pixabay", "width": 7360, "height": 4912}
 ---
 
 {% raw %}

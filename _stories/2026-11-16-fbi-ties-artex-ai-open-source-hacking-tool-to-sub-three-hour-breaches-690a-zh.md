@@ -25,7 +25,7 @@ order: "20261116-0-991"
 image: "/assets/stories/2026-11-16/fbi-ties-artex-ai-open-source-hacking-tool-to-sub-three-hour-breaches-690a-share.jpg"
 art: "/assets/stories/2026-11-16/fbi-ties-artex-ai-open-source-hacking-tool-to-sub-three-hour-breaches-690a.jpg"
 thumb: "/assets/stories/2026-11-16/fbi-ties-artex-ai-open-source-hacking-tool-to-sub-three-hour-breaches-690a-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gd760a4568f0db419f00d72d5a7324f6e693a00b50f48bddb4943dfc7e0aa7b62e75b0d247c0f3232397de675d8f4aa0803a79d96ddc408ad98f3032834c81524_1280.jpg", "author": "cookieone", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/internet-information-service-system-8097838/", "provider": "Pixabay", "width": 6000, "height": 4000}
 ---
 
 {% raw %}
