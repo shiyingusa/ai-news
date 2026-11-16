@@ -1,6 +1,7 @@
 ---
 date: 2026-11-14 06:00:00 -0500
 layout: "story"
+redirect_from: ["/zh/2026/11/15/tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96/"]
 lang: "zh"
 issue: "2026-11-14"
 story_id: "tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96"
