@@ -117,3 +117,14 @@
     } else { loadGiscus(); }
   }
 })();
+
+// Show the last build time in the reader's own time zone.
+(function () {
+  var t = document.querySelector('.build-time');
+  if (!t) return;
+  try {
+    var d = new Date(t.getAttribute('datetime'));
+    var zh = document.documentElement.lang.indexOf('zh') === 0;
+    t.textContent = d.toLocaleString(zh ? 'zh-CN' : 'en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' });
+  } catch (e) {}
+})();

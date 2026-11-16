@@ -4,6 +4,7 @@ en:
   briefing: Daily Briefing
   briefings: Briefings
   saved_nav: Saved
+  updated_at: Updated
   archive: Archive
   about: About
   privacy: Privacy
@@ -79,6 +80,7 @@ zh:
   briefing: 每日简报
   briefings: 往期简报
   saved_nav: 收藏
+  updated_at: 更新于
   archive: 往期
   about: 关于
   privacy: 隐私政策

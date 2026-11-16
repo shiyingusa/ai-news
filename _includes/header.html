@@ -2,6 +2,7 @@
 <div class="topbar">
   <div class="wrap topbar-row">
     <span class="topbar-date" data-today data-lang="{{ L }}">{% if L == "zh" %}{{ site.time | date: "%Y年%-m月%-d日" }}{% else %}{{ site.time | date: "%A, %B %-d, %Y" }}{% endif %}</span>
+    <span class="topbar-updated">{{ T.updated_at }} <time class="build-time" datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%H:%M UTC" }}</time></span>
     <span class="topbar-links">
       <a href="{{ P | append: '/briefing/' | relative_url }}">{{ T.briefings }}</a>
       <a href="{{ P | append: '/saved/' | relative_url }}" class="saved-link">{{ T.saved_nav }}<span class="saved-count" hidden></span></a>
