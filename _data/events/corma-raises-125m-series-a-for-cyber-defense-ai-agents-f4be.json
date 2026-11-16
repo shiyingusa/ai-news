@@ -1,0 +1,57 @@
+{
+ "event_id": "corma-raises-125m-series-a-for-cyber-defense-ai-agents-f4be",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T14:30:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wall Street Journal",
+   "url": "https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Wall Street Journal's Angus Loten reports that Corma raised a $125 million Series A led by NEA, after a $60 million seed round in August, and describes the company as a year-old, Tel Aviv- and San Francisco-based builder of AI agents custom-trained for defensive cybersecurity."
+   ],
+   "unconfirmed": [
+    "The company's valuation, its customers and revenue, how many agents it has deployed, and whether the product is generally available — none of these appear in the source. The description of what the agents do rests on the company's own characterization, and no independent test or benchmark of the agents is cited."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《华尔街日报》报道，Corma 完成 1.25 亿美元 A 轮融资，由 NEA 领投，此前于今年 8 月完成 6000 万美元种子轮；公司总部设在特拉维夫和旧金山，成立约一年，产品方向是为防御性网络安全定制训练 AI 智能体。"
+   ],
+   "unconfirmed": [
+    "其智能体在真实防御场景中的效果、已部署客户数量与规模、本轮估值及资金用途，目前仅有公司及投资方一方的说法，报道未给出独立测评或审计数据；报道也未提及产品定价与正式商用时间表。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Corma raises $125M Series A for cyber-defense AI agents",
+  "zh": "AI 网络安全初创公司 Corma 获 1.25 亿美元 A 轮融资，NEA 领投"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/corma-raises-125m-series-a-for-cyber-defense-ai-agents-f4be/",
+  "zh": "/zh/2026/11/16/corma-raises-125m-series-a-for-cyber-defense-ai-agents-f4be/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

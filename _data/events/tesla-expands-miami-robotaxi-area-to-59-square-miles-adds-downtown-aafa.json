@@ -1,0 +1,57 @@
+{
+ "event_id": "tesla-expands-miami-robotaxi-area-to-59-square-miles-adds-downtown-aafa",
+ "issue": "2026-11-16",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-16T17:32:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Not a Tesla App",
+   "url": "https://www.notateslaapp.com/news/5021/tesla-nearly-doubles-miami-robotaxi-service-area-expands-into-downtown"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tesla's Miami robotaxi service map now extends east from the airport area to Downtown Miami and Biscayne Bay, according to reports citing the map itself (gettesla, Not a Tesla App). Robotaxi Tracker, which tracks the service, says Tesla has run public robotaxi rides in a limited western Miami-Dade zone since July 3, 2026, booked through the Tesla Robotaxi app and with no safety monitor on board."
+   ],
+   "unconfirmed": [
+    "The 59-square-mile figure and the roughly 31-square-mile starting point are Robotaxi Tracker's own map measurements, not Tesla's numbers — Tesla has not published an area figure. The claim of 24/7 availability rests on the outlet reports rather than a Tesla statement, and no fleet size, ride volume, safety or incident data, or regulatory approval details were provided; Miami Beach reportedly remains outside the service map."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "多家特斯拉相关媒体与追踪站点报道，特斯拉在迈阿密的 Robotaxi 服务区已向东扩展至市中心和比斯坎湾一带；据 Robotaxi Tracker 记录，该服务自 2026 年 7 月 3 日起在迈阿密-戴德县西部的一个有限区域内提供无车内安全员的公开载客服务，需通过特斯拉 Robotaxi 应用下单。"
+   ],
+   "unconfirmed": [
+    "59 平方英里、较此前约 31 平方英里「近乎翻倍」以及全天候 24/7 运营，均非特斯拉官方公布的数字或声明，而是来自追踪站点与二级媒体报道；特斯拉未披露车队规模、订单量、任何安全或运营指标，迈阿密海滩目前仍在服务区之外，扩展后的实际边界也有待独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla Expands Miami Robotaxi Area to 59 Square Miles, Adds Downtown",
+  "zh": "特斯拉迈阿密 Robotaxi 服务区扩至 59 平方英里，覆盖市中心"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/tesla-expands-miami-robotaxi-area-to-59-square-miles-adds-downtown-aafa/",
+  "zh": "/zh/2026/11/16/tesla-expands-miami-robotaxi-area-to-59-square-miles-adds-downtown-aafa/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

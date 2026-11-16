@@ -1,0 +1,57 @@
+{
+ "event_id": "zoox-robotaxis-join-the-uber-app-in-las-vegas-01bc",
+ "issue": "2026-11-16",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-16T12:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "According to TechCrunch, Zoox robotaxis are now bookable on the Uber app in Las Vegas, and this is the first time the Amazon-owned company has partnered with a ride-hailing platform."
+   ],
+   "unconfirmed": [
+    "Fleet size, geographic coverage within Las Vegas, fares, service hours, whether vehicles run without human safety operators, and whether Zoox's own app continues to offer rides — none of these details appear in the available reporting, and neither company's claims were independently tested."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "TechCrunch 报道称，Zoox 的自动驾驶出租车已在拉斯维加斯上线于 Uber 应用内可供呼叫，Zoox 隶属亚马逊，且这是其与网约车平台的首次合作。"
+   ],
+   "unconfirmed": [
+    "车队规模、可用时段与地理围栏范围、是否配备安全员、价格与补贴、Uber 与 Zoox 的分工和商业条款，以及车辆在真实运营中的表现，均仅见于单一媒体报道或未被提及；报道也未说明此前 Zoox 以何种方式载客。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Zoox robotaxis join the Uber app in Las Vegas",
+  "zh": "Zoox 自动驾驶出租车接入 Uber 应用，落地拉斯维加斯"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/zoox-robotaxis-join-the-uber-app-in-las-vegas-01bc/",
+  "zh": "/zh/2026/11/16/zoox-robotaxis-join-the-uber-app-in-las-vegas-01bc/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

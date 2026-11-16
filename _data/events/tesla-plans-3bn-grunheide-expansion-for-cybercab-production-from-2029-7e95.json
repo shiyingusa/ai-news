@@ -1,0 +1,62 @@
+{
+ "event_id": "tesla-plans-3bn-grunheide-expansion-for-cybercab-production-from-2029-7e95",
+ "issue": "2026-11-16",
+ "section": "ev-energy",
+ "published_at": "2026-11-16T16:45:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/16/tesla-announces-multi-billion-euro-expansion-of-gigafactory-grunheide/"
+  },
+  {
+   "tier": "independent",
+   "name": "Teslarati",
+   "url": "https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tesla said on 16 November that it will invest €3 billion (about $3.3 billion) in expanding Gigafactory Grünheide, including a new production building roughly twice the size of the existing main hall, an additional wastewater treatment plant, and Cybercab manufacturing from 2029, with construction targeted for the first half of 2027 (electrive, drawing on Teslarati and Tagesspiegel). The site currently employs about 12,600 people and is ramping Model Y output toward 7,500 vehicles a week; plant manager André Thierig said on 11 November that full 4680 cell assembly on site is on track for mid-2027."
+   ],
+   "unconfirmed": [
+    "The €3 billion figure, the design capacity of up to one million Cybercabs a year and the 18 GWh annual cell target are all Tesla's own projections, relayed through Teslarati rather than an independent audit. The building permit application has not yet been filed — Tesla says it will submit it before the end of 2026, under a 2023 expansion application — so no approval exists, and the article reports the filing plan via a single Tagesspiegel report. Also unaddressed: whether European regulators will permit a steering-wheel-free robotaxi to operate, and any independent check on cost or timeline."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，特斯拉于 11 月 16 日宣布向格林海德工厂投资 30 亿欧元（约 33 亿美元），新建约为现有主厂房两倍的生产车间，并配套废水处理设施；公司宣布该项目规划用于 Cybercab，施工目标为 2027 年上半年、投产目标为 2029 年。工厂经理 André Thierig 在 11 月 11 日表示，完整电芯生产预计 2027 年中到位。"
+   ],
+   "unconfirmed": [
+    "年产 100 万辆 Cybercab、最高 18 GWh 电芯产能、约 10 亿欧元电芯累计投资和 1,500 个岗位等数字均为公司或工厂管理层的规划口径，尚无独立验证；2026 年底前提交建筑许可申请目前只见于媒体报道，许可能否获批、2027 年能否开工及 2029 年能否投产均未确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla plans €3bn Grünheide expansion for Cybercab production from 2029",
+  "zh": "特斯拉拟投30亿欧元扩建柏林工厂，2029年起生产Cybercab"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/tesla-plans-3bn-grunheide-expansion-for-cybercab-production-from-2029-7e95/",
+  "zh": "/zh/2026/11/16/tesla-plans-3bn-grunheide-expansion-for-cybercab-production-from-2029-7e95/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

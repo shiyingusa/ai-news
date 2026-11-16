@@ -1,0 +1,57 @@
+{
+ "event_id": "doe-issues-seventh-emergency-order-to-keep-michigan-coal-plant-open-7c0f",
+ "issue": "2026-11-16",
+ "section": "ev-energy",
+ "published_at": "2026-11-16T16:48:21+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/16/trump-again-orders-broken-coal-plant-to-stay-open-even-after-court-said-its-illegal/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reports that DOE issued a seventh emergency order keeping J.H. Campbell open 534 days past its retirement date, and that the orders have cost ratepayers $303 million."
+   ],
+   "unconfirmed": [
+    "the court ruling referenced in the headline — neither the court, the date, nor the scope of the decision is described in the source text — and the $303 million figure and the link to higher electricity prices, which are Electrek's own accounting rather than an independent audit. DOE's stated justification for the seventh order is also not included."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，美国能源部已发出第七次紧急令，使 J.H. Campbell 煤电厂在原定退役 534 天后仍继续运行，累计给电费承担者造成 3.03 亿美元成本。"
+   ],
+   "unconfirmed": [
+    "标题所称“法院已判定其违法”涉及的具体法院、裁决时间与法律依据均未在报道正文出现；3.03 亿美元的计算口径、成本如何分摊进用户账单，以及能源部对裁决的回应，目前只有该媒体的单一报道，无独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "DOE issues seventh emergency order to keep Michigan coal plant open",
+  "zh": "美能源部第七次紧急令续命密歇根煤电厂，用户多付3.03亿美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/doe-issues-seventh-emergency-order-to-keep-michigan-coal-plant-open-7c0f/",
+  "zh": "/zh/2026/11/16/doe-issues-seventh-emergency-order-to-keep-michigan-coal-plant-open-7c0f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

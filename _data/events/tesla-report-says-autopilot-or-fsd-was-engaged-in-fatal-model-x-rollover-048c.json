@@ -1,0 +1,57 @@
+{
+ "event_id": "tesla-report-says-autopilot-or-fsd-was-engaged-in-fatal-model-x-rollover-048c",
+ "issue": "2026-11-16",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-16T18:10:05+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tesla’s report to federal regulators, as reported by Electrek, states that Autopilot or Full Self-Driving was engaged when a Model X struck a traffic signal pole and overturned in Naples, Florida, in September, killing a 50-year-old woman passenger; Tesla also says it has the vehicle’s event data recorder and video."
+   ],
+   "unconfirmed": [
+    "Which system—Autopilot or FSD—was active and whether it was controlling the vehicle at impact, what caused the Model X to leave the road, and what the EDR and video show; those details rest on Tesla’s account and have not been independently established or publicly released."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，特斯拉向美国联邦监管机构提交的报告显示，9 月在佛罗里达州那不勒斯，一辆特斯拉 Model X 在 Golden Gate Parkway 偏离道路、撞上交通信号灯杆并翻车，车内一名 50 岁女性乘客死亡；特斯拉通过车联网自行上报了这起事故，并表示持有该车的事件数据记录器和视频。"
+   ],
+   "unconfirmed": [
+    "特斯拉的报告只称 Autopilot 或“Full Self-Driving”处于启用状态，未说明具体是哪个系统、哪个版本，也未给出准确日期、车速、驾驶员状态或事故原因；来源未提及 NHTSA 是否已立案或得出调查结论，事故经过也尚无独立第三方验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla report says Autopilot or FSD was engaged in fatal Model X rollover",
+  "zh": "特斯拉 Model X 在 Autopilot 或 FSD 启用时撞杆翻覆，乘客死亡"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/tesla-report-says-autopilot-or-fsd-was-engaged-in-fatal-model-x-rollover-048c/",
+  "zh": "/zh/2026/11/16/tesla-report-says-autopilot-or-fsd-was-engaged-in-fatal-model-x-rollover-048c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

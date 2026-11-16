@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-s-530b-in-guarantees-as-supply-commitments-jump-250b-in-a-quarter-aa38",
+ "issue": "2026-11-16",
+ "section": "chips-compute",
+ "published_at": "2026-11-16T11:00:00+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Nvidia's own SEC filing for the quarter ended July 26, 2026 reports roughly $530 billion in gross off-balance-sheet guarantees — $366 billion in future commitments (of which $279 billion is supply and capacity), $56 billion in additional commitments and $108.5 billion in maximum gross exposure under guarantees — plus $99 billion of equity investments. Nvidia's November 12, 2026 press release confirms Jensen Huang resigned and that CFO Colette Kress is interim CEO, which resolves the article's confusing reference to Huang as \"former chief executive\" while also calling Kress the current interim CEO."
+   ],
+   "unconfirmed": [
+    "the $184 billion prior-quarter comparison and the nearly $250 billion single-quarter rise in supply commitments are SemiAnalysis estimates, not figures the article ties to the filing; the HBM4 pricing gaps (about $3.00–3.30 per gigabit for Nvidia versus $3.70–4.10 for AMD, Amazon, Broadcom and Google in 2027), the alleged informal Nvidia–SK Group arrangement, Huang's reported August concerns about over-committing to wafers and memory, and Kress halving the Ohio/OpenAI commitment before the August 17 agreement all rest on SemiAnalysis analysis and Wall Street Journal reporting attributed to unnamed people."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Nvidia 向美国证券交易委员会提交的文件及 SemiAnalysis 的解读显示，截至 2027 财年第二季度末，公司持有约 5300 亿美元毛额表外担保（上一季度为 1840 亿美元），另有约 990 亿美元股权投资，该数字得到 AI Business Weekly、Crypto Briefing 等独立报道的一致引用；Nvidia 官方新闻稿以及 CNN、《卫报》均确认黄仁勋已于 11 月 12 日辞去 CEO 及董事职务，由首席财务官 Colette Kress 出任临时 CEO。"
+   ],
+   "unconfirmed": [
+    "单季供应与产能承诺增加近 2500 亿美元、2027 年 SK 海力士对 Nvidia 的 HBM4 报价为每吉比特 3.00–3.30 美元而 AMD、亚马逊、博通、谷歌等客户为 3.70–4.10 美元、黄仁勋在 8 月高管会议上对采购规模的担忧、以及 Kress 在签约前将俄亥俄州 OpenAI 项目承诺减半，均来自 SemiAnalysis 的估算或《华尔街日报》的未具名消息源，Nvidia 未逐项确认。报道本身还并列出 2790 亿美元“供应与产能承诺”与“单季增加近 2500 亿美元”两个数字，二者统计口径不同，读者不应直接相加。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nvidia's $530B in guarantees as supply commitments jump $250B in a quarter",
+  "zh": "英伟达表外担保达 5300 亿美元，单季供应承诺增近 2500 亿"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/nvidia-s-530b-in-guarantees-as-supply-commitments-jump-250b-in-a-quarter-aa38/",
+  "zh": "/zh/2026/11/16/nvidia-s-530b-in-guarantees-as-supply-commitments-jump-250b-in-a-quarter-aa38/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

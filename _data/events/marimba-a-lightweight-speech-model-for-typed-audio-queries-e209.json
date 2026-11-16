@@ -1,0 +1,57 @@
+{
+ "event_id": "marimba-a-lightweight-speech-model-for-typed-audio-queries-e209",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T15:47:18+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "low",
+  "reason": "0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "community",
+   "name": "Reddit r/MachineLearning",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "An arXiv preprint (2611.18330) by the Marimba authors describes a speech interface built on frozen Qwen3-ASR 0.6B features, where lexical term questions are scored zero-shot from ASR transcripts and non-lexical questions use a question-conditioned head plus a separate layer-18 turn-end readout; the author also links Apache-2.0 weights, code and a demo."
+   ],
+   "unconfirmed": [
+    "All benchmark figures — matching or beating Qwen3-Omni (30B-A3B) on 6 of 9 tests, 100% language ID on 300 FLEURS clips, speaker-change AUROC of 0.966–0.980 on AMI and VoxConverse, and speaker count beating pyannote 3.1 — are author-reported in a non-peer-reviewed preprint with no independent replication; the authors themselves flag that the turn-end readout was trained on Smart Turn data and that all heads fall to chance on unseen CochlScene classification."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 arXiv 论文（2611.18330）与作者帖，Marimba 以冻结的 Qwen3-ASR 0.6B 编码器特征为基础，每个音频窗口只跑一次编码；词汇类问题对 ASR 转写做零样本打分并做 Platt 校准，非词汇类问题用问题条件化读出头，turn-end 另用第 18 层读出；代码与 Apache-2.0 权重已公开。"
+   ],
+   "unconfirmed": [
+    "论文自报的“9 项测试中 6 项追平或超过 Qwen3-Omni（30B-A3B）”、语言识别在 300 条 FLEURS 上 100%、说话人变化 AUROC 0.966–0.980、说话人计数优于 pyannote 3.1 等结果尚无第三方复现；作者也承认 turn-end 读出在 Smart Turn 数据上训练，该行仅对自家分布内有效，且在 CochlScene 等未见任务上各读出头仅达随机水平。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Marimba: A Lightweight Speech Model for Typed Audio Queries",
+  "zh": "Marimba：单次冻结语音编码器支持多类音频查询"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/marimba-a-lightweight-speech-model-for-typed-audio-queries-e209/",
+  "zh": "/zh/2026/11/16/marimba-a-lightweight-speech-model-for-typed-audio-queries-e209/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

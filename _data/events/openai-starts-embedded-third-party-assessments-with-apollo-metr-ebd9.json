@@ -1,0 +1,62 @@
+{
+ "event_id": "openai-starts-embedded-third-party-assessments-with-apollo-metr-ebd9",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T08:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "high",
+  "reason": "primary + 1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "OpenAI News",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+  },
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI announced a first phase of embedded assessments, naming Apollo Research, METR, Transluce and Goodfire as the outside groups that will independently evaluate its models' alignment, safeguards and monitoring systems, according to OpenAI's own announcement. The source item adds that OpenAI will embed six Apollo Research evaluators to investigate whether its models engage in subversive behavior."
+   ],
+   "unconfirmed": [
+    "The announcement as supplied discloses no findings, no timeline, and no specific models or systems covered, and no third-party confirmation of the arrangement's terms. The source item also says that restrictions on access and disclosure raise questions about how independent the evaluations will be — a characterization that, along with the figure of six embedded evaluators, rests on that single account rather than on any published evaluation result."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire 启动首阶段“嵌入式评估”，评估范围包括模型对齐、防护措施和监控系统；OpenAI 还表示将嵌入六名 Apollo Research 评估人员，调查模型是否存在颠覆性行为。"
+   ],
+   "unconfirmed": [
+    "评估所涉具体模型、时间表、各合作方的访问权限和披露条件均未公布，首阶段也尚无评估结果；这些评估能否被视为“独立”仍待观察，因为随附摘要提到，访问与披露限制引发了对独立性的疑问。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI starts embedded third-party assessments with Apollo, METR, Transluce, Goodfire",
+  "zh": "OpenAI 启动首批内嵌评估：Apollo、METR 等四家机构参与"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/openai-starts-embedded-third-party-assessments-with-apollo-metr-ebd9/",
+  "zh": "/zh/2026/11/16/openai-starts-embedded-third-party-assessments-with-apollo-metr-ebd9/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

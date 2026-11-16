@@ -1,0 +1,57 @@
+{
+ "event_id": "tesla-report-says-autopilot-fsd-engaged-at-74-mph-in-fatal-crash-aeb0",
+ "issue": "2026-11-16",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-16T16:00:24+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-fiery-crash-el-dorado-hills/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reports that Tesla's own submission to federal regulators states Autopilot or Full Self-Driving was engaged at 74 mph when a Model Y left a parkway in El Dorado Hills, California, hit a tree and caught fire; CBS Sacramento and ABC10 reported in September that three of the four occupants died and the fourth was hospitalized with major injuries, and that the CHP was investigating."
+   ],
+   "unconfirmed": [
+    "Electrek does not link or quote the filing directly, so which system (Autopilot or FSD) was active, whether it was operating as designed, and whether driver or system error caused the crash all remain unestablished; NHTSA's own investigation status and any findings are not reported. The source also does not give Tesla's explanation or comment on the crash."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 查阅特斯拉提交给美国联邦监管机构的报告，9 月在加州埃尔多拉多山（El Dorado Hills）冲出公园大道撞树起火的那辆 Model Y，事发时处于 Autopilot 或“完全自动驾驶”（FSD）启用状态，车速为 74 英里/小时；加州公路巡警（CHP）与当地媒体（CBS 萨克拉门托、ABC10）确认，车内 4 人中 3 人死亡、1 人重伤，事发于周六夜间。此前当地报道只描述为单车起火事故，未提及驾驶辅助系统介入。"
+   ],
+   "unconfirmed": [
+    "Autopilot/FSD 在撞击瞬间是否仍在实际控制车辆、系统是否被驾驶员接管，以及特斯拉申报数据的具体字段与判定依据，均只见于 Electrek 对申报文件的转述，未见原始文件或 NHTSA 的独立说明；NHTSA 是否就此启动或升级调查、事故的最终原因认定也尚无公开结论。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla report says Autopilot/FSD engaged at 74 mph in fatal crash",
+  "zh": "特斯拉 Autopilot/FSD 涉加州致命车祸，监管文件记录 74 英里车速"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/tesla-report-says-autopilot-fsd-engaged-at-74-mph-in-fatal-crash-aeb0/",
+  "zh": "/zh/2026/11/16/tesla-report-says-autopilot-fsd-engaged-at-74-mph-in-fatal-crash-aeb0/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

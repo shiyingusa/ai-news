@@ -1,0 +1,57 @@
+{
+ "event_id": "tokeneconomizer-cuts-coding-agent-costs-by-learning-from-past-sessions-8451",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T17:01:35+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "Microsoft Research",
+   "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Microsoft Research's post states that TokenEconomizer is an open-source plugin that learns from session logs without modifying the agent or model, and that in the authors' 277-task evaluation it reduced costs by 18.4–30.9% across multiple coding agents, with costs falling in every repository and success rates broadly stable."
+   ],
+   "unconfirmed": [
+    "Independent reproduction, the specific agents and models tested, absolute cost or token figures, and public installation or availability details; the supplied excerpt is truncated and does not provide them."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "微软研究院博客称，TokenEconomizer 以开源插件形式发布，仅通过智能体已有接口介入、不改动模型；在 277 个真实 bug 修复任务上，多种编码智能体的成本下降 18.4%–30.9%，且每个测试仓库的成本均下降。这一点由作者团队自己报告。"
+   ],
+   "unconfirmed": [
+    "成功率“基本持平”没有公布具体数字；18.4%–30.9% 属作者自测，帖文未提供第三方独立复现；也未说明测试了哪些智能体的具体版本、插件代码仓库地址与许可证，以及“裁判模型”是哪一款。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "TokenEconomizer Cuts Coding-Agent Costs by Learning From Past Sessions",
+  "zh": "微软开源 TokenEconomizer：编码智能体成本降 18.4%–30.9%"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/tokeneconomizer-cuts-coding-agent-costs-by-learning-from-past-sessions-8451/",
+  "zh": "/zh/2026/11/16/tokeneconomizer-cuts-coding-agent-costs-by-learning-from-past-sessions-8451/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

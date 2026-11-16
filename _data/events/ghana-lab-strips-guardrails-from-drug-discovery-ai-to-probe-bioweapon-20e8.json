@@ -1,0 +1,57 @@
+{
+ "event_id": "ghana-lab-strips-guardrails-from-drug-discovery-ai-to-probe-bioweapon-20e8",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T11:00:23+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Rest of World",
+   "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Rest of World reports that researchers at a small Accra-based AI lab removed the guardrails on their own drug-discovery model in 2024 and prompted it to design toxins."
+   ],
+   "unconfirmed": [
+    "what the model output, whether any toxin designs were viable or ordered, whether the experiment was peer-reviewed or documented in a paper, and the lab's own public statement — the excerpt is a short profile rather than a technical report, and the lab is named in the article's web address rather than in the supplied text."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Rest of World 报道了加纳阿克拉实验室在 2024 年移除药物发现模型防护栏并要求其设计毒素，报道将此事与 DNA 合成监管缺口相连。"
+   ],
+   "unconfirmed": [
+    "模型是否真的生成可操作毒素设计、涉及哪些毒素、防护栏的具体形式，以及实验室是否公开完整结果；提供的摘录未说明这些细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Ghana lab strips guardrails from drug-discovery AI to probe bioweapon risk",
+  "zh": "加纳小型 AI 实验室移除药物发现模型防护栏测试毒素"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/ghana-lab-strips-guardrails-from-drug-discovery-ai-to-probe-bioweapon-20e8/",
+  "zh": "/zh/2026/11/16/ghana-lab-strips-guardrails-from-drug-discovery-ai-to-probe-bioweapon-20e8/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

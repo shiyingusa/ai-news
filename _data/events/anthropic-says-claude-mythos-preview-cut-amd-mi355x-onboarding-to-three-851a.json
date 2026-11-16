@@ -1,0 +1,57 @@
+{
+ "event_id": "anthropic-says-claude-mythos-preview-cut-amd-mi355x-onboarding-to-three-851a",
+ "issue": "2026-11-16",
+ "section": "chips-compute",
+ "published_at": "2026-11-16T15:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Anthropic, through co-founder Tom Brown in a Nov. 10 IPO roadshow video, stated that Claude Mythos Preview brought up one model on AMD MI355X GPUs for prompt processing in about three days with basically no human intervention and wrote or ported almost 100% of kernels; the prospectus repeats a qualitative version."
+   ],
+   "unconfirmed": [
+    "independent tests of the three-day time, near-100% kernel figure, or resulting performance; the scope is prompt processing for one model, and the six-to-12-month baseline is Anthropic’s historical estimate."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Anthropic 在 IPO 路演视频中向投资者作出该表述，幻灯片脚注将三天限定为一个模型的提示处理；Tom's Hardware 报道了路演内容。"
+   ],
+   "unconfirmed": [
+    "6–12 个月的旧基准来自 Anthropic 的“历史经验”，“几乎 100% 内核”“基本无人工干预”和实际性能均未独立复现，也未说明训练或其他模型是否同样适用。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding to three days",
+  "zh": "Anthropic 称 Mythos 三天完成 AMD MI355X 内核适配"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/anthropic-says-claude-mythos-preview-cut-amd-mi355x-onboarding-to-three-851a/",
+  "zh": "/zh/2026/11/16/anthropic-says-claude-mythos-preview-cut-amd-mi355x-onboarding-to-three-851a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

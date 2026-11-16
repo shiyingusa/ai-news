@@ -1,0 +1,57 @@
+{
+ "event_id": "helus-pharma-s-hlp003-shows-phase-3-depression-benefit-with-safety-2e8f",
+ "issue": "2026-11-16",
+ "section": "science-bio",
+ "published_at": "2026-11-16T13:07:47+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "STAT News",
+   "url": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Helus Pharma announced topline results from a Phase 3 trial of HLP003, given as two doses three weeks apart on top of participants' existing antidepressants; per the company's statement reported by STAT, the drug group's MADRS depression score fell 19.5 points at six weeks versus 11.9 for placebo, and 16.9 versus 9.9 at 12 weeks, with the between-group differences statistically significant. Helus also disclosed that the study included a number of serious adverse events."
+   ],
+   "unconfirmed": [
+    "how many serious adverse events occurred, what they were, and whether they were judged related to HLP003; the full safety and efficacy dataset, which has not been peer-reviewed or published, and any regulator's view of it; and the eventual filing and approval timeline for HLP003."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 STAT 报道，Helus Pharma 周一公布，其迷幻药候选药物 HLP003 在一项针对重度抑郁症的 III 期试验中达到主要终点——受试者在试验首日和第三周各服药一次，同时继续服用原有抗抑郁药；第 6 周治疗组 MADRS 抑郁评分下降 19.5 分，安慰剂组下降 11.9 分；第 12 周分别为 16.9 分和 9.9 分，两组差异均具统计学显著性。上述数字全部来自公司公告，而非同行评议论文或监管文件。"
+   ],
+   "unconfirmed": [
+    "报道只笼统提到“多起严重不良事件”，未说明其数量、性质、是否与药物相关，也未给出停药率、试验样本量，公司是否已提交期刊或监管机构同样未披露，疗效与安全性均无独立验证；此外，公司此前对 III 期数据读出时间的公开说法不一致，一份会议报道称预计 2025 年第四季度，另一份则称 2026 年第四季度，NDA 申报目标为 2028 年，这些时间点均未获本次公告确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Helus Pharma's HLP003 shows Phase 3 depression benefit, with safety questions",
+  "zh": "Helus 迷幻药 HLP003 三期试验改善抑郁，严重不良事件引安全疑虑"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/helus-pharma-s-hlp003-shows-phase-3-depression-benefit-with-safety-2e8f/",
+  "zh": "/zh/2026/11/16/helus-pharma-s-hlp003-shows-phase-3-depression-benefit-with-safety-2e8f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "openai-expands-free-chatgpt-access-to-200-000-researchers-f26f",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T17:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "OpenAI News",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI's own announcement states the company is expanding its ChatGPT for Academic Researchers program to give 200,000 researchers worldwide free access to its frontier models (tool-2-1). OpenAI's earlier program page for the initiative, dated July 29, 2026, said participants receive free access across ChatGPT, ChatGPT Work and Codex — including the GPT-5.6 family at launch — plus expanded deep research, higher usage limits and larger context windows (tool-2-2)."
+   ],
+   "unconfirmed": [
+    "The mechanics of the expansion rest mainly on a single outlet, Semafor, which reports 50,000 new grants awarded first-come, first-served, each recipient able to extend access to up to two collaborators (tool-2-3); it also describes the figure as \"up to 200,000,\" whereas OpenAI's page states 200,000 flatly, and neither source makes clear whether that number is cumulative across the program or newly added. OpenAI's announcement gives no eligibility criteria, country list, application window, expiry date or which model versions the expanded cohort will receive."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "OpenAI 在官方公告中表示，将把 ChatGPT for Academic Researchers 项目扩大到面向全球 20 万名研究人员，免费提供其前沿模型的使用权限；这是 OpenAI 自行宣布的项目扩展，尚无独立测试结果。"
+   ],
+   "unconfirmed": [
+    "公告未说明具体开放日期、申请资格、可用模型版本、使用额度与项目期限；Semafor 报道的“新增 5 万份资助、先到先得、受资助者可再邀请两名合作者”目前仅见于该单一报道，OpenAI 公告未提及。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI expands free ChatGPT access to 200,000 researchers",
+  "zh": "OpenAI 向全球 20 万名学术研究人员免费开放前沿模型"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/openai-expands-free-chatgpt-access-to-200-000-researchers-f26f/",
+  "zh": "/zh/2026/11/16/openai-expands-free-chatgpt-access-to-200-000-researchers-f26f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

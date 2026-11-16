@@ -1,0 +1,57 @@
+{
+ "event_id": "noeri-raises-110m-led-by-menlo-ventures-for-ai-model-review-3dbf",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T16:55:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg's report says Noeri, a five-month-old startup, raised $110M led by Menlo Ventures for software that reviews clients' AI models and tools; separate reports corroborate the round and identify Stanford professors Carlos Guestrin and Yejin Choi as co-founders, with Nvidia, Snowflake, Cisco, Madrona, Kindred Ventures and NEA also investing."
+   ],
+   "unconfirmed": [
+    "Noeri's claimed performance and cost improvements, named customers, independent benchmarks, pricing, and availability; the Bloomberg excerpt itself names neither the founders nor the additional investors."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Bloomberg 记者 Dina Bass 的报道（经 Techmeme 转载），成立五个月、由两位斯坦福人工智能学者共同创办的 Noeri 已完成 1.1 亿美元融资，由 Menlo Ventures 领投；多家二手媒体报道本轮还有 Nvidia、Snowflake、Cisco、Madrona、Kindred Ventures 和 NEA 参与，并称创始人为 Carlos Guestrin 与 Yejin Choi。该公司的产品方向是分析客户的 AI 模型与工具并给出改进建议。"
+   ],
+   "unconfirmed": [
+    "本轮融资的估值、除 1.1 亿美元之外是否还有未披露的融资安排，均无来源说明；创始团队所称工具能让较旧模型在性能或成本上取得改善，目前只有公司方面的说法，没有独立评测或基准数据；产品是否已正式发布、如何定价、已有多少客户，原始报道与二手报道都未交代。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Noeri raises $110M led by Menlo Ventures for AI model review",
+  "zh": "Noeri 获 1.1 亿美元融资，Menlo Ventures 领投"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/noeri-raises-110m-led-by-menlo-ventures-for-ai-model-review-3dbf/",
+  "zh": "/zh/2026/11/16/noeri-raises-110m-led-by-menlo-ventures-for-ai-model-review-3dbf/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

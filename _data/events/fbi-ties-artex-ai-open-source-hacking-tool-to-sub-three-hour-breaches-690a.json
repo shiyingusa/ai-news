@@ -1,0 +1,57 @@
+{
+ "event_id": "fbi-ties-artex-ai-open-source-hacking-tool-to-sub-three-hour-breaches-690a",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T17:36:43+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Multiple outlets, citing an FBI warning, report that the bureau named ARTEX — described as an open-source, AI-powered penetration-testing framework whose agents automate network attacks — as a tool used in intrusions, including against a U.S. IT company and South Korea's financial sector."
+   ],
+   "unconfirmed": [
+    "The claim that some intrusions reached privileged access in under three hours rests on the FBI's account as relayed by secondary outlets; the supplied material does not name the victims, give a count of affected organizations, link the tool to the reported ConnectWise-related supply-chain incident, or include the FBI advisory itself or any independent technical analysis."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 TechCrunch、BleepingComputer 和 CybersecurityNews 等多家媒体报道，美国联邦调查局（FBI）发出警告，称攻击者正在使用一个名为 ARTEX 的开源 AI 渗透测试框架来自动化网络攻击；这些报道称，FBI 将针对一家美国 IT 公司和韩国金融业的入侵与这一工具联系起来，并指出部分入侵在不到三小时内就获得了特权访问权限（BleepingComputer 还提到了一起 ConnectWise 供应链事件）。"
+   ],
+   "unconfirmed": [
+    "FBI 原始公告的全文及技术细节（攻击手法、ARTEX 的具体版本或组件、入侵指标）未在所引报道中给出；“三小时内取得特权访问”这一数字的统计范围与样本也不清楚；受害组织均未具名，ConnectWise 供应链事件的关联仅见于单一报道，尚无独立确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "FBI ties Artex AI open-source hacking tool to sub-three-hour breaches",
+  "zh": "FBI：开源AI黑客工具Artex AI不到三小时攻破网络"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/fbi-ties-artex-ai-open-source-hacking-tool-to-sub-three-hour-breaches-690a/",
+  "zh": "/zh/2026/11/16/fbi-ties-artex-ai-open-source-hacking-tool-to-sub-three-hour-breaches-690a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

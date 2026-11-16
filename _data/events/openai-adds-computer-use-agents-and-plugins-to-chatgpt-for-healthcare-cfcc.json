@@ -1,0 +1,57 @@
+{
+ "event_id": "openai-adds-computer-use-agents-and-plugins-to-chatgpt-for-healthcare-cfcc",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T06:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "OpenAI News",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI says it is introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software; a related OpenAI page says ChatGPT for Healthcare provides role-based access controls and audit logs for oversight (OpenAI, tool-3-2, tool-3-1)."
+   ],
+   "unconfirmed": [
+    "OpenAI has not disclosed which software the plugins support, when these capabilities will be available or to which customers, how clinical answers were improved or measured, or what limits exist on agent actions without human review; no independent evaluation or regulatory clearance is cited."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "OpenAI 的官方公告称，ChatGPT for Healthcare 新增计算机使用代理、改进的临床回答，以及可跨医疗软件工作的新插件；OpenAI 的配套说明还称，该产品提供基于角色的访问控制和审计日志，以支持人工监督。"
+   ],
+   "unconfirmed": [
+    "临床回答的改进幅度、代理在真实临床环境中的安全性和准确率是否有独立评测，以及插件具体支持哪些医疗软件、价格和普遍可用时间，公告均未给出。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI adds computer-use agents and plugins to ChatGPT for Healthcare",
+  "zh": "OpenAI 为 ChatGPT 医疗版新增计算机操作智能体与医疗软件插件"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/openai-adds-computer-use-agents-and-plugins-to-chatgpt-for-healthcare-cfcc/",
+  "zh": "/zh/2026/11/16/openai-adds-computer-use-agents-and-plugins-to-chatgpt-for-healthcare-cfcc/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "harvard-study-403-us-data-centers-used-as-much-power-as-michigan-b918",
+ "issue": "2026-11-16",
+ "section": "chips-compute",
+ "published_at": "2026-11-16T16:45:01+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wired",
+   "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Wired reports that Harvard researchers counted 403 U.S. data centers operating between May 2024 and April 2025 whose combined annual electricity use matched Michigan's, with off-grid gas-powered facilities left out."
+   ],
+   "unconfirmed": [
+    "the underlying study's methodology, its absolute consumption figures, how facilities were identified and matched to grid data, and whether the 403 figure is a complete census — all of that rests on Wired's summary of a paper the source does not link to directly or quote in detail."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《连线》报道（Techmeme 转述），哈佛的一项研究将 2024 年 5 月至 2025 年 4 月间运营的 403 座美国数据中心的年用电量，与密歇根州全州用电量作了对比，并明确把配有离网燃气发电厂的设施排除在外。"
+   ],
+   "unconfirmed": [
+    "研究的具体用电量数值（太瓦时）、403 座设施的界定标准与数据来源、是否经同行评审，以及「相当于密歇根州」是按何种口径折算，均只见于这则简短转述，尚未由研究原文或独立第三方核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Harvard study: 403 US data centers used as much power as Michigan",
+  "zh": "哈佛研究：403座美国数据中心年耗电量相当于密歇根州"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/harvard-study-403-us-data-centers-used-as-much-power-as-michigan-b918/",
+  "zh": "/zh/2026/11/16/harvard-study-403-us-data-centers-used-as-much-power-as-michigan-b918/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

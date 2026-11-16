@@ -1,0 +1,57 @@
+{
+ "event_id": "agile-robots-raises-500m-series-f-at-8-5b-valuation-c9da",
+ "issue": "2026-11-16",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-16T17:47:48+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Robot Report",
+   "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Robot Report reports a $500 million Series F led by SoftBank Group, with NVIDIA, Hitachi Group and T.Capital participating, at an $8.5 billion valuation and $2 billion total funding; Agile Robots says it has deployed 20,000 industrial robots."
+   ],
+   "unconfirmed": [
+    "The round's terms, revenue, current factory utilization and a U.S. site or timeline are not disclosed; the 10,000-unit annual figure is stated capacity at an existing German plant, not current output or capacity added by this round."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Robot Report 报道，Agile Robots 宣布完成 5 亿美元 F 轮融资，估值 85 亿美元、累计融资 20 亿美元；软银集团领投，英伟达、日立集团和 T.Capital 参投。"
+   ],
+   "unconfirmed": [
+    "5 亿美元的具体分配、扩产和美国扩张的时间表、客户名单与订单量均未披露；85 亿美元估值、德国工厂最高 1 万台年产能和已部署 2 万台工业机器人等数字均来自公司披露，未获独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Agile Robots raises $500M Series F at $8.5B valuation",
+  "zh": "Agile Robots 获 5 亿美元 F 轮融资，估值 85 亿美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/agile-robots-raises-500m-series-f-at-8-5b-valuation-c9da/",
+  "zh": "/zh/2026/11/16/agile-robots-raises-500m-series-f-at-8-5b-valuation-c9da/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "cg-oncology-s-cretostimogene-cut-bladder-cancer-recurrence-68-in-phase-391c",
+ "issue": "2026-11-16",
+ "section": "science-bio",
+ "published_at": "2026-11-16T13:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "STAT News",
+   "url": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "CG Oncology announced topline results from a randomized Phase 3 trial in 367 patients with intermediate-risk bladder cancer showing a 68% reduction in recurrence risk versus current medical practice, according to the company as reported by STAT+."
+   ],
+   "unconfirmed": [
+    "the absolute recurrence rates behind the relative 68% figure, statistical significance, durability and safety data, and whether the results have been submitted for regulatory review — all rest on the company's announcement, with no peer-reviewed publication or independent verification in the supplied material."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 STAT 报道，CG Oncology 于周一公布了一项随机三期试验的顶线结果，称 cretostimogene 使 367 名中危膀胱癌患者的复发风险相对现有做法下降 68%，该疗法经导管灌注进入膀胱、针对携带特定突变的肿瘤细胞。"
+   ],
+   "unconfirmed": [
+    "68% 是公司自行公布的相对风险降幅，完整数据尚未公开或经同行评审，报道未给出两组的绝对复发率、风险比与置信区间、随访时长、安全性数据，也未披露向监管机构提交申请的时间表。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "CG Oncology's cretostimogene cut bladder cancer recurrence 68% in Phase 3 trial",
+  "zh": "CG Oncology 膀胱癌免疫疗法三期试验将复发风险降低 68%"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/cg-oncology-s-cretostimogene-cut-bladder-cancer-recurrence-68-in-phase-391c/",
+  "zh": "/zh/2026/11/16/cg-oncology-s-cretostimogene-cut-bladder-cancer-recurrence-68-in-phase-391c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

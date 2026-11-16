@@ -1,0 +1,67 @@
+{
+ "event_id": "alibaba-launches-qwen4-max-flagship-with-2-4t-parameters-8468",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T02:14:44+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "qwen.ai",
+   "url": "https://qwen.ai/blog?id=qwen4-max"
+  },
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50513215"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "The supplied report states that Alibaba launched Qwen4-Max with 2.4 trillion total parameters, 71 billion active per token, and a hybrid architecture, and that it ranks just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index."
+   ],
+   "unconfirmed": [
+    "The size of the long-context cost reduction, the model's exact index score, API price and availability terms, and the date, license and parameter sizes of the planned open-source Qwen4 models; the $3.27 average cost cited in discussion rests on one commenter's Artificial Analysis link."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Decoder 引述阿里官方博客，Qwen4-Max 是总参数 2.4 万亿、每 token 激活 710 亿的混合架构旗舰模型，官方称其显著降低长上下文成本，并计划开源更小的 Qwen4 模型；第三方站点 Artificial Analysis 已收录该模型页面，社区用户 maplet 引用其数据给出 43 分与平均 3.27 美元成本。"
+   ],
+   "unconfirmed": [
+    "阿里“成本大幅降低”的具体口径与官方定价表、更小开源模型的尺寸、许可证与时间表均未出现在现有材料中；The Decoder 的“价格远低于竞品”与社区成本数据存在张力——按 maplet 的同一说法，GPT-6.1 Sol（medium）为 46 分、平均 0.36 美元，但两者是否同口径统计并不明确，无法直接比较；“仅次于 Kimi K3.1 Pro”的排名也仅见于该报道一处来源。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Alibaba launches Qwen4-Max flagship with 2.4T parameters",
+  "zh": "阿里发布 Qwen4-Max：2.4 万亿参数，主打长上下文低成本"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/alibaba-launches-qwen4-max-flagship-with-2-4t-parameters-8468/",
+  "zh": "/zh/2026/11/16/alibaba-launches-qwen4-max-flagship-with-2-4t-parameters-8468/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

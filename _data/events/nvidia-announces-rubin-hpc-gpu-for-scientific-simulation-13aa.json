@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-announces-rubin-hpc-gpu-for-scientific-simulation-13aa",
+ "issue": "2026-11-16",
+ "section": "chips-compute",
+ "published_at": "2026-11-16T16:00:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/rubin-hpc/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "NVIDIA's own announcement states the GPU is part of the Vera Rubin platform, has more than 50,000 CUDA cores, includes sparse data acceleration and seventh-generation NVLink, and is targeted at HPC and analytics workloads, with availability expected in 2028."
+   ],
+   "unconfirmed": [
+    "the \"record number of CUDA cores\" claim (no comparison part is given), any performance gain from the sparse data acceleration or the balanced compute/memory design, and all specifications beyond core count — memory size, bandwidth, power draw, form factor and price — plus any independent benchmark; NVIDIA provided no measured results."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "英伟达官方博客称 Rubin HPC 属于 Vera Rubin 平台、在 SC26 发布、单 GPU CUDA 核心数超过 5 万个、具备稀疏数据加速与第七代 NVLink，并写明预计 2028 年上市。"
+   ],
+   "unconfirmed": [
+    "相比上一代产品的实际性能提升幅度、价格、完整规格与功耗，均无数据；所有性能表述都来自英伟达自己的说法，没有独立测试或客户实测。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "NVIDIA Announces Rubin HPC GPU for Scientific Simulation",
+  "zh": "英伟达发布 Rubin HPC GPU：逾 5 万 CUDA 核心，预计 2028 年上市"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/nvidia-announces-rubin-hpc-gpu-for-scientific-simulation-13aa/",
+  "zh": "/zh/2026/11/16/nvidia-announces-rubin-hpc-gpu-for-scientific-simulation-13aa/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

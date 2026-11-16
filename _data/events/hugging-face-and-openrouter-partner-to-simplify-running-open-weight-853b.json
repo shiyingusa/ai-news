@@ -1,0 +1,57 @@
+{
+ "event_id": "hugging-face-and-openrouter-partner-to-simplify-running-open-weight-853b",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T00:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/openrouter"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Hugging Face's own blog post states that the company and OpenRouter have announced a partnership aimed at simplifying how users run open-weight models."
+   ],
+   "unconfirmed": [
+    "What the integration actually does technically, which models it covers, whether any pricing changes, and when — or whether — it becomes available to users. The available material contains no independent confirmation or technical detail beyond the announcement itself."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Hugging Face 官方博客发布消息，宣布与 OpenRouter 合作，目的是简化开放权重模型的运行方式。"
+   ],
+   "unconfirmed": [
+    "合作的具体技术形式、支持模型清单、上线时间与价格，现有材料均未给出，需等待双方后续公布或第三方实测。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Hugging Face and OpenRouter partner to simplify running open-weight models",
+  "zh": "Hugging Face 与 OpenRouter 宣布合作，简化开放权重模型运行"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/hugging-face-and-openrouter-partner-to-simplify-running-open-weight-853b/",
+  "zh": "/zh/2026/11/16/hugging-face-and-openrouter-partner-to-simplify-running-open-weight-853b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

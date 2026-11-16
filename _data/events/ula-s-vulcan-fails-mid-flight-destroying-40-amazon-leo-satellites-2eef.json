@@ -1,0 +1,62 @@
+{
+ "event_id": "ula-s-vulcan-fails-mid-flight-destroying-40-amazon-leo-satellites-2eef",
+ "issue": "2026-11-16",
+ "section": "space",
+ "published_at": "2026-11-15T23:11:54+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+  },
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "ULA said on X that its Vulcan, launched from Cape Canaveral's Space Launch Complex 41 on Sunday, suffered an anomaly 10 minutes into flight and failed to deliver Amazon's 40-satellite Leo mission to orbit; Ars Technica, Spaceflight Now and Wikipedia all record it as the first total mission failure in ULA's 20-year history, and ULA said it will work with its customer to find the cause and return to flight."
+   ],
+   "unconfirmed": [
+    "ULA said it had no specific data yet on what went wrong, so the cause is unknown — reports that first-stage BE-4 engines burned longer than planned and that there were altitude problems near staging are described only as early suspected candidates. ULA has not said how long Vulcan will be grounded, what happens to the other 37 Amazon-booked Vulcan launches, or whether Amazon Leo's commercial service remains on its end-of-2026 target."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "ULA 确认，Vulcan 于 11 月 15 日从卡纳维拉尔角 SLC-41 起飞约 10 分钟后出现异常，未能将 40 颗亚马逊 Leo 卫星送入轨道，卫星损毁；Ars Technica、Spaceflight Now 和维基百科均称，这是 ULA 成立 20 年来首次完全任务失败。"
+   ],
+   "unconfirmed": [
+    "故障根因尚未确定。ULA 表示“目前没有具体数据”解释异常；媒体提到的 BE-4 一级发动机燃烧超时、级间分离前后高度异常，只是对早期遥测的推测。Vulcan 将停飞多久、是否影响亚马逊 Leo 在 2026 年底转入正式商用，也尚无官方时间表。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "ULA's Vulcan fails mid-flight, destroying 40 Amazon Leo satellites",
+  "zh": "ULA 火神火箭发射失败，40 颗亚马逊 Leo 卫星损毁"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/ula-s-vulcan-fails-mid-flight-destroying-40-amazon-leo-satellites-2eef/",
+  "zh": "/zh/2026/11/16/ula-s-vulcan-fails-mid-flight-destroying-40-amazon-leo-satellites-2eef/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,62 @@
+{
+ "event_id": "ublock-origin-universal-xss-tied-to-element-picker-patched-versions-d8f5",
+ "issue": "2026-11-16",
+ "section": "tech-industry",
+ "published_at": "2026-11-16T02:04:48+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "iter.ca",
+   "url": "https://iter.ca/post/ubo-uxss/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50513160"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "The write-up describes a universal XSS (cross-site scripting that can run on any site) in uBlock Origin's element picker, the tool that lets a website's page drive element selection; according to search results, the project's advisory GHSA-cmqw-9r2w-6wv2 rates the issue High and says it affected the Firefox and Chromium MV2 builds, with a milder related issue in uBO Lite."
+   ],
+   "unconfirmed": [
+    "The patched version numbers circulating — uBlock Origin 1.75.4 and uBO Lite 2026.1110.1816 — come from a community comment, not from the advisory text supplied here, and no independent exploit test, CVE identifier or release date is included; claims in the comments that the bug exposes a unique extension UUID usable for fingerprinting, and the reported figure of over 11 million Firefox users, rest on commenter reasoning and a single secondary report rather than the primary disclosure."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "这篇安全文章报告 uBlock Origin 的网站驱动元素选择器存在通用 XSS；项目安全公告 GHSA-cmqw-9r2w-6wv2 将其评为 High，并称 Firefox 与 Chromium MV2 版本受影响，uBO Lite 另有一个较轻问题。"
+   ],
+   "unconfirmed": [
+    "具体修复版本 uBlock Origin 1.75.4 和 uBO Lite 2026.1110.1816 仅来自评论者；完整受影响版本范围、独立复现测试及利用细节尚未由文章或公告在现有材料中确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "uBlock Origin universal XSS tied to element picker; patched versions cited",
+  "zh": "uBlock Origin 被曝元素选择器通用 XSS 漏洞"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/ublock-origin-universal-xss-tied-to-element-picker-patched-versions-d8f5/",
+  "zh": "/zh/2026/11/16/ublock-origin-universal-xss-tied-to-element-picker-patched-versions-d8f5/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

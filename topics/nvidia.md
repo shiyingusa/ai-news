@@ -2,6 +2,6 @@
 layout: topic
 lang: en
 topic: "nvidia"
-title: "Nvidia"
+title: "NVIDIA"
 permalink: "/topics/nvidia/"
 ---
