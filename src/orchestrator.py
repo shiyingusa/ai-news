@@ -336,6 +336,22 @@ class HorizonOrchestrator:
                     + ", ".join(enrichment_result.failed_ids)
                 )
 
+            # 6b. High-risk stories (casualties, accidents, allegations) publish only
+            # when well sourced and attributed; the rest wait for the owner's review.
+            held_items: List[ContentItem] = []
+            held_records: dict = {}
+            try:
+                from .services.review import split_held
+
+                important_items, held_items, held_records = split_held(important_items)
+                if held_items:
+                    self.console.print(
+                        f"{self.icons['warning']} Held {len(held_items)} high-risk "
+                        "stories for review\n"
+                    )
+            except Exception as e:
+                self.console.print(f"[yellow]{self.icons['warning']} Risk check skipped: {e}[/yellow]\n")
+
             # 7. Generate and save daily summaries for each configured language
             today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
             story_slugs: dict[str, str] = {}
@@ -487,6 +503,35 @@ class HorizonOrchestrator:
                             f"{lang.upper()} story pages: {e}[/yellow]\n"
                         )
 
+                # High-risk stories held for review: same pages, written outside the site.
+                held_lang = [
+                    it for it in held_items
+                    if it.processing and lang in it.processing.artifacts
+                ]
+                if held_lang:
+                    try:
+                        from pathlib import Path
+
+                        from .services.site_export import export_stories
+
+                        export_stories(
+                            summarizer,
+                            held_lang,
+                            today,
+                            lang,
+                            Path(f"docs/_review/{today}"),
+                            story_slugs,
+                            images_root=Path("docs/assets/stories"),
+                            slug_titles=story_titles,
+                            photo_queries=story_photo_queries,
+                            used_photos=used_photos,
+                        )
+                    except Exception as e:
+                        self.console.print(
+                            f"[yellow]{self.icons['warning']} Could not write held "
+                            f"{lang.upper()} stories: {e}[/yellow]\n"
+                        )
+
                 # Send email if configured
                 if self.email_manager and self.config.email and self.config.email.enabled:
                     self.console.print(
@@ -508,6 +553,19 @@ class HorizonOrchestrator:
                     )
                 if self.wechat_notifier:
                     await self.wechat_notifier.send_daily_summary(summary, lang)
+
+            if held_items:
+                try:
+                    from .services.review import write_manifest
+
+                    manifest = write_manifest(
+                        f"docs/_review/{today}", held_items, held_records, story_slugs,
+                        story_titles, int(os.environ.get("EDITION", "0") or 0),
+                    )
+                    if manifest:
+                        self.console.print(f"{self.icons['document']} Review list: {manifest}\n")
+                except Exception as e:
+                    self.console.print(f"[yellow]{self.icons['warning']} Review list not written: {e}[/yellow]\n")
 
             self.console.print(
                 f"[bold green]{self.icons['success']} "

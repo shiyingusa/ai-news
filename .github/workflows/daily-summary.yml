@@ -62,6 +62,7 @@ jobs:
     timeout-minutes: 120
     permissions:
       contents: write
+      issues: write
 
     steps:
       - name: Checkout code
@@ -127,6 +128,12 @@ jobs:
           commit_message: "Briefing ${{ env.DATE }} (edition ${{ needs.gate.outputs.edition }})"
           publish_branch: gh-pages
           enable_jekyll: true
+
+      - name: Ask the owner about held high-risk stories
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: python scripts/review_queue.py open --site docs --date "${{ env.DATE }}" --edition "${{ needs.gate.outputs.edition }}" || echo "::warning::Could not open the review issue"
 
       - name: Notify search engines (IndexNow, Baidu)
         env:

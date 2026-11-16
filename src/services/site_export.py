@@ -356,7 +356,7 @@ def export_stories(
             blocks = artifact.blocks if artifact else []
             primary = next((b for b in blocks if b.primary), None)
             lead = (primary.content if primary else "") or (analysis.summary if analysis else "")
-            extra_blocks = [b for b in blocks if not b.primary and b.content.strip() and b.id != "status"]
+            extra_blocks = [b for b in blocks if not b.primary and b.content.strip() and b.id not in ("status", "risk")]
             status = story_status(next((b.content for b in blocks if b.id == "status"), ""))
 
             meta = item.metadata or {}

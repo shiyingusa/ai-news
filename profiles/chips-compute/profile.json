@@ -22,6 +22,12 @@
         "optional": true
       },
       {
+        "id": "risk",
+        "type": "section",
+        "tools": [],
+        "optional": true
+      },
+      {
         "id": "fact_check",
         "type": "section",
         "tools": [

@@ -52,6 +52,10 @@ When several outlets report the same event, or different stages of one developin
 
 Before an issue goes live, each story must have a real headline and a complete summary, and must not contain signs of a failed AI response. Stories that fail are dropped. If too many stories fail on the same day, the whole issue is held back and the previous day's site stays up unchanged.
 
+## Deaths, accidents and accusations {#high-risk}
+
+Stories that report deaths or injuries, a serious accident, or an accusation of fraud, crime or financial misconduct against a named company or person get stricter rules. They are published automatically only when they rest on a primary source (an official statement, a court or regulatory filing) or on at least two independent publishers. Accusations are always attributed, in the headline too: "prosecutors allege", never stated as fact. Casualty figures say who reported them and as of when, and we do not name victims. A story that does not meet these rules is held back, and Ying Shi decides whether it runs; if no decision is made within 24 hours, it is dropped.
+
 ## Images {#images}
 
 We do not use news organizations' photos. Story images are either licensed photos (Wikimedia Commons under free licenses, or Pixabay and Pexels under their own licenses), credited under the image, or our own generated artwork. We do not edit news photos with AI.
