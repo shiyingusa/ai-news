@@ -1,0 +1,10 @@
+{%- comment -%} Reader comments via giscus (GitHub Discussions). Loads only when scrolled near, and only once configured. {%- endcomment -%}
+<section class="comments" id="comments" aria-labelledby="comments-head">
+  <h2 id="comments-head" class="rail-head">{{ T.comments }}</h2>
+  {%- if site.giscus.category_id and site.giscus.category_id != "" %}
+  <p class="comments-note">{{ T.comments_note }} <a href="{{ P | append: '/standards/' | relative_url }}#comments-policy">{{ T.comments_rules }}</a></p>
+  <div class="giscus-slot" data-repo="{{ site.giscus.repo }}" data-repo-id="{{ site.giscus.repo_id }}" data-category="{{ site.giscus.category }}" data-category-id="{{ site.giscus.category_id }}" data-lang="{% if L == 'zh' %}zh-CN{% else %}en{% endif %}" data-term="{{ page.story_id | default: page.url }}"></div>
+  {%- else %}
+  <p class="comments-note">{{ T.comments_soon }}</p>
+  {%- endif %}
+</section>

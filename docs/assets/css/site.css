@@ -357,3 +357,15 @@ a.score{color:inherit;text-decoration:underline dotted;text-underline-offset:3px
 .newsletter-compact{grid-template-columns:1fr;padding:1.25rem;border:1px solid var(--rule);border-top:3px solid var(--brand);background:var(--surface)}
 .newsletter-compact h2{font-size:1.25rem}
 @media (max-width:720px){.newsletter{grid-template-columns:1fr}.newsletter-form{flex-direction:column}}
+.story-actions{display:flex;flex-wrap:wrap;gap:.5rem;margin:1.5rem 0 .75rem}
+.story-actions button,.story-actions a{font:600 .95rem var(--sans);min-height:44px;padding:.55rem 1rem;border:1px solid var(--rule);border-radius:var(--radius,4px);background:var(--surface);color:var(--ink);cursor:pointer;text-decoration:none;display:inline-flex;align-items:center}
+.save-story[aria-pressed="true"]{background:var(--ink);color:var(--bg,#fff);border-color:var(--ink)}
+.saved-count{font-weight:700;color:var(--brand)}
+.comments{margin-top:2rem}
+.comments-note{font-size:.9rem;color:var(--ink-3)}
+.giscus-slot{min-height:120px}
+.saved-list{padding-left:1.25rem}
+.saved-list li{margin:.75rem 0}
+.saved-list a{font-family:var(--serif);font-size:1.15rem}
+.saved-meta{display:block;font-size:.85rem;color:var(--ink-3)}
+.saved-clear{margin-top:1rem;font:600 .9rem var(--sans);padding:.5rem .9rem;border:1px solid var(--rule);border-radius:var(--radius,4px);background:transparent;color:var(--ink-2);cursor:pointer}

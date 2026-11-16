@@ -61,13 +61,29 @@ layout: default
         </ul>
         {%- endif %}
         {% include newsletter.html id="story" compact=true %}
+        {%- assign su = page.url | absolute_url | uri_escape -%}
+        {%- assign st = page.title | uri_escape -%}
+        <div class="story-actions">
+          <button type="button" class="save-story" aria-pressed="false"
+            data-url="{{ page.url | relative_url }}" data-title="{{ page.title | escape }}" data-section="{{ sname | escape }}" data-date="{{ page.date | date: '%Y-%m-%d' }}"
+            data-save="{{ T.save }}" data-saved="{{ T.saved }}">{{ T.save }}</button>
+          <button type="button" class="native-share" hidden data-url="{{ page.url | absolute_url }}" data-title="{{ page.title | escape }}">{{ T.share }}</button>
+          <a class="comment-jump" href="#comments">{{ T.comments }}</a>
+        </div>
         <div class="share">
           <span>{{ T.share }}</span>
-          <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | uri_escape }}&amp;text={{ page.title | uri_escape }}" target="_blank" rel="noopener">X</a>
-          <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | uri_escape }}" target="_blank" rel="noopener">LinkedIn</a>
-          <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | uri_escape }}" target="_blank" rel="noopener">Facebook</a>
+          <a href="https://twitter.com/intent/tweet?url={{ su }}&amp;text={{ st }}" target="_blank" rel="noopener">X</a>
+          <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ su }}" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ su }}" target="_blank" rel="noopener">Facebook</a>
+          <a href="https://www.reddit.com/submit?url={{ su }}&amp;title={{ st }}" target="_blank" rel="noopener">Reddit</a>
+          <a href="https://wa.me/?text={{ st }}%20{{ su }}" target="_blank" rel="noopener">WhatsApp</a>
+          {%- if L == "zh" %}
+          <a href="https://service.weibo.com/share/share.php?url={{ su }}&amp;title={{ st }}" target="_blank" rel="noopener">微博</a>
+          {%- endif %}
+          <a href="mailto:?subject={{ st }}&amp;body={{ su }}">{{ T.email }}</a>
           <button type="button" class="copy-link" data-url="{{ page.url | absolute_url }}" data-done="{% if L == 'zh' %}已复制{% else %}Copied{% endif %}">{{ T.copy_link }}</button>
         </div>
+        {% include comments.html %}
       </div>
       <aside class="story-rail">
         {%- assign today = site.stories | where: "lang", L | where: "issue", page.issue | sort: "score" | reverse -%}

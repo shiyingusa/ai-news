@@ -1,0 +1,14 @@
+---
+layout: page
+lang: en
+title: "Saved stories"
+permalink: /saved/
+sitemap: false
+noindex: true
+---
+{%- include vars.html -%}
+<div class="saved-page">
+  <h1>{{ T.saved_title }}</h1>
+  <ol class="saved-list" data-empty="{{ T.saved_empty | escape }}"></ol>
+  <button type="button" class="saved-clear" hidden>{{ T.saved_clear }}</button>
+</div>

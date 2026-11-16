@@ -36,6 +36,10 @@ Visitors in the European Economic Area, the United Kingdom and Switzerland see a
 
 If you subscribe to the Morning Brief, your email address is stored by our newsletter provider, [Buttondown](https://buttondown.com/legal/privacy), and used only to send you the newsletter. Buttondown may record whether emails are opened or links are clicked. You will receive a confirmation email first, and every newsletter has an unsubscribe link. We do not sell or share subscriber lists.
 
+## Comments and saved stories {#comments}
+
+If you comment, giscus shows your GitHub username and avatar with your comment, and the comment is stored in our public GitHub repository under GitHub's privacy policy. Stories you save with the Save button are kept only in your own browser; we never receive that list.
+
 ## Links to other sites
 
 Every story links to its original source. Those sites have their own privacy policies, which we do not control.

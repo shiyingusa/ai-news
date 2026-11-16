@@ -60,6 +60,10 @@ AI 不允许做的事：编造来源里没有的事实、引语、日期或数�
 
 发现错误，请把稿件链接发邮件到 [{{ site.contact_email }}](mailto:{{ site.contact_email }})。错误一经确认，我们会更正稿件，注明改了什么、何时改的，列入[更正记录]({{ '/zh/corrections/' | relative_url }})，并尽可能修改导致错误的规则或来源。
 
+## 读者评论 {#comments-policy}
+
+文章页的评论区由 giscus 提供，评论保存在本站公开的 GitHub Discussions 中，需要 GitHub 账号才能发表。欢迎指出错误、补充背景或提出不同看法。我们会删除垃圾信息、广告、人身攻击、骚扰、仇恨言论、违法内容以及涉及他人隐私的信息，屡次违规者可能被禁止评论。评论只代表作者本人观点，不代表 AI 每日雷达。举报评论请发邮件到 [{{ site.contact_email }}](mailto:{{ site.contact_email }})。
+
 ## 独立性 {#independence}
 
 本站可能展示广告。广告主不能影响新闻的选择、评分和描述。我们不接受付费报道。
