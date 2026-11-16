@@ -119,10 +119,20 @@ Never describe a person, face, logo, screenshot, chart or text. Prefer objects, 
 Return JSON only: {"queries": [{"i": 1, "specific": "...", "generic": "..."}, ...]}"""
 
 
-async def queries_for(client: "AIClient", entries: List[tuple]) -> dict:
-    """entries: (key, title, tags). Returns key -> [specific, generic] (one model call)."""
+async def queries_for(client: "AIClient", entries: List[tuple], batch: int = 12) -> dict:
+    """entries: (key, title, tags). Returns key -> [specific, generic].
+
+    Asked in batches: one call for 30+ stories ran past the token limit, the
+    JSON came back cut off and every story lost its photo (2026-11-16).
+    """
     if not entries:
         return {}
+    if len(entries) > batch:
+        result = {}
+        for start in range(0, len(entries), batch):
+            result.update(await queries_for(client, entries[start:start + batch], batch))
+        logger.info("Photo queries for %d of %d stories", len(result), len(entries))
+        return result
     lines = [f"{i}. {title} [tags: {', '.join(tags or [])}]" for i, (_, title, tags) in enumerate(entries, start=1)]
     try:
         raw = await client.complete(system=PHOTO_SYSTEM, user="\n".join(lines), temperature=0.2, max_tokens=3000)
@@ -130,6 +140,8 @@ async def queries_for(client: "AIClient", entries: List[tuple]) -> dict:
         logger.warning("Photo query generation failed: %s", exc)
         return {}
     data = parse_json_response(raw) or {}
+    if not data.get("queries"):
+        logger.warning("Photo queries: no usable JSON for %d stories", len(entries))
     result = {}
     for entry in data.get("queries", []):
         try:
