@@ -367,9 +367,12 @@ class HorizonOrchestrator:
                 )
 
                 # Copy to docs/ for GitHub Pages (skip empty days: no thin pages on the site)
+                update_edition = os.environ.get("EDITION", "0") not in ("", "0")
                 try:
                     if not language_items:
                         raise RuntimeError("no selected items; site post skipped")
+                    if update_edition:
+                        raise RuntimeError("update edition: the morning issue page stays as it is")
                     from pathlib import Path
 
                     post_filename = f"{today}-summary-{lang}.md"
@@ -442,6 +445,8 @@ class HorizonOrchestrator:
                             f"{self.icons['document']} Wrote {len(story_paths)} "
                             f"{lang.upper()} story pages to docs/_stories\n"
                         )
+                        if update_edition:
+                            continue
                         from .services.daily_brief import write_daily_brief
 
                         ranked = sorted(
@@ -470,7 +475,8 @@ class HorizonOrchestrator:
                             # Circuit breaker: keep yesterday's site as it is.
                             for stale in Path("docs/_stories").glob(f"{today}-*-{lang}.md"):
                                 stale.unlink()
-                            dest_path.unlink(missing_ok=True)
+                            if not update_edition:
+                                Path(f"docs/_posts/{today}-summary-{lang}.md").unlink(missing_ok=True)
                             self.console.print(
                                 f"[red]{self.icons['warning']} Publication halted: {e}. "
                                 "Today's issue was not published.[/red]\n"
@@ -971,7 +977,10 @@ class HorizonOrchestrator:
             from .services.recent import drop_repeats, recent_titles
 
             before_repeats = len(deduped_items)
-            deduped_items = await drop_repeats(self.ai_client, deduped_items, recent_titles())
+            include_today = os.environ.get("EDITION", "0") not in ("", "0")
+            deduped_items = await drop_repeats(
+                self.ai_client, deduped_items, recent_titles(include_today=include_today)
+            )
             if len(deduped_items) < before_repeats:
                 self.console.print(
                     f"🔁 Dropped {before_repeats - len(deduped_items)} repeats of earlier stories\n"

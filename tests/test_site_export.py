@@ -75,7 +75,7 @@ def test_export_writes_twin_pages_with_shared_slug(tmp_path):
     assert "{% raw %}" in en_text and "## Background" in en_text and "## Further reading" in en_text
     assert 'source_name: "Example Feed"' in en_text
     assert 'topics: ["ai", "models"]' in en_text
-    assert 'order: "20261114-998"' in en_text
+    assert 'order: "20261114-0-998"' in en_text
     slug1 = en[0].name[len("2026-11-14-"):-len("-en.md")]
     assert (images / "2026-11-14" / f"{slug1}.jpg").exists()
     assert (images / "2026-11-14" / f"{slug1}-share.jpg").exists()

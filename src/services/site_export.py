@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 import unicodedata
 from pathlib import Path
@@ -196,6 +197,10 @@ def discovered_via(item: "ContentItem") -> Optional[str]:
     else:
         return None
     return None if via == publisher_name(item) else via
+
+
+# 0 = the morning issue; 1, 2 = midday and evening updates to the same day.
+EDITION = int(os.environ.get("EDITION", "0") or 0)
 
 
 class PublicationHalted(RuntimeError):
@@ -412,7 +417,8 @@ def export_stories(
                 f"title: {_yaml(title)}",
                 f"dek: {_yaml(make_dek(lead, *((120, 45) if language == 'zh' else (240, 90))))}",
                 f"section: {_yaml(group.profile_id)}",
-                f"rank: {view_item.global_index}",
+                f"rank: {EDITION * 100 + view_item.global_index}",
+                f"edition: {EDITION}",
                 f"section_rank: {view_item.index}",
                 f"score: {_yaml(score)}",
                 f"status: {_yaml(status)}",
@@ -423,7 +429,7 @@ def export_stories(
                 f"published_at: {_yaml(item.published_at.isoformat() if item.published_at else None)}",
                 f"tags: {_yaml(tags)}",
                 f"topics: {_yaml(topic_slugs)}",
-                f"order: {_yaml(f'{y}{m}{d}-{999 - view_item.global_index:03d}')}",
+                f"order: {_yaml(f'{y}{m}{d}-{EDITION}-{999 - view_item.global_index:03d}')}",
                 f"image: {_yaml(share_rel)}",
                 f"art: {_yaml(image_rel)}",
                 f"thumb: {_yaml(image_rel.replace('.jpg', '-640.jpg') if image_rel else None)}",

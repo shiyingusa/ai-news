@@ -10,7 +10,14 @@ on:
     - cron: '13 12 * * *'
     - cron: '47 12 * * *'
     - cron: '23 13 * * *'
+    # Same-day updates: 17:17 UTC = 12:17 pm and 23:17 UTC = 6:17 pm New York (winter).
+    - cron: '17 17 * * *'
+    - cron: '17 23 * * *'
   workflow_dispatch:      # "Run workflow" button for a manual run
+    inputs:
+      edition:
+        description: "0 = morning issue, 1 = midday update, 2 = evening update"
+        default: "0"
 
 concurrency:
   group: daily-briefing
@@ -21,17 +28,32 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       skip: ${{ steps.check.outputs.skip }}
+      edition: ${{ steps.check.outputs.edition }}
+      hours: ${{ steps.check.outputs.hours }}
     steps:
       - id: check
         run: |
           DAY=$(date -u +%F)
-          if [ "${{ github.event_name }}" = "schedule" ] && \
-             curl -sf -o /dev/null "https://raw.githubusercontent.com/${{ github.repository }}/gh-pages/_posts/${DAY}-summary-en.md"; then
-            echo "Issue for $DAY already published; skipping."
-            echo "skip=true" >> "$GITHUB_OUTPUT"
+          SCHED="${{ github.event.schedule }}"
+          EDITION="${{ github.event.inputs.edition || '0' }}"
+          [ "$SCHED" = "17 17 * * *" ] && EDITION=1
+          [ "$SCHED" = "17 23 * * *" ] && EDITION=2
+          POST="https://raw.githubusercontent.com/${{ github.repository }}/gh-pages/_posts/${DAY}-summary-en.md"
+          SKIP=false
+          if [ "$EDITION" = "0" ]; then
+            HOURS=24
+            if [ "${{ github.event_name }}" = "schedule" ] && curl -sf -o /dev/null "$POST"; then
+              echo "Issue for $DAY already published; skipping."; SKIP=true
+            fi
           else
-            echo "skip=false" >> "$GITHUB_OUTPUT"
+            HOURS=7
+            if ! curl -sf -o /dev/null "$POST"; then
+              echo "Morning issue for $DAY not published yet; no update."; SKIP=true
+            fi
           fi
+          echo "skip=$SKIP" >> "$GITHUB_OUTPUT"
+          echo "edition=$EDITION" >> "$GITHUB_OUTPUT"
+          echo "hours=$HOURS" >> "$GITHUB_OUTPUT"
 
   daily-summary:
     needs: gate
@@ -81,9 +103,11 @@ jobs:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
           REPEAT_CHECK: "1"
-        run: uv run horizon --hours 24
+          EDITION: ${{ needs.gate.outputs.edition }}
+        run: uv run horizon --hours ${{ needs.gate.outputs.hours }}
 
       - name: Keep the digest archive for next runs
+        if: needs.gate.outputs.edition == '0'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -100,7 +124,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
           keep_files: true   # keeps every past issue on the gh-pages branch
-          commit_message: "Daily briefing: ${{ env.DATE }}"
+          commit_message: "Briefing ${{ env.DATE }} (edition ${{ needs.gate.outputs.edition }})"
           publish_branch: gh-pages
           enable_jekyll: true
 

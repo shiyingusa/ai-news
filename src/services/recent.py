@@ -24,7 +24,7 @@ A substantial new development is new information that changes the story: a new r
 Return JSON only: {"repeat": [candidate numbers that should be dropped]}. If none, return {"repeat": []}."""
 
 
-def recent_titles(days: int = 3) -> List[str]:
+def recent_titles(days: int = 3, include_today: bool = False) -> List[str]:
     try:
         text = httpx.get(FEED, timeout=20, follow_redirects=True).text
     except Exception as exc:
@@ -42,7 +42,7 @@ def recent_titles(days: int = 3) -> List[str]:
             published = datetime.fromisoformat(when.group(1).strip())
         except ValueError:
             continue
-        if published < cutoff or published.astimezone(timezone.utc).date() >= today:
+        if published < cutoff or (not include_today and published.astimezone(timezone.utc).date() >= today):
             continue
         summary = re.search(r"<summary[^>]*>(.*?)</summary>", entry, re.S)
         line = html.unescape(re.sub(r"<!\[CDATA\[|\]\]>", "", title.group(1))).strip()
