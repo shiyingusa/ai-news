@@ -22,6 +22,7 @@ image: "/assets/stories/2026-11-14/unsw-prototypes-three-minute-lithium-ion-batt
 art: "/assets/stories/2026-11-14/unsw-prototypes-three-minute-lithium-ion-battery-health-test-e25e.jpg"
 thumb: "/assets/stories/2026-11-14/unsw-prototypes-three-minute-lithium-ion-battery-health-test-e25e-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/18650_and_21700_lithium_ion_battery_cell.jpg/1920px-18650_and_21700_lithium_ion_battery_cell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Sevenethics", "licence": "CC0", "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en", "source_url": "https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg", "provider": "Wikimedia Commons", "width": 2048, "height": 1536}
+description: "悉尼新南威尔士大学（UNSW）的研究团队公布了一款电池健康检测原型平台，称其比现有方法快 95.5%、成本低 80% 以上，可在三分钟内完成单颗电芯的健康评估。"
 ---
 
 {% raw %}

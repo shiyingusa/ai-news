@@ -23,6 +23,7 @@ image: "/assets/stories/2026-11-14/altimeter-and-atreides-investors-urge-nvidia-
 art: "/assets/stories/2026-11-14/altimeter-and-atreides-investors-urge-nvidia-board-to-weigh-huang-s-4503.jpg"
 thumb: "/assets/stories/2026-11-14/altimeter-and-atreides-investors-urge-nvidia-board-to-weigh-huang-s-4503-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1920px-NVIDIA_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Coolcaesar", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg", "provider": "Wikimedia Commons", "width": 4662, "height": 2852}
+description: "Brad Gerstner of Altimeter and Gavin Baker of Atreides, two investors holding a combined $2.13 billion in Nvidia stock, reportedly sent a letter asking Nvidia's board of directors to weigh all options for the company's future leadership,…"
 ---
 
 {% raw %}

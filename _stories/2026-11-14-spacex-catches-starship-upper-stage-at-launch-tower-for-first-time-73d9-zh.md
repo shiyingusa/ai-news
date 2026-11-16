@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-14/spacex-catches-starship-upper-stage-at-launch
 art: "/assets/stories/2026-11-14/spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9.jpg"
 thumb: "/assets/stories/2026-11-14/spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/SpaceX_Starbase_launch_facility_%2851438071556%29.jpg/1920px-SpaceX_Starbase_launch_facility_%2851438071556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Lars Plougmann from United States", "licence": "CC BY-SA 2.0", "licence_url": "https://creativecommons.org/licenses/by-sa/2.0", "source_url": "https://commons.wikimedia.org/wiki/File:SpaceX_Starbase_launch_facility_(51438071556).jpg", "provider": "Wikimedia Commons", "width": 5884, "height": 3923}
+description: "SpaceX 于 11 月 14 日在得克萨斯州星基地首次用发射塔的“筷子”机械臂接住从轨道返回的星舰上面级（火箭第二级）Ship 42；该飞船在飞行约 22.5 小时、绕地球 14 圈并部署 26 颗 Starlink V3…"
 ---
 
 {% raw %}

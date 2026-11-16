@@ -22,6 +22,7 @@ image: "/assets/stories/2026-11-14/tesla-opens-29-990-cybercab-orders-to-select-
 art: "/assets/stories/2026-11-14/tesla-opens-29-990-cybercab-orders-to-select-customers-with-299-month-610f.jpg"
 thumb: "/assets/stories/2026-11-14/tesla-opens-29-990-cybercab-orders-to-select-customers-with-299-month-610f-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Tesla_Cybercab_at_Santana_Row_side_view_dllu.jpg/1920px-Tesla_Cybercab_at_Santana_Row_side_view_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Dllu", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Tesla_Cybercab_at_Santana_Row_side_view_dllu.jpg", "provider": "Wikimedia Commons", "width": 10776, "height": 6990}
+description: "据 InsideEVs 报道，特斯拉已向“部分客户”开放 Cybercab 的订购，起售价为 29,990 美元，这将成为特斯拉迄今最便宜的车型。"
 ---
 
 {% raw %}

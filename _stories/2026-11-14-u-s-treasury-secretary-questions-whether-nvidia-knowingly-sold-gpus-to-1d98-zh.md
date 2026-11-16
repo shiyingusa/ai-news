@@ -22,6 +22,7 @@ image: "/assets/stories/2026-11-14/u-s-treasury-secretary-questions-whether-nvid
 art: "/assets/stories/2026-11-14/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-gpus-to-1d98.jpg"
 thumb: "/assets/stories/2026-11-14/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-gpus-to-1d98-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/CeBIT_2005_Nvidia_Stand.jpg/1920px-CeBIT_2005_Nvidia_Stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Strubbl", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:CeBIT_2005_Nvidia_Stand.jpg", "provider": "Wikimedia Commons", "width": 2560, "height": 1920}
+description: "美国财政部长斯科特·贝森特在接受 CNBC 采访时表示，现行出口管制无法阻止所有受限硬件流入中国，并质疑英伟达是否明知客户是“明显充当转手渠道的空壳公司”仍出售 AI GPU；他要求追究公司相关人员的责任，但明确表示尚不清楚 CEO…"
 ---
 
 {% raw %}

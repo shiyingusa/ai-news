@@ -22,6 +22,7 @@ image: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-mil
 art: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2.jpg"
 thumb: "/assets/stories/2026-11-14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g802ebf695b6986a52cccaefd2a2a095b63dfb4edb9164323f1844643bfa067322425ec7e1e95b251567d2e9d6008115b92e3fbc6282a366d30ee730015a2fd15_1280.jpg", "author": "Joenomias", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/car-electric-car-hybrid-car-3117778/", "provider": "Pixabay", "width": 3380, "height": 2018}
+description: "Dongfeng Nissan opened early orders for the NX7 plug-in hybrid (PHEV), claiming up to 320 km (about 198 miles) of all-electric driving from a 40 kWh lithium iron phosphate (LFP) battery at a price of roughly $20,000."
 ---
 
 {% raw %}

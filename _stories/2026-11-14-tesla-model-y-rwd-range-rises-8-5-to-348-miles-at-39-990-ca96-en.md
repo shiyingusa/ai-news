@@ -23,6 +23,7 @@ image: "/assets/stories/2026-11-14/tesla-model-y-rwd-range-rises-8-5-to-348-mile
 art: "/assets/stories/2026-11-14/tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96.jpg"
 thumb: "/assets/stories/2026-11-14/tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2024_Tesla_Model_Y_RWD_front.jpg/1920px-2024_Tesla_Model_Y_RWD_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "LuvsMG481", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:2024_Tesla_Model_Y_RWD_front.jpg", "provider": "Wikimedia Commons", "width": 5967, "height": 2985}
+description: "Tesla has raised the EPA-estimated range of the Model Y rear-wheel-drive version by 8.5%, from roughly 321 miles to 348 miles, while keeping the U.S. starting price at $39,990, according to Not a Tesla App."
 ---
 
 {% raw %}

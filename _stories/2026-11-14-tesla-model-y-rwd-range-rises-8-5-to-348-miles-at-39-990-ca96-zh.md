@@ -23,6 +23,7 @@ image: "/assets/stories/2026-11-14/tesla-model-y-rwd-range-rises-8-5-to-348-mile
 art: "/assets/stories/2026-11-14/tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96.jpg"
 thumb: "/assets/stories/2026-11-14/tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2024_Tesla_Model_Y_RWD_front.jpg/1920px-2024_Tesla_Model_Y_RWD_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "LuvsMG481", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:2024_Tesla_Model_Y_RWD_front.jpg", "provider": "Wikimedia Commons", "width": 5967, "height": 2985}
+description: "据 Not a Tesla App 报道，特斯拉把美国市场 Model Y 后驱版（RWD）的 EPA 预估续航提高了 8.5%，达到 348 英里，同时把起售价维持在 39,990 美元。"
 ---
 
 {% raw %}

@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/eff-asks-appeals-court-to-require-warrant-for
 art: "/assets/stories/2026-11-15/eff-asks-appeals-court-to-require-warrant-for-alpr-searches-4f0c.jpg"
 thumb: "/assets/stories/2026-11-15/eff-asks-appeals-court-to-require-warrant-for-alpr-searches-4f0c-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flock_ALPR_in_Hayward%2C_CA%2C_at_B_St_%26_Foothill_Blvd_%28June_2026%29.jpg/1920px-Flock_ALPR_in_Hayward%2C_CA%2C_at_B_St_%26_Foothill_Blvd_%28June_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "RailTypes", "licence": "CC0", "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en", "source_url": "https://commons.wikimedia.org/wiki/File:Flock_ALPR_in_Hayward,_CA,_at_B_St_%26_Foothill_Blvd_(June_2026).jpg", "provider": "Wikimedia Commons", "width": 8160, "height": 6144}
+description: "EFF has filed a brief asking an appeals court to hold that searching a networked license-plate reader (ALPR) system is a Fourth Amendment search, which would require a warrant."
 ---
 
 {% raw %}

@@ -23,6 +23,7 @@ image: "/assets/stories/2026-11-14/microsoft-says-microsoft-365-fully-restored-a
 art: "/assets/stories/2026-11-14/microsoft-says-microsoft-365-fully-restored-after-global-outage-cddc.jpg"
 thumb: "/assets/stories/2026-11-14/microsoft-says-microsoft-365-fully-restored-after-global-outage-cddc-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Data_Center_Middenmeer%2C_the_Netherlands_-_2.jpg/1920px-Microsoft_Data_Center_Middenmeer%2C_the_Netherlands_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Hay Kranen", "licence": "CC BY 4.0", "licence_url": "https://creativecommons.org/licenses/by/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Microsoft_Data_Center_Middenmeer,_the_Netherlands_-_2.jpg", "provider": "Wikimedia Commons", "width": 4032, "height": 3024}
+description: "微软表示，其旗舰软件 Microsoft 365 的访问已完全恢复，从而结束了这轮中断。据彭博社报道，该中断影响了全球各地的政府机构、交易员、医院和企业，并被形容为微软持续时间最长的服务中断之一。"
 ---
 
 {% raw %}

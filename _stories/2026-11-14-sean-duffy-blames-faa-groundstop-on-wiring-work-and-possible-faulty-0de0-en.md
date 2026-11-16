@@ -23,6 +23,7 @@ image: "/assets/stories/2026-11-14/sean-duffy-blames-faa-groundstop-on-wiring-wo
 art: "/assets/stories/2026-11-14/sean-duffy-blames-faa-groundstop-on-wiring-work-and-possible-faulty-0de0.jpg"
 thumb: "/assets/stories/2026-11-14/sean-duffy-blames-faa-groundstop-on-wiring-work-and-possible-faulty-0de0-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/FAA_Air_Traffic_Control_Tower_at_MSP_Airport_%2850258861466%29.jpg/1920px-FAA_Air_Traffic_Control_Tower_at_MSP_Airport_%2850258861466%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Tony Webster", "licence": "CC BY-SA 2.0", "licence_url": "https://creativecommons.org/licenses/by-sa/2.0", "source_url": "https://commons.wikimedia.org/wiki/File:FAA_Air_Traffic_Control_Tower_at_MSP_Airport_(50258861466).jpg", "provider": "Wikimedia Commons", "width": 9463, "height": 6309}
+description: "The FAA lifted its third-ever nationwide ground stop Friday evening, clearing domestic flights to take off at 8:35 pm EST after several hours of system instability."
 ---
 
 {% raw %}

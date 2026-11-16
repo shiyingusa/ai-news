@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-14/lovable-generated-apps-exposed-passport-data-
 art: "/assets/stories/2026-11-14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5.jpg"
 thumb: "/assets/stories/2026-11-14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g7f789ef52502e5e0388138236f7aa36f340b0d671ddd71a8c81ea096b32759f148d36a13b31c31d977017353239cafd3e5028adf8c4cd92f75ef9ea48f4216b2_1280.jpg", "author": "kumar111aakashin", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/cloud-server-cloud-computing-secure-8598424/", "provider": "Pixabay", "width": 4600, "height": 3067}
+description: "Security research on Lovable, an AI app builder, found that many apps it generated exposed sensitive user data—including passport details and more than 200,000 private messages—through publicly shipped read-only API keys and permissive…"
 ---
 
 {% raw %}

@@ -25,6 +25,7 @@ image: "/assets/stories/2026-11-14/ggml-the-tensor-library-under-llama-cpp-reach
 art: "/assets/stories/2026-11-14/ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41.jpg"
 thumb: "/assets/stories/2026-11-14/ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g67fb18791f507108591ce73165a86cf68105975b320ca9dee091b5280e33b195a76bcf56164c19e992c6cc5f3bbfd38845f3eeecf362e35b8984ee8bdfe716ea_1280.jpg", "author": "blickpixel", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/it-server-server-cabinet-network-838379/", "provider": "Pixabay", "width": 3095, "height": 2063}
+description: "支撑 llama.cpp 及大量本地 AI 工具的张量库 GGML 在 GitHub 上打出了 v1.0.0 版本标签，这是该项目首次跨入 1.0 版本号。"
 ---
 
 {% raw %}

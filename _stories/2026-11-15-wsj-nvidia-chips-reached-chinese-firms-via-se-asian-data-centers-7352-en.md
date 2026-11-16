@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/wsj-nvidia-chips-reached-chinese-firms-via-se
 art: "/assets/stories/2026-11-15/wsj-nvidia-chips-reached-chinese-firms-via-se-asian-data-centers-7352.jpg"
 thumb: "/assets/stories/2026-11-15/wsj-nvidia-chips-reached-chinese-firms-via-se-asian-data-centers-7352-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1920px-NVIDIA_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Coolcaesar", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg", "provider": "Wikimedia Commons", "width": 4662, "height": 2852}
+description: "The Wall Street Journal reported on November 15 that Nvidia AI chips have been reaching Chinese companies through large Southeast Asian data centers that exploited a gap in U.S. sanctions…"
 ---
 
 {% raw %}

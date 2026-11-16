@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-14/spacex-catches-starship-upper-stage-at-launch
 art: "/assets/stories/2026-11-14/spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9.jpg"
 thumb: "/assets/stories/2026-11-14/spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/SpaceX_Starbase_launch_facility_%2851438071556%29.jpg/1920px-SpaceX_Starbase_launch_facility_%2851438071556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Lars Plougmann from United States", "licence": "CC BY-SA 2.0", "licence_url": "https://creativecommons.org/licenses/by-sa/2.0", "source_url": "https://commons.wikimedia.org/wiki/File:SpaceX_Starbase_launch_facility_(51438071556).jpg", "provider": "Wikimedia Commons", "width": 5884, "height": 3923}
+description: "SpaceX caught the Starship upper stage, Ship 42, with the chopstick arms of its Starbase launch tower on Nov. 14, 2026, about 22.5 hours after liftoff—the first time an orbital rocket's upper stage has returned to its launch site and been…"
 ---
 
 {% raw %}

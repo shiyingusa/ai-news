@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/dongfeng-nissan-opens-nx7-phev-early-orders-a
 art: "/assets/stories/2026-11-15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2.jpg"
 thumb: "/assets/stories/2026-11-15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2-640.jpg"
 photo_credit: null
+description: "东风日产于 11 月 13 日开启 NX7 插电混动车型的早期订单，宣称搭载 40 kWh 磷酸铁锂（LFP）电池，纯电续航最高 320 公里（约 198 英里），售价约 2 万美元。"
 ---
 
 {% raw %}

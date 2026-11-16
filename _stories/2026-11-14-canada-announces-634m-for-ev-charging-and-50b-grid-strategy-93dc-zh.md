@@ -22,6 +22,7 @@ image: "/assets/stories/2026-11-14/canada-announces-634m-for-ev-charging-and-50b
 art: "/assets/stories/2026-11-14/canada-announces-634m-for-ev-charging-and-50b-grid-strategy-93dc.jpg"
 thumb: "/assets/stories/2026-11-14/canada-announces-634m-for-ev-charging-and-50b-grid-strategy-93dc-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Autzu_EV_Cars_Charging_in_Canada.jpg/1920px-Autzu_EV_Cars_Charging_in_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Autzu-media", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Autzu_EV_Cars_Charging_in_Canada.jpg", "provider": "Wikimedia Commons", "width": 2592, "height": 1458}
+description: "加拿大政府宣布投入 6.34 亿多（原文金额仅以 $ 符号标示，未注明是加元还是美元）用于扩建电动车充电与电网基础设施，目标是把现有项目已支持的 5 万多个充电桩数量大致翻倍。"
 ---
 
 {% raw %}

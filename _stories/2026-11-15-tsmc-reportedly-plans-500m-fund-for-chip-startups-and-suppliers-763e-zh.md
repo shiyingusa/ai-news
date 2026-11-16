@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/tsmc-reportedly-plans-500m-fund-for-chip-star
 art: "/assets/stories/2026-11-15/tsmc-reportedly-plans-500m-fund-for-chip-startups-and-suppliers-763e.jpg"
 thumb: "/assets/stories/2026-11-15/tsmc-reportedly-plans-500m-fund-for-chip-startups-and-suppliers-763e-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TSMC_Fab5.JPG/1920px-TSMC_Fab5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Peellden", "licence": "CC BY-SA 3.0", "licence_url": "https://creativecommons.org/licenses/by-sa/3.0", "source_url": "https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG", "provider": "Wikimedia Commons", "width": 2000, "height": 1339}
+description: "据《日经亚洲》专访报道，台积电计划设立一只规模 5 亿美元的基金，用于投资有潜力的芯片初创公司、供应商及其他上游合作伙伴。"
 ---
 
 {% raw %}

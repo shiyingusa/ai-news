@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/nidus-raises-30m-for-ai-software-for-defense-
 art: "/assets/stories/2026-11-15/nidus-raises-30m-for-ai-software-for-defense-manufacturing-robots-4aa9.jpg"
 thumb: "/assets/stories/2026-11-15/nidus-raises-30m-for-ai-software-for-defense-manufacturing-robots-4aa9-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g293403660c006914e00e797ca67dbececae3ee840f69df8bdb3d635956ef94e72650ad5023ac5a78df802458eef88723b724d9c997a2728675e7deffd08ea3b4_1280.jpg", "author": "652234", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/lost-places-factory-industry-hall-5328693/", "provider": "Pixabay", "width": 4608, "height": 3456}
+description: "Nidus, a startup building AI-powered technology for manufacturing robots used by US defense industrial companies, has raised $30 million across a pre-seed and a seed round, with Kleiner Perkins and Costanoa among its backers."
 ---
 
 {% raw %}

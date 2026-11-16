@@ -23,6 +23,7 @@ image: "/assets/stories/2026-11-14/italy-s-privacy-regulator-fines-meta-805m-ove
 art: "/assets/stories/2026-11-14/italy-s-privacy-regulator-fines-meta-805m-over-alleged-android-photo-5357.jpg"
 thumb: "/assets/stories/2026-11-14/italy-s-privacy-regulator-fines-meta-805m-over-alleged-android-photo-5357-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg/1920px-Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Acabashi", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg", "provider": "Wikimedia Commons", "width": 4656, "height": 3492}
+description: "意大利数据保护机构周六宣布，对 Meta 处以 8.05 亿欧元（8.87 亿美元）罚款，指控其在访问 Android 用户照片和视频时未取得同意，也未告知用户。"
 ---
 
 {% raw %}

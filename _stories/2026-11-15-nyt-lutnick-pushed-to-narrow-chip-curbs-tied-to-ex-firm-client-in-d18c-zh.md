@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/nyt-lutnick-pushed-to-narrow-chip-curbs-tied-
 art: "/assets/stories/2026-11-15/nyt-lutnick-pushed-to-narrow-chip-curbs-tied-to-ex-firm-client-in-d18c.jpg"
 thumb: "/assets/stories/2026-11-15/nyt-lutnick-pushed-to-narrow-chip-curbs-tied-to-ex-firm-client-in-d18c-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g9fabc8a699b545fec1c16f0dc34a4bf83b69e5b56dbfd980d0968d364907ee8ede149907cd5e643e26960be4c187ceca4351fc29410f9f529dcdc92607c65c42_1280.jpg", "author": "Akela999", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/data-center-engine-room-2476790/", "provider": "Pixabay", "width": 4096, "height": 2160}
+description: "《纽约时报》11月15日发表调查报道称，美国商务部长霍华德·卢特尼克（Howard Lutnick）推动收窄部分芯片出口管制规则的适用范围，而这些规则会影响东南亚的数据中心…"
 ---
 
 {% raw %}

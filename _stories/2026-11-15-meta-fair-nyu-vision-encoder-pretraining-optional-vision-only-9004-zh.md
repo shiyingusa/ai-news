@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/meta-fair-nyu-vision-encoder-pretraining-opti
 art: "/assets/stories/2026-11-15/meta-fair-nyu-vision-encoder-pretraining-optional-vision-only-9004.jpg"
 thumb: "/assets/stories/2026-11-15/meta-fair-nyu-vision-encoder-pretraining-optional-vision-only-9004-640.jpg"
 photo_credit: null
+description: "Meta FAIR 与 NYU 的研究者从零训练 200 多个多模态大模型，逐项拆开视觉编码器的三个选择：是否单独预训练、是否保留视觉专用参数、以及是否放在 LLM 之前…"
 ---
 
 {% raw %}

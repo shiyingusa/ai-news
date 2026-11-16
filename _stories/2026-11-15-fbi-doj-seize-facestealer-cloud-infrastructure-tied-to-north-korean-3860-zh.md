@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/fbi-doj-seize-facestealer-cloud-infrastructur
 art: "/assets/stories/2026-11-15/fbi-doj-seize-facestealer-cloud-infrastructure-tied-to-north-korean-3860.jpg"
 thumb: "/assets/stories/2026-11-15/fbi-doj-seize-facestealer-cloud-infrastructure-tied-to-north-korean-3860-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/gcdeb7cd2474e11d2f214a2e66e84d95f71172c041c3c94d031bce2fe0d0062b764d79d5d525047457124bd5119b1c1f3230e685a446f8bcd2f6233f55d6a79b0_1280.jpg", "author": "bsdrouin", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/network-server-system-2402637/", "provider": "Pixabay", "width": 1920, "height": 1080}
+description: "美国联邦调查局（FBI）与司法部（DOJ）首次为朝鲜政府支持的一类社交工程攻击公开命名\"FaceStealer\"，并宣布已查封其使用的云基础设施，其中存有900段针对特定目标人物的视频。"
 ---
 
 {% raw %}

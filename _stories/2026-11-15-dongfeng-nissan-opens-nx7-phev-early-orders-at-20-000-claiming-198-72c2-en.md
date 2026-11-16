@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/dongfeng-nissan-opens-nx7-phev-early-orders-a
 art: "/assets/stories/2026-11-15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2.jpg"
 thumb: "/assets/stories/2026-11-15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2-640.jpg"
 photo_credit: null
+description: "Dongfeng Nissan opened the early order book on its NX7 plug-in hybrid on November 13, promising up to 320 km (~198 miles) of all-electric range from a 40 kWh lithium iron phosphate (LFP) battery at a price of roughly $20,000."
 ---
 
 {% raw %}

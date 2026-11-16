@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/amodei-calls-compute-anthropic-s-deepest-busi
 art: "/assets/stories/2026-11-15/amodei-calls-compute-anthropic-s-deepest-business-dilemma-before-ipo-a607.jpg"
 thumb: "/assets/stories/2026-11-15/amodei-calls-compute-anthropic-s-deepest-business-dilemma-before-ipo-a607-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g2e9271e26c127b8eb882c87bfca128827019fdfd50dff16a3deb27225c34ac30bfc25c8c54557b7098267e1cb8d67fb6902bb8abb371df7affe8c11ed144feea_1280.jpg", "author": "geralt", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/web-network-technology-developer-3963945/", "provider": "Pixabay", "width": 5150, "height": 2716}
+description: "Days before a planned record IPO, Anthropic CEO Dario Amodei described buying compute as the company's \"deepest business dilemma,\" according to The Decoder."
 ---
 
 {% raw %}

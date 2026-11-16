@@ -22,6 +22,7 @@ image: "/assets/stories/2026-11-14/runway-open-sources-praxis-1-a-robot-controll
 art: "/assets/stories/2026-11-14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e.jpg"
 thumb: "/assets/stories/2026-11-14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g61eeec6b493560003ba42173f02e5aa498f5eb4a036de01430680e7f5d1563b1164608733825b6a56445f3ffd20c5fe243686c3c3fa835ba1ab84e4e0463c984_1280.png", "author": "kalhh", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/robotic-arm-mechanics-technology-2658318/", "provider": "Pixabay", "width": 2560, "height": 1600}
+description: "Runway released Praxis-1, a robotics model published with open weights and source code under the Apache 2.0 license, which the company says adapts knowledge learned from video training into robot control."
 ---
 
 {% raw %}

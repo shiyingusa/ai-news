@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/meituan-releases-longcat-2-5-a-1-6t-agent-mod
 art: "/assets/stories/2026-11-15/meituan-releases-longcat-2-5-a-1-6t-agent-model-trained-without-nvidia-5ecf.jpg"
 thumb: "/assets/stories/2026-11-15/meituan-releases-longcat-2-5-a-1-6t-agent-model-trained-without-nvidia-5ecf-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g457faabd7f3d5daf322b2c4115994a30a5ae175479571af3728860c464eb29d41511b052dbd3567cbc39f772c15c49cc1e73fd25e2fea376e3d93395d9397962_1280.jpg", "author": "bsdrouin", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/network-server-system-2402637/", "provider": "Pixabay", "width": 1920, "height": 1080}
+description: "美团已发布 LongCat-2.5 的模型权重，这是一个面向 AI 智能体的 1.6 万亿参数模型；据 The Decoder 报道，其训练全程使用中国硬件，示例部署运行在 194 颗华为升腾芯片上，报道未提及英伟达 GPU。"
 ---
 
 {% raw %}

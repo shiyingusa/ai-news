@@ -24,6 +24,7 @@ image: "/assets/stories/2026-11-15/wsj-nvidia-chips-reached-chinese-firms-via-se
 art: "/assets/stories/2026-11-15/wsj-nvidia-chips-reached-chinese-firms-via-se-asian-data-centers-7352.jpg"
 thumb: "/assets/stories/2026-11-15/wsj-nvidia-chips-reached-chinese-firms-via-se-asian-data-centers-7352-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1920px-NVIDIA_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Coolcaesar", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg", "provider": "Wikimedia Commons", "width": 4662, "height": 2852}
+description: "《华尔街日报》一篇调查报道称，英伟达 AI 芯片正通过东南亚的大型数据中心流向中国公司：这些设施利用了美国制裁的缺口，为中国企业提供关键算力，并为涉嫌的芯片走私提供掩护。"
 ---
 
 {% raw %}
