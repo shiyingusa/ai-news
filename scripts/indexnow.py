@@ -43,7 +43,25 @@ def main() -> int:
             print(f"IndexNow: submitted {len(urls)} URLs, HTTP {response.status}")
     except Exception as exc:  # never fail the daily run over this
         print(f"IndexNow submission failed: {exc}")
+    baidu_push(urls)
     return 0
+
+
+def baidu_push(urls):
+    """Baidu's own push API, for the Chinese pages (needs BAIDU_PUSH_TOKEN)."""
+    import os
+
+    token = os.environ.get("BAIDU_PUSH_TOKEN", "").strip()
+    zh = [u for u in urls if "/zh/" in u]
+    if not token or not zh:
+        return
+    endpoint = f"http://data.zz.baidu.com/urls?site=https://{HOST}&token={token}"
+    request = urllib.request.Request(endpoint, data="\n".join(zh).encode(), headers={"Content-Type": "text/plain"})
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            print(f"Baidu push: {response.read().decode()[:200]}")
+    except Exception as exc:
+        print(f"Baidu push failed: {exc}")
 
 
 if __name__ == "__main__":
