@@ -1,0 +1,57 @@
+{
+ "event_id": "spacex-catches-starship-upper-stage-for-the-first-time-on-flight-15-95e3",
+ "issue": "2026-11-16",
+ "section": "space",
+ "published_at": "2026-11-16T21:26:29+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "SpaceX's mission page and Space.com both report that Starship lifted off from Pad 2 at Starbase on Nov. 13, 2026, and that the Ship upper stage was caught by the launch tower on Nov. 14 — the first such catch; CNBC and Wikipedia corroborate that this was the first upper-stage catch/landing after reaching orbit, and Space.com reports that Super Heavy diverted to an offshore splashdown after a low-fuel alarm."
+   ],
+   "unconfirmed": [
+    "The booster's explosion after splashdown is described only in Space.com's photo recap, without independent engineering assessment; the sources do not give a root cause for the low-fuel alarm, the Ship's post-catch condition or reusability, or a date for the next flight."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "SpaceX 官方飞行页面与维基百科条目均记录，Flight 15 于 2026 年 11 月 13 日 22:47 UTC 从得州 Starbase 的 2 号发射台升空，超重型助推器在热分离后返场；飞船（Ship）在轨飞行约 22 小时后于 11 月 14 日返回并被发射塔机械臂捕获，这是首次在入轨后实现上面级直立回收（来源：SpaceX、维基百科、CNBC 报道）。Space.com 现场报道同时确认，助推器因低燃料告警自主改为海上溅落，未进行塔捕。"
+   ],
+   "unconfirmed": [
+    "Space.com 仅在括号中提及助推器溅落后“爆炸”，未说明是否为受控解体，SpaceX 也未公布细节；被捕获飞船的结构状况、复用检查结果、再次飞行时间表，以及“完全可复用”的时间节点，目前均无官方数据或独立评估支撑。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "SpaceX catches Starship upper stage for the first time on Flight 15",
+  "zh": "星舰 Flight 15 首次实现飞船塔架捕获"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/spacex-catches-starship-upper-stage-for-the-first-time-on-flight-15-95e3/",
+  "zh": "/zh/2026/11/16/spacex-catches-starship-upper-stage-for-the-first-time-on-flight-15-95e3/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

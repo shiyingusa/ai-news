@@ -1,0 +1,57 @@
+{
+ "event_id": "openai-unveils-classifier-to-flag-ai-generated-child-abuse-imagery-5f72",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T19:23:45+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge AI",
+   "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI announced the classifier and the accompanying free access, developer guidance and law enforcement training at a Monday briefing in Washington, DC, as reported by The Verge."
+   ],
+   "unconfirmed": [
+    "OpenAI's claim that the classifier detects abusive imagery better than existing tools, including AI-generated material, which rests on the company's word with no published benchmark or independent test; the eligibility rules and vetting process for free access; and when, or whether, the tool becomes broadly available."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Verge 报道，OpenAI 在华盛顿特区的新闻发布会上宣布了这款面向儿童性虐待调查的分类器，并承诺向通过审核的机构免费开放、发布开发者指引以及参与执法人员培训。"
+   ],
+   "unconfirmed": [
+    "分类器检测准确率及对 AI 生成图像的识别效果仅有 OpenAI 单方面说法，尚无独立测试；“通过审核的机构”的具体资格标准、工具的实际可用时间与技术接入方式均未公布。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI unveils classifier to flag AI-generated child abuse imagery",
+  "zh": "OpenAI 推出识别 AI 生成儿童性虐待图像的分类器"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/openai-unveils-classifier-to-flag-ai-generated-child-abuse-imagery-5f72/",
+  "zh": "/zh/2026/11/16/openai-unveils-classifier-to-flag-ai-generated-child-abuse-imagery-5f72/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

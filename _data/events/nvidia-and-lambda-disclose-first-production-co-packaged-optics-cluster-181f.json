@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-and-lambda-disclose-first-production-co-packaged-optics-cluster-181f",
+ "issue": "2026-11-16",
+ "section": "chips-compute",
+ "published_at": "2026-11-16T21:24:47+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "ServeTheHome",
+   "url": "https://www.servethehome.com/nvidia-and-lambda-disclose-first-production-co-packaged-optics-cluster-it-is-finally-real/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Lambda disclosed on November 16 that it has deployed NVIDIA Photonics co-packaged optics (CPO — optics moved inside the switch package rather than in pluggable modules) connecting more than 10,000 Blackwell Ultra GPUs at its Québec campus, as reported by Converge Digest and ServeTheHome."
+   ],
+   "unconfirmed": [
+    "That this is the world's first production CPO cluster at this scale rests on Lambda's own disclosure and the absence of comparable announcements from other operators, not on independent verification. The sources also give no port counts, bandwidth or error-rate figures, no comparison against pluggable-optics deployments, and no third-party test of the cluster's operation."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 ServeTheHome、Converge Digest 与 ico-optics 一致引述，Lambda 于 11 月 16 日宣布其魁北克园区部署了 NVIDIA 的共封装光学（CPO，把光引擎与交换芯片封装在一起的交换机技术）交换机，连接超过 10,000 块 Blackwell Ultra GPU；这是 Lambda 自己发布的部署声明。"
+   ],
+   "unconfirmed": [
+    "所谓“全球首个大规模 CPO 部署”的定位目前只有 Lambda 与 NVIDIA 一方的说法，没有第三方独立核实；报道也未给出交换机型号、端口速率或总带宽、部署完成时间、集群实测性能与可靠性数据。原始报道本身仅有两句话加一个链接，技术细节仍需 NVIDIA 或 Lambda 的完整技术披露来补足。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "NVIDIA and Lambda disclose first production co-packaged optics cluster",
+  "zh": "NVIDIA 与 Lambda 披露首个生产级共封装光学集群，规模逾 1 万 GPU"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/nvidia-and-lambda-disclose-first-production-co-packaged-optics-cluster-181f/",
+  "zh": "/zh/2026/11/16/nvidia-and-lambda-disclose-first-production-co-packaged-optics-cluster-181f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

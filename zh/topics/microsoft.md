@@ -2,6 +2,6 @@
 layout: topic
 lang: zh
 topic: "microsoft"
-title: "microsoft"
+title: "Microsoft"
 permalink: "/zh/topics/microsoft/"
 ---

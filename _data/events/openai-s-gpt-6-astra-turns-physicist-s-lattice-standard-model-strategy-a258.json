@@ -1,0 +1,57 @@
+{
+ "event_id": "openai-s-gpt-6-astra-turns-physicist-s-lattice-standard-model-strategy-a258",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T19:19:56+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI itself published an account crediting its physicist Nathaniel Craig with using GPT-6 Astra to turn his strategy for defining the full Standard Model on a lattice into a working proof, and its write-up discusses technical elements such as overlap fermions, which keep only the left-handed fermions and remove doublers. The Decoder's report repeats this framing and quotes Craig saying much work remains before realistic simulations."
+   ],
+   "unconfirmed": [
+    "No primary paper or preprint, technical detail of the proof, or independent expert verification is available, so the proof's correctness, novelty, and how much of it the model generated versus Craig rests on OpenAI's and Craig's word; the 25-year framing comes from the secondary report, and no timeline is given for when realistic lattice simulations of the full Standard Model might be possible."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "OpenAI 官网发布文章，介绍其物理学家 Nathaniel Craig 与 GPT-6 Astra 合作推进「在格点上定义标准模型」的工作，文中提到用 overlap 费米子（overlap fermions）只保留所需的左手费米子并消除倍增子（doublers）；The Decoder 据此报道称，该模型把 Craig 的格点化策略转写成了一份可运行的证明，Craig 本人表示距离真正可用的现实模拟仍有大量工作。"
+   ],
+   "unconfirmed": [
+    "报道未给出论文预印本、任何技术细节或第三方独立验证，因此该证明的完整性、是否经过同行评审均无法确认；从「可运行的证明」到现实模拟之间需要多久、GPT-6 Astra 在其中承担了多大比例的实质推导，也都只有 OpenAI 与 Craig 一方的说法。网络上有声称可免费使用 GPT-6 Astra 的第三方页面，与上述成果无关，不构成佐证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI's GPT-6 Astra turns physicist's lattice Standard Model strategy into proof",
+  "zh": "GPT-6 Astra 将标准模型的格点化策略变成一份可运行的证明"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/openai-s-gpt-6-astra-turns-physicist-s-lattice-standard-model-strategy-a258/",
+  "zh": "/zh/2026/11/16/openai-s-gpt-6-astra-turns-physicist-s-lattice-standard-model-strategy-a258/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

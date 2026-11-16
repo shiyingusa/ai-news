@@ -1,0 +1,57 @@
+{
+ "event_id": "gerstner-altimeter-aims-to-invest-5b-in-anthropic-s-ipo-4a4c",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T21:05:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "CNBC's Kif Leswing reports that Gerstner, on CNBC's \"Halftime Report,\" said Altimeter is aiming to invest $5B in Anthropic's IPO, a figure he characterized as 5x his largest IPO investment, and called the company \"a cornerstone compounder for a long time.\""
+   ],
+   "unconfirmed": [
+    "Whether the $5B is a binding commitment, a target subject to allocation, or fund capital already reserved; the IPO's timing, price and valuation; and any confirmation from Anthropic or Altimeter beyond Gerstner's on-air remarks, which the report does not include."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 CNBC 记者 Kif Leswing 报道，Gerstner 在 CNBC《Halftime Report》节目中亲口表示 Altimeter 计划向 Anthropic 的 IPO 投资 50 亿美元，并称这是其最大 IPO 投资的 5 倍。"
+   ],
+   "unconfirmed": [
+    "投资是否最终执行、以何种价格和规模获配，Anthropic IPO 的时间表、估值与发行规模，以及 Anthropic 或承销方对该笔意向的任何确认——目前全部只有 Gerstner 单方说法，且未披露是否具有约束力。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Gerstner: Altimeter aims to invest $5B in Anthropic's IPO",
+  "zh": "Altimeter 的 Gerstner 称拟向 Anthropic IPO 投资 50 亿美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/gerstner-altimeter-aims-to-invest-5b-in-anthropic-s-ipo-4a4c/",
+  "zh": "/zh/2026/11/16/gerstner-altimeter-aims-to-invest-5b-in-anthropic-s-ipo-4a4c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

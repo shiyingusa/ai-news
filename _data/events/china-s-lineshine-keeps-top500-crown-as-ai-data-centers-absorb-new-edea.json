@@ -1,0 +1,57 @@
+{
+ "event_id": "china-s-lineshine-keeps-top500-crown-as-ai-data-centers-absorb-new-edea",
+ "issue": "2026-11-16",
+ "section": "chips-compute",
+ "published_at": "2026-11-16T22:17:02+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/supercomputers/china-retains-fastest-supercomputer-in-the-world-crown-as-ai-data-centers-soak-up-new-hardware-top500-records-fewest-new-systems-in-33-years"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "According to the 68th Top500 list, released at SC26 in Chicago, China's LineShine at the National Supercomputer Center in Shenzhen remains No. 1 at 2.198 FP64 ExaFLOPS on the HPL benchmark at 42.22 MW, and the top 10 is unchanged since June. The list records only 27 new entrants (5.4%), the fewest since the project began in 1993, and aggregate HPL performance of 19.57 FP64 ExaFLOPS, up 4.4% in six months; the most powerful newcomer is South Korea's Hanggang, 12th at 342.6 PFLOPS."
+   ],
+   "unconfirmed": [
+    "The claim that AI data centers are absorbing the hardware is an interpretation resting on Epoch AI estimates cited by the list's authors — about 15 million H100-equivalents of installed global AI compute (Epoch AI, January) and five US hyperscalers holding roughly 71% of it as of Q4 2025 — not on a measured attribution of specific missing systems, and the article offers no figures on hardware diverted to AI clusters. All performance, core-count and power numbers come from the systems' Top500 submissions; the outlet reports no independent benchmark of LineShine, and no price or delivery details are given for any machine."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "第68届 Top500 榜单在 SC26 发布，中国深圳国家超算中心的 LineShine 以 HPL 2.198 FP64 ExaFLOPS、42.22 MW 位列第一；前十名与 6 月版本相同，新上榜系统仅 27 台（占 5.4%），为 1993 年榜单创立以来最少——这些是榜单数据及 Tom's Hardware 转述的数字。"
+   ],
+   "unconfirmed": [
+    "榜单并未解释新系统偏少的原因，“算力优先流向 AI 数据中心”是本文与 Top500 作者的推断；文中引用的 Epoch AI 估算（全球 AI 算力约合 1500 万块 H100、五大美国云厂商占 71%）为模型估算而非审计数据；LineShine 的成绩基于提交的 HPL 数据，本文未提供独立复测结果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "China's LineShine keeps Top500 crown as AI data centers absorb new hardware",
+  "zh": "中国LineShine蝉联Top500榜首，新上榜系统仅27台"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/china-s-lineshine-keeps-top500-crown-as-ai-data-centers-absorb-new-edea/",
+  "zh": "/zh/2026/11/16/china-s-lineshine-keeps-top500-crown-as-ai-data-centers-absorb-new-edea/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -2,6 +2,6 @@
 layout: topic
 lang: en
 topic: "microsoft"
-title: "microsoft"
+title: "Microsoft"
 permalink: "/topics/microsoft/"
 ---

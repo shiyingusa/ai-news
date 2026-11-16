@@ -1,0 +1,57 @@
+{
+ "event_id": "uber-confirms-hackers-stole-license-data-for-nearly-150-000-drivers-e7da",
+ "issue": "2026-11-16",
+ "section": "tech-industry",
+ "published_at": "2026-11-16T19:53:00+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Uber confirmed that personal information and driver's license data belonging to drivers was stolen in an October breach at a third-party technology provider, AI cloud company Fireworks AI, and TechCrunch reports the company is notifying close to 150,000 affected drivers (Uber, as reported by TechCrunch and Cybernews)."
+   ],
+   "unconfirmed": [
+    "Exactly how attackers gained access rests on a single report, TechTimes, which said they used stolen internal credentials at Fireworks AI; Fireworks AI's own account of the incident, the precise number of drivers affected, whether additional data categories were taken, and any regulatory notification have not been established by the sources reviewed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Uber 向 TechCrunch 证实，在 10 月发生的一起第三方技术服务商数据泄露事件中，近 15 万名司机的个人及驾照信息被窃，公司正陆续通知受影响司机（TechCrunch、CyberNews 均报道，TechTimes 亦援引 Uber 通知）。"
+   ],
+   "unconfirmed": [
+    "攻击者具体如何利用 Fireworks AI 的内部凭证入侵、泄露数据的完整范围、是否已发现信息被滥用，均只有单一媒体报道或公司说法支撑；受影响人数在不同报道中存在“近 15 万”与“数千”的表述差异，尚无独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Uber confirms hackers stole license data for nearly 150,000 drivers",
+  "zh": "Uber 确认近15万份司机驾照信息在数据泄露中被窃取"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/uber-confirms-hackers-stole-license-data-for-nearly-150-000-drivers-e7da/",
+  "zh": "/zh/2026/11/16/uber-confirms-hackers-stole-license-data-for-nearly-150-000-drivers-e7da/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

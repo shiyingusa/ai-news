@@ -1,0 +1,57 @@
+{
+ "event_id": "fda-approves-roche-s-giredestrant-for-esr1-mutated-breast-cancer-b585",
+ "issue": "2026-11-16",
+ "section": "science-bio",
+ "published_at": "2026-11-16T20:56:47+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "STAT News",
+   "url": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "STAT reports that the FDA approved giredestrant (Wilserdly) on Monday for HR-positive, HER2-negative advanced breast cancer with an ESR1 mutation, based on the evERA trial, which showed a longer period before tumor progression."
+   ],
+   "unconfirmed": [
+    "The size of that progression-free survival benefit, overall survival or safety data, price, and launch timing were not in the available excerpt; Roche's claim that the drug could be its top-selling product ever is a company assertion, not an independent estimate."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 STAT 报道，FDA 批准 Wilserdly（giredestrant）用于 ESR1 突变的 HR 阳性/HER2 阴性晚期乳腺癌，且 evERA 试验显示其延长了肿瘤进展前的时间。"
+   ],
+   "unconfirmed": [
+    "罗氏关于该药可能成为公司史上最畅销产品的说法是公司预测；STAT 摘录未给出定价、上市日期、完整标签及 evERA 试验的具体疗效数值。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "FDA approves Roche's giredestrant for ESR1-mutated breast cancer",
+  "zh": "FDA 批准罗氏 giredestrant 用于 ESR1 突变晚期乳腺癌"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/fda-approves-roche-s-giredestrant-for-esr1-mutated-breast-cancer-b585/",
+  "zh": "/zh/2026/11/16/fda-approves-roche-s-giredestrant-for-esr1-mutated-breast-cancer-b585/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

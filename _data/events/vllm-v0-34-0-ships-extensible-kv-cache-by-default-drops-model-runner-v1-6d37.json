@@ -1,0 +1,57 @@
+{
+ "event_id": "vllm-v0-34-0-ships-extensible-kv-cache-by-default-drops-model-runner-v1-6d37",
+ "issue": "2026-11-16",
+ "section": "ai-news",
+ "published_at": "2026-11-16T23:22:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "GitHub",
+   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "the vLLM release page itself states that v0.34.0 contains 1,061 commits from 412 contributors, turns extensible KV cache on by default, removes Model Runner V1, changes the default block size to 64, drops ROCm 7.2 artifacts, requires `huggingface_hub >= 2.0.0`, and publishes install commands and image tags for CUDA 13.0, ROCm 10.0, CPU and XPU."
+   ],
+   "unconfirmed": [
+    "all performance multipliers (1.95× decode, 1.6× throughput, 1.24–1.40× faster TTFT, 1.34–1.59× decode attention) are the project's own benchmarks on specific hardware and configurations, with no independent reproduction supplied; the KV cache capacity example is a single H200 configuration rather than a general guarantee. The release page also carries an unresolved reviewer note questioning whether the XPU install line resolves without an extra index for `vllm_xpu_kernels==0.1.17`."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "GitHub 上的 v0.34.0 发布说明由 khluu 发布，列出 1,061 个提交、412 名贡献者、10 个新模型，以及 KV 缓存默认扩展、Model Runner V1 移除和上述升级变更；安装命令覆盖 CUDA 13.0、ROCm 10.0、XPU 及 Docker 镜像。"
+   ],
+   "unconfirmed": [
+    "1.95× 解码、1.6× 吞吐等加速均为发布说明自报，未附独立基准；各现有部署升级后的兼容性与实际吞吐变化仍需自行验证。发布说明中 XPU 安装行还留有 TODO，称需确认在新内核包索引下是否仍可解析。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "vLLM v0.34.0 ships extensible KV cache by default, drops Model Runner V1",
+  "zh": "vLLM v0.34.0 发布：KV 缓存扩展默认开启并移除 Model Runner V1"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/vllm-v0-34-0-ships-extensible-kv-cache-by-default-drops-model-runner-v1-6d37/",
+  "zh": "/zh/2026/11/16/vllm-v0-34-0-ships-extensible-kv-cache-by-default-drops-model-runner-v1-6d37/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
