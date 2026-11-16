@@ -416,6 +416,7 @@ def export_stories(
                 f"permalink: {_yaml(permalink)}",
                 f"title: {_yaml(title)}",
                 f"dek: {_yaml(make_dek(lead, *((120, 45) if language == 'zh' else (240, 90))))}",
+                f"description: {_yaml(make_dek(lead, *((120, 45) if language == 'zh' else (240, 90))))}",
                 f"section: {_yaml(group.profile_id)}",
                 f"rank: {EDITION * 100 + view_item.global_index}",
                 f"edition: {EDITION}",
