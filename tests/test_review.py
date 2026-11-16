@@ -74,3 +74,8 @@ def test_split_held():
     bad = _item("accident | single", "Rocket explodes on pad")
     publish, held_items, held = split_held([ok, bad])
     assert publish == [ok] and held_items == [bad] and str(bad.id) in held
+
+
+def test_court_outcome_counts_as_attributed():
+    assert assess(_item("allegation | single", "Hacker pleads guilty to Uber breach", "黑客对入侵 Uber 认罪",
+                        related=[{"url": "https://apnews.com/x", "feed_name": "AP News"}])) is None

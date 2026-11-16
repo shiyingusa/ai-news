@@ -26,8 +26,8 @@ SOURCINGS = ("primary", "multiple", "single")
 # Words that make an accusation attributed rather than asserted.
 ATTRIBUTION = re.compile(
     r"\b(?:alleg\w*|accus\w*|charg\w*|su(?:e|es|ed|ing)|lawsuit|indict\w*|claims?|says?|said|"
-    r"prosecutors?|regulators?|probe|investigat\w*|fine[sd]?|complaint)\b|"
-    r"指控|起诉|涉嫌|称|据|调查|罚款|诉讼|控告|认定",
+    r"prosecutors?|regulators?|probe|investigat\w*|fine[sd]?|complaint|plead\w*|guilty|convict\w*|sentenc\w*|verdict|ruling|jury|court)\b|"
+    r"指控|起诉|涉嫌|称|据|调查|罚款|诉讼|控告|认定|认罪|定罪|判处|判决|裁定|法院|陪审团",
     re.I,
 )
 
