@@ -11,6 +11,7 @@ section: "ev-energy"
 rank: 11
 section_rank: 4
 score: 7.0
+status: "Announced"
 source_name: "Electrive"
 source_url: "https://www.electrive.com/2026/11/14/canada-invests-billions-in-charging-infrastructure-and-grid-upgrades/"
 discussion_url: null

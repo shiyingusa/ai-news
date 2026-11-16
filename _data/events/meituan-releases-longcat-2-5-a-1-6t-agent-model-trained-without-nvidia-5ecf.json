@@ -1,0 +1,57 @@
+{
+ "event_id": "meituan-releases-longcat-2-5-a-1-6t-agent-model-trained-without-nvidia-5ecf",
+ "issue": "2026-11-15",
+ "section": "ai-news",
+ "published_at": "2026-11-15T10:06:06+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Decoder reports that Meituan published the weights for LongCat-2.5, a 1.6-trillion-parameter model designed for AI agents, and that Meituan's reported Terminal Bench score is 88.4; the article also states the sample deployment runs on 194 Huawei Ascend chips and that Meituan's materials make no mention of Nvidia GPUs."
+   ],
+   "unconfirmed": [
+    "The 88.4 Terminal Bench figure and the claim that it lands \"just behind Claude Opus 5\" come from Meituan's own reporting, with no independent benchmark run or methodology details (harness version, number of trials, pass criteria) cited. The assertion that training used only Chinese hardware rests on Meituan's account, which the article does not detail — total chip count, training compute, and whether any non-Chinese accelerators were involved in development are all unstated. The item also omits the model's license terms, context length, and where the weights can be downloaded."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Decoder 报道，美团已发布 LongCat-2.5 的模型权重，这是一个 1.6 万亿参数、面向 AI agent 的模型；报道称其在 Terminal Bench 上得分 88.4，样本部署运行在 194 颗华为升腾芯片上，且美团在材料中未提及使用 Nvidia GPU。"
+   ],
+   "unconfirmed": [
+    "88.4 的 Terminal Bench 分数与“训练全程未使用 Nvidia GPU”均来自美团自身或单一媒体的转述，没有独立第三方复现或基准测试细节；报道未给出训练算力规模与成本、模型许可证条款、上下文长度，也未列出 Claude Opus 5 在该基准上的具体分数，因此“仅次于 Opus 5”的排名幅度无法核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Meituan releases LongCat-2.5, a 1.6T agent model trained without Nvidia GPUs",
+  "zh": "美团发布 1.6 万亿参数 LongCat-2.5 智能体模型权重"
+ },
+ "permalinks": {
+  "en": "/2026/11/15/meituan-releases-longcat-2-5-a-1-6t-agent-model-trained-without-nvidia-5ecf/",
+  "zh": "/zh/2026/11/15/meituan-releases-longcat-2-5-a-1-6t-agent-model-trained-without-nvidia-5ecf/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

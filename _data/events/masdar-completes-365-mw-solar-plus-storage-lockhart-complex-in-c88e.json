@@ -1,0 +1,49 @@
+{
+ "event_id": "masdar-completes-365-mw-solar-plus-storage-lockhart-complex-in-c88e",
+ "issue": "2026-11-14",
+ "section": "ev-energy",
+ "published_at": null,
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/14/masdar-completes-950-million-solar-and-battery-storage-project-in-california/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Masdar completes 365 MW solar-plus-storage Lockhart complex in California",
+  "zh": "Masdar 在加州建成 9.5 亿美元光伏配储项目"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/masdar-completes-365-mw-solar-plus-storage-lockhart-complex-in-c88e/",
+  "zh": "/zh/2026/11/14/masdar-completes-365-mw-solar-plus-storage-lockhart-complex-in-c88e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

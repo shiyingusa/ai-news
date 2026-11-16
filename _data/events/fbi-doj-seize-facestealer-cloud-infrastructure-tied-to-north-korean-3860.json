@@ -1,0 +1,57 @@
+{
+ "event_id": "fbi-doj-seize-facestealer-cloud-infrastructure-tied-to-north-korean-3860",
+ "issue": "2026-11-15",
+ "section": "tech-industry",
+ "published_at": "2026-11-15T16:30:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The FBI and DOJ publicly attributed the FaceStealer campaign to North Korea and announced the seizure of cloud infrastructure holding 900 videos of targeted victims, per the DOJ press release and the FBI's IC3 advisory (dated 12 November 2026) that the article cites; the FBI states roughly $400 million in stolen cryptocurrency is tied to the campaign, and describes attackers luring victims to typo-squatted meeting domains and prompting malware-laden \"updates.\""
+   ],
+   "unconfirmed": [
+    "The headline's $5 billion Binance figure conflicts with the body, which says \"over $5 billion\" was taken with \"most\" frozen or recovered, and with the FBI's $400 million total for the campaign — the sources do not reconcile the two numbers or specify how much was actually recovered; the article attributes the 18-month campaign duration only to reporting, and its link between FaceStealer and the March 2026 Axios/NPM compromise is its own inference (\"almost certainly\"), since the FBI does not name that package."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "美国司法部发布公告宣布采取行动打击朝鲜以加密货币窃取为目的的计划，联邦调查局（FBI）同步发布 IC3 报告，将该行动命名为“FaceStealer”，并称已查获存放有 900 段目标受害者视频的云端基础设施；FBI 表示该计划造成约 4 亿美元加密货币损失——以上均出自司法部与 FBI 的公开文件，经 Tom's Hardware 转述。"
+   ],
+   "unconfirmed": [
+    "报道标题与正文所称“超 50 亿美元”的币安被盗规模，以及该案与 FaceStealer 的直接归属关系，目前依赖媒体叙述与币安博文，报道本身也说明其中大部分资金已被冻结或追回，实际净损失未经独立核实；文章把 2026 年 3 月的 Axios npm 包投毒事件“几乎可以肯定”归为同一组织所为，但这是记者推断，FBI 报告并未点名该事件，受害规模与视频数量也没有第三方验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "FBI, DOJ seize FaceStealer cloud infrastructure tied to North Korean crypto theft",
+  "zh": "FBI查封朝鲜\"FaceStealer\"攻击所用的云基础设施"
+ },
+ "permalinks": {
+  "en": "/2026/11/15/fbi-doj-seize-facestealer-cloud-infrastructure-tied-to-north-korean-3860/",
+  "zh": "/zh/2026/11/15/fbi-doj-seize-facestealer-cloud-infrastructure-tied-to-north-korean-3860/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

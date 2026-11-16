@@ -1,0 +1,62 @@
+{
+ "event_id": "eff-asks-appeals-court-to-require-warrant-for-alpr-searches-4f0c",
+ "issue": "2026-11-15",
+ "section": "tech-industry",
+ "published_at": "2026-11-15T02:00:54+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "eff.org",
+   "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50503255"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "EFF says it filed a brief arguing that networked ALPR tracking is a Fourth Amendment search and should require a warrant."
+   ],
+   "unconfirmed": [
+    "whether the court will accept that argument or impose a warrant requirement; the item provides no case name, court, ruling, or decision date."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "EFF 在其官网文章中称已提交该意见书，并引述意见书内容，主张联网 ALPR 的持续追踪构成第四修正案下的“搜查”，应受搜查令约束。"
+   ],
+   "unconfirmed": [
+    "受理法院、案件名称与案号、庭审或裁决时间表均未在现有材料中出现；这项法律主张能否被法院接受、以及所需门槛（如“可能事由”）的具体标准，目前仅有 EFF 一方的论述。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "EFF asks appeals court to require warrant for ALPR searches",
+  "zh": "EFF 请求上诉法院为车牌识别数据库查询设立搜查令要求"
+ },
+ "permalinks": {
+  "en": "/2026/11/15/eff-asks-appeals-court-to-require-warrant-for-alpr-searches-4f0c/",
+  "zh": "/zh/2026/11/15/eff-asks-appeals-court-to-require-warrant-for-alpr-searches-4f0c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

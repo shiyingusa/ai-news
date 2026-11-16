@@ -11,6 +11,7 @@ section: "chips-compute"
 rank: 5
 section_rank: 1
 score: 7.0
+status: "Announced"
 source_name: "Tom's Hardware"
 source_url: "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that"
 discussion_url: null

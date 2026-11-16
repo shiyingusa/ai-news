@@ -1,0 +1,49 @@
+{
+ "event_id": "canada-announces-634m-for-ev-charging-and-50b-grid-strategy-93dc",
+ "issue": "2026-11-14",
+ "section": "ev-energy",
+ "published_at": null,
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/14/canada-invests-billions-in-charging-infrastructure-and-grid-upgrades/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Canada announces $634M for EV charging and $50B grid strategy",
+  "zh": "加拿大宣布逾 6.34 亿充电与电网投资计划"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/canada-announces-634m-for-ev-charging-and-50b-grid-strategy-93dc/",
+  "zh": "/zh/2026/11/14/canada-announces-634m-for-ev-charging-and-50b-grid-strategy-93dc/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

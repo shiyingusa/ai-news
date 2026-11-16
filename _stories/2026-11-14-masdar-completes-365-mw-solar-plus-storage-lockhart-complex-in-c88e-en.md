@@ -11,6 +11,7 @@ section: "ev-energy"
 rank: 13
 section_rank: 6
 score: 7.0
+status: "Announced"
 source_name: "pv magazine"
 source_url: "https://www.pv-magazine.com/2026/11/14/masdar-completes-950-million-solar-and-battery-storage-project-in-california/"
 discussion_url: null

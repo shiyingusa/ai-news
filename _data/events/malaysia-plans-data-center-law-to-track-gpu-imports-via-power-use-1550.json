@@ -1,0 +1,49 @@
+{
+ "event_id": "malaysia-plans-data-center-law-to-track-gpu-imports-via-power-use-1550",
+ "issue": "2026-11-14",
+ "section": "chips-compute",
+ "published_at": null,
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Malaysia plans data-center law to track GPU imports via power use",
+  "zh": "马来西亚拟以用电数据追查 GPU 走私"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/malaysia-plans-data-center-law-to-track-gpu-imports-via-power-use-1550/",
+  "zh": "/zh/2026/11/14/malaysia-plans-data-center-law-to-track-gpu-imports-via-power-use-1550/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

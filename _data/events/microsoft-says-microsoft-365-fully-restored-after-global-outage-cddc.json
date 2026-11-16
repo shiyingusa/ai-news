@@ -1,0 +1,49 @@
+{
+ "event_id": "microsoft-says-microsoft-365-fully-restored-after-global-outage-cddc",
+ "issue": "2026-11-14",
+ "section": "tech-industry",
+ "published_at": null,
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Microsoft says Microsoft 365 fully restored after global outage",
+  "zh": "微软称 Microsoft 365 全部产品恢复运行，结束全球范围中断"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/microsoft-says-microsoft-365-fully-restored-after-global-outage-cddc/",
+  "zh": "/zh/2026/11/14/microsoft-says-microsoft-365-fully-restored-after-global-outage-cddc/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

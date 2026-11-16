@@ -11,6 +11,7 @@ section: "ev-energy"
 rank: 8
 section_rank: 1
 score: 7.0
+status: "Available"
 source_name: "Electrek"
 source_url: "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/"
 discussion_url: null

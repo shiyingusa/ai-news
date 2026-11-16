@@ -1,0 +1,56 @@
+{
+ "event_id": "lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5",
+ "issue": "2026-11-14",
+ "section": "ai-news",
+ "published_at": null,
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "crissyfield.de",
+   "url": "https://www.crissyfield.de/research/lovable-en/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50499017"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Lovable-generated apps exposed passport data and 200K private messages via default keys",
+  "zh": "Lovable 生成应用暴露护照信息与逾 20 万条私信"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5/",
+  "zh": "/zh/2026/11/14/lovable-generated-apps-exposed-passport-data-and-200k-private-messages-c8d5/"
+ },
+ "merged_urls": [
+  "/2026/11/15/lovable-apps-exposed-passport-data-and-200k-private-messages-c8d5/"
+ ],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "nidus-raises-30m-for-ai-software-for-defense-manufacturing-robots-4aa9",
+ "issue": "2026-11-15",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-15T06:50:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Upstarts Media",
+   "url": "https://www.upstartsmedia.com/p/nidus-ai-robotics-raises-30m"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Upstarts Media reports that Nidus raised $30M combined across a pre-seed and a seed round, with Kleiner Perkins and Costanoa among its backers; a Nidus job posting independently describes the company as building AI-and-robotics-based autonomous manufacturing systems."
+   ],
+   "unconfirmed": [
+    "The \"seven figures\" in bookings from defense industrial customers within four months is Nidus's own claim, with no customer names, contract values or revenue figures disclosed. The sources also do not say how the $30M splits between the pre-seed and seed, who led either round, or whether the robots are in production deployment rather than pilots."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Upstarts Media 记者 Alex Konrad 报道，Nidus 在 pre-seed（种子前）和 seed（种子轮）两轮融资中合计筹集 3000 万美元，投资方包括 Kleiner Perkins 和 Costanoa。"
+   ],
+   "unconfirmed": [
+    "所谓“四个月内与国防工业客户达成七位数（数百万美元）订单”仅是 Nidus 公司自己的说法；报道没有给出客户名称、合同金额或任何第三方核实，也没有披露两轮融资各自的具体金额、估值，以及相关机器人技术实际部署的规模。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nidus raises $30M for AI software for defense manufacturing robots",
+  "zh": "Nidus 融资 3000 万美元，开发国防制造机器人 AI 技术"
+ },
+ "permalinks": {
+  "en": "/2026/11/15/nidus-raises-30m-for-ai-software-for-defense-manufacturing-robots-4aa9/",
+  "zh": "/zh/2026/11/15/nidus-raises-30m-for-ai-software-for-defense-manufacturing-robots-4aa9/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

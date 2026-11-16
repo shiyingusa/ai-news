@@ -11,6 +11,7 @@ section: "chips-compute"
 rank: 6
 section_rank: 2
 score: 7.0
+status: "Planned"
 source_name: "Tom's Hardware"
 source_url: "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity"
 discussion_url: null

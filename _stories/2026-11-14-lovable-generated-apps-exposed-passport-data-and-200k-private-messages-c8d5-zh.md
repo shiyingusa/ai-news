@@ -12,6 +12,7 @@ section: "ai-news"
 rank: 2
 section_rank: 2
 score: 7.0
+status: "Demonstrated"
 source_name: "crissyfield.de"
 source_url: "https://www.crissyfield.de/research/lovable-en/"
 via: "Hacker News"

@@ -11,6 +11,7 @@ section: "tech-industry"
 rank: 21
 section_rank: 3
 score: 7.0
+status: "Announced"
 source_name: "The Wall Street Journal"
 source_url: "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?st=zB6eBf"
 via: "Techmeme"

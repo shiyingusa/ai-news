@@ -1,0 +1,49 @@
+{
+ "event_id": "dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2",
+ "issue": "2026-11-14",
+ "section": "ev-energy",
+ "published_at": null,
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Dongfeng Nissan opens NX7 PHEV orders: ~198 miles electric range, ~$20,000",
+  "zh": "东风日产 NX7 插混开启预订：约 198 英里纯电续航、约 2 万美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2/",
+  "zh": "/zh/2026/11/14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

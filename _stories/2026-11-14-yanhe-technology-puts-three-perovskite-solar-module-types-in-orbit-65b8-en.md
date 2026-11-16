@@ -11,6 +11,7 @@ section: "ev-energy"
 rank: 14
 section_rank: 7
 score: 7.0
+status: "Demonstrated"
 source_name: "pv magazine"
 source_url: "https://www.pv-magazine.com/2026/11/14/yanhe-technology-launches-three-perovskite-solar-module-technologies-into-orbit/"
 discussion_url: null

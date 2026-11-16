@@ -11,6 +11,7 @@ section: "ai-news"
 rank: 4
 section_rank: 4
 score: 7.0
+status: "Released"
 source_name: "The Decoder"
 source_url: "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/"
 discussion_url: null

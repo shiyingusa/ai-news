@@ -1,0 +1,74 @@
+{
+ "event_id": "spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9",
+ "issue": "2026-11-14",
+ "section": "space",
+ "published_at": null,
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "high",
+  "reason": "primary + 2 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "X (Twitter)",
+   "url": "https://x.com/i/broadcasts/2brajgZlOKRMka"
+  },
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+  },
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+  },
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50500963"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "SpaceX catches Starship upper stage at launch tower for first time",
+  "zh": "SpaceX 首次用发射塔捕获星舰上面级 Ship 42"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9/",
+  "zh": "/zh/2026/11/14/spacex-catches-starship-upper-stage-at-launch-tower-for-first-time-73d9/"
+ },
+ "merged_urls": [
+  "/2026/11/14/starship-flight-15-reaches-low-earth-orbit-booster-catch-possible-46f7/",
+  "/2026/11/14/spacex-launches-22-hour-starship-flight-15-aborts-booster-catch-7b93/",
+  "/2026/11/14/spacex-investigating-why-starship-flight-15-booster-aborted-chopsticks-26c0/",
+  "/2026/11/15/spacex-catches-starship-upper-stage-at-launch-tower-for-the-first-time-ac35/"
+ ],
+ "corrected": false
+}

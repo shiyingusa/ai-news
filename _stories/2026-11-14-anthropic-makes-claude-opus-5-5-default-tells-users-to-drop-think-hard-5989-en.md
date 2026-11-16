@@ -11,6 +11,7 @@ section: "ai-news"
 rank: 3
 section_rank: 3
 score: 7.0
+status: "Released"
 source_name: "The Decoder"
 source_url: "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
 discussion_url: null

@@ -12,6 +12,7 @@ section: "space"
 rank: 15
 section_rank: 1
 score: 9.0
+status: "Demonstrated"
 source_name: "X (Twitter)"
 source_url: "https://x.com/i/broadcasts/2brajgZlOKRMka"
 via: "Hacker News"

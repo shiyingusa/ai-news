@@ -11,6 +11,7 @@ section: "ev-energy"
 rank: 12
 section_rank: 5
 score: 7.0
+status: "Demonstrated"
 source_name: "pv magazine"
 source_url: "https://www.pv-magazine.com/2026/11/14/unsw-develops-three-minute-lithium-ion-battery-health-test/"
 discussion_url: null

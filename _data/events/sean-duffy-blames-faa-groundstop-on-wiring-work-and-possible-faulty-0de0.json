@@ -1,0 +1,49 @@
+{
+ "event_id": "sean-duffy-blames-faa-groundstop-on-wiring-work-and-possible-faulty-0de0",
+ "issue": "2026-11-14",
+ "section": "tech-industry",
+ "published_at": null,
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Wall Street Journal",
+   "url": "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?st=zB6eBf"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Sean Duffy Blames FAA Groundstop on Wiring Work and Possible Faulty Router",
+  "zh": "FAA 第三次全国停飞，Duffy 归因于铜缆改光纤施工"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/sean-duffy-blames-faa-groundstop-on-wiring-work-and-possible-faulty-0de0/",
+  "zh": "/zh/2026/11/14/sean-duffy-blames-faa-groundstop-on-wiring-work-and-possible-faulty-0de0/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

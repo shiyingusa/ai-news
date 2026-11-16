@@ -1,0 +1,67 @@
+{
+ "event_id": "wsj-nvidia-chips-reached-chinese-firms-via-se-asian-data-centers-7352",
+ "issue": "2026-11-15",
+ "section": "chips-compute",
+ "published_at": "2026-11-15T05:55:03+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wall Street Journal",
+   "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?st=geQhk5"
+  },
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+  },
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Wall Street Journal (reporters Jon Emont, Stu Woo, Patricia Kowsmann and Raffaele Huang) reports that very large data centers in Southeast Asia exploited a gap in U.S. sanctions, supplying computing power to Chinese companies and providing cover for alleged chip smuggling; separately, the New York Times reports that Washington is investigating Megaspeed, a company that set up Southeast Asian data centers to serve Chinese firms, over allegedly smuggling chips into China, and CNN reports that Jensen Huang resigned on Thursday after admitting to an affair."
+   ],
+   "unconfirmed": [
+    "Nvidia's own knowledge of or role in the arrangements, any figure behind the \"multibillion-dollar business\" in the headline, shipment volumes, which specific facilities were involved, and any Nvidia or data-center-operator response — none of that appears in the material supplied, and the smuggling characterization rests on the Journal's \"alleged\" reporting rather than a proven finding. The U.S. inquiry is also plainly still open: Treasury Secretary Scott Bessent demanded answers within 10 days on whether Nvidia pushed \"seemingly illicit\" chip sales to China, per Bloomberg."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《华尔街日报》调查报道（记者 Jon Emont、Stu Woo、Patricia Kowsmann、Raffaele Huang），东南亚的多座大型数据中心利用了美国制裁中的一处缺口，为中国企业提供关键算力，并成为涉嫌芯片走私的掩护；这是该报的调查结论，并非监管机构或法院的认定。"
+   ],
+   "unconfirmed": [
+    "报道标题所称这是黄仁勋打造的“数十亿美元生意”，他本人是否知情或主导，以及走私的具体规模与路径，目前都只来自这一篇报道；素材中没有 Nvidia 或黄仁勋方面的回应，也没有官方指控或独立核实。相关公司 Megaspeed 据《纽约时报》报道正因涉嫌非法对华走私芯片接受美国政府调查，但尚无结论；各媒体对黄仁勋离任的性质说法也不一致，CNN 称其“承认婚外情后辞职”，彭博则用“ouster”（被赶下台）描述。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "WSJ: Nvidia chips reached Chinese firms via SE Asian data centers",
+  "zh": "WSJ：英伟达AI芯片经东南亚数据中心流向中企"
+ },
+ "permalinks": {
+  "en": "/2026/11/15/wsj-nvidia-chips-reached-chinese-firms-via-se-asian-data-centers-7352/",
+  "zh": "/zh/2026/11/15/wsj-nvidia-chips-reached-chinese-firms-via-se-asian-data-centers-7352/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

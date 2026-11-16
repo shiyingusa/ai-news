@@ -11,6 +11,7 @@ section: "tech-industry"
 rank: 19
 section_rank: 1
 score: 8.0
+status: "Announced"
 source_name: "Reuters"
 source_url: "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
 via: "Techmeme"

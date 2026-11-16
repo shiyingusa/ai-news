@@ -11,6 +11,7 @@ section: "tech-industry"
 rank: 22
 section_rank: 4
 score: 7.0
+status: "Announced"
 source_name: "Bloomberg"
 source_url: "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages"
 via: "Techmeme"

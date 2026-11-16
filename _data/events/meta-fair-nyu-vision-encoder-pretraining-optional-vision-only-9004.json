@@ -1,0 +1,57 @@
+{
+ "event_id": "meta-fair-nyu-vision-encoder-pretraining-optional-vision-only-9004",
+ "issue": "2026-11-15",
+ "section": "ai-news",
+ "published_at": "2026-11-15T17:38:16+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "low",
+  "reason": "0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "community",
+   "name": "Reddit r/MachineLearning",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The poster, /u/trungh98, discloses that he is one of the study's authors and links a paper (alphaxiv 2611.17334), a project blog/FAQ and author X threads; an arXiv cs.CV recent-submissions listing independently shows a paper titled \"Unbundling Multimodal Vision Encoding\" (tool-2-1). The post itself states the experimental design: 200+ MLLMs trained from scratch on identical data with encoder pretraining charged to the same compute budget, main comparisons at Qwen3-1.7B/4B with 0.4B vision parameters, a 0.6B–6.4B scaling ladder, and evaluation on 16 Cambrian VQA benchmarks at 448 px plus 12 language benchmarks."
+   ],
+   "unconfirmed": [
+    "Every quantitative result — pretrained encoders only tying from-scratch ones, encoder-free models needing ~3x compute, 45.0 vs 44.4 VQA for in-fusion vs encoder at 1.7B, ~13% lower time to first token, and the 80.4%→84.4% ImageNet gain from 6.5x longer MetaCLIP pretraining — rests solely on the authors' own summary, with no independent replication or peer-review outcome given; the Reddit post is also truncated, so per-benchmark breakdowns and the claimed gaps between Gemma 4 12B, Kimi K3 and Inkling 2 Small cannot be checked from the supplied material."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "预印本《Unbundling Multimodal Vision Encoding》确实已公开（arXiv 编号 2611.17334，标题亦出现在 arXiv cs.CV 最新列表中）；作者之一 /u/trungh98 在 r/MachineLearning 发帖说明，实验用同一份数据从零训练 200 多个多模态大模型，主对比基于 Qwen3-1.7B 与 4B 骨干加 0.4B 视觉参数，评测集为 Cambrian 的 16 个 448px VQA 基准和 12 个语言基准。"
+   ],
+   "unconfirmed": [
+    "全部结论数字——视觉编码器预训练“最多打平”、无编码器模型需约 3 倍算力追平、in-fusion 降低约 13% 首 token 延迟、1.7B 下 45.0 对 44.4 的 VQA 分数——目前仅出自作者自述的预印本，未经同行评审或第三方复现；帖子本身是摘要，未列出完整基准表，也未交代“免费预训练”对照的具体设置。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Meta FAIR/NYU: vision encoder pretraining optional, vision-only parameters required",
+  "zh": "Meta FAIR/NYU：视觉编码器预训练可省，视觉专用参数不可省"
+ },
+ "permalinks": {
+  "en": "/2026/11/15/meta-fair-nyu-vision-encoder-pretraining-optional-vision-only-9004/",
+  "zh": "/zh/2026/11/15/meta-fair-nyu-vision-encoder-pretraining-optional-vision-only-9004/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

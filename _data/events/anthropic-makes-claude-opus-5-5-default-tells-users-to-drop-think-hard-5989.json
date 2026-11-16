@@ -1,0 +1,49 @@
+{
+ "event_id": "anthropic-makes-claude-opus-5-5-default-tells-users-to-drop-think-hard-5989",
+ "issue": "2026-11-14",
+ "section": "ai-news",
+ "published_at": null,
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic makes Claude Opus 5.5 default, tells users to drop \"think hard\"",
+  "zh": "Anthropic 将 Claude Opus 5.5 设为付费版默认模型并改推新提示方式"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/anthropic-makes-claude-opus-5-5-default-tells-users-to-drop-think-hard-5989/",
+  "zh": "/zh/2026/11/14/anthropic-makes-claude-opus-5-5-default-tells-users-to-drop-think-hard-5989/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

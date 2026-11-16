@@ -1,0 +1,54 @@
+{
+ "event_id": "ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41",
+ "issue": "2026-11-14",
+ "section": "ai-news",
+ "published_at": null,
+ "updated": "2026-11-15",
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "GitHub",
+   "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50493062"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "GGML, the tensor library under llama.cpp, reaches v1.0.0",
+  "zh": "GGML 张量库发布 v1.0.0，llama.cpp 本地推理底座迎来首个正式版本"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41/",
+  "zh": "/zh/2026/11/14/ggml-the-tensor-library-under-llama-cpp-reaches-v1-0-0-6c41/"
+ },
+ "merged_urls": [],
+ "corrected": true
+}

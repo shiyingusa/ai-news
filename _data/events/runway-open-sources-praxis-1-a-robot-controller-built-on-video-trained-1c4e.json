@@ -1,0 +1,49 @@
+{
+ "event_id": "runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e",
+ "issue": "2026-11-14",
+ "section": "ai-news",
+ "published_at": null,
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Runway open-sources Praxis-1, a robot controller built on video-trained models",
+  "zh": "Runway 开源机器人模型 Praxis-1，用视频知识驱动机器控制"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e/",
+  "zh": "/zh/2026/11/14/runway-open-sources-praxis-1-a-robot-controller-built-on-video-trained-1c4e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

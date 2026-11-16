@@ -1,0 +1,57 @@
+{
+ "event_id": "dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2",
+ "issue": "2026-11-15",
+ "section": "ev-energy",
+ "published_at": "2026-11-14T21:26:03+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Dongfeng Nissan opened early ordering for the NX7 PHEV, according to Electrek's report of the company's announcement, with a stated 40 kWh LFP battery and a target of up to 320 km of electric range."
+   ],
+   "unconfirmed": [
+    "the ~198-mile range and ~$20,000 price are manufacturer claims with no independent testing, and the sources leave out the test cycle used, the trim breakdown, the price of the long-range version, and the delivery date."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，东风日产已于 11 月 13 日开启 NX7 插混版的早期预订，并对外宣传 40 kWh LFP 电池、最高 320 km 纯电续航和约 2 万美元的价格。"
+   ],
+   "unconfirmed": [
+    "320 km 续航与 2 万美元售价均未经过独立测试或第三方核实，报道也未交代续航测试标准、具体配置差异、最终成交价以及首批交付时间。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Dongfeng Nissan opens NX7 PHEV early orders at ~$20,000, claiming ~198 miles EV range",
+  "zh": "东风日产 NX7 插混开启预订：40 kWh 电池、纯电续航近 200 英里"
+ },
+ "permalinks": {
+  "en": "/2026/11/15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2/",
+  "zh": "/zh/2026/11/15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

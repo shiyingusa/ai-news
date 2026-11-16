@@ -1,0 +1,51 @@
+{
+ "event_id": "tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96",
+ "issue": "2026-11-14",
+ "section": "ev-energy",
+ "published_at": null,
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Not a Tesla App",
+   "url": "https://www.notateslaapp.com/news/5017/tesla-model-y-rwd-gets-increased-range-at-same-price"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla Model Y RWD range rises 8.5% to 348 miles at $39,990",
+  "zh": "特斯拉 Model Y 后驱版续航提升 8.5%，起售价不变"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96/",
+  "zh": "/zh/2026/11/14/tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96/"
+ },
+ "merged_urls": [
+  "/2026/11/15/tesla-model-y-rwd-range-rises-8-5-to-348-miles-at-39-990-ca96/"
+ ],
+ "corrected": false
+}

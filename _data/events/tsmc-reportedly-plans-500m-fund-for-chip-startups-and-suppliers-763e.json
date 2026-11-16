@@ -1,0 +1,57 @@
+{
+ "event_id": "tsmc-reportedly-plans-500m-fund-for-chip-startups-and-suppliers-763e",
+ "issue": "2026-11-15",
+ "section": "chips-compute",
+ "published_at": "2026-11-15T06:45:46+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Nikkei Asia",
+   "url": "https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Nikkei Asia (Cheng Ting-Fang) reports, in an interview-based article, that TSMC plans to create a $500 million venture fund to support promising chip startups, suppliers and other upstream partners, and quotes the company saying it \"also want[s] to support the future's Nvidia.\""
+   ],
+   "unconfirmed": [
+    "TSMC has not been shown to have issued its own announcement of the fund; the $500 million figure, the fund's legal structure, investment targets, timeline and first deals rest on the Nikkei report alone, and the available excerpt is truncated, so the full scope of the quoted remarks is unknown."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "日经亚洲（Nikkei Asia）记者郑婷芳（Cheng Ting-Fang）的采访报道称，台积电计划设立一只规模 5 亿美元的风险基金，用于支持有潜力的芯片初创公司、供应商及其他上游合作伙伴，并引述台积电方面的话说“我们也想支持未来的英伟达”。这是目前唯一的一手表述来源，Techmeme 只是转载了该报道的摘要。"
+   ],
+   "unconfirmed": [
+    "台积电官方尚未就此发布公告，报道也未说明基金名称、正式启动时间、具体的投资标的与单笔规模、由哪个部门管理，以及是否已获董事会批准；由于转载摘要被截断，5 亿美元这一数字之外的具体条款均无法从现有材料核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "TSMC reportedly plans $500M fund for chip startups and suppliers",
+  "zh": "台积电拟设 5 亿美元基金投资芯片初创与上游伙伴"
+ },
+ "permalinks": {
+  "en": "/2026/11/15/tsmc-reportedly-plans-500m-fund-for-chip-startups-and-suppliers-763e/",
+  "zh": "/zh/2026/11/15/tsmc-reportedly-plans-500m-fund-for-chip-startups-and-suppliers-763e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

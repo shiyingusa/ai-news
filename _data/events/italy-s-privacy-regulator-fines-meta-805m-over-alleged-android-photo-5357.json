@@ -1,0 +1,49 @@
+{
+ "event_id": "italy-s-privacy-regulator-fines-meta-805m-over-alleged-android-photo-5357",
+ "issue": "2026-11-14",
+ "section": "tech-industry",
+ "published_at": null,
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Reuters",
+   "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Italy's privacy regulator fines Meta €805M over alleged Android photo and video access",
+  "zh": "意大利因涉嫌违规访问 Android 照片视频对 Meta 罚款 8.05 亿欧元"
+ },
+ "permalinks": {
+  "en": "/2026/11/14/italy-s-privacy-regulator-fines-meta-805m-over-alleged-android-photo-5357/",
+  "zh": "/zh/2026/11/14/italy-s-privacy-regulator-fines-meta-805m-over-alleged-android-photo-5357/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
