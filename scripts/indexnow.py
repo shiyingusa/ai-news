@@ -52,7 +52,9 @@ def baidu_push(urls):
     import os
 
     token = os.environ.get("BAIDU_PUSH_TOKEN", "").strip()
-    zh = [u for u in urls if "/zh/" in u]
+    # New sites without an ICP licence get a tiny daily quota (about 10),
+    # so send only the Chinese home page, today's briefing and top stories.
+    zh = [u for u in urls if "/zh/" in u][: int(os.environ.get("BAIDU_DAILY_LIMIT", "10"))]
     if not token or not zh:
         return
     endpoint = f"http://data.zz.baidu.com/urls?site=https://{HOST}&token={token}"
