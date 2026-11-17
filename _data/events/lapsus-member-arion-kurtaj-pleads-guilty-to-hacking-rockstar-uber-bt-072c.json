@@ -1,0 +1,57 @@
+{
+ "event_id": "lapsus-member-arion-kurtaj-pleads-guilty-to-hacking-rockstar-uber-bt-072c",
+ "issue": "2026-11-16",
+ "section": "tech-industry",
+ "published_at": "2026-11-16T13:50:03+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "BBC",
+   "url": "https://www.bbc.com/news/articles/cq99exy89dngo"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "BBC reporter Joe Tidy reports that Kurtaj, 21, pleaded guilty in a UK court to online offences including trying to extort Rockstar over stolen unfinished GTA 6 clips, with Uber and BT among the other targets, after his release from a secure hospital."
+   ],
+   "unconfirmed": [
+    "the exact charges and their count, the court and plea date, the sentence or sentencing date, and any detail on how the extortion was carried out — none of these appear in the supplied BBC summary, and no independent court record is included."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "BBC 报道称，Kurtaj 在英国法院对包括入侵 Rockstar、Uber、BT 等在内的一系列网络犯罪认罪，并承认窃取未完成的《GTA 6》片段后试图勒索 Rockstar。"
+   ],
+   "unconfirmed": [
+    "量刑日期与刑期、全部具体罪名和涉案金额、他离开安全医院的具体条件，以及 Rockstar、Uber、BT 的回应，均未在现有报道中说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Lapsus$ member Arion Kurtaj pleads guilty to hacking Rockstar, Uber, BT",
+  "zh": "Lapsus$ 成员 Arion Kurtaj 在英国认罪，涉攻击 Rockstar 与 Uber"
+ },
+ "permalinks": {
+  "en": "/2026/11/16/lapsus-member-arion-kurtaj-pleads-guilty-to-hacking-rockstar-uber-bt-072c/",
+  "zh": "/zh/2026/11/16/lapsus-member-arion-kurtaj-pleads-guilty-to-hacking-rockstar-uber-bt-072c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
