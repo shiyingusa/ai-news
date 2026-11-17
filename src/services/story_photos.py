@@ -226,8 +226,23 @@ def search_commons(client: httpx.Client, query: str, used: Set[str]) -> Optional
     return None
 
 
-def find_photo(queries: Iterable[str], used: Set[str], client: Optional[httpx.Client] = None) -> Optional[Photo]:
-    """Commons for the specific subject, then stock libraries; returns the first suitable photo."""
+# Scenes for when nothing specific turns up: a real photo of the story's field
+# (a launch pad for a rocket story, a server hall for a chip story) instead of
+# the radar artwork. Captions stay honest: the credit names the stock library.
+SECTION_SCENES = {
+    "ai-news": ["data center servers", "programmer laptop code", "artificial intelligence computer", "computer screen code", "server room"],
+    "chips-compute": ["computer chip circuit board", "semiconductor wafer", "server rack", "processor chip", "circuit board macro"],
+    "ev-energy": ["electric car charging", "solar panels", "wind turbines", "power lines", "battery storage"],
+    "robotics-autonomy": ["industrial robot arm", "robot", "self driving car", "warehouse automation", "drone flying"],
+    "science-bio": ["laboratory scientist", "microscope research", "medicine pills", "laboratory test tubes", "dna research"],
+    "space": ["rocket launch", "satellite orbit earth", "space telescope", "launch pad rocket", "night sky stars"],
+    "tech-industry": ["office building city", "cyber security", "smartphone technology", "laptop business", "stock market screen"],
+}
+
+
+def find_photo(queries: Iterable[str], used: Set[str], client: Optional[httpx.Client] = None,
+               section: Optional[str] = None) -> Optional[Photo]:
+    """Commons for the specific subject, then stock libraries, then a scene from the story's field."""
     own = client is None
     client = client or httpx.Client(timeout=20, headers={"User-Agent": USER_AGENT}, follow_redirects=True)
     try:
@@ -236,9 +251,17 @@ def find_photo(queries: Iterable[str], used: Set[str], client: Optional[httpx.Cl
         # brands and old archives); stock libraries get only the generic scene query
         # (brand names there match unrelated words, e.g. "Runway" -> airport runway).
         specific, generic = (queries + ["", ""])[:2]
-        plan = [(search_commons, specific)] + (
-            [(search_pexels, generic), (search_pixabay, generic)] if generic else []
-        )
+        plan = [(search_commons, specific)] if specific else []
+        if generic:
+            plan += [(search_pexels, generic), (search_pixabay, generic)]
+            short = " ".join(generic.split()[:2])
+            if short != generic:
+                plan += [(search_pexels, short), (search_pixabay, short)]
+        scenes = SECTION_SCENES.get(section or "", [])
+        if scenes:
+            start = len(used) % len(scenes)
+            for scene in scenes[start:] + scenes[:start]:
+                plan += [(search_pexels, scene), (search_pixabay, scene)]
         for search, query in plan:
             try:
                 photo = search(client, query, used)

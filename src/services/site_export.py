@@ -385,9 +385,9 @@ def export_stories(
                         from .story_photos import find_photo, save_photo
 
                         photo = None
-                        queries = (photo_queries or {}).get(item_key)
-                        if queries:
-                            photo = find_photo(queries, used_photos)
+                        queries = (photo_queries or {}).get(item_key) or []
+                        photo = find_photo(queries, used_photos, section=group.profile_id)
+                        if photo:
                             if photo and not save_photo(photo, day_dir, slug):
                                 photo = None
                         if photo:

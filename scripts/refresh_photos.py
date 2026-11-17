@@ -85,10 +85,10 @@ async def main() -> int:
     for path, text, day in targets:
         slug = front_value(text, "story_id")
         section = front_value(text, "section") or "ai-news"
-        qs = queries.get(str(path))
-        if not slug or not qs:
+        qs = queries.get(str(path)) or []
+        if not slug:
             continue
-        photo = find_photo(qs, used)
+        photo = find_photo(qs, used, section=section)
         day_dir = site / "assets" / "stories" / day
         if not photo or not save_photo(photo, day_dir, slug):
             print(f"  no photo: {slug} ({qs})")
