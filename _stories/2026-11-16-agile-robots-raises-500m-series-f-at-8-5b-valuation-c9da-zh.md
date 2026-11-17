@@ -25,7 +25,7 @@ order: "20261116-0-978"
 image: "/assets/stories/2026-11-16/agile-robots-raises-500m-series-f-at-8-5b-valuation-c9da-share.jpg"
 art: "/assets/stories/2026-11-16/agile-robots-raises-500m-series-f-at-8-5b-valuation-c9da.jpg"
 thumb: "/assets/stories/2026-11-16/agile-robots-raises-500m-series-f-at-8-5b-valuation-c9da-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gd8099e98ecd772c1f91a51a6830df9ebb97b3132f24a2feeda429f36f52bb553c9182f7b5755ae41148647b8ac92ddfcb3c35dd1705e87d97a85a4f2c7de15e7_1280.jpg", "author": "jarmoluk", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/robot-arm-technology-robot-arm-2791671/", "provider": "Pixabay", "width": 3000, "height": 2000}
 ---
 
 {% raw %}

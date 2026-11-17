@@ -25,7 +25,7 @@ order: "20261116-0-970"
 image: "/assets/stories/2026-11-16/helus-pharma-s-hlp003-shows-phase-3-depression-benefit-with-safety-2e8f-share.jpg"
 art: "/assets/stories/2026-11-16/helus-pharma-s-hlp003-shows-phase-3-depression-benefit-with-safety-2e8f.jpg"
 thumb: "/assets/stories/2026-11-16/helus-pharma-s-hlp003-shows-phase-3-depression-benefit-with-safety-2e8f-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g26e6c7b78083a14e2ad28adc258c2ecb59fd7644c37d5784d13ecd7560bca2a8b3f709bdc8edc0318d9a99103441ee64d62bca603c8fc125296fd1bc28f73a95_1280.jpg", "author": "stevepb", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/thermometer-medications-tablets-1539191/", "provider": "Pixabay", "width": 5472, "height": 3648}
 ---
 
 {% raw %}

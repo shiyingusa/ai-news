@@ -25,7 +25,7 @@ order: "20261116-0-983"
 image: "/assets/stories/2026-11-16/nvidia-announces-rubin-hpc-gpu-for-scientific-simulation-13aa-share.jpg"
 art: "/assets/stories/2026-11-16/nvidia-announces-rubin-hpc-gpu-for-scientific-simulation-13aa.jpg"
 thumb: "/assets/stories/2026-11-16/nvidia-announces-rubin-hpc-gpu-for-scientific-simulation-13aa-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g9053a1c3bbef449a7362f898ecdb2080c40f227b9baf1a45223a5fa2bea5752efd86eb63efe9b99283775193b12416e81f7d9c706b8b2b98aea00cc9df8034f6_1280.jpg", "author": "blickpixel", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/it-server-server-cabinet-network-838384/", "provider": "Pixabay", "width": 2682, "height": 1788}
 ---
 
 {% raw %}
