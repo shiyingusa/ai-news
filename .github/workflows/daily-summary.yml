@@ -40,9 +40,17 @@ jobs:
           [ "$SCHED" = "17 23 * * *" ] && EDITION=2
           POST="https://raw.githubusercontent.com/${{ github.repository }}/gh-pages/_posts/${DAY}-summary-en.md"
           SKIP=false
+          # Each edition runs once a day. Triggers can arrive twice (Claude's
+          # scheduled task and GitHub's own cron, which is often hours late), so
+          # skip when this edition or a later one is already out.
+          for E in 0 1 2; do
+            if [ "$E" -ge "$EDITION" ] && curl -sf -o /dev/null "https://raw.githubusercontent.com/${{ github.repository }}/gh-pages/_editions/${DAY}-e${E}.txt"; then
+              echo "Edition $E for $DAY already published; skipping edition $EDITION."; SKIP=true
+            fi
+          done
           if [ "$EDITION" = "0" ]; then
             HOURS=24
-            if [ "${{ github.event_name }}" = "schedule" ] && curl -sf -o /dev/null "$POST"; then
+            if [ "$SKIP" = "false" ] && [ "${{ github.event_name }}" = "schedule" ] && curl -sf -o /dev/null "$POST"; then
               echo "Issue for $DAY already published; skipping."; SKIP=true
             fi
           else
@@ -118,6 +126,9 @@ jobs:
 
       - name: Set current date
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Mark this edition as published
+        run: mkdir -p docs/_editions && date -u +%FT%TZ > "docs/_editions/${{ env.DATE }}-e${{ needs.gate.outputs.edition }}.txt"
 
       - name: Write event records for new stories
         run: python -m src.services.events docs || echo "::warning::Event records not written"
