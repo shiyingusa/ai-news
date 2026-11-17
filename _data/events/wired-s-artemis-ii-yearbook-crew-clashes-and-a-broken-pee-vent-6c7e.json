@@ -1,0 +1,57 @@
+{
+ "event_id": "wired-s-artemis-ii-yearbook-crew-clashes-and-a-broken-pee-vent-6c7e",
+ "issue": "2026-11-17",
+ "section": "space",
+ "published_at": "2026-11-17T11:00:00+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wired",
+   "url": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Wired published a yearbook feature stating that the Artemis II astronauts made history and bonded for life, and describing personality clashes, smoke-detector alarms and a broken urine vent."
+   ],
+   "unconfirmed": [
+    "mission dates, technical outcomes, or independent corroboration of the onboard incidents; the supplied text provides none of these."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "该特稿由《连线》在2026年11月17日发布，文章确以阿耳忒弥斯2号乘组的个性和船上插曲为叙事主线。"
+   ],
+   "unconfirmed": [
+    "现有材料未给出任务日期、官方成果或故障细节，也没有NASA报告或独立报道可核对这些轶事。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Wired's Artemis II Yearbook: Crew Clashes and a Broken Pee Vent",
+  "zh": "《连线》年度特稿回顾阿耳忒弥斯2号乘组"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/wired-s-artemis-ii-yearbook-crew-clashes-and-a-broken-pee-vent-6c7e/",
+  "zh": "/zh/2026/11/17/wired-s-artemis-ii-yearbook-crew-clashes-and-a-broken-pee-vent-6c7e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

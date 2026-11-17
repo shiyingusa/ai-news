@@ -1,0 +1,57 @@
+{
+ "event_id": "mercedes-preps-drive-assist-pro-rollout-for-mb-os-cars-in-us-and-germany-c485",
+ "issue": "2026-11-17",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-16T14:00:05+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Mercedes-Benz is preparing to roll out Drive Assist Pro to US and German customers with MB.OS vehicles, and Ars Technica was given a behind-the-wheel demonstration of the system, per the article."
+   ],
+   "unconfirmed": [
+    "the rollout date, price, the specific models and trims that will receive the feature, and any independent measurement of its performance — the drive took place on a manufacturer-funded trip with flights and accommodation provided by Mercedes."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "奔驰官方安排并提供给 Ars Technica 一次试驾，确认 Drive Assist Pro 面向运行 MB.OS 的车辆，计划在美国和德国向客户推送；该系统为 Level 2 级部分辅助驾驶，需驾驶员持续监督。"
+   ],
+   "unconfirmed": [
+    "具体推送时间表、支持车型、选装或订阅价格均未披露；报道中的表现来自厂商主办的试驾，而非独立机构测量，其可靠性尚无第三方数据佐证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Mercedes preps Drive Assist Pro rollout for MB.OS cars in US and Germany",
+  "zh": "奔驰 Drive Assist Pro 即将在美、德推送，Ars 实测城市复杂路况"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/mercedes-preps-drive-assist-pro-rollout-for-mb-os-cars-in-us-and-germany-c485/",
+  "zh": "/zh/2026/11/17/mercedes-preps-drive-assist-pro-rollout-for-mb-os-cars-in-us-and-germany-c485/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

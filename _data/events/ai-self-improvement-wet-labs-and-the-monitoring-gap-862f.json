@@ -1,0 +1,49 @@
+{
+ "event_id": "ai-self-improvement-wet-labs-and-the-monitoring-gap-862f",
+ "issue": "2026-11-17",
+ "section": "tech-blog",
+ "published_at": "2026-11-16T14:01:15+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 6.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Import AI",
+   "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "AI Self-Improvement, Wet Labs, and the Monitoring Gap",
+  "zh": "AI 自我改进与隐蔽破坏监控"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/ai-self-improvement-wet-labs-and-the-monitoring-gap-862f/",
+  "zh": "/zh/2026/11/17/ai-self-improvement-wet-labs-and-the-monitoring-gap-862f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

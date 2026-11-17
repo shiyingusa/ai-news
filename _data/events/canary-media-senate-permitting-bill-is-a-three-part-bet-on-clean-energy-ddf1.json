@@ -1,0 +1,57 @@
+{
+ "event_id": "canary-media-senate-permitting-bill-is-a-three-part-bet-on-clean-energy-ddf1",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-16T22:30:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Canary Media",
+   "url": "https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Canary Media reports that a bipartisan Senate permitting bill exists and characterizes it as a three-part bet whose first element is that faster federal review for all energy infrastructure will favor clean over dirty energy."
+   ],
+   "unconfirmed": [
+    "the bill's text, sponsor names, the content of the bet's second and third parts, and its legislative status or timetable are not established in the supplied material; the claim that streamlining helps clean energy more than fossil fuels remains the advocates' argument, not a demonstrated result."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Canary Media 报道，参议院存在一项两党许可改革法案，其支持者（民主党人和清洁能源倡导者）将其视为一场分成三部分的赌注，报道并具体写出第一部分，即简化针对所有能源基础设施的联邦环境审查与许可，会带来比化石能源更多的清洁能源项目。"
+   ],
+   "unconfirmed": [
+    "赌注的另外两部分是什么、法案的具体条款与表决时间表，以及“清洁能源受益多于化石能源”这一判断本身——报道未提供独立建模或数据支撑，也未说明该法案能否最终成为法律。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Canary Media: Senate permitting bill is a three-part bet on clean energy",
+  "zh": "参议院两党许可改革法案：一场三部分的清洁能源赌注"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/canary-media-senate-permitting-bill-is-a-three-part-bet-on-clean-energy-ddf1/",
+  "zh": "/zh/2026/11/17/canary-media-senate-permitting-bill-is-a-three-part-bet-on-clean-energy-ddf1/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

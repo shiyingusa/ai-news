@@ -1,0 +1,57 @@
+{
+ "event_id": "tesla-drops-base-model-y-awd-lifting-awd-entry-price-to-49-990-c3c4",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-16T12:30:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/16/price-jump-for-tesla-model-y-awd-base-trim-no-longer-available/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "electrive reports that the base Model Y AWD no longer appears in Tesla's configurator, that AWD now starts with the Premium trim at $49,990, and that the RWD base model still starts at $39,990."
+   ],
+   "unconfirmed": [
+    "Tesla's rationale for dropping the trim, whether any official company statement exists, and whether destination fees, tax credits or equipment changes affect the comparison between the old $41,990 AWD and the $49,990 Premium AWD. The report also gives no sales or production figures for the discontinued trim."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 查阅特斯拉配置器，41,990 美元的入门四驱版已不再提供，四驱车型现从 49,990 美元的 Premium 版起步，后驱入门版维持 39,990 美元。"
+   ],
+   "unconfirmed": [
+    "特斯拉未就取消该配置或调价原因作出公开说明；报道也未说明这是永久调整还是临时安排，以及上述价格是否包含税费、运费或其他附加费用。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla drops base Model Y AWD, lifting AWD entry price to $49,990",
+  "zh": "特斯拉取消 Model Y 入门四驱版，四驱起售价涨至 49,990 美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/tesla-drops-base-model-y-awd-lifting-awd-entry-price-to-49-990-c3c4/",
+  "zh": "/zh/2026/11/17/tesla-drops-base-model-y-awd-lifting-awd-entry-price-to-49-990-c3c4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

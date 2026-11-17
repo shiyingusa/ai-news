@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-reportedly-warns-buyers-of-legal-risk-under-proposed-remote-ac1a",
+ "issue": "2026-11-17",
+ "section": "chips-compute",
+ "published_at": "2026-11-17T10:32:01+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "CNBC reported on Nov. 17, citing unnamed sources, that Nvidia warned customers the proposed Remote Access Security Act could expose them to US legal action if Chinese companies remotely access its AI chips; Bloomberg separately reported that the Trump administration moved to limit several countries from providing Chinese companies remote access to advanced AI chips and servers, and CNBC had reported on Nov. 5 that Chinese lab Moonshot AI sought Nvidia chip access through data centers abroad."
+   ],
+   "unconfirmed": [
+    "The wording, scope and recipients of Nvidia's customer warning rest only on unnamed sources, and Nvidia's own account of it is not in the supplied material. The sources also conflict on the legislation's status — the item calls the Remote Access Security Act \"proposed,\" while one commentary describes it as \"newly passed\" — and no penalties, enforcement date or compliance deadline are given."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "CNBC 援引知情人士报道，英伟达已就中国公司远程访问其 AI 芯片一事向客户发出法律风险提示；Bloomberg 亦报道，特朗普政府于 11 月 16 日采取行动，限制若干国家向中国公司提供先进 AI 芯片和服务器的远程访问，CNBC 此前（11 月 5 日）曾报道中国实验室 Moonshot AI 试图通过数据中心渠道获取英伟达芯片。"
+   ],
+   "unconfirmed": [
+    "该法案的立法状态在来源间存在矛盾——CNBC 与 Techmeme 称其为“拟议”（proposed）的《远程访问安全法案》，而一篇 LinkedIn 帖文称其“新近通过”，两种说法均未获官方文本佐证；此外，英伟达警告所依据的具体条款、法律责任的适用条件与生效时间、警告覆盖的客户范围，以及行政部门限制措施是否已形成正式规则，均无一手文件确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nvidia reportedly warns buyers of legal risk under proposed Remote Access Security Act",
+  "zh": "英伟达据报警告客户：远程访问法案或带来美国法律风险"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/nvidia-reportedly-warns-buyers-of-legal-risk-under-proposed-remote-ac1a/",
+  "zh": "/zh/2026/11/17/nvidia-reportedly-warns-buyers-of-legal-risk-under-proposed-remote-ac1a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "volkswagen-opens-china-pre-orders-for-id-aura-l5-electric-sedan-ff60",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T11:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/17/volkswagen-opens-pre-orders-for-id-aura-l5-in-china/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "FAW-Volkswagen has opened pre-orders in China for the ID. Aura L5, a mid-size electric sedan on Volkswagen's CMP platform with a quoted 580 km CLTC range, according to electrive and CarNewsChina, which adds that the car uses the CEA 1.4 electrical architecture."
+   ],
+   "unconfirmed": [
+    "No launch date beyond \"2026,\" no prices and no independent range test are given; the 310 kW power figure and frameless doors come from a single Turkish outlet (DonanımHaber), and the reported 99-yuan deposit credited as 2,000 yuan toward purchase appears only in a Russian report, so treat both as unverified."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "electrive 与 carnewschina 均报道，一汽-大众已在中国开启 ID. Aura L5 的预订；该车基于大众 CMP 纯电平台，定位中型纯电轿车，厂方公布的 CLTC 续航为 580 公里，carnewschina 称其采用 CEA 1.4 电子电气架构，并将在今年内上市。"
+   ],
+   "unconfirmed": [
+    "99 元意向金可抵 2000 元、310 kW 功率、无框车门等细节，仅见于单一海外媒体的转述，未获大众官方确认；580 公里为 CLTC 工况下的厂方数据，尚没有第三方实测，具体上市日期与正式售价也尚未公布。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Volkswagen opens China pre-orders for ID. Aura L5 electric sedan",
+  "zh": "大众在华开启 ID. Aura L5 预售：CMP 平台、CLTC 续航 580 公里"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/volkswagen-opens-china-pre-orders-for-id-aura-l5-electric-sedan-ff60/",
+  "zh": "/zh/2026/11/17/volkswagen-opens-china-pre-orders-for-id-aura-l5-electric-sedan-ff60/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,49 @@
+{
+ "event_id": "bfl-s-case-for-visual-intelligence-and-multimodal-training-86b9",
+ "issue": "2026-11-17",
+ "section": "tech-blog",
+ "published_at": "2026-11-16T21:38:03+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 6.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Latent Space",
+   "url": "https://latent.space/p/bfl/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BFL's Case for Visual Intelligence and Multimodal Training",
+  "zh": "Black Forest Labs：从图像走向多模态视觉智能"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/bfl-s-case-for-visual-intelligence-and-multimodal-training-86b9/",
+  "zh": "/zh/2026/11/17/bfl-s-case-for-visual-intelligence-and-multimodal-training-86b9/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

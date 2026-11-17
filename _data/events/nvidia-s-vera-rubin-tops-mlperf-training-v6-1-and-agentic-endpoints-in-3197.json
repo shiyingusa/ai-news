@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-s-vera-rubin-tops-mlperf-training-v6-1-and-agentic-endpoints-in-3197",
+ "issue": "2026-11-17",
+ "section": "chips-compute",
+ "published_at": "2026-11-16T16:00:25+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "NVIDIA's own post says Vera Rubin NVL72 was the only system with results on every MLPerf Training v6.1 benchmark, that it reached up to 2x performance per GPU over GB300 NVL72, and that on DeepSeek-V3 it scaled from 256 to 1,024 GPUs at about 97% efficiency (16 minutes down to about four); its figure caption lists the raw Endpoints figures — 32 Vera Rubin accelerators at 41,414.2 tokens/sec and 100.89 kW versus 48 GB300 accelerators at 2,210.4 tokens/sec and 60 kW — and notes the GB300 results were verified by MLCommons."
+   ],
+   "unconfirmed": [
+    "the headline >10x throughput-per-watt gain rests on provisional Vera Rubin Endpoints results that NVIDIA says are pending MLCommons verification and peer review, and on a comparison run at very different concurrency (1,024 versus 48 queries) normalized by NVIDIA's own 50 tokens/sec-per-user floor; pricing, ship dates and independent tests are absent, and the \"MLPerf debut\" framing conflicts with MLCommons' September 2026 post and The Frontier's report that Vera Rubin already appeared in MLPerf Inference v6.1 as a preview system, at up to 2.5x on DeepSeek-R1 and 3.7x on Qwen3-VL over the prior generation."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据英伟达官方博客及其引用、标注来源于 MLCommons 结果库（results.mlcommons.org，2026 年 11 月 16 日）的数据，Vera Rubin NVL72 在本轮 MLPerf Training v6.1 中每 GPU 性能最高为 GB300 NVL72 的 2 倍；在 DeepSeek-V3 基准上从 256 颗扩展到 1,024 颗 GPU 仍保持约 97% 的扩展效率，训练时间由 16 分钟缩短到约 4 分钟；英伟达是唯一在所有训练基准上都有提交结果的公司。图文注释同时显示，Kimi K3 的 MLPerf Endpoints（v1.0，2026 年 11 月 9 日发布）对比中，Vera Rubin NVL72 用 32 个加速器、100.89 kW 运行功率取得 41,414.2 tokens/秒，GB300 NVL72 用 48 个加速器、60 kW 取得 2,210.4 tokens/秒。"
+   ],
+   "unconfirmed": [
+    "“横扫全部训练基准”“每瓦吞吐超过 10 倍”均为英伟达自己对结果的解读；其 Endpoints 结果明确标注为 provisional（暂定），尚待 MLCommons 协会验证与同行评审，可能变更（GB300 结果已获验证）。对比条件也有保留：两者是在“端到端平均交互速度不低于 50 tokens/秒/用户”的共同口径下比较，而 GB300 的该项实测为 56.2 tokens/秒/用户、首 token 延迟 P90 为 2,305.1 毫秒，优于 Vera Rubin 的 4,673.9 毫秒，即吞吐/能效优势伴随更差的响应延迟。此外价格、正式上市时间、完整配置均未披露；此前 9 月 MLPerf Inference v6.1 首秀的 2.5 倍/3.7 倍提升同样出自英伟达口径（tool-2-1）。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "NVIDIA's Vera Rubin tops MLPerf Training v6.1 and agentic Endpoints in debut",
+  "zh": "英伟达称 Vera Rubin 首登 MLPerf 即领先"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/nvidia-s-vera-rubin-tops-mlperf-training-v6-1-and-agentic-endpoints-in-3197/",
+  "zh": "/zh/2026/11/17/nvidia-s-vera-rubin-tops-mlperf-training-v6-1-and-agentic-endpoints-in-3197/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

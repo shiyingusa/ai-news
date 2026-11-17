@@ -2,6 +2,6 @@
 layout: topic
 lang: zh
 topic: "nvidia"
-title: "NVIDIA"
+title: "Nvidia"
 permalink: "/zh/topics/nvidia/"
 ---

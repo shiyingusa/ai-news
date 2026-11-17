@@ -1,0 +1,57 @@
+{
+ "event_id": "intel-to-acquire-classiq-in-push-to-commercialize-quantum-computing-07ef",
+ "issue": "2026-11-17",
+ "section": "chips-compute",
+ "published_at": "2026-11-16T16:30:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/quantum-computing/intel-bets-on-classiq-acquisition-to-turn-quantum-efforts-into-commercially-viable-business-deal-positions-company-as-leading-vendor-of-qubit-chips-acquisition-to-close-by-the-first-half-of-2027"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Intel announced the pending acquisition of Classiq, targeted to close in the first half of 2027, and says Classiq's hardware-agnostic platform has existing enterprise customers and revenue. Intel also says more than 90% of the process equipment for its 18A-Q and 18A-CC quantum process variants is identical to that used for conventional semiconductors."
+   ],
+   "unconfirmed": [
+    "That the deal will close on that timetable, the purchase price, and Intel's claim that it will be the only company able to produce qubit chips and cryogenic control electronics at scale; Intel has not demonstrated a commercial quantum system or given a profitability date."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "英特尔宣布将收购 Classiq，交易预计 2027 年上半年完成；Classiq 的平台定位为硬件无关，涵盖设计、综合、优化、模拟和执行；英特尔称其 18A-Q 与 18A-CC 工艺可复用量产 CPU 的晶圆厂，90% 以上设备相同。"
+   ],
+   "unconfirmed": [
+    "交易金额、监管批准结果和最终交割时间；英特尔“唯一能规模化生产量子比特芯片和低温控制电子器件”的说法只是公司自述，量子业务盈利时间表及整合后产品的可用性也没有独立验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Intel to acquire Classiq in push to commercialize quantum computing",
+  "zh": "英特尔宣布收购 Classiq，推进量子计算商业化"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/intel-to-acquire-classiq-in-push-to-commercialize-quantum-computing-07ef/",
+  "zh": "/zh/2026/11/17/intel-to-acquire-classiq-in-push-to-commercialize-quantum-computing-07ef/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

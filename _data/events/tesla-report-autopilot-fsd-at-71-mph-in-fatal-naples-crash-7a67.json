@@ -1,0 +1,62 @@
+{
+ "event_id": "tesla-report-autopilot-fsd-at-71-mph-in-fatal-naples-crash-7a67",
+ "issue": "2026-11-17",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-16T15:13:45+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-overturned-truck-naples-i75/"
+  },
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-fiery-crash-el-dorado-hills/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek, citing Tesla's report to federal regulators, says Autopilot or Full Self-Driving was engaged at 71 mph when a Model 3 struck an overturned box truck on I-75 near Naples, Florida, on May 31, 2026; MySuncoast reported that day that three people were killed and four seriously injured in the crash (tool-2-1, tool-2-2)."
+   ],
+   "unconfirmed": [
+    "Tesla's filing does not by itself establish that the driver-assist system caused the crash, and no regulator finding is in the supplied material; the 71 mph figure and engaged state are Tesla's own account as relayed by Electrek, not an independent reconstruction. The sources also conflict on whether the man who stopped to help was killed (Electrek) or among the four seriously injured (MySuncoast), while the 2023 model year, five occupants, and Freightliner/BMW details rest on Teslabriefing's account (tool-2-3)."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Electrek 依据特斯拉提交给美国联邦监管机构（NHTSA）的报告报道，5 月 31 日凌晨在佛罗里达州那不勒斯附近 I-75 公路上，一辆 2023 款 Model 3 撞上侧翻的厢式货车，报告列明事发时 Autopilot 或 FSD 处于启用状态、车速 71 英里/小时；事故造成三人死亡，即车内两名乘客和一名停车施救的男子。当地媒体 MySuncoast 当日报道同样称三人死亡、四人受伤，伤者包括一名停车帮忙的司机。"
+   ],
+   "unconfirmed": [
+    "特斯拉报告只写“Autopilot 或 FSD”，未区分具体是哪套系统，也未说明系统是否对碰撞负有责任；71 英里/小时是特斯拉单方申报的数据，暂无独立测速或 NHTSA 调查结论佐证，事故责任认定仍无官方结果。另外，该 RSS 条目附带的第二篇报道（加州 El Dorado Hills 一辆 Model Y 撞树起火致三人死亡）是另一起事故，与那不勒斯事故无关。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla report: Autopilot/FSD at 71 mph in fatal Naples crash",
+  "zh": "特斯拉 Autopilot/FSD 以 71 英里时速撞上侧翻卡车，三人死亡"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/tesla-report-autopilot-fsd-at-71-mph-in-fatal-naples-crash-7a67/",
+  "zh": "/zh/2026/11/17/tesla-report-autopilot-fsd-at-71-mph-in-fatal-naples-crash-7a67/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

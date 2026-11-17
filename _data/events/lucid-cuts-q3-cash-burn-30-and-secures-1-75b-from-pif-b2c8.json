@@ -1,0 +1,57 @@
+{
+ "event_id": "lucid-cuts-q3-cash-burn-30-and-secures-1-75b-from-pif-b2c8",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-16T14:30:00+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/16/lucid-cuts-cash-burn-and-secures-additional-1-75-billion/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "electrive reports the 30% quarter-over-quarter reduction in Q3 2026 cash burn and the additional $1.75 billion from PIF."
+   ],
+   "unconfirmed": [
+    "the financing terms, whether the money is equity or debt, the disbursement timing, and Lucid’s updated cash position; the report does not specify these."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，Lucid 2026 年第三季度现金消耗环比下降 30%，PIF 对其融资再增加 17.5 亿美元。"
+   ],
+   "unconfirmed": [
+    "新增 17.5 亿美元的具体融资工具、到账时间、是否附带条件，以及 Lucid 现金消耗下降的构成，报道均未说明；Lucid 和 PIF 的官方公告细节也未在来源中呈现。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Lucid cuts Q3 cash burn 30% and secures $1.75B from PIF",
+  "zh": "Lucid 现金消耗降30%，PIF再投17.5亿美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/lucid-cuts-q3-cash-burn-30-and-secures-1-75b-from-pif-b2c8/",
+  "zh": "/zh/2026/11/17/lucid-cuts-q3-cash-burn-30-and-secures-1-75b-from-pif-b2c8/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

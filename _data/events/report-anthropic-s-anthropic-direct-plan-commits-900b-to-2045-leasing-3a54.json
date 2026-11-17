@@ -1,0 +1,57 @@
+{
+ "event_id": "report-anthropic-s-anthropic-direct-plan-commits-900b-to-2045-leasing-3a54",
+ "issue": "2026-11-17",
+ "section": "chips-compute",
+ "published_at": "2026-11-17T10:50:00+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Financial Times",
+   "url": "https://www.ft.com/content/559c13f1-0888-47e5-b6ce-523309a37193"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Financial Times reported, citing documents it reviewed, that Anthropic's internal data-centre programme is called Anthropic Direct and involves commitments of more than $900 billion through 2045, including a lease of 875,000 TPUs at $7.2 billion a year; the FT piece also describes a 600,000 sq ft Louisiana data centre with roughly 1,300 workers finishing construction."
+   ],
+   "unconfirmed": [
+    "Anthropic has not publicly confirmed the Anthropic Direct name, the $900B+ total, the 875K TPU count or the $7.2B annual figure, and the underlying documents are not public, so the TPU supplier, contract terms and payment schedule are unknown; the $900B+ figure also differs from the $807 billion Anthropic's October IPO filing said it planned to spend on AI infrastructure, and the sources do not reconcile the two numbers."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《金融时报》11 月 17 日报道（Techmeme 转述），Anthropic 一项名为“Anthropic Direct”的数据中心网络计划涉及到 2045 年逾 9000 亿美元的总承诺，相关文件显示其将以每年 72 亿美元租用 87.5 万块 TPU；报道同时描述了路易斯安那州一座 60 万平方英尺、约 1300 名工人施工的数据中心。此前《纽约时报》10 月 26 日援引 Anthropic 的 S-1 文件报道，公司计划在 AI 基础设施上投入 8070 亿美元，上半年营收 163 亿美元；Entrepreneur 10 月 28 日亦报道其招股书中的基础设施承诺延伸至 2045 年。"
+   ],
+   "unconfirmed": [
+    "Anthropic 未公开确认“Anthropic Direct”这一名称及租用规模、单价等条款，72 亿美元/年与 87.5 万块 TPU 均仅见于 FT 所引文件，无第二家独立媒体核实；TPU 的具体代际、供应商分工、数据中心选址与上线时间、融资方式均未披露；FT 的 9000 亿美元以上与 S-1 中的 8070 亿美元两个数字口径不同，现有来源未作解释，两者是否重叠无法确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Report: Anthropic's \"Anthropic Direct\" plan commits $900B+ to 2045, leasing 875K TPUs",
+  "zh": "Anthropic Direct 被曝：9000 亿美元、87.5 万块 TPU"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/report-anthropic-s-anthropic-direct-plan-commits-900b-to-2045-leasing-3a54/",
+  "zh": "/zh/2026/11/17/report-anthropic-s-anthropic-direct-plan-commits-900b-to-2045-leasing-3a54/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

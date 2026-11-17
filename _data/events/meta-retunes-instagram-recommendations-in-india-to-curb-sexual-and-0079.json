@@ -1,0 +1,57 @@
+{
+ "event_id": "meta-retunes-instagram-recommendations-in-india-to-curb-sexual-and-0079",
+ "issue": "2026-11-17",
+ "section": "tech-industry",
+ "published_at": "2026-11-17T09:10:01+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Reuters",
+   "url": "https://www.reuters.com/world/india/meta-says-it-tuned-instagram-curb-suggestive-violent-content-india-2026-11-17/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Reuters reported that Meta said on Tuesday it had modified Instagram's recommendation systems specifically for India to show less sexual and violent content, following New Delhi's call for tighter content checks."
+   ],
+   "unconfirmed": [
+    "The report does not give the technical scope of the tuning, any reduction figures, or independent evidence that Indian users are seeing less sexual and violent content; those details rest on Meta's statement."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据路透社 11 月 17 日报道，Meta 周二公开表示已针对印度修改 Instagram 的推荐系统，以减少性暗示和暴力内容的推荐；此举是在印度政府呼吁加强内容审核的背景下做出的。"
+   ],
+   "unconfirmed": [
+    "改动的具体技术范围与效果——包括涉及哪些推荐模块、内容减少的幅度、是否经过测试、印度监管机构是否认可——都只有 Meta 单方面表述，报道未提供细节，也没有第三方测量或数据佐证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Meta retunes Instagram recommendations in India to curb sexual and violent content",
+  "zh": "Meta称已为印度调整Instagram推荐算法，减少性暗示与暴力内容"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/meta-retunes-instagram-recommendations-in-india-to-curb-sexual-and-0079/",
+  "zh": "/zh/2026/11/17/meta-retunes-instagram-recommendations-in-india-to-curb-sexual-and-0079/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
