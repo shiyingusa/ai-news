@@ -43,8 +43,15 @@ layout: default
 
 <section class="wrap band" aria-label="{{ T.latest }}">
   <div class="grid-4">
+    {%- comment -%} Newest first, so midday and evening updates show up near the top. {%- endcomment -%}
+    {%- assign shown = "" -%}
+    {%- for s in by_score limit: 6 -%}{%- assign shown = shown | append: "|" | append: s.url -%}{%- endfor -%}
+    {%- assign shown = shown | append: "|" -%}
+    {%- assign newest = today | sort: "order" | reverse -%}
     {%- assign n = 0 -%}
-    {%- for s in by_score offset: 6 -%}
+    {%- for s in newest -%}
+      {%- assign key = "|" | append: s.url | append: "|" -%}
+      {%- if shown contains key -%}{%- continue -%}{%- endif -%}
       {%- assign n = n | plus: 1 -%}{%- if n > 4 -%}{%- break -%}{%- endif %}
     {% include card.html s=s v="card" h=3 %}
     {%- endfor %}
