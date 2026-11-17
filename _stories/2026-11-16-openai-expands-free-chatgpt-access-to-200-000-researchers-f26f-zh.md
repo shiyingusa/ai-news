@@ -25,7 +25,7 @@ order: "20261116-0-996"
 image: "/assets/stories/2026-11-16/openai-expands-free-chatgpt-access-to-200-000-researchers-f26f-share.jpg"
 art: "/assets/stories/2026-11-16/openai-expands-free-chatgpt-access-to-200-000-researchers-f26f.jpg"
 thumb: "/assets/stories/2026-11-16/openai-expands-free-chatgpt-access-to-200-000-researchers-f26f-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g7bd32a6c21e8aec7b14e20eaa8a598d52626b7509a55b1d83e186c9d7d80eca65065423bf5698c5bdf2f5628ff989bf24d4b37d66eea2cf26f34102ee9306b41_1280.jpg", "author": "sweetlouise", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/books-pile-education-school-lesson-5991410/", "provider": "Pixabay", "width": 5184, "height": 3227}
 ---
 
 {% raw %}

@@ -25,7 +25,7 @@ order: "20261116-2-998"
 image: "/assets/stories/2026-11-16/vllm-v0-34-0-ships-extensible-kv-cache-by-default-drops-model-runner-v1-6d37-share.jpg"
 art: "/assets/stories/2026-11-16/vllm-v0-34-0-ships-extensible-kv-cache-by-default-drops-model-runner-v1-6d37.jpg"
 thumb: "/assets/stories/2026-11-16/vllm-v0-34-0-ships-extensible-kv-cache-by-default-drops-model-runner-v1-6d37-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gd5012ed06ec0118202e430ab5cd24b1f6b0facdcf3bdec495bf52aa69afb48768da57515ae05f1a1129a6a3a7beebf14_1280.jpg", "author": "kewl", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/server-room-datacenter-network-90389/", "provider": "Pixabay", "width": 4818, "height": 3212}
 ---
 
 {% raw %}

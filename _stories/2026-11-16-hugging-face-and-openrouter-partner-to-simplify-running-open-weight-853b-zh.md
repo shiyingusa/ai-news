@@ -25,7 +25,7 @@ order: "20261116-0-992"
 image: "/assets/stories/2026-11-16/hugging-face-and-openrouter-partner-to-simplify-running-open-weight-853b-share.jpg"
 art: "/assets/stories/2026-11-16/hugging-face-and-openrouter-partner-to-simplify-running-open-weight-853b.jpg"
 thumb: "/assets/stories/2026-11-16/hugging-face-and-openrouter-partner-to-simplify-running-open-weight-853b-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gec88a17d86a91ad5cc6dae17551fa50e84316ebe4f3c11f67a9866943e982fdd69800741d1d1d4701168b4fbcdb491a56b450d4070505cec2564365ab8ef7c6e_1280.jpg", "author": "Akela999", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/data-center-engine-room-2476790/", "provider": "Pixabay", "width": 4096, "height": 2160}
 ---
 
 {% raw %}

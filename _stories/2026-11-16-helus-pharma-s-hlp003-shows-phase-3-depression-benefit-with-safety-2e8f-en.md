@@ -25,7 +25,7 @@ order: "20261116-0-970"
 image: "/assets/stories/2026-11-16/helus-pharma-s-hlp003-shows-phase-3-depression-benefit-with-safety-2e8f-share.jpg"
 art: "/assets/stories/2026-11-16/helus-pharma-s-hlp003-shows-phase-3-depression-benefit-with-safety-2e8f.jpg"
 thumb: "/assets/stories/2026-11-16/helus-pharma-s-hlp003-shows-phase-3-depression-benefit-with-safety-2e8f-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g719868c3b2f2ba9f617eb1445ec6dbcf2c46e92a926b0eae06df8406a460b0766e56fb83708877ca30d578658bad6a3c7f3442b248e0c25746dbf1faacfbd85b_1280.jpg", "author": "qimono", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/gavel-auction-law-hammer-symbol-2492011/", "provider": "Pixabay", "width": 3600, "height": 2000}
 ---
 
 {% raw %}
