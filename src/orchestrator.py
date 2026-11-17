@@ -370,6 +370,37 @@ class HorizonOrchestrator:
                     item for item in important_items
                     if item.processing and lang in item.processing.artifacts
                 ]
+
+                # High-risk stories held for review: same pages, written outside the site.
+                # Written before the site export, which update editions leave early.
+                held_lang = [
+                    it for it in held_items
+                    if it.processing and lang in it.processing.artifacts
+                ]
+                if held_lang:
+                    try:
+                        from pathlib import Path
+
+                        from .services.site_export import export_stories
+
+                        export_stories(
+                            summarizer,
+                            held_lang,
+                            today,
+                            lang,
+                            Path(f"docs/_review/{today}"),
+                            story_slugs,
+                            images_root=Path("docs/assets/stories"),
+                            slug_titles=story_titles,
+                            photo_queries=story_photo_queries,
+                            used_photos=used_photos,
+                        )
+                    except Exception as e:
+                        self.console.print(
+                            f"[yellow]{self.icons['warning']} Could not write held "
+                            f"{lang.upper()} stories: {e}[/yellow]\n"
+                        )
+
                 summarizer = DailySummarizer(
                     profile_names=self.profiles.names,
                     profile_order=self.config.digest.profile_order,
@@ -501,35 +532,6 @@ class HorizonOrchestrator:
                         self.console.print(
                             f"[yellow]{self.icons['warning']} Failed to write "
                             f"{lang.upper()} story pages: {e}[/yellow]\n"
-                        )
-
-                # High-risk stories held for review: same pages, written outside the site.
-                held_lang = [
-                    it for it in held_items
-                    if it.processing and lang in it.processing.artifacts
-                ]
-                if held_lang:
-                    try:
-                        from pathlib import Path
-
-                        from .services.site_export import export_stories
-
-                        export_stories(
-                            summarizer,
-                            held_lang,
-                            today,
-                            lang,
-                            Path(f"docs/_review/{today}"),
-                            story_slugs,
-                            images_root=Path("docs/assets/stories"),
-                            slug_titles=story_titles,
-                            photo_queries=story_photo_queries,
-                            used_photos=used_photos,
-                        )
-                    except Exception as e:
-                        self.console.print(
-                            f"[yellow]{self.icons['warning']} Could not write held "
-                            f"{lang.upper()} stories: {e}[/yellow]\n"
                         )
 
                 # Send email if configured
