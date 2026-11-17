@@ -25,7 +25,7 @@ order: "20261116-0-983"
 image: "/assets/stories/2026-11-16/nvidia-announces-rubin-hpc-gpu-for-scientific-simulation-13aa-share.jpg"
 art: "/assets/stories/2026-11-16/nvidia-announces-rubin-hpc-gpu-for-scientific-simulation-13aa.jpg"
 thumb: "/assets/stories/2026-11-16/nvidia-announces-rubin-hpc-gpu-for-scientific-simulation-13aa-640.jpg"
-photo_credit: {"url": "https://pixabay.com/get/gb348523c3a621152ef239eb3fa3f1643c98ec0c5b18fefdb9283d617d4fb2b98f4995ebd7711cc5e07623238a897207452108b07984a8eae0fbc32116af1da26_1280.jpg", "author": "cookieone", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/internet-information-service-system-8097838/", "provider": "Pixabay", "width": 6000, "height": 4000}
+photo_credit: null
 ---
 
 {% raw %}
