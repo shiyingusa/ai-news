@@ -160,7 +160,7 @@ def search_pixabay(client: httpx.Client, query: str, used: Set[str]) -> Optional
     )
     for hit in response.json().get("hits", []):
         url = hit.get("largeImageURL")
-        if not url or url in used or not _landscape(hit.get("imageWidth", 0), hit.get("imageHeight", 0)):
+        if not url or url in used or hit.get("pageURL") in used or not _landscape(hit.get("imageWidth", 0), hit.get("imageHeight", 0)):
             continue
         tags = hit.get("tags", "")
         if BAD_TITLE.search(tags) or PEOPLE.search(tags) or _foreign_brand(tags, query) or not _relevant(tags, query):
@@ -251,6 +251,9 @@ def find_photo(queries: Iterable[str], used: Set[str], client: Optional[httpx.Cl
         # brands and old archives); stock libraries get only the generic scene query
         # (brand names there match unrelated words, e.g. "Runway" -> airport runway).
         specific, generic = (queries + ["", ""])[:2]
+        if section == "science-bio":
+            # "trial" on stock sites means courtrooms and gavels
+            generic = re.sub(r"\btrials?\b", "clinical research", generic, flags=re.I)
         plan = [(search_commons, specific)] if specific else []
         if generic:
             plan += [(search_pexels, generic), (search_pixabay, generic)]
@@ -270,6 +273,7 @@ def find_photo(queries: Iterable[str], used: Set[str], client: Optional[httpx.Cl
                 photo = None
             if photo:
                 used.add(photo.url)
+                used.add(photo.source_url)  # Pixabay file URLs change per request; pages don't
                 return photo
         return None
     finally:

@@ -78,7 +78,8 @@ async def main() -> int:
     used: set = set()
     for credit_file in (site / "assets" / "stories").glob("*/*.json"):
         try:
-            used.add(json.loads(credit_file.read_text(encoding="utf-8")).get("url"))
+            credit = json.loads(credit_file.read_text(encoding="utf-8"))
+            used.update(filter(None, (credit.get("url"), credit.get("source_url"))))
         except (OSError, ValueError):
             pass
     updated = 0
