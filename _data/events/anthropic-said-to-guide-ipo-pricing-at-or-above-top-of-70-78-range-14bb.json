@@ -1,0 +1,62 @@
+{
+ "event_id": "anthropic-said-to-guide-ipo-pricing-at-or-above-top-of-70-78-range-14bb",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T14:40:01+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above"
+  },
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Anthropic's updated IPO filing lists 825 million shares to be sold at a marketed price range of $70 to $78 per share, according to CNBC and Zacks, both citing the November 10 filing; Techmeme relayed Bloomberg's November 17 report on how that offering is being marketed."
+   ],
+   "unconfirmed": [
+    "That Anthropic is telling prospective investors it expects to price at or above the top of that range — Bloomberg attributes this to unnamed people familiar with the matter, and the item gives no final price, no valuation, no pricing date and no independent confirmation that demand actually supports a raise of the range."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Anthropic 正在推进 IPO，营销价格区间为每股 70 至 78 美元，计划发行 8.25 亿股；这一信息来自公司更新后的申报文件，由 CNBC 于 11 月 10 日报道，Zacks 也引述了同一文件。"
+   ],
+   "unconfirmed": [
+    "彭博所称 Anthropic 正引导投资者预期定价“在区间上端或更高”，目前仅依据未具名知情人士，Anthropic 未公开确认；最终发行价、对应估值与上市日期均未公布。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic said to guide IPO pricing at or above top of $70–$78 range",
+  "zh": "Anthropic 据报将 IPO 定价指引至区间顶端或更高"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/anthropic-said-to-guide-ipo-pricing-at-or-above-top-of-70-78-range-14bb/",
+  "zh": "/zh/2026/11/17/anthropic-said-to-guide-ipo-pricing-at-or-above-top-of-70-78-range-14bb/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

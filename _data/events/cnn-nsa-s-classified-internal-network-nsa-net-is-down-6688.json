@@ -1,0 +1,57 @@
+{
+ "event_id": "cnn-nsa-s-classified-internal-network-nsa-net-is-down-6688",
+ "issue": "2026-11-17",
+ "section": "tech-industry",
+ "published_at": "2026-11-17T16:00:53+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "CNN",
+   "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "CNN, citing six people familiar with the matter, reports that NSA Net is down and that no evidence of a cyberattack has been found so far."
+   ],
+   "unconfirmed": [
+    "The NSA has not publicly acknowledged the outage; the cause, the scope of affected systems, the duration and any restoration timeline are unknown, and there is no independent or on-the-record confirmation of CNN's account."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "CNN 报道称，六名知情人士向其表示 NSA 的内部机密通信网络处于宕机状态，且目前没有网络攻击的证据——这是该报道自身所确立的内容，尚无独立来源佐证。"
+   ],
+   "unconfirmed": [
+    "NSA 或其他美国官方机构未公开确认网络宕机；故障原因、是否涉及恶意活动、影响范围与恢复时间均无信息；报道也未说明该网络承载哪些具体系统。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "CNN: NSA's classified internal network NSA Net is down",
+  "zh": "CNN：NSA 高度机密内部通信网络据报宕机，暂无攻击迹象"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/cnn-nsa-s-classified-internal-network-nsa-net-is-down-6688/",
+  "zh": "/zh/2026/11/17/cnn-nsa-s-classified-internal-network-nsa-net-is-down-6688/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

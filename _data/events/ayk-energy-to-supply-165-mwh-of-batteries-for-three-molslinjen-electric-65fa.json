@@ -1,0 +1,57 @@
+{
+ "event_id": "ayk-energy-to-supply-165-mwh-of-batteries-for-three-molslinjen-electric-65fa",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T12:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/17/ayk-energy-expands-business-with-large-marine-battery-systems/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "electrive reports that AYK Energy will supply 165 MWh of battery systems in total, split into 55 MWh per vessel, for three all-electric catamaran ferries operated by Molslinjen and built by Incat Tasmania."
+   ],
+   "unconfirmed": [
+    "delivery timing, contract value, battery chemistry and cell suppliers, charging power and shore-side infrastructure, and the routes or in-service dates for the vessels; these rest on the trade report alone, with no independent confirmation or technical datasheet."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，AYK Energy 将为 Molslinjen 的三艘全电动高速渡轮供应总容量 165 MWh 的电池系统，单船 55 MWh，船体由 Incat Tasmania 建造，为双体船型。"
+   ],
+   "unconfirmed": [
+    "报道未提及电池交付与船舶投运的时间表、电池化学体系与充放电功率参数、合同金额，也未说明港口侧的大功率充电设施是否已落实；上述信息仅来自这一篇报道，暂无 AYK Energy 或 Molslinjen 的原始公告可供交叉核对。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "AYK Energy to supply 165 MWh of batteries for three Molslinjen electric ferries",
+  "zh": "AYK Energy 获 165 MWh 船用电池订单，配套 Molslinjen 三艘电动渡轮"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/ayk-energy-to-supply-165-mwh-of-batteries-for-three-molslinjen-electric-65fa/",
+  "zh": "/zh/2026/11/17/ayk-energy-to-supply-165-mwh-of-batteries-for-three-molslinjen-electric-65fa/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

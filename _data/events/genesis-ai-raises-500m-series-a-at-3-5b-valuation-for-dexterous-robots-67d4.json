@@ -1,0 +1,62 @@
+{
+ "event_id": "genesis-ai-raises-500m-series-a-at-3-5b-valuation-for-dexterous-robots-67d4",
+ "issue": "2026-11-17",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-17T14:15:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wall Street Journal",
+   "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?st=VQ2f9L&amp;reflink=desktopwebshare_permalink"
+  },
+  {
+   "tier": "independent",
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Genesis AI itself announced the $500 million Series A and the $3.5 billion valuation, per Wall Street Journal reporting."
+   ],
+   "unconfirmed": [
+    "the identities of the investors, the actual dexterity or general-purpose capability of the robot, and any pilot, customer, or shipment figures; the sources also leave out the round's other terms and the robot's timeline to market."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《华尔街日报》报道，Genesis AI 表示已完成 5 亿美元 A 轮融资、估值 35 亿美元，公司总部位于巴黎，业务描述为研发面向仓库与家庭的通用灵巧机器人。"
+   ],
+   "unconfirmed": [
+    "投资方名单、除金额与估值外的交易条款、资金用途和产品时间表均未公开；“更强灵巧性”“通用”以及“训练灵巧机器人的新方法”目前只是公司说法，没有公开演示、基准测试或客户部署可供独立验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Genesis AI raises $500M Series A at $3.5B valuation for dexterous robots",
+  "zh": "巴黎 Genesis AI 以 35 亿美元估值完成 5 亿美元 A 轮融资"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/genesis-ai-raises-500m-series-a-at-3-5b-valuation-for-dexterous-robots-67d4/",
+  "zh": "/zh/2026/11/17/genesis-ai-raises-500m-series-a-at-3-5b-valuation-for-dexterous-robots-67d4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

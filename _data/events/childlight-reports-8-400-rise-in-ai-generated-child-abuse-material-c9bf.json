@@ -1,0 +1,57 @@
+{
+ "event_id": "childlight-reports-8-400-rise-in-ai-generated-child-abuse-material-c9bf",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T14:59:50+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Edinburgh's Childlight Institute published a report estimating that reports of AI-generated child sexual abuse material rose from roughly 4,700 in 2023 to more than 400,000 in 2025, an increase of over 8,400 percent, and its CEO Paul Stanfield called on governments to treat the problem as a preventable public health emergency; The Guardian covered the surge on 16 November 2026, citing the same Childlight data."
+   ],
+   "unconfirmed": [
+    "the 4,700 and 400,000 figures are Childlight's own counts and have not been independently audited, and the item does not make clear whether they represent reports received, distinct files found, or victims identified; the claim that abusers use nudify apps for blackmail rests on the report rather than documented cases in the source, and a separate earlier figure cited in commentary — a 1,325 percent rise between 2023 and 2024 — covers a different time window and should not be read as contradicting or confirming the two-year total."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "爱丁堡 Childlight 研究所的报告称，AI 生成的儿童性虐待材料举报量从 2023 年的约 4,700 起升至 2025 年的逾 40 万起，增幅超过 8,400%；该所 CEO Paul Stanfield 据此呼吁各国政府将其认定为可预防的公共卫生紧急事件。上述数字与所长表态由 The Decoder 和《卫报》分别报道（tool-2-1）。同一报告还估计，全球每年有逾 3 亿儿童遭受至少一种技术辅助的性剥削或虐待（tool-2-1、tool-2-3）。"
+   ],
+   "unconfirmed": [
+    "8,400% 这一增幅完全来自 Childlight 自身的举报统计，尚无独立机构复核，且举报量上升未必等同于实际发生率上升，可能与检测手段改进、平台上报增加有关；报道未说明数据如何采集、\"AI 生成\"的判定标准以及覆盖哪些国家和平台。此外，各家报道引用的增速口径并不一致——另有材料给出 2023 至 2024 年间增长 1,325% 的数字（tool-2-2），其统计区间与 8,400% 不同，读者不应将两者直接对比或视为同一口径的连续数据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Childlight reports 8,400% rise in AI-generated child abuse material",
+  "zh": "报告称 AI 生成儿童性虐待材料举报两年增逾 8400%"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/childlight-reports-8-400-rise-in-ai-generated-child-abuse-material-c9bf/",
+  "zh": "/zh/2026/11/17/childlight-reports-8-400-rise-in-ai-generated-child-abuse-material-c9bf/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

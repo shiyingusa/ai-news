@@ -1,0 +1,49 @@
+{
+ "event_id": "datasette-lite-runs-the-full-app-in-browser-via-service-workers-5ab3",
+ "issue": "2026-11-17",
+ "section": "tech-blog",
+ "published_at": "2026-11-17T16:48:33+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Datasette Lite Runs the Full App in Browser via Service Workers",
+  "zh": "用 Service Worker 与 Pyodide 在浏览器运行 Datasette"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/datasette-lite-runs-the-full-app-in-browser-via-service-workers-5ab3/",
+  "zh": "/zh/2026/11/17/datasette-lite-runs-the-full-app-in-browser-via-service-workers-5ab3/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

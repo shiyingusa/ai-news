@@ -1,0 +1,57 @@
+{
+ "event_id": "sellas-says-galinpepimut-s-cut-death-risk-41-in-phase-3-aml-trial-10c0",
+ "issue": "2026-11-17",
+ "section": "science-bio",
+ "published_at": "2026-11-17T12:00:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "STAT News",
+   "url": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Sellas announced that galinpepimut-S met the primary endpoint of a Phase 3 trial in advanced AML by reducing the risk of death by 41% versus standard treatment, as reported by STAT."
+   ],
+   "unconfirmed": [
+    "the size of the survival benefit in absolute terms (median overall survival), the hazard ratio's confidence interval, progression-free survival, and safety/tolerability data — all undisclosed; the result rests on the company's own announcement with no peer-reviewed paper or independent analysis, and STAT's September column had predicted the trial would fail."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Sellas 公司称，galinpepimut-S 在晚期 AML 三期试验中达到主要终点，死亡风险较标准治疗降低 41%（依据是公司公告，而非同行评审论文）。"
+   ],
+   "unconfirmed": [
+    "疗效数据背后的风险比及其置信区间、中位总生存期、安全性细节，以及该结果是否足以支持向监管机构提交上市申请；这些均仅有公司说法，报道本身也因付费墙未提供完整数据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Sellas says galinpepimut-S cut death risk 41% in Phase 3 AML trial",
+  "zh": "Sellas 血癌免疫疗法三期试验达标，死亡风险降 41%"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/sellas-says-galinpepimut-s-cut-death-risk-41-in-phase-3-aml-trial-10c0/",
+  "zh": "/zh/2026/11/17/sellas-says-galinpepimut-s-cut-death-risk-41-in-phase-3-aml-trial-10c0/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

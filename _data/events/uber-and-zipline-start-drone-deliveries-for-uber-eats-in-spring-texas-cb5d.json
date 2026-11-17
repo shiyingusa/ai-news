@@ -1,0 +1,57 @@
+{
+ "event_id": "uber-and-zipline-start-drone-deliveries-for-uber-eats-in-spring-texas-cb5d",
+ "issue": "2026-11-17",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-17T16:20:01+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "TechCrunch reports that Uber Eats customers in Spring, Texas can now have food delivered by a Zipline drone, and that this is the first commercial launch under the two companies' arrangement."
+   ],
+   "unconfirmed": [
+    "the one-million-deliveries-per-day-by-end-of-2029 goal and the plan to add dozens of cities rest on the companies' own statements; delivery pricing, service hours, coverage boundaries, order volumes and any independent assessment of reliability or delivery times are not in the reporting. TechCrunch's article is secondary coverage, so the original announcement's exact wording could not be checked here."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "TechCrunch 报道称，得州 Spring 的 Uber Eats 用户现已可通过 Zipline 无人机接收外卖，这是双方首个商业落地服务。"
+   ],
+   "unconfirmed": [
+    "到 2029 年底每天完成 100 万次配送是两家公司提出的目标，而非已实现的数据；配送费用、服务时段、可配送商品范围和监管审批细节均未在源材料中说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Uber and Zipline start drone deliveries for Uber Eats in Spring, Texas",
+  "zh": "Uber与Zipline在得州推出无人机外卖配送"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/uber-and-zipline-start-drone-deliveries-for-uber-eats-in-spring-texas-cb5d/",
+  "zh": "/zh/2026/11/17/uber-and-zipline-start-drone-deliveries-for-uber-eats-in-spring-texas-cb5d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

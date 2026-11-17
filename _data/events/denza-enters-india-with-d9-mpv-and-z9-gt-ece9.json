@@ -1,0 +1,57 @@
+{
+ "event_id": "denza-enters-india-with-d9-mpv-and-z9-gt-ece9",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T16:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/17/denza-enters-india-simultaneously-launches-d9-and-z9-gt/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "electrive reported that Denza, BYD's premium and luxury brand, has entered India and launched the D9 and Z9 GT; it also reported that Denza began European operations earlier this year."
+   ],
+   "unconfirmed": [
+    "Pricing, specifications, on-sale dates and local-production plans for the Indian market are not given in the source."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，腾势已进入印度市场，并将 D9 MPV 和 Z9 GT 猎装车作为在当地推出的首批两款车型，两车同步上市。"
+   ],
+   "unconfirmed": [
+    "印度市场的售价、车型规格与续航数据、开始交付的时间，以及是否计划本地组装或生产，来源均未提及；腾势也未公布在印度的销售目标或渠道规模。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Denza enters India with D9 MPV and Z9 GT",
+  "zh": "比亚迪旗下高端品牌腾势进入印度，首推 D9 与 Z9 GT"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/denza-enters-india-with-d9-mpv-and-z9-gt-ece9/",
+  "zh": "/zh/2026/11/17/denza-enters-india-with-d9-mpv-and-z9-gt-ece9/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

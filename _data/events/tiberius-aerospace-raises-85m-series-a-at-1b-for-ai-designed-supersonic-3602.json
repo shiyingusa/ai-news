@@ -1,0 +1,57 @@
+{
+ "event_id": "tiberius-aerospace-raises-85m-series-a-at-1b-for-ai-designed-supersonic-3602",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T13:55:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wired",
+   "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Tiberius Aerospace announced on 17 November 2026 an $85 million Series A co-led by European investor Lakestar and US national-security investor Rochefort Asset Management, valuing the company at more than $1 billion after the round, according to the investors' joint announcement and Tiberius's own blog post; the company says its GRAIL platform links requirements, engineering, suppliers, compliance and manufacturing, and that the funding will add manufacturing partners for its SCEPTRE artillery round."
+   ],
+   "unconfirmed": [
+    "The performance claims behind the pitch — long-range supersonic flight, AI-driven design speed, cost per round and any delivery timeline — rest on the company's and investors' statements with no published independent test data; the $1B+ valuation is investor-stated rather than independently marked, and the sources do not disclose the round's terms, the split between primary and secondary capital, or whether the munitions have been fired in a live trial."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Tiberius Aerospace 于 2026 年 11 月 17 日宣布完成 8500 万美元 A 轮融资，由 Lakestar 与 Rochefort Asset Management 联合领投，公司称投后估值超过 10 亿美元；公司自述其 GRAIL 平台把需求、工程、供应商、合规与制造纳入同一受治理环境，本轮资金用于为 Sceptre 炮弹引入制造合作伙伴。"
+   ],
+   "unconfirmed": [
+    "Wired 报道所称“用 AI 设计远程超音速炮弹”的具体程度，以及两位创始人分别出身 Google 和 Apple 的细节，目前仅见于该单篇报道；Sceptre 的射程、速度等性能指标没有公开的独立测试数据；融资具体条款、估值口径（是否为投后）以及制造伙伴名单均未披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tiberius Aerospace raises $85M Series A at $1B+ for AI-designed supersonic artillery",
+  "zh": "Tiberius 用 AI 设计超音速炮弹，获 8500 万美元 A 轮融资"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/tiberius-aerospace-raises-85m-series-a-at-1b-for-ai-designed-supersonic-3602/",
+  "zh": "/zh/2026/11/17/tiberius-aerospace-raises-85m-series-a-at-1b-for-ai-designed-supersonic-3602/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

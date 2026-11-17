@@ -1,0 +1,57 @@
+{
+ "event_id": "tesla-unveils-7-4-mw-powercore-solid-state-transformer-for-2027-0cf8",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T16:35:25+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reports that Tesla unveiled Powercore, describing it as one unit combining a solid-state medium-voltage transformer, inverter, and breaker; Tesla’s stated ratings are 7.4 MW (9 MVA) continuous at 34.5 kV and grid-forming support up to 10 MVA peak, with US manufacturing and a 2027 operating target."
+   ],
+   "unconfirmed": [
+    "Tesla has not shown shipped units, customer deployments, pricing, or independent test results; the 7.4 MW/9 MVA and 10 MVA figures are Tesla’s own claims, the exact 2027 start date is a schedule rather than a demonstrated milestone, and Heron Power’s 2027 volume-production target for Heron Link is likewise a company plan."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，特斯拉发布了 Powercore，称其是集变压器、逆变器和断路器功能于一体的固态中压设备，连续额定 7.4 MW（9 MVA）、电压 34.5 kV，并具备最高 10 MVA 峰值的构网能力，计划 2027 年开始运行。"
+   ],
+   "unconfirmed": [
+    "上述性能指标均来自特斯拉方面，尚无独立测试或已投运机组佐证；价格、客户部署和确切投运日期也未公布。Heron Power 计划 2027 年量产 Heron Link 同样只是公司规划；TechCrunch 2026 年 2 月报道其融资 1.4 亿美元以扩大固态变压器产能，但量产时间和规模尚未兑现。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla unveils 7.4 MW Powercore solid-state transformer for 2027",
+  "zh": "特斯拉发布 7.4 MW Powercore 固态变压器，2027 年投运"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/tesla-unveils-7-4-mw-powercore-solid-state-transformer-for-2027-0cf8/",
+  "zh": "/zh/2026/11/17/tesla-unveils-7-4-mw-powercore-solid-state-transformer-for-2027-0cf8/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

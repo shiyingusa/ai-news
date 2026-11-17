@@ -1,0 +1,57 @@
+{
+ "event_id": "bloomberg-ai-models-misidentified-civilians-as-targets-in-simulated-658e",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T17:10:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/top-ai-models-regularly-identify-civilians-as-military-targets-in-tests"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg's Katrina Manson reported on November 17 that, in simulated scenarios, advanced AI models regularly misidentified civilians, ambulances, surrendering soldiers and a school in Iran as military targets. According to Bloomberg and Bloomberg Law's account of the independent research report behind the story, models from eight firms were tested, with Anthropic's performing worst and OpenAI's among the best but still making errors; the models named in the item include Anthropic, Google, xAI, DeepSeek and OpenAI."
+   ],
+   "unconfirmed": [
+    "The evaluation's design, the number of scenarios and runs, the scoring criteria, per-model error rates and the identity of the researchers are not established in the supplied material, which is brief re-reporting rather than the study itself. It is also unconfirmed whether these simulation results predict behavior in real targeting workflows, and no independent replication of the test has been reported."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据彭博社（Katrina Manson）报道，在一项新的独立研究开展的模拟场景测试中，来自 Anthropic、Google、xAI、DeepSeek、OpenAI 等厂商的先进 AI 模型反复把平民、救护车、投降士兵以及伊朗的一所学校误判为军事目标；据彭博法律（Bloomberg Law）转载的同一报道，Anthropic 的模型表现最差，OpenAI 的模型表现相对较好，但仍会出错。"
+   ],
+   "unconfirmed": [
+    "测试机构与报告全文均未公开，具体测试方法、提示词设计、样本规模、各模型的错误率与版本号都不清楚；各来源对涉事厂商数量的表述不一致：原始条目点名五家实验室，TNW 的报道则称共涉及八家公司，目前无法核实哪个准确。此外，报道来自媒体转述而非经同行评议的原始研究，结果也仅限于模拟场景，尚无独立复现，不能直接推断模型在真实作战环境中的表现。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Bloomberg: AI models misidentified civilians as targets in simulated tests",
+  "zh": "彭博社报道：五家AI模型在模拟中误判平民为军事目标"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/bloomberg-ai-models-misidentified-civilians-as-targets-in-simulated-658e/",
+  "zh": "/zh/2026/11/17/bloomberg-ai-models-misidentified-civilians-as-targets-in-simulated-658e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "bangladesh-s-rooppur-1-connects-to-grid-supplying-first-nuclear-3cd7",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T12:38:17+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/bangladeshs-rooppur-1-nuclear-supplies-countrys-first-nuclear-energy"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "World Nuclear News reports that Rooppur 1 is Bangladesh's first nuclear power unit, that it has been connected to the national grid, and that it has supplied its first electricity."
+   ],
+   "unconfirmed": [
+    "The unit's capacity, the share of national demand it will meet, the project's final cost, and when — or whether — it has entered commercial operation; these details are absent from the supplied report, which is a single specialist trade source rather than a grid operator or regulator statement."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据世界核新闻（World Nuclear News）报道，鲁普尔1号已接入孟加拉国国家电网，并首次向电网供电。"
+   ],
+   "unconfirmed": [
+    "该机组的装机容量、首次并网的具体日期、是否已进入商业运行，以及并网后能否持续稳定发电；这些信息在现有报道中没有给出，也没有独立测试结果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Bangladesh's Rooppur 1 connects to grid, supplying first nuclear electricity",
+  "zh": "孟加拉国鲁普尔1号机组首次并网发电"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/bangladesh-s-rooppur-1-connects-to-grid-supplying-first-nuclear-3cd7/",
+  "zh": "/zh/2026/11/17/bangladesh-s-rooppur-1-connects-to-grid-supplying-first-nuclear-3cd7/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

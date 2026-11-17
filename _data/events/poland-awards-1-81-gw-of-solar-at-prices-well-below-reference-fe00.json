@@ -1,0 +1,57 @@
+{
+ "event_id": "poland-awards-1-81-gw-of-solar-at-prices-well-below-reference-fe00",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T14:58:46+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/17/poland-awards-1-81-gw-of-solar-in-latest-renewables-auctions/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "URE's published results, as reported by pv magazine, show 68 winning bids across the two November auctions, 65 of them solar, awarding about 1,814 MW of PV (1,799 MW in the above-1 MW category plus 15.6 MW in the sub-1 MW category), with the clearing prices, contracted volumes and PLN 5.5 billion total value given above."
+   ],
+   "unconfirmed": [
+    "These are awarded, contracted capacities, not built plants — the article gives no commissioning dates or project-level detail, and the dollar figures are the publication's own conversions. It also does not explain whether the 1.3% subscription in the small-installation auction reflects developer disinterest or a small volume offered."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "上述容量、中标方案数量、电价区间与签约电量均由波兰能源监管办公室（URE）公布，并由pv magazine转述；2025年那一轮曾授予约1.67 GW光伏和82.7 MW风电，光伏电价区间为216.90至374.77兹罗提/MWh。"
+   ],
+   "unconfirmed": [
+    "中标项目的投产或并网时间表、最终实际装机规模尚无公布，拍卖中标并不等于项目必然建成；本条目对URE数据的转述目前仅来自pv magazine一家媒体，未见其他独立来源交叉核对。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Poland awards 1.81 GW of solar at prices well below reference",
+  "zh": "波兰拍卖授予约1.81 GW光伏，太阳能继续主导可再生能源招标"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/poland-awards-1-81-gw-of-solar-at-prices-well-below-reference-fe00/",
+  "zh": "/zh/2026/11/17/poland-awards-1-81-gw-of-solar-at-prices-well-below-reference-fe00/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "comac-s-19-seat-ce-25a-electric-aircraft-completes-first-manned-flight-5776",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T13:00:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/17/first-manned-flight-chinas-19-seat-electric-aircraft-takes-off/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Comac's 19-seat CE-25A electric aircraft completed its first manned flight, according to electrive, which reports the aircraft is a joint development by Comac, CATL, Shanghai Jiao Tong University and other partners. The flight took place on 14 November 2026 at Binzhou in Shandong Province, as reported by Global Times and other outlets covering the event."
+   ],
+   "unconfirmed": [
+    "The reported specifications — roughly 249 miles (400 km) of range, 186 mph (300 km/h) cruising speed and a maximum takeoff weight near 22,046 pounds — come from press coverage of the flight rather than an independently measured test, and electrive's report gives no flight duration, altitude or battery details. Certification timetable, production plans and entry-into-service date are not stated in any supplied source."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "electrive 报道称，中国商飞（Comac）的 CE-25A 电动飞机已完成首次载人飞行，该机由商飞与宁德时代、上海交通大学等合作研制。《环球时报》给出的具体时间地点为 2026 年 11 月 14 日、山东滨州；Interesting Engineering 称机上载有两名飞行员和一名试飞工程师。"
+   ],
+   "unconfirmed": [
+    "249 英里（约 400 公里）航程、186 英里/小时（约 300 公里/小时）巡航速度、约 22,046 磅（约 10 吨）最大起飞重量等性能数字仅见于媒体报道，未经独立测试验证；electrive 原文未提及飞行时长、电池细节、适航取证与投入商业运营的时间表，首飞机场与日期也来自其他媒体而非该公司公告。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Comac's 19-seat CE-25A electric aircraft completes first manned flight",
+  "zh": "商飞 19 座电动飞机 CE-25A 完成首次载人飞行"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/comac-s-19-seat-ce-25a-electric-aircraft-completes-first-manned-flight-5776/",
+  "zh": "/zh/2026/11/17/comac-s-19-seat-ce-25a-electric-aircraft-completes-first-manned-flight-5776/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

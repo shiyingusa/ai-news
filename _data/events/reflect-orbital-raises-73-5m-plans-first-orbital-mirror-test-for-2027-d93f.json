@@ -1,0 +1,57 @@
+{
+ "event_id": "reflect-orbital-raises-73-5m-plans-first-orbital-mirror-test-for-2027-d93f",
+ "issue": "2026-11-17",
+ "section": "space",
+ "published_at": "2026-11-17T13:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/space-exploration/satellites/reflect-orbital-wants-to-launch-thousands-of-sunlight-beaming-mirrors-to-space-and-the-1st-will-go-up-next-year"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Reflect Orbital announced $73.5 million in new funding on Nov. 10, 2026, bringing its total raised to more than $100 million, according to the company's own announcement (tool-2-1). The company also says it has obtained a U.S. government go-ahead to test the concept and that its ground-based illumination test near Lone Pine, California, on Oct. 10 was fully permitted and coordinated with local rescue groups, as Space.com reports."
+   ],
+   "unconfirmed": [
+    "The launch date is contradictory across the sources — Space.com's text says the first test satellite is expected in the second quarter of 2027, while a photo caption in the same article says Earendil-1 is slated for 2026, and a third-party tracker (tool-2-2, tool-2-3) lists a 2026 launch on a Falcon 9 rideshare with no confirmed date; Space.com says the launch provider is being kept under wraps. No orbital demonstration of the beaming capability has occurred — the 0.7-lumen spot was produced by ground-mounted spotlights simulating the service — and the brightness, cost, and availability of actual space-delivered light remain unverified."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Reflect Orbital 在 11 月 10 日的公司公告中确认完成 7350 万美元新融资，累计融资超过 1 亿美元（此前一轮为 2025 年 5 月的 A 轮）；据 Space.com 报道，公司称已获得美国政府的正式许可，并于 10 月 10 日在加州 Lone Pine 一带与 China Lake 山地救援队（CLMRG）完成了事先取得许可、发布航行通告（NOTAM）的夜间照射演练，模拟光斑亮度约 0.7 流明。"
+   ],
+   "unconfirmed": [
+    "首颗测试卫星的发射时间在信源间相互矛盾——Space.com 正文称“2027 年第二季度”，同一篇文章的图片说明却称 Earendil-1 将在 2026 年发射；第三方追踪网站 orbitalsolar.ai 称该星为 18×18 米镀铝聚酯薄膜反射镜，美国联邦通信委员会（FCC）已于 2026 年 7 月 9 日批准，计划 2026 年内由猎鹰 9 号拼车发射进入 88° 近极轨道，但公司对 Space.com 表示发射服务商身份保密，且未确认该日期与火箭型号。此外，卫星在轨的实际照明亮度、可覆盖时长、成本与商业可用性均无独立测试或第三方数据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Reflect Orbital raises $73.5M, plans first orbital mirror test for 2027",
+  "zh": "Reflect Orbital 融资 7350 万美元，首颗反光镜卫星定于 2027 年发射"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/reflect-orbital-raises-73-5m-plans-first-orbital-mirror-test-for-2027-d93f/",
+  "zh": "/zh/2026/11/17/reflect-orbital-raises-73-5m-plans-first-orbital-mirror-test-for-2027-d93f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

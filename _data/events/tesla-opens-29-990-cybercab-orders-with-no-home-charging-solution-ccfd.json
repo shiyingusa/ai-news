@@ -1,0 +1,57 @@
+{
+ "event_id": "tesla-opens-29-990-cybercab-orders-with-no-home-charging-solution-ccfd",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T14:19:41+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reports that Tesla is taking orders for the Cybercab at $29,990 with first deliveries expected in Austin next month, and that the vehicle has no onboard charger, so it cannot take AC power from a wall connector, public Level 2 station or household outlet and depends on DC fast charging; the wireless home charging pad Tesla has teased since 2023 is still not for sale. Follow-up coverage repeats these same points and attributes them to Electrek."
+   ],
+   "unconfirmed": [
+    "The supplied text does not include a Tesla statement or order page confirming the $29,990 price, the December delivery timing, or the lack of an onboard charger, and the Electrek article is truncated before its full argument; no availability date or price for the wireless home pad is given, and no independent outlet has tested or documented the charging limitation firsthand."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Electrek 报道称，特斯拉已开始接受售价 29,990 美元的 Cybercab 订单，首批交付预计下月在奥斯汀进行；该车没有车载充电机，家用 Wall Connector、公共 Level 2 充电桩和普通插座都无法为其充电，只能依赖直流快充；特斯拉自 2023 年起多次预告的无线家用充电板目前仍未开卖。上述要点在 Tesla News Wire 等转述报道中一致。"
+   ],
+   "unconfirmed": [
+    "这些信息来自 Electrek 的报道及转述，而非特斯拉官方公告或订单页面；29,990 美元是最终售价还是起售价、订单是否需定金或附加条件、交付时间的准确日期、无线充电板的上市时间与价格，以及是否有配套的家用直流充电方案，均未获特斯拉确认，也没有独立测试验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla opens $29,990 Cybercab orders with no home-charging solution",
+  "zh": "特斯拉 Cybercab 以 29,990 美元开订，家用充电方案仍缺位"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/tesla-opens-29-990-cybercab-orders-with-no-home-charging-solution-ccfd/",
+  "zh": "/zh/2026/11/17/tesla-opens-29-990-cybercab-orders-with-no-home-charging-solution-ccfd/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
