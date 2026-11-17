@@ -1,0 +1,62 @@
+{
+ "event_id": "microsoft-ai-introduces-mai-code-2-and-code-2-flash-coding-models-930d",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T18:25:13+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "microsoft.ai",
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50535885"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Microsoft AI published a post titled \"Introducing MAI Code 2 and MAI Code 2 Flash,\" announcing two coding-focused models under its MAI naming, according to the company's own news page."
+   ],
+   "unconfirmed": [
+    "Benchmark results, model size, context window, price, and whether either model is available through an API, GitHub Copilot, or any other channel — none of these appear in the material reviewed, and commenters reference benchmarks whose numbers could not be checked here."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "微软 AI 官方站点发布了标题为“Introducing MAI Code 2 and MAI Code 2 Flash”的文章，公布这两款编程模型的存在与名称。"
+   ],
+   "unconfirmed": [
+    "文章正文细节未在材料中提供，因此模型的基准成绩、上下文长度、价格、发布时间表、可用渠道（API、Copilot、Azure 或其他）以及是否独立复现，全部只有厂商单方面说法或完全缺失；社区评论中“几周差距”“智能爆炸”等表述属于个人判断，不是测量结果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Microsoft AI introduces MAI Code 2 and Code 2 Flash coding models",
+  "zh": "微软发布 MAI Code 2 与 Code 2 Flash 编程模型"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/microsoft-ai-introduces-mai-code-2-and-code-2-flash-coding-models-930d/",
+  "zh": "/zh/2026/11/17/microsoft-ai-introduces-mai-code-2-and-code-2-flash-coding-models-930d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

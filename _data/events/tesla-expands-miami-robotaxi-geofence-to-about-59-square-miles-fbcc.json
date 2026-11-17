@@ -1,0 +1,57 @@
+{
+ "event_id": "tesla-expands-miami-robotaxi-geofence-to-about-59-square-miles-fbcc",
+ "issue": "2026-11-17",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-17T18:12:48+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Teslarati",
+   "url": "https://www.teslarati.com/tesla-doubled-miami-robotaxi-geofence/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Teslarati, citing Tesla’s November 16 announcement and a new service map, reports that the Miami geofence grew to about 59 square miles from roughly 31, and that Downtown, Brickell, Wynwood, Little Havana and Hialeah are now inside it; Tesla began unsupervised Miami rides on July 3 and has run 24-hour service since mid-November."
+   ],
+   "unconfirmed": [
+    "The article contradicts itself on Miami Beach—first listing it among newly included areas, then saying it remains outside—and the 59-square-mile figure and exact boundary come from Teslarati’s reading of Tesla’s map, not an independent measurement. The sources do not include independent data on ride volume or service quality."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Teslarati 报道，特斯拉 11 月 16 日宣布扩大迈阿密服务区，新地图覆盖市中心、Brickell、Wynwood、小哈瓦那、比斯坎湾滨水区与 Hialeah；该市场自 7 月 3 日上线，初期围栏约 25 平方英里、后小幅扩至约 31 平方英里，车辆为通过 Tesla Robotaxi 应用呼叫的 Model Y，11 月中起 24 小时运营。"
+   ],
+   "unconfirmed": [
+    "约 59 平方英里与“92% 增幅”是媒体按地图推算，并非特斯拉公布的数字；特斯拉未披露车队规模、订单量或安全数据。迈阿密海滩是否已纳入，原文一处称“现已包含”，后文又称“仍在服务区之外”，且以 Waymo 范围“已含海滩”作对比，暗示特斯拉尚未覆盖，此点需以特斯拉官方地图为准。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla expands Miami Robotaxi geofence to about 59 square miles",
+  "zh": "特斯拉迈阿密 Robotaxi 服务区扩至约 59 平方英里"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/tesla-expands-miami-robotaxi-geofence-to-about-59-square-miles-fbcc/",
+  "zh": "/zh/2026/11/17/tesla-expands-miami-robotaxi-geofence-to-about-59-square-miles-fbcc/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,62 @@
+{
+ "event_id": "google-rebrands-spark-as-gemini-tasks-adds-calls-and-purchases-0fc7",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T19:02:20+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Verge AI",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Verge, citing Google's announcement, reports the Spark-to-Tasks rename, free access, the Gemini 4 Hydrogen model, and US availability of the call, Google Pay purchase and Password Manager sign-in capabilities."
+   ],
+   "unconfirmed": [
+    "Independent evidence that Tasks completes calls, logins and purchases reliably; the exact rollout date, availability outside the US, and any spending or account-access limits are not given."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "谷歌官方博客称，Spark 代理更名为 Tasks 并免费开放，底层使用 Gemini 4 Hydrogen 模型；致电比价查库存、用 Google Pay 代购、通过密码管理器登录账户及邮件／短信下达任务等能力限定美国用户。"
+   ],
+   "unconfirmed": [
+    "代理在真实通话、登录和支付场景中的成功率与出错后的责任归属，均无独立测试或谷歌披露的数据；免费是否长期有效、美国以外何时开放、以及代购时的支付授权与退款流程细节，来源均未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google rebrands Spark as Gemini Tasks, adds calls and purchases",
+  "zh": "谷歌将 Spark 代理更名为 Gemini Tasks 并免费开放，美国用户可代打电话、代购物"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/google-rebrands-spark-as-gemini-tasks-adds-calls-and-purchases-0fc7/",
+  "zh": "/zh/2026/11/17/google-rebrands-spark-as-gemini-tasks-adds-calls-and-purchases-0fc7/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

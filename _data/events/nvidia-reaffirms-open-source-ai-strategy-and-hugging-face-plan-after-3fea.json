@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-reaffirms-open-source-ai-strategy-and-hugging-face-plan-after-3fea",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T23:04:35+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Nvidia’s September 3, 2026 announcement says the company “has agreed to acquire Hugging Face”; TechCrunch reports that Nvidia’s interim CEO reaffirmed the open-source AI strategy and the acquisition plan after Jensen Huang’s departure."
+   ],
+   "unconfirmed": [
+    "The interim CEO’s identity, the circumstances and timing of Huang’s departure, the deal’s closing date and regulatory conditions, and the $12.9 billion price reported from the earnings call are not established by Nvidia’s announcement; the claims that Nemotron is the most widely used U.S. open model on OpenRouter and that token traffic rose 35x year over year rest on that single report."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "TechCrunch 报道称，英伟达临时 CEO 重申公司开源 AI 战略不变，并确认收购 Hugging Face 的计划继续推进（tool-1-1）；英伟达官方博客早在 2026 年 9 月 3 日就宣布已达成收购 Hugging Face 的协议（tool-1-2）；据 Traders Union 报道，英伟达 CFO Kress 在周二的财报电话会上表示，这笔 129 亿美元的收购在黄仁勋辞职后仍按计划推进（tool-1-3）。"
+   ],
+   "unconfirmed": [
+    "黄仁勋突然离职的具体原因和生效时间，以及临时 CEO 的姓名，目前只有单一媒体的简短描述；129 亿美元的交易金额仅见于 Traders Union 一家；收购何时完成交割、是否需监管批准，以及英伟达开源战略的表态是来自正式声明，还是仅来自匿名消息源，来源均未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nvidia reaffirms open-source AI strategy and Hugging Face plan after Huang's exit",
+  "zh": "黄仁勋突然离职后，英伟达重申开源 AI 战略并计划收购 Hugging Face"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/nvidia-reaffirms-open-source-ai-strategy-and-hugging-face-plan-after-3fea/",
+  "zh": "/zh/2026/11/17/nvidia-reaffirms-open-source-ai-strategy-and-hugging-face-plan-after-3fea/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

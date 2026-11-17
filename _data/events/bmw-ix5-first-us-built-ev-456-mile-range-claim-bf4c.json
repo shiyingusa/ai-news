@@ -1,0 +1,57 @@
+{
+ "event_id": "bmw-ix5-first-us-built-ev-456-mile-range-claim-bf4c",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T18:23:03+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/17/bmws-first-us-built-ev-delivers-435-miles-range-fast-charging/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reports that BMW says the iX5 is its first fully electric US-built vehicle, with an estimated range of up to 456 miles, ultra-fast charging and Neue Klasse technology."
+   ],
+   "unconfirmed": [
+    "price, production timing, battery size, charging power and the EPA-certified range all rest on BMW's announcement and were not provided. The source also contradicts itself on range — the article text and headline say 456 miles, while the page's own URL slug says 435 miles — so neither figure should be treated as final."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据Electrek报道，宝马iX5是其首款在美国生产的纯电动车，宝马宣称其预估续航最高456英里、支持超快充电，并搭载Neue Klasse技术。"
+   ],
+   "unconfirmed": [
+    "456英里是厂商预估值，而非EPA认证结果；充电“超快”的具体功率、电池容量、售价、投产与交付时间均未公布；此外报道网址写作435英里，与正文的456英里存在数字冲突，哪一数字准确尚无独立来源确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BMW iX5: first US-built EV, 456-mile range claim",
+  "zh": "宝马美国首款本土生产电动车iX5：宣称续航456英里"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/bmw-ix5-first-us-built-ev-456-mile-range-claim-bf4c/",
+  "zh": "/zh/2026/11/17/bmw-ix5-first-us-built-ev-456-mile-range-claim-bf4c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

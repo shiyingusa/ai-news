@@ -1,0 +1,57 @@
+{
+ "event_id": "us-to-require-licenses-for-nvidia-chips-in-third-countries-china-bc27",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T16:47:21+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Decoder reports that Washington is tightening chip export controls so that data centers in third countries such as Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing a route Chinese firms used to rent cloud compute abroad, and that a Reuters investigation described China offsetting its hardware shortage by distilling US AI models. US officials say they distinguish legitimate distillation from large-scale extraction they characterize as intellectual property theft (tool-3-1)."
+   ],
+   "unconfirmed": [
+    "The article gives no rule text, agency, license criteria or effective date, so the timing and scope of the licensing requirement rest on secondary reporting. The \"industrial-scale\" distillation claim is attributed to the Reuters investigation and US officials rather than independent measurement, with US intelligence reportedly naming DeepSeek, Alibaba, Moonshot AI and three other firms (tool-3-2) — an accusation China's Commerce Ministry rejects and has threatened to counter (tool-3-3). No figures quantifying how much Chinese model capability derives from US outputs are provided."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Decoder 援引路透社调查报道，美国正准备要求新加坡、马来西亚等第三国的数据中心在购买英伟达芯片前取得美国许可证，以堵住中国企业租用海外算力的渠道；美国官员表示，会区分合法的模型蒸馏与大规模型号提取（即被指为知识产权窃取的行为），中国商务部已否认相关指控并警告将采取反制措施（tool-3-1、tool-3-3）。"
+   ],
+   "unconfirmed": [
+    "新规的具体条文、生效日期、许可证审批标准和覆盖的芯片型号均未见官方文件，报道本身也未给出这些细节；“工业规模蒸馏”目前只是美方指控，据一家媒体报道，美国情报机构点名了 DeepSeek、阿里巴巴、Moonshot AI 等六家中国企业，但这些企业是否认罪、蒸馏规模有多大，都没有独立测量或司法结论支持，中方则明确拒绝该指控（tool-3-2、tool-3-3）。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "US to require licenses for Nvidia chips in third countries; China distills US models",
+  "zh": "美国拟限第三国购 Nvidia 芯片，中国以模型蒸馏补算力"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/us-to-require-licenses-for-nvidia-chips-in-third-countries-china-bc27/",
+  "zh": "/zh/2026/11/17/us-to-require-licenses-for-nvidia-chips-in-third-countries-china-bc27/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,62 @@
+{
+ "event_id": "vulcan-return-to-flight-fails-ula-cites-low-booster-performance-cause-1cc3",
+ "issue": "2026-11-17",
+ "section": "space",
+ "published_at": "2026-11-17T18:00:51+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
+  },
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "ULA's own Nov. 17 statement says low booster performance shortly after liftoff caused stage separation below the altitude and velocity needed for orbit, that the Centaur V upper stage and solid rocket boosters performed nominally, and that the mission was lost around 10 minutes into flight; Space.com reports the payload was 40 Amazon Leo satellites."
+   ],
+   "unconfirmed": [
+    "the specific fault in the first-stage booster, and whether the BE-4 engines are implicated — that suggestion rests on unnamed sources cited by Ars Technica, and ULA says identifying the problem will take more time. Also unconfirmed: any return-to-flight date or the scope of the investigation."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "ULA在11月17日的更新中表示，11月15日的发射在升空后不久出现一级助推器性能不足，级间分离时高度过低、速度不足以入轨，约10分钟后遥测和任务丢失；半人马座V上面级和固体助推器均正常。Space.com报道称，本次搭载的40颗Amazon Leo卫星全部损失。"
+   ],
+   "unconfirmed": [
+    "一级故障的具体部件和原因，以及是否涉及BE-4发动机；Ars Technica引述消息人士称初步数据可能不指向BE-4，但ULA未确认，也未给出调查时间表。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Vulcan return-to-flight fails; ULA cites low booster performance, cause unknown",
+  "zh": "ULA证实Vulcan复飞失败，故障是否涉及BE-4仍未知"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/vulcan-return-to-flight-fails-ula-cites-low-booster-performance-cause-1cc3/",
+  "zh": "/zh/2026/11/17/vulcan-return-to-flight-fails-ula-cites-low-booster-performance-cause-1cc3/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

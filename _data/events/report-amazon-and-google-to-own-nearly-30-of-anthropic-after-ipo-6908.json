@@ -1,0 +1,57 @@
+{
+ "event_id": "report-amazon-and-google-to-own-nearly-30-of-anthropic-after-ipo-6908",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T22:29:05+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The supplied TechCrunch article reports that Amazon will own just under 15% of Anthropic after the IPO and Google nearly 14%, for close to 30% combined."
+   ],
+   "unconfirmed": [
+    "The precise stakes, the terms of Amazon's option to increase its holding, the IPO timing and valuation, and whether the figures come from an official filing; the supplied article provides no primary document or independent confirmation."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "TechCrunch 报道称，IPO 后亚马逊持股略低于 15%、谷歌接近 14%，亚马逊另有增持选择权。"
+   ],
+   "unconfirmed": [
+    "上述比例来自“据报道”，Anthropic、亚马逊和谷歌均未公开确认；亚马逊可增持到何种上限、以什么条件增持、IPO 的具体时间与估值，以及这些股份对应的投票权安排，报道均未给出。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Report: Amazon and Google to own nearly 30% of Anthropic after IPO",
+  "zh": "Anthropic IPO 后，亚马逊与谷歌合计持股将接近 30%"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/report-amazon-and-google-to-own-nearly-30-of-anthropic-after-ipo-6908/",
+  "zh": "/zh/2026/11/17/report-amazon-and-google-to-own-nearly-30-of-anthropic-after-ipo-6908/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

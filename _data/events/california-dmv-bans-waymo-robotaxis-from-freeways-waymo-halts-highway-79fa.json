@@ -1,0 +1,72 @@
+{
+ "event_id": "california-dmv-bans-waymo-robotaxis-from-freeways-waymo-halts-highway-79fa",
+ "issue": "2026-11-17",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-17T20:10:01+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "4 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "San Francisco ...",
+   "url": "https://www.bizjournals.com/sanfrancisco/news/2026/11/17/waymo-california-freeway-ban-dmv-chp.html?page=all"
+  },
+  {
+   "tier": "independent",
+   "name": "Wired",
+   "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"
+  },
+  {
+   "tier": "independent",
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+  },
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The California DMV issued the freeway restriction and cited an \"imminent hazard to public safety,\" and Waymo has stopped highway operations nationwide, per the San Francisco Business Times and Electrek reports aggregated by Techmeme."
+   ],
+   "unconfirmed": [
+    "No primary DMV order or permit filing is in the supplied material, so the precise deficiencies cited beyond the video, the formal legal form of the restriction, and how many vehicles or routes it covers are unstated. The two accounts also describe the footage differently — \"failing to yield to the highway patrol\" versus \"trying to pass a police blockade\" — and neither the video's date nor whether other state regulators have acted is confirmed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "加州DMV以“对公共安全构成迫在眉睫的危险”为由叫停Waymo在州内高速公路的运营，并表示限制将持续到Waymo证明已采取“有效的纠正措施”；Waymo已在全国范围暂停高速公路运营。上述内容由《旧金山商业时报》与Electrek的报道相互印证。"
+   ],
+   "unconfirmed": [
+    "引发禁令的视频中车辆与巡警互动的具体经过只有媒体转述，目前没有官方事故报告；“全国暂停”的确切覆盖范围、涉及车辆数量与持续时间，DMV裁定全文的具体条款，以及限制解除的时间表，报道均未说明。该条目为Techmeme聚合的媒体报道，并非监管机构的原始文件。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "California DMV bans Waymo robotaxis from freeways; Waymo halts highway service nationwide",
+  "zh": "加州DMV禁Waymo上高速，Waymo全国暂停高速运营"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/california-dmv-bans-waymo-robotaxis-from-freeways-waymo-halts-highway-79fa/",
+  "zh": "/zh/2026/11/17/california-dmv-bans-waymo-robotaxis-from-freeways-waymo-halts-highway-79fa/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

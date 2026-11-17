@@ -1,0 +1,57 @@
+{
+ "event_id": "hyundai-unveils-production-neira-a-seven-seat-ev-for-indonesia-efb6",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T22:01:42+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/17/hyundai-reveals-new-7-seat-neira-electric-suv/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Hyundai publicly revealed a production-ready Neira, described as a three-row, seven-seat electric SUV, with an Indonesia launch set for November 20, as reported by Electrek."
+   ],
+   "unconfirmed": [
+    "Range, battery capacity, charging speed, price and production volume; whether other markets will get the Neira; and whether the November 20 date marks the start of customer deliveries or only a market premiere, since the report does not specify."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，现代公开了量产版 Neira，为三排七座纯电 SUV，定于 11 月 20 日在印度尼西亚上市。"
+   ],
+   "unconfirmed": [
+    "车型的具体规格（电池、续航、动力、充电能力）、售价，以及印度尼西亚以外的销售计划；这些信息在现有报道中均未披露，需等现代在上市时公布或第三方实测。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Hyundai unveils production Neira, a seven-seat EV for Indonesia",
+  "zh": "现代发布七座纯电SUV Neira，11月20日印尼上市"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/hyundai-unveils-production-neira-a-seven-seat-ev-for-indonesia-efb6/",
+  "zh": "/zh/2026/11/17/hyundai-unveils-production-neira-a-seven-seat-ev-for-indonesia-efb6/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

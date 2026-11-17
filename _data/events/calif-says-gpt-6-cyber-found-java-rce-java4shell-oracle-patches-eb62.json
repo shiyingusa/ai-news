@@ -1,0 +1,62 @@
+{
+ "event_id": "calif-says-gpt-6-cyber-found-java-rce-java4shell-oracle-patches-eb62",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T21:20:04+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN"
+  },
+  {
+   "tier": "independent",
+   "name": "calif.io",
+   "url": "https://calif.io/java4shell/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "A New York Times report says cybersecurity firm Calif attributes the discovery of a remote code execution (RCE) flaw in Java — which Calif calls \"Java4Shell\" — to its use of GPT-6 Cyber, and that Oracle has released a patch for the flaw."
+   ],
+   "unconfirmed": [
+    "The finding itself rests on Calif's account; the sources give no affected Java versions, CVE identifier, severity rating, or independent confirmation that the patch fully closes the hole, and no independent test of how much of the work GPT-6 Cyber did versus Calif's human researchers. External search results surfaced only an unrelated October 2026 report about a PHP flaw found with a different model, GPT-5.6 Sol, so they neither corroborate nor contradict this item."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Oracle 已为这一 Java 远程代码执行漏洞发布补丁，Calif 也公开宣称该漏洞由其 GPT-6 Cyber 模型发现——这两点由《纽约时报》报道、经 Techmeme 摘要转述。此前在 2026 年 10 月，Calif 用 GPT-5.6 Sol 找到的 PHP 漏洞曾有 Wiz 独立复现。"
+   ],
+   "unconfirmed": [
+    "具体 CVE 编号、受影响 Java 版本与触发漏洞所需条件在现有材料中均未出现；“由 AI 模型发现”目前仍只有 Calif 单方说法，所给材料中没有 Oracle 安全公告或第三方独立验证，本次也没有出现像上次那样的独立复现报道；社区中关于漏洞成因（AVX512 版 Base64 解码）及用 -XX:UseAVX=2 参数规避的说法，发帖者本人已标注为未经证实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Calif says GPT-6 Cyber found Java RCE \"Java4Shell\"; Oracle patches",
+  "zh": "Calif称用GPT-6 Cyber发现Java4Shell漏洞，Oracle已发补丁"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/calif-says-gpt-6-cyber-found-java-rce-java4shell-oracle-patches-eb62/",
+  "zh": "/zh/2026/11/17/calif-says-gpt-6-cyber-found-java-rce-java4shell-oracle-patches-eb62/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

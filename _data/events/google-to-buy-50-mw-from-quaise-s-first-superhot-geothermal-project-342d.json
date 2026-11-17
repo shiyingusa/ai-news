@@ -1,0 +1,57 @@
+{
+ "event_id": "google-to-buy-50-mw-from-quaise-s-first-superhot-geothermal-project-342d",
+ "issue": "2026-11-17",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T19:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Canary Media",
+   "url": "https://www.canarymedia.com/articles/geothermal/google-superhot-geothermal-oregon-data-centers"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Quaise Energy said Google agreed to buy 50 MW of carbon-free power from Project Obsidian, its first commercial superhot geothermal project, near Newberry, Oregon, per the company's Tuesday announcement."
+   ],
+   "unconfirmed": [
+    "When the plant would deliver power, what Google will pay, whether the project has secured financing or permits, and whether superhot geothermal can produce power at commercial scale — none of this was disclosed, and the reporting rests on Quaise's announcement rather than independent operational data."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Quaise 在周二的公告中表示，谷歌同意购买 Project Obsidian 的 50 兆瓦无碳电力，这是该项目的首个客户。"
+   ],
+   "unconfirmed": [
+    "项目投运时间、电价、钻井与发电性能，以及谷歌是否另行确认；报道未提供这些信息。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google to buy 50 MW from Quaise's first superhot geothermal project",
+  "zh": "谷歌同意采购 Quaise 50 兆瓦超热地热电力"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/google-to-buy-50-mw-from-quaise-s-first-superhot-geothermal-project-342d/",
+  "zh": "/zh/2026/11/17/google-to-buy-50-mw-from-quaise-s-first-superhot-geothermal-project-342d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

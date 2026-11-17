@@ -1,0 +1,57 @@
+{
+ "event_id": "iceye-bids-2-2-billion-for-avio-to-build-europe-s-first-end-to-end-86eb",
+ "issue": "2026-11-17",
+ "section": "space",
+ "published_at": "2026-11-17T22:44:46+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "ICEYE announced the all-cash tender offer for Avio, valued at more than $2.2 billion and made through an Italian subsidiary, and Avio's board confirmed it has received notice and is considering it, according to the companies as reported by Ars Technica; Avio's Vega C has seven successes in eight flights since 2022, and the earlier Vega flew 20-for-22 since 2012."
+   ],
+   "unconfirmed": [
+    "whether Avio's shareholders, including lead holder Leonardo, will tender their shares or whether the board will recommend the offer; the per-share price, financing, regulatory approvals, and closing timeline; and any claim that the combined company will actually operate as a fully integrated launch-plus-satellite business, since that rests on ICEYE's own framing of the deal."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Ars Technica 报道，ICEYE 通过意大利子公司发起全现金自愿要约收购，金额逾 22 亿美元，Avio 董事会确认已收到通知并表示正在考虑；Vega C 与 Vega 的发射记录如摘要所列。"
+   ],
+   "unconfirmed": [
+    "Avio 董事会是否会推荐该要约、大股东 Leonardo 是否会出售股份，以及每股报价、资金来源、监管审批路径与预计完成时间，来源均未给出；「欧洲首家垂直整合端到端航天公司」是 ICEYE 自我表述的定位，而非既成事实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "ICEYE bids $2.2 billion for Avio to build Europe's first end-to-end space company",
+  "zh": "ICEYE 拟以逾 22 亿美元收购 Avio，垂直整合欧洲航天"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/iceye-bids-2-2-billion-for-avio-to-build-europe-s-first-end-to-end-86eb/",
+  "zh": "/zh/2026/11/17/iceye-bids-2-2-billion-for-avio-to-build-europe-s-first-end-to-end-86eb/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

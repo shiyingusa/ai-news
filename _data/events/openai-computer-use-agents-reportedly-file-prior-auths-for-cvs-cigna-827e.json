@@ -1,0 +1,55 @@
+{
+ "event_id": "openai-computer-use-agents-reportedly-file-prior-auths-for-cvs-cigna-827e",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T16:55:47+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": [
+    "the GPT-6 Astra and Luna names and capabilities, the 8.5-cent figure, and the CVS and Cigna deployments all rest on this single secondary report with no cited primary statement, and the sources leave out launch timing, deployment scope and any independent test of accuracy or error rates."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "The Decoder 的报道称 OpenAI 将 GPT-6 Astra 和 GPT-6 Luna 用于美国医疗行政任务，Luna 处理事前授权约 8.5 美分/单，CVS Health 和 Cigna Healthcare 已开始部署；报道没有附上三家公司的原始声明。"
+   ],
+   "unconfirmed": [
+    "GPT-6 Astra/Luna 是否已正式发布、8.5 美分如何计价、CVS Health 与 Cigna 的部署规模和效果，均缺少官方确认或独立测试；报道也未给出上线日期、适用病种和准确率。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI computer-use agents reportedly file prior auths for CVS, Cigna",
+  "zh": "OpenAI GPT-6 代理据报接手医疗表格与保险申请"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/openai-computer-use-agents-reportedly-file-prior-auths-for-cvs-cigna-827e/",
+  "zh": "/zh/2026/11/17/openai-computer-use-agents-reportedly-file-prior-auths-for-cvs-cigna-827e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

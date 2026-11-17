@@ -1,0 +1,57 @@
+{
+ "event_id": "google-separates-gemini-chat-history-from-ai-training-with-an-opt-out-a513",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T16:50:10+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Google's own blog post and Ars Technica both state that separate toggles for model training and chat history are rolling out in the Gemini app, that training is an opt-out setting located under Activity (or via My Activity > Other activity > Gemini Apps Activity), and that the history setting retains an adjustable limit."
+   ],
+   "unconfirmed": [
+    "the completion date or regional scope of the rollout, whether the same split applies to Google AI surfaces outside the Gemini app, and whether anything changes for conversations already collected — the sources describe only the new controls, not retroactive effects."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Ars Technica 报道称，Google 正在推送把聊天记录与模型训练分开的 Gemini 设置，训练改为可主动关闭的选项，并给出了设置路径。"
+   ],
+   "unconfirmed": [
+    "推送完成时间、覆盖的账户类型和地区范围，以及关闭训练后数据处理的全部细节；报道没有提供独立测试，也没有说明新控件是否已在所有用户处可见。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google separates Gemini chat history from AI training with an opt-out toggle",
+  "zh": "Google 让 Gemini 用户保留聊天记录并退出训练"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/google-separates-gemini-chat-history-from-ai-training-with-an-opt-out-a513/",
+  "zh": "/zh/2026/11/17/google-separates-gemini-chat-history-from-ai-training-with-an-opt-out-a513/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

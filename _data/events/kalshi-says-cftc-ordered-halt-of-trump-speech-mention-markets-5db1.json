@@ -1,0 +1,57 @@
+{
+ "event_id": "kalshi-says-cftc-ordered-halt-of-trump-speech-mention-markets-5db1",
+ "issue": "2026-11-17",
+ "section": "tech-industry",
+ "published_at": "2026-11-17T20:40:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/cftc-orders-kalshi-to-take-down-markets-on-trump-s-speeches"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Kalshi says the CFTC ordered it to halt trading on markets tied to what President Trump will say at public events, as reported by Bloomberg's Bobby Allyn on November 17, 2026."
+   ],
+   "unconfirmed": [
+    "the order's scope, legal basis and date; whether the CFTC has publicly confirmed or characterized it; and whether trading has actually stopped or how existing positions will be resolved."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据彭博社 Bobby Allyn 报道，Kalshi 方面称 CFTC 要求其停止与特朗普公开活动发言内容挂钩的“提及市场”交易。"
+   ],
+   "unconfirmed": [
+    "指令的具体范围、正式文本与法律依据仅见于平台方转述与单篇报道；相关市场是否已停止撮合、未平仓合约如何处理、Kalshi 是否配合或提出异议，报道均未交代，CFTC 方面也无公开声明可供核对。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Kalshi says CFTC ordered halt of Trump speech 'mention markets'",
+  "zh": "Kalshi称CFTC下令暂停特朗普讲话“提及市场”交易"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/kalshi-says-cftc-ordered-halt-of-trump-speech-mention-markets-5db1/",
+  "zh": "/zh/2026/11/17/kalshi-says-cftc-ordered-halt-of-trump-speech-mention-markets-5db1/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

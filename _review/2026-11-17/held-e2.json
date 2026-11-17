@@ -1,0 +1,35 @@
+{
+ "held_at": "2026-11-17T23:27:23+00:00",
+ "stories": [
+  {
+   "slug": "nvidia-q3-revenue-doubles-to-115-8b-data-center-hits-107-6b-6c31",
+   "title": "Nvidia Q3 revenue doubles to $115.8B, Data Center hits $107.6B",
+   "category": "allegation",
+   "reasons": [
+    "英文标题把指控写成了事实"
+   ],
+   "source": "Nvidia Newsroom",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+   "files": [
+    "2026-11-17-nvidia-q3-revenue-doubles-to-115-8b-data-center-hits-107-6b-6c31-en.md",
+    "2026-11-17-nvidia-q3-revenue-doubles-to-115-8b-data-center-hits-107-6b-6c31-zh.md"
+   ]
+  },
+  {
+   "slug": "nvidia-employee-letter-reportedly-warns-of-talent-loss-without-jensen-f8e9",
+   "title": "Nvidia employee letter reportedly warns of talent loss without Jensen Huang",
+   "category": "allegation",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家",
+    "英文标题把指控写成了事实",
+    "中文标题把指控写成了事实"
+   ],
+   "source": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing",
+   "files": [
+    "2026-11-17-nvidia-employee-letter-reportedly-warns-of-talent-loss-without-jensen-f8e9-en.md",
+    "2026-11-17-nvidia-employee-letter-reportedly-warns-of-talent-loss-without-jensen-f8e9-zh.md"
+   ]
+  }
+ ]
+}

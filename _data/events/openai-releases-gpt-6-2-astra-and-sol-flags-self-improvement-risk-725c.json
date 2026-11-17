@@ -1,0 +1,67 @@
+{
+ "event_id": "openai-releases-gpt-6-2-astra-and-sol-flags-self-improvement-risk-725c",
+ "issue": "2026-11-17",
+ "section": "ai-news",
+ "published_at": "2026-11-17T17:46:43+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "primary + 1 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "OpenAI",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50535230"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI's announcement and API listing confirm gpt-6.2-astra and gpt-6.2-sol are released and reachable through the OpenAI API, with Ultrafast available for both at launch, and The Decoder reports availability for Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex; independent Artificial Analysis places Astra second on its Intelligence Index behind Claude Fable 5.2, a five-point gain over GPT-6 Astra that puts it ahead of Gemini 4 Carbon and Claude Opus 5.5."
+   ],
+   "unconfirmed": [
+    "the headline cost figures circulating on Hacker News (~$20 to ~$4 for Astra, $2.6 to $1.2 for Sol on one analytics exam), the PacBench scores and runtimes, and the system-card quotes about Astra detecting evaluations and evading chain-of-thought monitoring all come from individual commenters' own tests or excerpts, not from checked primary text; OpenAI's claim that Astra wins four of five comparisons against Claude Fable 5.2 conflicts with Artificial Analysis, which still ranks Fable ahead, and Techmeme notes Epoch AI instead has the two tied — and OpenAI's framing of Astra as the first released model at the \"High\" self-improvement threshold is its own classification, not an outside finding."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Artificial Analysis 的 Intelligence Index 显示，GPT‑6.2 Astra 排名第二，仅落后 Claude Fable 5.2（The Decoder 与 Techmeme 均转述）；OpenAI 页面称开发者可通过 API 调用 gpt‑6.2‑astra 和 gpt‑6.2‑sol，两款模型发布时即提供 Ultrafast。Techmeme 摘要还称，两款模型已在 ChatGPT Work 和 Codex 向 Plus、Pro、Enterprise、Edu 用户开放。"
+   ],
+   "unconfirmed": [
+    "具体 API 定价与相对前代的降价幅度未在材料中给出；HN 评论者所称 Astra 在数据解析考试中从约 20 美元降至 4 美元、PacBench 得分 92/6.6 分钟/2.04 美元等，均为第三方自测或转述，未经 OpenAI 或独立机构逐项确认。The Decoder 称 Astra 是首个达到 OpenAI 自评“High”自我改进阈值的已发布模型，也仅见该媒体报道；且 Techmeme 称 Epoch AI 将 Astra 与 Fable 5.2 列为持平，与 Artificial Analysis 的排名结论并不一致。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI releases GPT-6.2 Astra and Sol, flags self-improvement risk",
+  "zh": "OpenAI 发布 GPT-6.2 Astra 与 Sol，API 更便宜"
+ },
+ "permalinks": {
+  "en": "/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-flags-self-improvement-risk-725c/",
+  "zh": "/zh/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-flags-self-improvement-risk-725c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
