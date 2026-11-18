@@ -25,7 +25,7 @@ order: "20261118-0-997"
 image: "/assets/stories/2026-11-18/harvard-researchers-link-ai-coding-agents-to-a-code-review-bottleneck-5c44-share.jpg"
 art: "/assets/stories/2026-11-18/harvard-researchers-link-ai-coding-agents-to-a-code-review-bottleneck-5c44.jpg"
 thumb: "/assets/stories/2026-11-18/harvard-researchers-link-ai-coding-agents-to-a-code-review-bottleneck-5c44-640.jpg"
-photo_credit: {"url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Chuck_Turner_%28Boston_City_Councilor%29_talks_to_Harvard_University_Police_officer_at_rally_on_May_10%2C_2007_for_the_Harvard_University_AlliedBarton_campus_security_workers_strike_%2869371%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "author": "stand4security on Flickr", "licence": "CC BY 2.0", "licence_url": "https://creativecommons.org/licenses/by/2.0", "source_url": "https://commons.wikimedia.org/wiki/File:Chuck_Turner_(Boston_City_Councilor)_talks_to_Harvard_University_Police_officer_at_rally_on_May_10,_2007_for_the_Harvard_University_AlliedBarton_campus_security_workers_strike_(69371).jpg", "provider": "Wikimedia Commons", "width": 1600, "height": 1066}
+photo_credit: null
 ---
 
 {% raw %}
