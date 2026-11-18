@@ -25,7 +25,7 @@ order: "20261118-0-997"
 image: "/assets/stories/2026-11-18/harvard-researchers-link-ai-coding-agents-to-a-code-review-bottleneck-5c44-share.jpg"
 art: "/assets/stories/2026-11-18/harvard-researchers-link-ai-coding-agents-to-a-code-review-bottleneck-5c44.jpg"
 thumb: "/assets/stories/2026-11-18/harvard-researchers-link-ai-coding-agents-to-a-code-review-bottleneck-5c44-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gb6d3aefa84b3adb6cdbe556e8b8ea4855ca287bcc5153891506c3771536139052462a771b651e96b44655ed5236839a7cd6a121f2ae14e6bdacb8d06e544c717_1280.jpg", "author": "Pexels", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/coding-programming-css-1853305/", "provider": "Pixabay", "width": 5472, "height": 3648}
 ---
 
 {% raw %}

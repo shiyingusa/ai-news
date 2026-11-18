@@ -25,7 +25,7 @@ order: "20261117-1-983"
 image: "/assets/stories/2026-11-17/sellas-says-galinpepimut-s-cut-death-risk-41-in-phase-3-aml-trial-10c0-share.jpg"
 art: "/assets/stories/2026-11-17/sellas-says-galinpepimut-s-cut-death-risk-41-in-phase-3-aml-trial-10c0.jpg"
 thumb: "/assets/stories/2026-11-17/sellas-says-galinpepimut-s-cut-death-risk-41-in-phase-3-aml-trial-10c0-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gbc645092e5f69c0d7240439672da957ff735ca783aafeace3a6e37e5fb9e2870e04a8770ea61ffc53d2eb23bcf97b9b8_1280.jpg", "author": "geralt", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/cigarettes-ashtray-ash-smoking-83571/", "provider": "Pixabay", "width": 3422, "height": 2121}
 ---
 
 {% raw %}

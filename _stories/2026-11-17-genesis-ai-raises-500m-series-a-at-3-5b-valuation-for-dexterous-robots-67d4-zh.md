@@ -25,7 +25,7 @@ order: "20261117-1-992"
 image: "/assets/stories/2026-11-17/genesis-ai-raises-500m-series-a-at-3-5b-valuation-for-dexterous-robots-67d4-share.jpg"
 art: "/assets/stories/2026-11-17/genesis-ai-raises-500m-series-a-at-3-5b-valuation-for-dexterous-robots-67d4.jpg"
 thumb: "/assets/stories/2026-11-17/genesis-ai-raises-500m-series-a-at-3-5b-valuation-for-dexterous-robots-67d4-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g0e502b43897bd4e2723493b4b0b6b9bb993a56e73f7c1ffc5ce29e118f1fdaae55428074a186c960614ff56f9a07cdad580a997a4387105213e16d64dfcf77e3_1280.jpg", "author": "jarmoluk", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/robot-arm-technology-robot-arm-2791670/", "provider": "Pixabay", "width": 3000, "height": 2000}
 ---
 
 {% raw %}
