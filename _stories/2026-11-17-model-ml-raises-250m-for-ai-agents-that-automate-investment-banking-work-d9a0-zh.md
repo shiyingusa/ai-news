@@ -25,7 +25,7 @@ order: "20261117-2-993"
 image: "/assets/stories/2026-11-17/model-ml-raises-250m-for-ai-agents-that-automate-investment-banking-work-d9a0-share.jpg"
 art: "/assets/stories/2026-11-17/model-ml-raises-250m-for-ai-agents-that-automate-investment-banking-work-d9a0.jpg"
 thumb: "/assets/stories/2026-11-17/model-ml-raises-250m-for-ai-agents-that-automate-investment-banking-work-d9a0-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/g00f0f45bae644afd31ce7b07ee6f0c8853dc2532c5a2932d218018530a0d4ad0eab69610ee6d871ca521f5015104f040499944001658ab464a8e7bddfe0a62ae_1280.jpg", "author": "Edar", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/business-calculator-calculation-861327/", "provider": "Pixabay", "width": 4608, "height": 3456}
 ---
 
 {% raw %}

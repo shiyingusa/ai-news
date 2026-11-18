@@ -25,7 +25,7 @@ order: "20261117-1-983"
 image: "/assets/stories/2026-11-17/sellas-says-galinpepimut-s-cut-death-risk-41-in-phase-3-aml-trial-10c0-share.jpg"
 art: "/assets/stories/2026-11-17/sellas-says-galinpepimut-s-cut-death-risk-41-in-phase-3-aml-trial-10c0.jpg"
 thumb: "/assets/stories/2026-11-17/sellas-says-galinpepimut-s-cut-death-risk-41-in-phase-3-aml-trial-10c0-640.jpg"
-photo_credit: null
+photo_credit: {"url": "https://pixabay.com/get/gb114c3c6ce261d12a090ed19066d14020316b507bb8bd0f17e44d7d0ecc6d61ad5822d13c2b93350789abf175a7ce80388a013198b5964f137ec216898d5d1f0_1280.jpg", "author": "torstensimon", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/vaccine-covid-19-vials-vaccination-5895477/", "provider": "Pixabay", "width": 3840, "height": 2160}
 ---
 
 {% raw %}
