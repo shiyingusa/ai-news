@@ -1,0 +1,57 @@
+{
+ "event_id": "microsoft-puts-word-excel-powerpoint-inside-copilot-calls-it-new-os-for-ab50",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T00:27:29+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Ars Technica, reporting from Microsoft's Ignite keynote, says CEO Satya Nadella announced that Word, Excel and PowerPoint are now generally available inside Copilot, and that files created there stay editable in the standalone Office apps."
+   ],
+   "unconfirmed": [
+    "The \"new OS for work\" and \"frontier ecosystem\" framing is Microsoft's own positioning; the source gives no pricing, licensing terms, rollout dates or independent test of how well the agent-driven document creation works."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Ars Technica 报道，微软 CEO 萨提亚·纳德拉在 Ignite 主题演讲中宣布，Word、Excel 和 PowerPoint 已在 Copilot 内正式可用（general availability），并将 Copilot 称为“工作的新操作系统”；在 Copilot 中生成的文件仍可在对应的 Office 应用中编辑。"
+   ],
+   "unconfirmed": [
+    "该报道未提及具体定价、许可条件、分市场推出时间，也未说明哪些用户可立即使用；“新操作系统”是微软的定位表述，组织知识层如何整合邮件、会议、日历、聊天和文件，以及实际使用体验，尚缺独立测试或完整官方细节，上述正式可用说法目前仅来自这一篇报道对主题演讲的转述。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Microsoft puts Word, Excel, PowerPoint inside Copilot, calls it 'new OS for work'",
+  "zh": "微软：Word、Excel、PowerPoint 已在 Copilot 中正式可用"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/microsoft-puts-word-excel-powerpoint-inside-copilot-calls-it-new-os-for-ab50/",
+  "zh": "/zh/2026/11/18/microsoft-puts-word-excel-powerpoint-inside-copilot-calls-it-new-os-for-ab50/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

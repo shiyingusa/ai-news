@@ -1,0 +1,57 @@
+{
+ "event_id": "san-diego-council-ends-flock-and-ubicquia-surveillance-contracts-f21e",
+ "issue": "2026-11-18",
+ "section": "tech-industry",
+ "published_at": "2026-11-17T23:09:09+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "San Diego's city council voted Monday evening to terminate contracts with Flock and Ubicquia, per the San Diego Union-Tribune, and Flock carries an estimated $8.3 billion valuation, per Ars Technica."
+   ],
+   "unconfirmed": [
+    "the effective date of the terminations, whether the cameras and streetlight sensors have already been switched off or will be removed, the vote count, and any termination costs — none of these details appear in the supplied reports."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《圣地亚哥联合论坛报》报道、Ars Technica 转引，圣地亚哥市议会周一晚投票决定终止与 Flock 和 Ubicquia 的合同；报道称该市是终止 Flock 合同的最大城市之一。"
+   ],
+   "unconfirmed": [
+    "合同终止的生效日期、设备是否立即停用或拆除、已采集数据的处置方式以及合同财务条款，来源均未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "San Diego council ends Flock and Ubicquia surveillance contracts",
+  "zh": "圣地亚哥市议会投票终止 Flock 与 Ubicquia 合同"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/san-diego-council-ends-flock-and-ubicquia-surveillance-contracts-f21e/",
+  "zh": "/zh/2026/11/18/san-diego-council-ends-flock-and-ubicquia-surveillance-contracts-f21e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

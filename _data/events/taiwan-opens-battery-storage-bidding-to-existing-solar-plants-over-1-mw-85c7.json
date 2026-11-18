@@ -1,0 +1,57 @@
+{
+ "event_id": "taiwan-opens-battery-storage-bidding-to-existing-solar-plants-over-1-mw-85c7",
+ "issue": "2026-11-18",
+ "section": "ev-energy",
+ "published_at": "2026-11-18T10:00:36+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "pv magazine, citing the MOEA's published regulatory framework in Taiwan's official gazette, reports the >1 MW eligibility threshold, the 2.61 MWh-per-MW minimum sizing rule, the 1.5x grid-capacity release requirement, the 15-month completion window and Taipower-coordinated dispatch."
+   ],
+   "unconfirmed": [
+    "the issuance date is contradictory — the text says November 6, 2024, while the article is dated November 2026 — and the sources give no tariff levels, auction timetable, volume caps or budget, nor confirmation that a first bidding round has actually opened."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "经济部已发布该规则文件（公报链接），并规定1 MW以上的既有并网光伏电站可参与竞标、每MW额定储能功率配2.61 MWh最低能量容量、15个月完工并网期限、释放1.5倍额定储能功率的并网容量，以及按2.61倍额定储能功率容量计算的日保证计费电量，由pv magazine依据官方公报报道。"
+   ],
+   "unconfirmed": [
+    "首轮竞标的时间表、中标费率水平、参与项目数量与规模均未公布；此外报道称指南于2024年11月6日发布，但文章发布于2026年11月18日并引用了2025年12月和2026年2月的后续事件，两处日期相互矛盾，来源未作解释。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Taiwan opens battery-storage bidding to existing solar plants over 1 MW",
+  "zh": "台湾推出既有光伏电站配储竞标框架"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/taiwan-opens-battery-storage-bidding-to-existing-solar-plants-over-1-mw-85c7/",
+  "zh": "/zh/2026/11/18/taiwan-opens-battery-storage-bidding-to-existing-solar-plants-over-1-mw-85c7/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

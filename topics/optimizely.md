@@ -2,6 +2,6 @@
 layout: topic
 lang: en
 topic: "optimizely"
-title: "optimizely"
+title: "Optimizely"
 permalink: "/topics/optimizely/"
 ---

@@ -1,0 +1,48 @@
+{
+ "held_at": "2026-11-18T11:29:01+00:00",
+ "stories": [
+  {
+   "slug": "us-extends-ai-gpu-export-licensing-to-rentals-including-blackwell-china-a57d",
+   "title": "US Extends AI GPU Export Licensing to Rentals, Including Blackwell; China Vows Countermeasures",
+   "category": "allegation",
+   "reasons": [
+    "英文标题把指控写成了事实"
+   ],
+   "source": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season",
+   "files": [
+    "2026-11-18-us-extends-ai-gpu-export-licensing-to-rentals-including-blackwell-china-a57d-en.md",
+    "2026-11-18-us-extends-ai-gpu-export-licensing-to-rentals-including-blackwell-china-a57d-zh.md"
+   ]
+  },
+  {
+   "slug": "senators-hawley-and-durbin-push-roblox-child-safety-lawsuit-bill-after-3895",
+   "title": "Senators Hawley and Durbin Push Roblox Child-Safety Lawsuit Bill After Hearing",
+   "category": "allegation",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家",
+    "中文标题把指控写成了事实"
+   ],
+   "source": "Wired",
+   "url": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
+   "files": [
+    "2026-11-18-senators-hawley-and-durbin-push-roblox-child-safety-lawsuit-bill-after-3895-en.md",
+    "2026-11-18-senators-hawley-and-durbin-push-roblox-child-safety-lawsuit-bill-after-3895-zh.md"
+   ]
+  },
+  {
+   "slug": "report-nvidia-linked-alibaba-to-alleged-spy-aided-megaspeed-deal-ca33",
+   "title": "Report: Nvidia linked Alibaba to alleged spy, aided Megaspeed deal",
+   "category": "allegation",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家"
+   ],
+   "source": "The Information",
+   "url": "https://www.theinformation.com/articles/nvidia-introduced-alibaba-alice-huang-workaround-u-s-export-controls",
+   "files": [
+    "2026-11-18-report-nvidia-linked-alibaba-to-alleged-spy-aided-megaspeed-deal-ca33-en.md",
+    "2026-11-18-report-nvidia-linked-alibaba-to-alleged-spy-aided-megaspeed-deal-ca33-zh.md"
+   ]
+  }
+ ]
+}

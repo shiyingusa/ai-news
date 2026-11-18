@@ -1,0 +1,57 @@
+{
+ "event_id": "eu-reaches-provisional-permitting-deal-for-renewables-and-grids-2ce4",
+ "issue": "2026-11-18",
+ "section": "ev-energy",
+ "published_at": "2026-11-18T08:54:04+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/18/eu-reaches-provisional-deal-to-accelerate-renewable-energy-permitting/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Council of the EU and the European Parliament reached a provisional agreement on the permitting directive, according to the Council statement cited by pv magazine, and the text still requires formal endorsement by both institutions followed by 18 months for member-state transposition."
+   ],
+   "unconfirmed": [
+    "The final legal text and any specific permitting deadlines are not given in the excerpt; it is also not established which member states will use the opt-out from the overriding-public-interest presumption, and the description of the deal as one of the EU's most significant energy legislative milestones is a minister's characterization rather than an independent assessment."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "欧盟理事会称与欧洲议会达成临时协议，并引述爱尔兰气候、能源与环境部长达拉·奥布莱恩称这是欧洲电网一揽子计划的前半部分；协议仍需两机构正式通过，成员国随后有18个月转化期。"
+   ],
+   "unconfirmed": [
+    "最终法律文本的具体条款、正式通过和生效时间表，以及审批时限实际能缩短多少；来源仅称将缩短时限和加快并网，未给出具体数字或日期。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "EU reaches provisional permitting deal for renewables and grids",
+  "zh": "欧盟就可再生能源与电网许可简化达成临时协议"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/eu-reaches-provisional-permitting-deal-for-renewables-and-grids-2ce4/",
+  "zh": "/zh/2026/11/18/eu-reaches-provisional-permitting-deal-for-renewables-and-grids-2ce4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

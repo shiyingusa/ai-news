@@ -1,0 +1,57 @@
+{
+ "event_id": "google-extends-gemini-chat-retention-to-two-months-even-with-history-off-560e",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-17T18:48:23+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "TechCrunch reports that Gemini chat retention moves from 72 hours to two months, applies worldwide, applies even with history disabled, and rolls out over the coming weeks."
+   ],
+   "unconfirmed": [
+    "Google's own announcement or help-center documentation of the change; the exact date each market switches over; whether any categories of chats are exempt; and whether content previously slated for deletion within 72 hours is now held longer."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "TechCrunch 报道称，谷歌将把 Gemini 聊天记录的保留期由 72 小时延长至两个月，覆盖全球用户，并在未来数周内分批推送，关闭历史记录的对话也在保留范围内。"
+   ],
+   "unconfirmed": [
+    "该报报道未引用谷歌的官方公告原文，因此延长后的确切天数（“两个月”对应 60 天还是自然月）、各市场生效时间、是否适用于 Workspace 等付费版本，以及用户是否有其他退出选项，均缺乏一手信息确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google extends Gemini chat retention to two months, even with history off",
+  "zh": "谷歌将 Gemini 聊天记录保留期从 72 小时延长至两月，关闭历史记录也不例外"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/google-extends-gemini-chat-retention-to-two-months-even-with-history-off-560e/",
+  "zh": "/zh/2026/11/18/google-extends-gemini-chat-retention-to-two-months-even-with-history-off-560e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

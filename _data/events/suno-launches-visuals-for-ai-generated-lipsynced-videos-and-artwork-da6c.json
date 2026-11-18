@@ -1,0 +1,57 @@
+{
+ "event_id": "suno-launches-visuals-for-ai-generated-lipsynced-videos-and-artwork-da6c",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T11:16:53+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Suno announced a feature called Visuals that turns Suno songs into AI-generated video clips that automatically lipsync to lyrics, and generates images from text prompts for thumbnails and album artwork; it sits in a new Visuals tab under Create mode and is also reachable from a song's three-dot menu in the library, per Suno's own blog post and The Verge."
+   ],
+   "unconfirmed": [
+    "The sources disagree on launch availability — The Verge says Visuals is live on web, iOS and Android, while Unite.ai reports the iOS and Android versions were slated for \"the following few weeks\" and were not part of the launch release. Unite.ai also says visual credits are purchased separately from song credits on a dedicated Visuals pricing page, a detail the primary source does not address, and no independent test of output quality or pricing figures has been published."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Verge 报道及 Suno 官方博客，Suno 推出 Visuals 功能，可将 Suno 生成的歌曲转成自动对口型（lipsync）歌词的 AI 视频片段，也能通过提示词生成图片用于缩略图和专辑封面；入口为 Create 模式下的新 Visuals 标签页，网页版还可从曲库歌曲的三点菜单进入。"
+   ],
+   "unconfirmed": [
+    "各平台上线情况说法不一——The Verge 称 Visuals 已在网页、iOS 和 Android 上线，而 Unite.ai 称 iOS 与 Android 版本要在随后几周才推出、未包含在首发中；此外 Unite.ai 称视觉额度需单独购买、与歌曲额度分开计价，但这一计价细节仅见于单一来源，生成视频的实际画质与对口型准确度也尚无独立测评。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Suno launches Visuals for AI-generated lipsynced videos and artwork",
+  "zh": "Suno 推出 Visuals：把 AI 歌曲做成对口型视频与封面图"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/suno-launches-visuals-for-ai-generated-lipsynced-videos-and-artwork-da6c/",
+  "zh": "/zh/2026/11/18/suno-launches-visuals-for-ai-generated-lipsynced-videos-and-artwork-da6c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

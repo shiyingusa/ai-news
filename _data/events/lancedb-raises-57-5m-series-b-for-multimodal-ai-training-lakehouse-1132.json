@@ -1,0 +1,57 @@
+{
+ "event_id": "lancedb-raises-57-5m-series-b-for-multimodal-ai-training-lakehouse-1132",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T04:30:05+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "LanceDB announced a $57.5M Series B led by Bessemer and Innovation Endeavors, and describes its product as a multimodal lakehouse built on the open Lance format, according to the company's announcement as reported by SiliconANGLE."
+   ],
+   "unconfirmed": [
+    "The company's valuation, total funding raised, revenue or customer adoption figures, how the capital will be allocated, and any product roadmap or release dates — none of these appear in the brief report, and no independent estimate of the business is provided."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "LanceDB 宣布获得 5750 万美元 B 轮融资，由 Bessemer 与 Innovation Endeavors 领投，SiliconANGLE 报道了这一消息。"
+   ],
+   "unconfirmed": [
+    "本轮其他投资方、公司估值、资金的具体用途，以及多模态湖仓的实际性能与客户采用情况，现有材料均未提供，也没有独立测试或版本细节可核。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "LanceDB raises $57.5M Series B for multimodal AI training lakehouse",
+  "zh": "LanceDB 完成 5750 万美元 B 轮融资，推进多模态 AI 训练湖仓"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/lancedb-raises-57-5m-series-b-for-multimodal-ai-training-lakehouse-1132/",
+  "zh": "/zh/2026/11/18/lancedb-raises-57-5m-series-b-for-multimodal-ai-training-lakehouse-1132/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

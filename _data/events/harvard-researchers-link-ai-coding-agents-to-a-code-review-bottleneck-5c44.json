@@ -1,0 +1,62 @@
+{
+ "event_id": "harvard-researchers-link-ai-coding-agents-to-a-code-review-bottleneck-5c44",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-17T21:16:12+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "complexdiscovery.com",
+   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50538303"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Secondary coverage reports that Harvard researchers found AI coding agents shifted the developer bottleneck to code review; the item itself supplies no primary paper, figures or quotations."
+   ],
+   "unconfirmed": [
+    "The study's methodology, sample size, models tested, publication venue and peer-review status; whether the shift is measured or inferred; and whether the effect holds outside the settings the researchers examined. Commenters also dispute how current the finding is, with one arguing such research lags practice by months."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "ComplexDiscovery 报道称，哈佛研究人员发现 AI 编码代理把开发者瓶颈推向代码审查环节；Hacker News 上出现了大量从业者就此展开的讨论。"
+   ],
+   "unconfirmed": [
+    "研究的具体结论强度与适用范围，包括论文标题、作者、发表状态、样本量、所用模型及版本、衡量“瓶颈转移”的指标，以及是否经过独立复现；这些均只见于二手描述，来源未提供可核查细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Harvard researchers link AI coding agents to a code-review bottleneck",
+  "zh": "哈佛研究：AI 编码代理把瓶颈从写代码移到代码审查"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/harvard-researchers-link-ai-coding-agents-to-a-code-review-bottleneck-5c44/",
+  "zh": "/zh/2026/11/18/harvard-researchers-link-ai-coding-agents-to-a-code-review-bottleneck-5c44/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

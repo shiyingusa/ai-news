@@ -2,6 +2,6 @@
 layout: topic
 lang: zh
 topic: "optimizely"
-title: "optimizely"
+title: "Optimizely"
 permalink: "/zh/topics/optimizely/"
 ---

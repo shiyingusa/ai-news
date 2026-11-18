@@ -1,0 +1,57 @@
+{
+ "event_id": "urenco-and-blykalla-sign-first-haleu-enrichment-deal-for-a-lead-cooled-f3a5",
+ "issue": "2026-11-18",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T12:28:53+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/urenco-blykalla-sign-haleu-deal"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "World Nuclear News reports that Swedish reactor developer Blykalla and enrichment company Urenco signed an agreement under which Urenco will supply enrichment for the fuel of Blykalla's first US unit, and the outlet itself describes it as the world's first HALEU (high-assay low-enriched uranium) enrichment contract for a commercial lead-cooled reactor; the report is dated 17 November 2026."
+   ],
+   "unconfirmed": [
+    "The contract's volume, delivery schedule, price and financial terms are not disclosed, and neither the site nor the operating date of the US unit is given. The \"world's first\" framing is World Nuclear News's own characterization rather than an independently verified designation, and no enrichment deliveries are reported to have begun — Blykalla has previously said only that it aims for its first 140 MWt SEALER-55 commercial reactor to be operating in the early 2030s."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据世界核新闻（World Nuclear News）2026年11月17日报道，瑞典先进反应堆开发商Blykalla与铀浓缩公司Urenco签署协议，由Urenco为其首个美国机组所用燃料提供浓缩服务；该媒体同时称，这是全球首份针对商业铅冷反应堆的高丰度低浓缩铀（HALEU）浓缩合同。"
+   ],
+   "unconfirmed": [
+    "“全球首份商业铅冷反应堆HALEU浓缩合同”这一定性来自上述报道本身，尚无第三方核实；协议约定的浓缩量、交付时间表、合同金额与期限均未披露，也未说明该协议是具约束力的采购合同还是框架性意向；关于该美国机组的选址、许可进度与投运时间，报道同样没有给出任何细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Urenco and Blykalla sign first HALEU enrichment deal for a lead-cooled reactor",
+  "zh": "Urenco与Blykalla签署首份商业铅冷堆HALEU浓缩合同"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/urenco-and-blykalla-sign-first-haleu-enrichment-deal-for-a-lead-cooled-f3a5/",
+  "zh": "/zh/2026/11/18/urenco-and-blykalla-sign-first-haleu-enrichment-deal-for-a-lead-cooled-f3a5/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

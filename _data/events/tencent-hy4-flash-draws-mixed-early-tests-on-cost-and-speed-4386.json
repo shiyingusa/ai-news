@@ -1,0 +1,62 @@
+{
+ "event_id": "tencent-hy4-flash-draws-mixed-early-tests-on-cost-and-speed-4386",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-17T21:06:08+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "hy.tencent.ai",
+   "url": "https://hy.tencent.ai/research/hy4-flash"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50538184"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Plotly's independent benchmark reports Hy4 Flash answered 39 of 43 data-analytics questions for $0.13, making it the cheapest model it has rated A-grade (tool-2-1); Tencent's Hugging Face model card lists 220B total parameters (64B of them \"Engram\" parameters), 12B active per token, text-and-image input, and a context window of up to 1M tokens (tool-2-2)."
+   ],
+   "unconfirmed": [
+    "that the weights are or will be open — a commenter writes \"once they open the weights,\" so no open-weights release is documented in the supplied evidence; the claim that Hy4 Flash is \"faster\" than DeepSeek 1017 and GPT-6 Luna, which no independent speed measurement here supports; the roughly $20 cost cited for frontier models; and the report that translation quality lagged DeepSeek 4.1 Flash, which rests on one user's experience. The Plotly benchmark and the model card are separate sources and do not contradict each other on the $0.13 figure or the architecture."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "腾讯在 Hugging Face 模型卡中称 Hy4-flash 总参数 220B（含 64B Engram 参数）、每 token 激活 12B，原生支持文本和图像输入、输出文本，上下文窗口最高 1M tokens；Plotly 的独立测试称该模型在 PlotlyDataAnalyticsBench 上答对 39/43 题、总花费 0.13 美元，并称其为已测最便宜的 A 级模型。"
+   ],
+   "unconfirmed": [
+    "社区所称“比 DeepSeek 1017 和 Luna 更便宜、更快”缺乏统一口径的独立对比；一位用户称翻译错误多于 DeepSeek 4.1 Flash 1017 仅为单一个例；“开放权重后将成前沿仅有的两个开放模型之一”只是评论者预期，现有材料未说明权重开放时间或许可证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tencent Hy4 Flash draws mixed early tests on cost and speed",
+  "zh": "腾讯 Hy4 Flash 低价模型的数据分析表现引发讨论"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/tencent-hy4-flash-draws-mixed-early-tests-on-cost-and-speed-4386/",
+  "zh": "/zh/2026/11/18/tencent-hy4-flash-draws-mixed-early-tests-on-cost-and-speed-4386/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

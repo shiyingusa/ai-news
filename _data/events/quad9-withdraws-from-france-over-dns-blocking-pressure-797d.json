@@ -1,0 +1,62 @@
+{
+ "event_id": "quad9-withdraws-from-france-over-dns-blocking-pressure-797d",
+ "issue": "2026-11-18",
+ "section": "tech-industry",
+ "published_at": "2026-11-17T22:13:34+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "blog.cloudflare.com",
+   "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50538994"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Quad9's own announcement states that a Paris court ruling in beIN's favor requires it to block recursive DNS resolution for certain domains for users in France, and that the court reduced the penalty from €580,000 to €1,000 per day. TorrentFreak reports the withdrawal takes effect on November 24."
+   ],
+   "unconfirmed": [
+    "the exact domain list and the court's full reasoning are absent from the supplied material; the November 24 date and the claim that Quad9 is the second DNS resolver to quit France come from TorrentFreak, not Quad9's post. Cloudflare's article text is not supplied, so its specific commitments are unverified."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Quad9 于 10 月 22 日宣布，因巴黎法院 5 月 13 日就 beIN Sports 提起的盗版站点屏蔽案作出裁决、要求其采取屏蔽措施，将于 11 月 24 日停止为法国用户提供服务；Quad9 称法院已将罚款从 58 万欧元降至每日 1000 欧元。TorrentFreak 报道称，Quad9 是第二家退出法国的 DNS 解析器。"
+   ],
+   "unconfirmed": [
+    "上诉能否推翻该裁决、Quad9 是否会在 11 月 24 日前改变计划，以及退出对法国用户解析成功率的具体影响，均无独立测量或后续确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Quad9 withdraws from France over DNS blocking pressure",
+  "zh": "Quad9 退出法国：DNS 强制屏蔽的早期警示"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/quad9-withdraws-from-france-over-dns-blocking-pressure-797d/",
+  "zh": "/zh/2026/11/18/quad9-withdraws-from-france-over-dns-blocking-pressure-797d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

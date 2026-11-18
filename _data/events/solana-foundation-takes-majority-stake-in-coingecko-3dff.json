@@ -1,0 +1,57 @@
+{
+ "event_id": "solana-foundation-takes-majority-stake-in-coingecko-3dff",
+ "issue": "2026-11-18",
+ "section": "tech-industry",
+ "published_at": "2026-11-18T05:55:03+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "CoinDesk reported that the Solana Foundation has taken a majority interest in CoinGecko, and described CoinGecko as one of the crypto ecosystem's most popular price-tracking platforms."
+   ],
+   "unconfirmed": [
+    "the deal value, the exact percentage acquired, the structure of the transaction, and any commitments about CoinGecko's independence; the 18 million registered-user figure is CoinGecko's own reported number, and no party outside the report has confirmed the deal's terms."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 CoinDesk 报道，Solana 基金会已持有 CoinGecko 的多数权益；CoinGecko 是加密领域主要的行情追踪平台之一，其自称拥有 1800 万注册用户。"
+   ],
+   "unconfirmed": [
+    "交易金额、持股比例、估值、是否全部以 SOL 或现金支付，以及数据与接口政策是否调整，均未见披露，仅有 CoinDesk 单一信源报道，暂无独立确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Solana Foundation takes majority stake in CoinGecko",
+  "zh": "Solana 基金会取得 CoinGecko 多数股权，后者有 1800 万注册用户"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/solana-foundation-takes-majority-stake-in-coingecko-3dff/",
+  "zh": "/zh/2026/11/18/solana-foundation-takes-majority-stake-in-coingecko-3dff/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

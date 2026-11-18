@@ -1,0 +1,57 @@
+{
+ "event_id": "xpeng-q3-2026-revenue-rises-19-1-to-about-3-1-billion-0df4",
+ "issue": "2026-11-18",
+ "section": "ev-energy",
+ "published_at": "2026-11-17T15:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/17/xpeng-increases-revenue-in-q3-2026-to-over-three-billion-euros/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Xpeng's Q3 2026 results, as reported by electrive, show revenue of about €3.1 billion (RMB 24.28 billion), up 19.1% year on year, with the company still posting a loss; cnevpost reports the figure came in above the top of Xpeng's own guidance, on 118,390 deliveries."
+   ],
+   "unconfirmed": [
+    "how much of the growth came from the Volkswagen technology partnership — the source says only that it \"once again contributed\", with no figure — and the details of the Q4 delivery guidance of 169,000–174,000 units, the 13.1% vehicle margin, a net loss that widened 127.9% year on year while narrowing 35.1% quarter on quarter, and a plan to at least double overseas sales in 2027, all of which rest on secondary reports of the earnings call rather than the source."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，小鹏 2026 年第三季度营收约 31 亿欧元，同比增长 19.1%；财报数据（RMB 24.28 亿元口径为 242.8 亿元人民币，约合该欧元金额）显示其超过公司自身指引上限，且与大众汽车的技术合作再次贡献增长；公司当期仍处于亏损状态（来源：electrive 报道及 cnevpost、Yahoo Finance 对财报的引述）。"
+   ],
+   "unconfirmed": [
+    "净亏损的具体走向存在口径差异——cnevpost 称净亏损环比收窄 35.1%、但同比扩大 127.9%，electrive 原文仅称“继续亏损”而未给数字；车辆毛利率回升至 13.1%、第四季度 16.9 万至 17.4 万辆交付指引以及 2027 年海外销量至少翻倍，均为公司财报电话会上的说法或预测，尚无独立验证，且 electrive 原文未提及这些细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Xpeng Q3 2026 revenue rises 19.1% to about €3.1 billion",
+  "zh": "小鹏汽车2026年Q3营收约31亿欧元，同比增长19.1%"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/xpeng-q3-2026-revenue-rises-19-1-to-about-3-1-billion-0df4/",
+  "zh": "/zh/2026/11/18/xpeng-q3-2026-revenue-rises-19-1-to-about-3-1-billion-0df4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
