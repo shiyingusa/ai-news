@@ -136,6 +136,7 @@ html[lang="zh-Hans"] body { line-height: 1.7; }
   padding-top: 28px; padding-bottom: 32px;
 }
 .front-lead { padding-right: 40px; border-right: 1px solid var(--rule); margin-right: -40px; }
+.lead-more { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; margin-top: 32px; padding-top: 24px; border-top: 1px solid var(--rule); }
 .front-rail { display: flex; flex-direction: column; gap: 28px; }
 .rail-head {
   font: 700 12.5px/1.2 var(--sans); letter-spacing: .09em; text-transform: uppercase; color: var(--ink);
@@ -316,6 +317,7 @@ html[lang="zh-Hans"] .page-prose h1 { font-family: var(--sans); }
   .masthead-row { padding-top: 16px; padding-bottom: 12px; }
   .brand-mark { width: 28px; height: 28px; }
   .grid-4 { grid-template-columns: 1fr; gap: 24px; }
+  .lead-more { grid-template-columns: 1fr; gap: 24px; }
   .sec-body { grid-template-columns: 1fr; }
   .story-row { grid-template-columns: minmax(0, 1fr) 104px; gap: 14px; }
   .story-row .story-title { font-size: 1.1rem; }
