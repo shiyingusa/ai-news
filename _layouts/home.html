@@ -14,8 +14,29 @@ layout: default
 <h1 class="visually-hidden">{% if L == "zh" %}AI 每日雷达：AI 与前沿科技每日新闻{% else %}AI Daily Radar: daily news on AI and frontier technology{% endif %}</h1>
 
 <section class="wrap front" aria-label="{{ T.top_stories }}">
+  {%- comment -%} Newest stories not already in the lead or the ranked rail: two fill the
+  space under the lead (so the column is as tall as the rail), the next four go in the band.
+  Two cards keep the lead column level with the rail at desktop widths. {%- endcomment -%}
+  {%- assign shown = "" -%}
+  {%- for s in by_score limit: 6 -%}{%- assign shown = shown | append: "|" | append: s.url -%}{%- endfor -%}
+  {%- assign shown = shown | append: "|" -%}
+  {%- assign newest = today | sort: "order" | reverse -%}
+  {%- assign more_urls = "" -%}
+  {%- for s in newest -%}
+    {%- assign key = "|" | append: s.url | append: "|" -%}
+    {%- unless shown contains key -%}{%- assign more_urls = more_urls | append: s.url | append: "|" -%}{%- endunless -%}
+  {%- endfor -%}
+  {%- assign more_list = more_urls | split: "|" -%}
   <div class="front-lead">
     {% include card.html s=lead v="lead" h=2 %}
+    {%- if more_list.size > 0 %}
+    <div class="lead-more" aria-label="{{ T.latest }}">
+      {%- for u in more_list limit: 2 -%}
+        {%- assign s = today | where: "url", u | first %}
+      {% include card.html s=s v="card" h=3 %}
+      {%- endfor %}
+    </div>
+    {%- endif %}
   </div>
   <aside class="front-rail">
     {%- if brief and brief.paragraphs.size > 0 %}
@@ -41,22 +62,16 @@ layout: default
   </aside>
 </section>
 
+{%- if more_list.size > 2 %}
 <section class="wrap band" aria-label="{{ T.latest }}">
   <div class="grid-4">
-    {%- comment -%} Newest first, so midday and evening updates show up near the top. {%- endcomment -%}
-    {%- assign shown = "" -%}
-    {%- for s in by_score limit: 6 -%}{%- assign shown = shown | append: "|" | append: s.url -%}{%- endfor -%}
-    {%- assign shown = shown | append: "|" -%}
-    {%- assign newest = today | sort: "order" | reverse -%}
-    {%- assign n = 0 -%}
-    {%- for s in newest -%}
-      {%- assign key = "|" | append: s.url | append: "|" -%}
-      {%- if shown contains key -%}{%- continue -%}{%- endif -%}
-      {%- assign n = n | plus: 1 -%}{%- if n > 4 -%}{%- break -%}{%- endif %}
+    {%- for u in more_list offset: 2 limit: 4 -%}
+      {%- assign s = today | where: "url", u | first %}
     {% include card.html s=s v="card" h=3 %}
     {%- endfor %}
   </div>
 </section>
+{%- endif %}
 
 <div class="wrap">{% include newsletter.html id="home" %}</div>
 
