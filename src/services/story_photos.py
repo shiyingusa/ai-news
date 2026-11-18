@@ -32,6 +32,7 @@ ALLOWED_LICENCES = re.compile(r"^(public domain|pd|cc0|cc by(-sa)? ?[0-9.]*( [a-
 BAD_TITLE = re.compile(
     r"logo|icon|map|diagram|chart|graph|screenshot|portrait|headshot|signature|flag|coat of arms|seal|"
     r"poster|cover|svg|drawing|sketch|painting|stamp|banknote|coin|document|webpage|website|newspaper|"
+    r"cigarettes?|smoking|ashtray|alcohol|beer|guns?|weapons?|blood|skull|grave|cemetery|"
     r"\b(?:refugees?|holocaust|jewish|nazi|war|wartime|victims?|funeral|corpse|massacre|protests?|riots?|prison)\b|"
     r"\b1[89]\d\d\b",
     re.I,
