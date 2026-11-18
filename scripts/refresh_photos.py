@@ -89,9 +89,16 @@ async def main() -> int:
         qs = queries.get(str(path)) or []
         if not slug:
             continue
-        photo = find_photo(qs, used, section=section)
         day_dir = site / "assets" / "stories" / day
-        if not photo or not save_photo(photo, day_dir, slug):
+        photo = None
+        for _ in range(4):  # a candidate can fail the download or the looks-like-a-photo check
+            candidate = find_photo(qs, used, section=section)
+            if not candidate:
+                break
+            if save_photo(candidate, day_dir, slug):
+                photo = candidate
+                break
+        if not photo:
             print(f"  no photo: {slug} ({qs})")
             continue
         make_share_from_photo(day_dir / f"{slug}.jpg", day_dir / f"{slug}-share.jpg", front_value(text, "title") or "", section, _date_label(day))

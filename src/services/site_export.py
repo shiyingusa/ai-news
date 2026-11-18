@@ -478,10 +478,14 @@ def export_stories(
 
                         photo = None
                         queries = (photo_queries or {}).get(item_key) or []
-                        photo = find_photo(queries, used_photos, section=group.profile_id)
-                        if photo:
-                            if photo and not save_photo(photo, day_dir, slug):
-                                photo = None
+                        photo = None
+                        for _ in range(4):  # a candidate can fail the download or the photo check
+                            candidate = find_photo(queries, used_photos, section=group.profile_id)
+                            if not candidate:
+                                break
+                            if save_photo(candidate, day_dir, slug):
+                                photo = candidate
+                                break
                         if photo:
                             make_share_from_photo(art_file, day_dir / f"{slug}-share.jpg", share_title, group.profile_id, _date_label(date))
                             credit_file.write_text(json.dumps(photo.credit(), ensure_ascii=False), encoding="utf-8")
