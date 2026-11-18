@@ -1,0 +1,57 @@
+{
+ "event_id": "anthropic-weighs-upsizing-ipo-with-price-above-80-cnbc-reports-31ef",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T17:15:00+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "CNBC reported, citing people familiar with the details, that Anthropic is weighing an upsized IPO priced well above $80 a share, versus a prior $70–$78 range."
+   ],
+   "unconfirmed": [
+    "that the deal will actually be upsized, the final price, the number of shares, total proceeds, the implied valuation, the pricing date, and any comment from Anthropic itself — all of these rest on unnamed sources."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "CNBC 报道称，据知情人士透露，Anthropic 正在权衡扩大 IPO 并上调定价，此前公布的区间为每股 70 至 78 美元。"
+   ],
+   "unconfirmed": [
+    "定价“远高于 80 美元”与扩大发行规模目前都只有匿名消息人士的说法，Anthropic 未予确认；报道也没有给出新的发行股数、募资总额、上调后的确切价格或上市日期。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic weighs upsizing IPO with price above $80, CNBC reports",
+  "zh": "Anthropic 据报考虑扩大 IPO 规模，定价或远超 80 美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/anthropic-weighs-upsizing-ipo-with-price-above-80-cnbc-reports-31ef/",
+  "zh": "/zh/2026/11/18/anthropic-weighs-upsizing-ipo-with-price-above-80-cnbc-reports-31ef/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

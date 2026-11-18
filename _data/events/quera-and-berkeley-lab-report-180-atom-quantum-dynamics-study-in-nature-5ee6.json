@@ -1,0 +1,57 @@
+{
+ "event_id": "quera-and-berkeley-lab-report-180-atom-quantum-dynamics-study-in-nature-5ee6",
+ "issue": "2026-11-18",
+ "section": "chips-compute",
+ "published_at": "2026-11-18T17:03:12+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Quantum Insider",
+   "url": "https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "A peer-reviewed paper in Nature, listed there as \"Observation of prethermal dynamical phase transitions and…\" (article page dated Nov 4, 2026), reports quench-dynamics experiments on a programmable neutral-atom simulator with up to 180 qubits, observing prethermal dynamical phase transitions and resonant melting; QuEra and NERSC/Berkeley Lab announced the result in a press release dated Nov 18, 2026 (also carried by HPCwire), stating that NERSC used its Perlmutter supercomputer and QuEra's open-source Bloqade software for exact small-system checks and ran Aquila through Amazon Braket."
+   ],
+   "unconfirmed": [
+    "That the two-dimensional transition genuinely has \"no equilibrium counterpart,\" that the observed behavior outruns classical simulation at the 180-atom scale, and the framing of this as a step toward fault-tolerant machines are the authors' interpretations and forward-looking claims, not independently replicated results — classical validation covered only small probing systems, and the press materials give no independent benchmark against state-of-the-art classical methods at large array sizes. The sources also do not explain the gap between the Nature listing date (Nov 4, 2026) and the announcement date (Nov 18, 2026)."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "QuEra 与劳伦斯伯克利国家实验室（LBNL）团队的论文已发表于《Nature》，Nature 官网条目（2026 年 11 月 4 日上线）确认该研究使用可编程中性原子量子模拟器，在最多 180 个量子比特的二维阵列（及最长 52 原子的链）上观测到预热化（prethermalization）动力学相变与共振熔化现象；NERSC 团队通过 Amazon Braket 访问 Aquila，并用 Perlmutter 超级计算机做小规模精确经典计算以校验实验结果——以上均有 Nature 条目、QuEra 新闻稿及 HPCwire 报道相互印证。"
+   ],
+   "unconfirmed": [
+    "预热带化寿命、共振熔化位置以及“二维一阶动力学相变没有平衡态对应物”这一物理解释，目前仅出自论文作者自身的分析与 QuEra 新闻稿表述，尚无独立团队复现或第三方基准评测；Aquila 结果在 180 原子规模下已无法用经典计算逐一校验（经典精确计算仅覆盖小规模探测系统），因此大尺度结论依赖作者对器件可信度的论证；此外新闻稿中“中性原子量子计算领导者”为公司自述，文中提及的下一代机器 Libra 的细节在报道中被截断，其能力、时间表与容错路线均未获证实。另需注意日期口径：Nature 页面显示论文 2026 年 11 月 4 日上线，而新闻稿与媒体报道的发布日为 11 月 18 日，两者分别指论文上线与对外发布，并非同一事件。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "QuEra and Berkeley Lab report 180-atom quantum dynamics study in Nature",
+  "zh": "QuEra 与伯克利实验室在《Nature》发表 180 原子量子动力学研究"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/quera-and-berkeley-lab-report-180-atom-quantum-dynamics-study-in-nature-5ee6/",
+  "zh": "/zh/2026/11/18/quera-and-berkeley-lab-report-180-atom-quantum-dynamics-study-in-nature-5ee6/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

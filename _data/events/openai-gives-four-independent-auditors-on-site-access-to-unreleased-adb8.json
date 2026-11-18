@@ -1,0 +1,57 @@
+{
+ "event_id": "openai-gives-four-independent-auditors-on-site-access-to-unreleased-adb8",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T14:36:42+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Decoder reports that four independent audit organizations, including Apollo Research and METR, have been granted on-site access to OpenAI's unreleased models, source code and training data — a first for the company."
+   ],
+   "unconfirmed": [
+    "The identity of the other two auditors, the duration and terms of access, and whether any findings will be published; the arrangement rests on secondary reporting rather than a cited OpenAI announcement, and OpenAI's ability to redact or delay reports means the audits' independence has not been established."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Decoder 报道，OpenAI 向包括 Apollo Research 和 METR 在内的四家独立机构开放了未发布模型、源代码和训练数据的直接访问权限，用于查找隐藏的不当行为和安全缺口。"
+   ],
+   "unconfirmed": [
+    "这篇报道未引用 OpenAI 的原始公告；“首次”的说法、另外两家机构身份、审计启动时间与范围、报告是否公开，以及 OpenAI 删改或延迟报告的权限细节，均只来自该报道。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI gives four independent auditors on-site access to unreleased models",
+  "zh": "OpenAI 首次允许四家独立机构现场审计未发布模型"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/openai-gives-four-independent-auditors-on-site-access-to-unreleased-adb8/",
+  "zh": "/zh/2026/11/18/openai-gives-four-independent-auditors-on-site-access-to-unreleased-adb8/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

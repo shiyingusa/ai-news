@@ -1,0 +1,62 @@
+{
+ "event_id": "meta-s-project-gryffindor-sought-teen-instagram-signups-through-schools-a5d4",
+ "issue": "2026-11-18",
+ "section": "tech-industry",
+ "published_at": "2026-11-18T15:20:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "NPR",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety"
+  },
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "NPR, in reporting summarized by The Verge, cites internal Meta documents — including a November 2023 presentation — that describe \"Project Gryffindor,\" a school program intended to drive teen \"acquisition\" and give teens \"a new reason to join\" Instagram; the documents were disclosed as part of child-safety litigation against Meta and are posted on DocumentCloud."
+   ],
+   "unconfirmed": [
+    "Which elements of the plan (school directories, banners, \"school blast\" notifications) were actually deployed and at what scale, whether schools and parents were told about the acquisition goals, and Meta's own account of the program — the available reporting contains no company statement or response."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "NPR 查阅了在儿童安全诉讼中披露的内部文件，并报道其中一份 2023 年 11 月的演示提到“Project Gryffindor”及“给青少年一个新理由加入 Instagram”等表述；Techmeme 的摘要还列出学校目录、横幅和“school blast”通知。"
+   ],
+   "unconfirmed": [
+    "这些手段是否在 2024 年实际落地、覆盖多少学校与青少年，以及 Meta 的回应；Techmeme 标题称该 2024 年计划“包含”这些做法，而 NPR 与 The Verge 的摘述多用“计划”“考虑”等措辞，实际执行程度仍有出入。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Meta's \"Project Gryffindor\" sought teen Instagram signups through schools, NPR reports",
+  "zh": "Meta 内部文件披露“Project Gryffindor”校园拉新计划，NPR 报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/meta-s-project-gryffindor-sought-teen-instagram-signups-through-schools-a5d4/",
+  "zh": "/zh/2026/11/18/meta-s-project-gryffindor-sought-teen-instagram-signups-through-schools-a5d4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

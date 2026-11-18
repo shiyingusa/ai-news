@@ -1,0 +1,57 @@
+{
+ "event_id": "white-house-weighs-requiring-us-firms-to-disclose-chinese-ai-use-2157",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T14:36:07+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Reuters",
+   "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Reuters, citing unnamed sources, reported that the administration is weighing a requirement for US companies to disclose Chinese AI model use on their websites, with the aim of discouraging that use."
+   ],
+   "unconfirmed": [
+    "Whether any rule will be proposed or finalized, which agency would write or enforce it, when it might take effect, what counts as a Chinese model, and whether disclosure would be mandatory or voluntary — all of this rests on unnamed sources and no official document."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "路透社报道称，据未具名消息人士说法，特朗普政府正在考虑要求美国企业在其网站披露使用中国 AI 模型的情况，以劝阻采用。"
+   ],
+   "unconfirmed": [
+    "政府是否已作出决定或形成正式提案、具体覆盖范围和执行机构、违规后果及时间表；目前没有官方确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "White House weighs requiring US firms to disclose Chinese AI use, Reuters reports",
+  "zh": "特朗普政府据报考虑要求美企披露中国AI模型使用，路透社报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/white-house-weighs-requiring-us-firms-to-disclose-chinese-ai-use-2157/",
+  "zh": "/zh/2026/11/18/white-house-weighs-requiring-us-firms-to-disclose-chinese-ai-use-2157/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

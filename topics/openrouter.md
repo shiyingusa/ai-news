@@ -2,6 +2,6 @@
 layout: topic
 lang: en
 topic: "openrouter"
-title: "OpenRouter"
+title: "openrouter"
 permalink: "/topics/openrouter/"
 ---

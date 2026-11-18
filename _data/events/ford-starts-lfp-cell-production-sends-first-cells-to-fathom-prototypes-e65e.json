@@ -1,0 +1,62 @@
+{
+ "event_id": "ford-starts-lfp-cell-production-sends-first-cells-to-fathom-prototypes-e65e",
+ "issue": "2026-11-18",
+ "section": "ev-energy",
+ "published_at": "2026-11-18T17:00:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/18/fords-first-lfp-batteries-en-route-30k-fathom-ev-pickup/"
+  },
+  {
+   "tier": "independent",
+   "name": "InsideEVs",
+   "url": "https://insideevs.com/news/815927/ford-fathom-blueoval-battery-park-lfp-cells/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reported that Ford's BlueOval Battery Park in Michigan is now producing its first LFP (lithium iron phosphate) cells and shipping them to Kentucky to power Fathom prototypes; an earlier Electrek report said the plant had begun assembling LFP prismatic cells for Ford's upcoming EV lineup."
+   ],
+   "unconfirmed": [
+    "How those prototype cells perform — capacity, range, charging — and when the Fathom actually launches and at what price. Electrek cites a $30,000 target, while other coverage cites $28,350, so the sticker is not settled; plant output volume and the extent of the CATL technology licensing behind the cells rest on outside reporting rather than a Ford disclosure."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，福特位于密歇根州的 BlueOval Battery Park 工厂已下线首批 LFP（磷酸铁锂）电芯，这些电芯将运往肯塔基州，用于 Fathom 原型车的装车测试；这是福特首次自产该类电芯。"
+   ],
+   "unconfirmed": [
+    "福特方面未就首批电芯下线作出公开确认，报道亦未给出电芯容量、能量密度、续航或工厂产能等任何规格数字，Fathom 的量产与上市时间表同样缺失；关于售价，Electrek 与另一篇报道称其为 3 万美元，一段第三方视频则称 28,350 美元，两种说法并存；工厂技术授权自宁德时代（CATL）的说法来自第三方报道与视频，福特未予证实；此外，这批电芯目前仅用于原型车，尚未进入面向客户的量产装车阶段。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Ford starts LFP cell production, sends first cells to Fathom prototypes",
+  "zh": "福特密歇根工厂投产首批 LFP 电池，先用于 Fathom 原型车"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/ford-starts-lfp-cell-production-sends-first-cells-to-fathom-prototypes-e65e/",
+  "zh": "/zh/2026/11/18/ford-starts-lfp-cell-production-sends-first-cells-to-fathom-prototypes-e65e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

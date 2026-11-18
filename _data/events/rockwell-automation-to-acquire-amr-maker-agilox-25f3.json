@@ -1,0 +1,57 @@
+{
+ "event_id": "rockwell-automation-to-acquire-amr-maker-agilox-25f3",
+ "issue": "2026-11-18",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-18T16:44:18+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Robot Report",
+   "url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Rockwell said it signed a definitive agreement to acquire AGILOX and that AGILOX will become part of its Intelligent Devices segment, with closing expected in fiscal 2027's second quarter pending regulatory approval, The Robot Report reported; AGILOX's own count of more than 2,500 deployed robots, 250-plus employees and operations in Europe, North America and China comes from the company."
+   ],
+   "unconfirmed": [
+    "The purchase price, whether the OTTO and AGILOX robot lines will be integrated or share fleet software, and Carlyle's claim that AGILOX quadrupled revenue since its 2021 investment all rest on the companies' statements without independent verification; completion of the deal also depends on regulators."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "罗克韦尔自动化与 AGILOX 已签署最终收购协议，AGILOX 将加入罗克韦尔的智能设备运营部门；交易金额未披露，交割取决于监管批准。"
+   ],
+   "unconfirmed": [
+    "交易能否获得监管批准并按计划在2027财年第二季度完成，AGILOX 的2500台部署量和250多名员工等公司自报数据是否经过独立核实，以及罗克韦尔是否会整合 AGILOX 与 OTTO 的车队管理平台。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Rockwell Automation to acquire AMR maker AGILOX",
+  "zh": "罗克韦尔自动化收购AGILOX以扩张AMR业务"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/rockwell-automation-to-acquire-amr-maker-agilox-25f3/",
+  "zh": "/zh/2026/11/18/rockwell-automation-to-acquire-amr-maker-agilox-25f3/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

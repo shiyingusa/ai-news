@@ -1,0 +1,57 @@
+{
+ "event_id": "voyager-1-becomes-first-spacecraft-to-reach-one-light-day-from-earth-e0fe",
+ "issue": "2026-11-18",
+ "section": "space",
+ "published_at": "2026-11-18T11:35:47+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Voyager project scientist Linda Spilker told Space.com that Voyager 1 is about 16.1 billion miles away and is the first human-made object to reach one light-day from Earth; the 24-hour one-way light travel time follows directly from that distance, and the mission team communicates via NASA's Deep Space Network."
+   ],
+   "unconfirmed": [
+    "Space.com does not cite a NASA press release or independent measurement, and the exact timestamp of 5:16 a.m. EST is a computed marker rather than an instrument reading; the article also rounds the distance differently in two places (\"about 16 billion miles\" and \"about 16.1 billion miles\")."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "旅行者1号于 1977 年 9 月 5 日发射、2012 年 8 月 25 日成为首个进入星际空间的人造物体、旅行者2号于 2018 年 11 月跟进，这些均为公开的任务记录；项目科学家 Linda Spilker 向 Space.com 确认了“地球与旅行者相距正好 24 光时”这一时刻及约 161 亿英里的距离。"
+   ],
+   "unconfirmed": [
+    "1 光日的精确达成时刻与对应距离来自任务团队的计算，由 Space.com 单篇报道呈现，文中未引用 NASA 官方公告或独立测量；报道也未说明在电力与仪器持续衰减的情况下，探测器还能维持通信与科学观测多久。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Voyager 1 becomes first spacecraft to reach one light-day from Earth",
+  "zh": "旅行者1号距地球满1光日，成首个抵达的人造物体"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/voyager-1-becomes-first-spacecraft-to-reach-one-light-day-from-earth-e0fe/",
+  "zh": "/zh/2026/11/18/voyager-1-becomes-first-spacecraft-to-reach-one-light-day-from-earth-e0fe/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -2,6 +2,6 @@
 layout: topic
 lang: en
 topic: "hugging-face"
-title: "Hugging Face"
+title: "hugging-face"
 permalink: "/topics/hugging-face/"
 ---

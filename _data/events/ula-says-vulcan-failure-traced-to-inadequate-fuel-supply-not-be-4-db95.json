@@ -1,0 +1,57 @@
+{
+ "event_id": "ula-says-vulcan-failure-traced-to-inadequate-fuel-supply-not-be-4-db95",
+ "issue": "2026-11-18",
+ "section": "space",
+ "published_at": "2026-11-18T16:58:32+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "ULA's own statement says it has completed an initial integrated review of flight data from the Leo 1 launch anomaly and that preliminary indications point to inadequate fuel supply to the BE-4 engines rather than engine performance."
+   ],
+   "unconfirmed": [
+    "the actual root cause, whether the fix requires changes to vehicle plumbing, feed systems or procedures, and when Vulcan will fly again — ULA explicitly says work remains, and the finding is preliminary and self-reported, with no independent review or full investigation report released."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "ULA 官方声明称，已完成对 Leo 1 发射异常飞行数据的初步综合审查，初步迹象表明助推级推力偏低是火箭向 BE-4 发动机供油不足所致，而非发动机性能所致。"
+   ],
+   "unconfirmed": [
+    "故障的具体根本原因、供油不足是设计、制造还是操作层面的问题、是否波及其他 Vulcan 任务及复飞时间表；ULA 明确表示调查仍在进行，上述细节均未公布。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "ULA says Vulcan failure traced to inadequate fuel supply, not BE-4 engines",
+  "zh": "ULA：Vulcan 发射失败源于 BE-4 发动机燃料供应不足"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/ula-says-vulcan-failure-traced-to-inadequate-fuel-supply-not-be-4-db95/",
+  "zh": "/zh/2026/11/18/ula-says-vulcan-failure-traced-to-inadequate-fuel-supply-not-be-4-db95/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

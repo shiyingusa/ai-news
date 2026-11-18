@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-halts-h200-ai-chip-shipments-to-china-interim-ceo-says-ce41",
+ "issue": "2026-11-18",
+ "section": "chips-compute",
+ "published_at": "2026-11-18T13:01:05+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Interim CEO Colette Kress said on Nvidia's third-quarter fiscal 2027 earnings call that its guidance includes no licensed Hopper data center products and that the company is \"no longer shipping licensed Hopper data center products to China,\" according to Bloomberg and CNBC-TV18. Kress also said licensed Hopper data center sales to China totaled $2.4 billion in the quarter, Yahoo Finance reported."
+   ],
+   "unconfirmed": [
+    "Nvidia has not said why it stopped the shipments, when they ceased, or whether the halt covers only the US-licensed Hopper line or all advanced AI chips bound for China; the report offers no independent confirmation of the figures, and the December US approval referenced by The Verge is described only in the outlet's own earlier coverage."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "英伟达临时 CEO Colette Kress 在第三季度财报电话会上表示，公司业绩指引中已不包含任何获得许可的 Hopper 数据中心产品，并且不再向中国出货此类获得许可的产品；据彭博社与 CNBC TV18 报道，这一表态来自公司自己的财报电话会。据雅虎财经转载的报道，Kress 称第三季度对华销售获得许可的 Hopper 数据中心产品金额为 24 亿美元。"
+   ],
+   "unconfirmed": [
+    "英伟达没有说明停止出货的原因，也没有说明此举是否涵盖 Hopper 以外的 AI 芯片——The Verge 标题所称“不再向中国出售 AI 芯片”的范围明显大于 Kress 原话中的“获得许可的 Hopper 数据中心产品”。停止出货是否为永久决定、最后一批货何时发出，以及 The Verge 此前报道的白宫去年 12 月批准是否仍然有效，报道均未交代；目前核心信息仅来自公司财报电话会这一单一来源，没有独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nvidia halts H200 AI chip shipments to China, interim CEO says",
+  "zh": "英伟达停止对华出货 H200 等获许可 Hopper 芯片"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/nvidia-halts-h200-ai-chip-shipments-to-china-interim-ceo-says-ce41/",
+  "zh": "/zh/2026/11/18/nvidia-halts-h200-ai-chip-shipments-to-china-interim-ceo-says-ce41/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "bmw-starts-u-s-assembly-of-ix5-its-first-american-made-ev-0388",
+ "issue": "2026-11-18",
+ "section": "ev-energy",
+ "published_at": "2026-11-18T10:40:12+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "InsideEVs",
+   "url": "https://insideevs.com/news/815854/bmw-ix5-us-production/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "InsideEVs reports that BMW has started U.S. production of the iX5 and that it is the company's first U.S.-made EV, with output of roughly 70 vehicles per day."
+   ],
+   "unconfirmed": [
+    "The daily rate rests on the outlet's reporting rather than a BMW statement, and the report leaves out the plant, the planned full production rate, pricing, and when the vehicles go on sale."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 InsideEVs 报道，宝马已在其美国工厂组装首款美国制造的电动车 iX5，日产量约 70 辆。"
+   ],
+   "unconfirmed": [
+    "工厂具体位置、产线正式投产日期、iX5 的售价、续航与上市时间均未出现在报道中；每天约 70 辆是当前爬产速度还是目标产能，也没有说明。该产量数字仅来自 InsideEVs，未见宝马官方声明的独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BMW starts U.S. assembly of iX5, its first American-made EV",
+  "zh": "宝马首款美国产电动车 iX5 下线，日产量约 70 辆"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/bmw-starts-u-s-assembly-of-ix5-its-first-american-made-ev-0388/",
+  "zh": "/zh/2026/11/18/bmw-starts-u-s-assembly-of-ix5-its-first-american-made-ev-0388/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

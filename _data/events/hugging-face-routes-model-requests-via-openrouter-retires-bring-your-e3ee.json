@@ -1,0 +1,57 @@
+{
+ "event_id": "hugging-face-routes-model-requests-via-openrouter-retires-bring-your-e3ee",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T14:33:44+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Decoder reports that Hugging Face now routes language-model requests through OpenRouter, which selects the cheapest or fastest provider, and that bring-your-own API keys for language models are being phased out."
+   ],
+   "unconfirmed": [
+    "The 46 percent reduction in capacity errors is OpenRouter's own claim, with no independent test or methodology given; the report provides no shutdown date for bring-your-own keys, no pricing details for the routed requests, and no specifics on the \"multibillion-dollar acquisitions\" it mentions for either company."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Decoder 报道，Hugging Face 已把语言模型请求改由 OpenRouter 路由，由 OpenRouter 在价格与速度之间自动选择提供商，同时面向语言模型的自带 API 密钥方案正在退出。"
+   ],
+   "unconfirmed": [
+    "46% 的容量错误降幅仅为 OpenRouter 一方的说法，没有独立复测或方法说明；报道未交代涉及哪些模型、路由何时全面生效、自带密钥何时彻底停用，以及两家公司“数十亿美元收购”的具体内容。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Hugging Face routes model requests via OpenRouter, retires bring-your-own keys",
+  "zh": "Hugging Face 将模型请求改经 OpenRouter 路由"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/hugging-face-routes-model-requests-via-openrouter-retires-bring-your-e3ee/",
+  "zh": "/zh/2026/11/18/hugging-face-routes-model-requests-via-openrouter-retires-bring-your-e3ee/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

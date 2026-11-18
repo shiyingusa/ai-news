@@ -1,0 +1,67 @@
+{
+ "event_id": "wiz-reports-pre-auth-rce-in-nginx-http-2-handling-ff0c",
+ "issue": "2026-11-18",
+ "section": "tech-industry",
+ "published_at": "2026-11-18T15:19:55+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "wiz.io",
+   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+  },
+  {
+   "tier": "independent",
+   "name": "Forbes",
+   "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50547374"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Wiz's research post describes pre-authentication remote code execution vulnerabilities in nginx's HTTP/2 handling; Forbes reported that Xint says its AI models found RCE flaws in nginx and that Wiz says it separately found the same flaws. Cybersecurity News reported that both flaws carry a CVSS 4.0 score of 9.2 and named Ikotas Labs, Metnir, Rapid7 and Xint as independent finders across the two disclosures."
+   ],
+   "unconfirmed": [
+    "The supplied evidence contains no official nginx/F5 advisory, affected-version list or patch version; the claim that the fix is nginx 1.31.9 comes from a single outlet, and there is no evidence of active exploitation. Community comments that the bug was fixed in the open-source repository a week before disclosure, with a commit crediting Xint, remain unverified."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Wiz 研究称 nginx 的 HTTP/2 处理存在预认证（pre-auth）远程代码执行漏洞；Forbes 报道 Xint 称其用 GPT 6.1 Sol 和 GPT-6 Luna 独立发现了同一批漏洞，Wiz 表示双方是分别发现。"
+   ],
+   "unconfirmed": [
+    "漏洞是否已被在野利用、Xint 的 AI 发现说法能否独立复现；两个漏洞的 CVSS 4.0 评分均为 9.2（仅见 Cybersecurity News 报道）、修复版本为 nginx 1.31.9（仅见 FourWeekMBA 报道），以及披露时间线（有评论称修复提交早一周）均未获 nginx 官方确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Wiz reports pre-auth RCE in nginx HTTP/2 handling",
+  "zh": "Wiz 披露 nginx HTTP/2 处理中的免认证远程代码执行漏洞"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/wiz-reports-pre-auth-rce-in-nginx-http-2-handling-ff0c/",
+  "zh": "/zh/2026/11/18/wiz-reports-pre-auth-rce-in-nginx-http-2-handling-ff0c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

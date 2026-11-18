@@ -1,0 +1,57 @@
+{
+ "event_id": "leaked-ohio-bill-could-let-data-centers-use-eminent-domain-c802",
+ "issue": "2026-11-18",
+ "section": "chips-compute",
+ "published_at": "2026-11-18T15:30:00+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tom's Hardware, citing WCPO Cincinnati, reports that a leaked draft bill would add agencies holding a power siting board certificate for transmission lines or gas pipelines to Ohio's eminent-domain eligibility list."
+   ],
+   "unconfirmed": [
+    "Whether the draft has a sponsor, has been formally introduced, or has any path to passage; no bill number, vote, hearing date, or full official text was reported. The effect on data centers rests on legal experts' reading of the draft, not on enacted law or a court ruling."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 WCPO Cincinnati 报道，其获得的一份泄露草案文本拟扩大征收权主体范围，新增持有州电力选址委员会环境兼容与公共需求证书、建设输电线路及相关设施或天然气管道及相关设施的主体。"
+   ],
+   "unconfirmed": [
+    "该草案是否真实、是否已正式提交、提案人是谁、能否通过，以及它是否会让数据中心公司直接获得征收权或为数据中心征收土地；法律专家的相关警告属于对草案文本的解读，报道未提供法案编号、听证日期或官方文本。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Leaked Ohio bill could let data centers use eminent domain",
+  "zh": "俄亥俄泄露草案拟扩大征收权，或用于数据中心输电，WCPO 报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/leaked-ohio-bill-could-let-data-centers-use-eminent-domain-c802/",
+  "zh": "/zh/2026/11/18/leaked-ohio-bill-could-let-data-centers-use-eminent-domain-c802/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

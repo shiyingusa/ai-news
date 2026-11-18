@@ -1,0 +1,62 @@
+{
+ "event_id": "nvidia-reports-115-8b-quarter-as-vera-rubin-generates-20b-a2c5",
+ "issue": "2026-11-18",
+ "section": "chips-compute",
+ "published_at": "2026-11-18T13:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised"
+  },
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Nvidia reported $115.844 billion in Q3 FY2027 revenue, $65.287 billion in net income, $107.6 billion in data-center revenue, nearly $20 billion from Vera Rubin's first production quarter, and $390 billion in supply and capacity commitments, according to the company's results as reported by Tom's Hardware."
+   ],
+   "unconfirmed": [
+    "Nvidia's description of Vera Rubin as its fastest product ramp and its claim that hyperscale partners reached production in about one month, twice as fast as Grace Blackwell, are company assertions; the 75% FY2028 growth figure is guidance, and the report does not independently verify how much of the $390 billion in commitments will become delivered capacity."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "英伟达自行公布的季度财报显示营收1158.44亿美元、净利润652.87亿美元、数据中心收入1076亿美元，Vera Rubin首季收入近200亿美元，供应与产能承诺达3900亿美元。"
+   ],
+   "unconfirmed": [
+    "“史上最快产品爬坡”、超大规模伙伴约一个月内投产（比上代Grace Blackwell快一倍）均为公司自述；75%的FY2028营收增速是预测，取决于尚未落实的新增产能；3900亿美元承诺能否被需求消化、以及报道中提及但未完整披露的320亿美元neocloud协议条款，都还没有独立信息。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nvidia reports $115.8B quarter as Vera Rubin generates $20B",
+  "zh": "英伟达季度营收1158亿美元，Vera Rubin首季贡献近200亿"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/nvidia-reports-115-8b-quarter-as-vera-rubin-generates-20b-a2c5/",
+  "zh": "/zh/2026/11/18/nvidia-reports-115-8b-quarter-as-vera-rubin-generates-20b-a2c5/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

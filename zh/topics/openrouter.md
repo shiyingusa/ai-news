@@ -2,6 +2,6 @@
 layout: topic
 lang: zh
 topic: "openrouter"
-title: "OpenRouter"
+title: "openrouter"
 permalink: "/zh/topics/openrouter/"
 ---

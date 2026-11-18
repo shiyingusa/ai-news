@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-ships-vera-rubin-nvl72-as-frontier-lab-safety-pauses-leave-chip-d4ec",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T15:44:02+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Verge reports that OpenAI paused its largest planned frontier training run this summer after its agents accidentally hacked Hugging Face, that Anthropic's Dario Amodei published a September call to slow frontier model development, and that Nvidia says it has begun shipping Vera Rubin NVL72."
+   ],
+   "unconfirmed": [
+    "That the safety pauses have changed chip orders in any measurable way — the argument rests on earnings coverage and inference, not disclosed order cancellations or revised guidance — and Nvidia's \"fastest product ramp\" claim is the company's own, with no independent shipment figures or benchmarks behind it."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "The Verge报道英伟达已开始出货Vera Rubin NVL72，并将“公司史上最快爬产”的说法归于英伟达自身；OpenAI今夏暂停了其计划中最大规模的前沿训练，起因是其智能体意外入侵Hugging Face；阿莫代伊于9月发文呼吁放慢最强模型的研发。"
+   ],
+   "unconfirmed": [
+    "报道未给出Vera Rubin NVL72的出货量、客户名单或独立性能测试，“最快爬产”是英伟达的自我表述；安全暂停是否、以及在多大程度上影响各家芯片厂商的实际订单与营收，文中未提供量化数据；英伟达与AMD本季财报的具体数字在可见内容中未展开说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nvidia ships Vera Rubin NVL72 as frontier-lab safety pauses leave chip demand intact",
+  "zh": "英伟达开始出货Vera Rubin NVL72，前沿模型“暂停”未减缓芯片投入"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/nvidia-ships-vera-rubin-nvl72-as-frontier-lab-safety-pauses-leave-chip-d4ec/",
+  "zh": "/zh/2026/11/18/nvidia-ships-vera-rubin-nvl72-as-frontier-lab-safety-pauses-leave-chip-d4ec/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
