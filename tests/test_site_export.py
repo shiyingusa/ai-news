@@ -94,7 +94,7 @@ def test_export_uses_licensed_photo_and_records_credit(tmp_path, monkeypatch):
 
     from src.services import story_photos
 
-    def fake_find(queries, used, client=None):
+    def fake_find(queries, used, client=None, section=None):
         assert queries == ["SpaceX Starship rocket", "rocket launch pad"]
         return story_photos.Photo(
             url="https://upload.example/x.jpg", author="Jane Doe", licence="CC BY-SA 4.0",
@@ -163,3 +163,24 @@ def test_newsletter_email(tmp_path):
     email = build_email("2026-11-15", [p], b)
     assert email["subject"].startswith("Big day")
     assert "https://aidailyradar.com/2026/11/15/a/" in email["body"] and "Reuters · Released" in email["body"]
+
+
+def test_scrub_and_outlet_prefix():
+    from src.services.site_export import fix_outlet_prefix, scrub_process_terms
+    assert scrub_process_terms("The source item says X.") == "The report says X."
+    assert "现有报道" in scrub_process_terms("现有材料没有说明价格。")
+    assert fix_outlet_prefix("WSJ: Chips reached China", "en") == "Chips reached China, WSJ reports"
+    assert fix_outlet_prefix("Plain title", "en") == "Plain title"
+
+
+def test_promote_primary_link_from_reddit_post():
+    from types import SimpleNamespace
+    from src.services.site_export import promote_primary_link, publisher_name
+    item = SimpleNamespace(
+        url="https://www.reddit.com/r/MachineLearning/comments/x", content="Paper: https://arxiv.org/abs/2611.01234 code soon",
+        metadata={"subreddit": "MachineLearning"}, source_type=SimpleNamespace(value="reddit"),
+    )
+    promote_primary_link(item)
+    assert item.metadata["original_url"] == "https://arxiv.org/abs/2611.01234"
+    assert publisher_name(item) == "arXiv"
+    assert item.metadata["discovered_via"] == "Reddit r/MachineLearning"

@@ -12,3 +12,5 @@
 # 写作规则
 
 标题简短、准确，不用夸张词。所有区块使用完整中文句子；内容总量以读完一条资讯卡为准。证据不足时宁可省略区块，不补充看似合理的背景。不要作投资建议、夸大性能、预测必然结果，也不要把公司宣传直接写成客观事实。
+
+Write for readers, not about your inputs: never mention "the source item", "the excerpt", "the supplied/provided text", "the material" (or 现有材料、所给材料、摘录) — say "the report", "Reuters reported" or name the outlet. Never start a title with an outlet prefix such as "WSJ:" or "NYT:"; when the story rests on one outlet's reporting, end the title with the attribution instead ("…, WSJ reports" / "……，《华尔街日报》报道").

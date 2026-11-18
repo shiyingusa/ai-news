@@ -1,0 +1,31 @@
+---
+layout: null
+sitemap: false
+---
+{%- comment -%}
+Replaces jekyll-sitemap (which skips generating when this file exists) so the sitemap
+lists only pages we let search engines index: topic pages with fewer than three stories
+are noindex in head.html, and listing them wasted crawl budget.
+{%- endcomment -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for s in site.stories %}
+  <url><loc>{{ s.url | absolute_url | xml_escape }}</loc><lastmod>{{ s.updated | default: s.date | date_to_xmlschema }}</lastmod></url>
+{%- endfor %}
+{%- for p in site.posts %}
+  {%- if p.sitemap == false -%}{%- continue -%}{%- endif %}
+  <url><loc>{{ p.url | absolute_url | xml_escape }}</loc><lastmod>{{ p.date | date_to_xmlschema }}</lastmod></url>
+{%- endfor %}
+{%- for p in site.pages %}
+  {%- if p.sitemap == false or p.noindex or p.layout == "redirect" -%}{%- continue -%}{%- endif -%}
+  {%- assign last = p.url | slice: -1 -%}
+  {%- unless last == "/" or p.url contains ".html" -%}{%- continue -%}{%- endunless -%}
+  {%- if p.url contains "404" -%}{%- continue -%}{%- endif -%}
+  {%- if p.layout == "topic" -%}
+    {%- assign tl = p.lang | default: "en" -%}
+    {%- assign tc = site.stories | where: "lang", tl | where_exp: "s", "s.topics contains p.topic" | size -%}
+    {%- if tc < 3 -%}{%- continue -%}{%- endif -%}
+  {%- endif %}
+  <url><loc>{{ p.url | absolute_url | xml_escape }}</loc></url>
+{%- endfor %}
+</urlset>

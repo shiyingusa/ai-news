@@ -183,6 +183,34 @@ def publisher_name(item: "ContentItem") -> str:
     return host or feed or SOURCE_TYPE_NAMES.get(item.source_type.value, item.source_type.value)
 
 
+COMMUNITY_HOSTS = {"reddit.com", "old.reddit.com", "i.redd.it", "news.ycombinator.com", "lobste.rs"}
+# Links worth promoting over a community post: the paper, the code, the official page, a real outlet.
+PRIMARY_LINK = re.compile(
+    r"https?://(?:www\.)?(?:arxiv\.org/(?:abs|pdf)/[\w.\-/]+|github\.com/[\w.\-]+/[\w.\-]+|"
+    r"huggingface\.co/[\w.\-/]+|[\w.\-]+\.(?:gov|edu)(?:/[^\s)\]\"'<>]*)?|"
+    r"(?:openai\.com|anthropic\.com|blog\.google|deepmind\.google|ai\.meta\.com|nvidia\.com|spacex\.com)(?:/[^\s)\]\"'<>]*)?)",
+    re.I,
+)
+
+
+def promote_primary_link(item: "ContentItem") -> None:
+    """A Reddit/HN self-post is a discovery channel, not the source: when the post links
+    the paper, repository or official page, credit that and keep the community as `via`."""
+    meta = item.metadata if item.metadata is not None else {}
+    if meta.get("publisher") or _host(original_url(item)) not in COMMUNITY_HOSTS:
+        return
+    m = PRIMARY_LINK.search(item.content or "")
+    if not m:
+        return
+    via = publisher_name(item)
+    link = m.group(0).rstrip(".,;")
+    meta["original_url"] = link
+    meta.setdefault("discovered_via", via)
+    if "arxiv.org" in link:
+        meta["publisher"] = "arXiv"
+    item.metadata = meta
+
+
 def discovered_via(item: "ContentItem") -> Optional[str]:
     """The aggregator or community where the story surfaced, if not the publisher."""
     meta = item.metadata or {}
@@ -203,6 +231,18 @@ def discovered_via(item: "ContentItem") -> Optional[str]:
 EDITION = int(os.environ.get("EDITION", "0") or 0)
 
 
+def _publish_time(date: str) -> str:
+    """The real time of publishing (America/New_York) for today's issue, so datePublished
+    and the news sitemap match when the story went up; 06:00 for any other day."""
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+
+    now = datetime.now(ZoneInfo("America/New_York"))
+    if now.strftime("%Y-%m-%d") != date:
+        return "06:00:00 -0500"
+    return now.strftime("%H:%M:%S %z")
+
+
 class PublicationHalted(RuntimeError):
     """Too many stories failed the publication gate; publish nothing today."""
 
@@ -212,6 +252,44 @@ BAD_OUTPUT = re.compile(
     r"无法访问|作为(?:一个)?(?:AI|人工智能)|lorem ipsum",
     re.I,
 )
+
+
+# Words from our own pipeline that leaked into stories ("the source item says",
+# "the supplied text", "现有材料"). Readers should see "the report", never our plumbing.
+PROCESS_TERMS = [
+    (re.compile(r"\b(?:the|this) (?:source item|source text|supplied text|provided text|provided excerpt|available excerpt|excerpt|input text|item)\b(?= (?:says|said|states|notes|does|did|is|was|gives|mentions|describes|reports))", re.I), "the report"),
+    (re.compile(r"\b(?:the|this) (?:source item|supplied text|provided text|available excerpt|provided excerpt|input text)\b", re.I), "the report"),
+    (re.compile(r"\b(?:available|supplied|provided) (?:excerpt|text|material)s?\b", re.I), "available reporting"),
+    (re.compile(r"\bsource item\b", re.I), "report"),
+    (re.compile(r"(?:现有|所给|提供的|给定的|已有)(?:材料|摘录|文本|素材)"), "现有报道"),
+]
+
+
+def scrub_process_terms(text: str) -> str:
+    def keep_case(replacement):
+        return lambda m: replacement[:1].upper() + replacement[1:] if m.group(0)[:1].isupper() else replacement
+    for pattern, replacement in PROCESS_TERMS:
+        text = pattern.sub(keep_case(replacement), text)
+    return text
+
+
+OUTLET_PREFIX = re.compile(
+    r"^(WSJ|NYT|FT|Bloomberg|Reuters|The Information|Nikkei|CNBC|Axios|Semafor|The Verge|TechCrunch|"
+    r"华尔街日报|纽约时报|金融时报|彭博社?|路透社?|日经)\s*[:：]\s*(.+)$")
+OUTLET_ZH = {"WSJ": "《华尔街日报》", "NYT": "《纽约时报》", "FT": "《金融时报》", "Bloomberg": "彭博社",
+             "Reuters": "路透社", "Nikkei": "日经", "华尔街日报": "《华尔街日报》", "纽约时报": "《纽约时报》",
+             "金融时报": "《金融时报》"}
+
+
+def fix_outlet_prefix(title: str, language: str) -> str:
+    """'WSJ: Nvidia chips…' -> 'Nvidia chips…, WSJ reports' (attribution belongs at the end)."""
+    m = OUTLET_PREFIX.match((title or "").strip())
+    if not m:
+        return title
+    outlet, rest = m.group(1), m.group(2).rstrip("。. ")
+    if language == "zh":
+        return f"{rest}，{OUTLET_ZH.get(outlet, outlet)}报道"
+    return f"{rest}, {outlet} reports"
 
 
 def gate_problems(title: str, lead: str, language: str) -> List[str]:
@@ -295,7 +373,7 @@ def export_stories(
     out_dir: Path,
     slug_map: Dict[str, str],
     *,
-    issue_time: str = "06:00:00 -0500",
+    issue_time: Optional[str] = None,
     images_root: Optional[Path] = None,
     topics_root: Optional[Path] = None,
     slug_titles: Optional[Dict[str, str]] = None,
@@ -326,6 +404,10 @@ def export_stories(
             if art is None:
                 rejected[str(it.id)] = ["no article in this language"]
                 continue
+            promote_primary_link(it)
+            art.title = fix_outlet_prefix(scrub_process_terms(art.title or ""), language)
+            for block in art.blocks:
+                block.content = scrub_process_terms(block.content or "")
             prim = next((b for b in art.blocks if b.primary), None)
             lead_text = (prim.content if prim else "") or (it.processing.analysis.summary if it.processing.analysis else "")
             problems = gate_problems(art.title or view_item.title or it.title, lead_text, language)
@@ -357,7 +439,17 @@ def export_stories(
             primary = next((b for b in blocks if b.primary), None)
             lead = (primary.content if primary else "") or (analysis.summary if analysis else "")
             extra_blocks = [b for b in blocks if not b.primary and b.content.strip() and b.id not in ("status", "risk")]
-            status = story_status(next((b.content for b in blocks if b.id == "status"), ""))
+            # One status per story: both languages take the English call, so they never disagree.
+            en_art = processing.artifacts.get("en") if processing else None
+            status_blocks = en_art.blocks if en_art else blocks
+            status = story_status(next((b.content for b in status_blocks if b.id == "status"), ""))
+            if status is None:
+                status = story_status(next((b.content for b in blocks if b.id == "status"), ""))
+            # Product words (Released, Available) make no sense on a crash, a lawsuit or a death.
+            from .review import parse_risk
+            risk_text = next((b.content for b in status_blocks if b.id == "risk"), "")
+            if parse_risk(risk_text).category and status in ("Released", "Available", "Demonstrated"):
+                status = None
 
             meta = item.metadata or {}
             discussion = meta.get("discussion_url")
@@ -410,7 +502,7 @@ def export_stories(
                 "---",
                 "layout: story",
                 f"lang: {language}",
-                f"date: {date} {issue_time}",
+                f"date: {date} {issue_time or _publish_time(date)}",
                 f"issue: {_yaml(date)}",
                 f"story_id: {_yaml(slug)}",
                 f"permalink: {_yaml(permalink)}",

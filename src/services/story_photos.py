@@ -31,7 +31,7 @@ W, H = 1200, 675
 ALLOWED_LICENCES = re.compile(r"^(public domain|pd|cc0|cc by(-sa)? ?[0-9.]*( [a-z]+)?)$", re.I)
 BAD_TITLE = re.compile(
     r"logo|icon|map|diagram|chart|graph|screenshot|portrait|headshot|signature|flag|coat of arms|seal|"
-    r"poster|cover|svg|drawing|sketch|painting|stamp|banknote|coin|"
+    r"poster|cover|svg|drawing|sketch|painting|stamp|banknote|coin|document|webpage|website|newspaper|"
     r"\b(?:refugees?|holocaust|jewish|nazi|war|wartime|victims?|funeral|corpse|massacre|protests?|riots?|prison)\b|"
     r"\b1[89]\d\d\b",
     re.I,
@@ -110,7 +110,8 @@ def search_pexels(client: httpx.Client, query: str, used: Set[str]) -> Optional[
 
 PEOPLE = re.compile(
     r"\b(?:man|men|woman|women|people|person|persons|girl|boy|child|children|kid|kids|worker|workers|"
-    r"businessman|businesswoman|portrait|face|crowd|family|couple|selfie|model|player|players|fans?)\b",
+    r"businessman|businesswoman|portrait|face|crowd|family|couple|selfie|model|player|players|fans?|"
+    r"police|policeman|officer|officers|students?|protesters?|speaker|ceremony|meeting)\b",
     re.I,
 )
 
@@ -205,6 +206,7 @@ def search_commons(client: httpx.Client, query: str, used: Set[str]) -> Optional
             not url
             or url in used
             or BAD_TITLE.search(title.replace("_", " "))
+            or PEOPLE.search(title.replace("_", " "))
             or not _relevant(title, query)
             or info.get("mime") not in {"image/jpeg", "image/webp"}
             or not _landscape(info.get("width", 0), info.get("height", 0))
