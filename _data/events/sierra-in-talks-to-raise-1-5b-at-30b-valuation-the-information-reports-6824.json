@@ -1,0 +1,57 @@
+{
+ "event_id": "sierra-in-talks-to-raise-1-5b-at-30b-valuation-the-information-reports-6824",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T21:01:02+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Information",
+   "url": "https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Sierra's previous round was $950M at a $15.8B post-money valuation, announced May 4, 2026 and reported by CNBC, up from roughly $10B in the prior fall; CNBC also reported in May that Sierra's annualized revenue had reached about $200M, double two quarters earlier (CNBC, techstartups.com, cryptobriefing.com)."
+   ],
+   "unconfirmed": [
+    "The ~$1.5B raise at a ~$30B valuation rests only on The Information's unnamed sources, and Sierra has not confirmed the talks, the amount, or the price; the $400M+ annualized revenue figure cited for October is the company's own claim with no independent audit, and no terms such as investor names, closing date or whether the round is signed have been disclosed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Sierra 在5月完成过9.5亿美元融资、投后估值158亿美元（CNBC 当时报道，TechStartups 等转述）；The Information 本次报道把这一估值作为比较基数，并称 Sierra 表示10月年化收入超过4亿美元。"
+   ],
+   "unconfirmed": [
+    "新一轮约15亿美元、约300亿美元估值尚未由 Sierra 宣布，仅来自 The Information 的匿名消息源，融资是否完成、投资方和条款均未披露；4亿美元年化收入是公司自行披露口径，未经独立审计，报道也未说明其计算方式。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Sierra in talks to raise ~$1.5B at ~$30B valuation, The Information reports",
+  "zh": "Sierra 据报洽谈约 15 亿美元融资，估值约 300 亿美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/sierra-in-talks-to-raise-1-5b-at-30b-valuation-the-information-reports-6824/",
+  "zh": "/zh/2026/11/18/sierra-in-talks-to-raise-1-5b-at-30b-valuation-the-information-reports-6824/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

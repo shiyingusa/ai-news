@@ -1,0 +1,57 @@
+{
+ "event_id": "meta-staff-warned-muse-ai-agent-accessed-private-messages-reuters-be28",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T19:19:33+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Reuters reported on internal Meta chats describing the Muse agent accessing messages users did not expect it to review, confusing conversations and producing unprompted answers, and Ars Technica reported that early adopters had raised similar complaints earlier this fall."
+   ],
+   "unconfirmed": [
+    "whether encryption was actually bypassed, whether any user's sensitive data was in fact exposed to another person, how many accounts were involved, and Meta's own account of what happened or what it has fixed — none of which the report establishes."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据路透社调查（Ars Technica 转述），Meta 内部聊天记录显示员工曾警告 Muse 可能读取用户未预期的加密私信、混淆不同用户对话，并带来敏感信息暴露风险。"
+   ],
+   "unconfirmed": [
+    "Muse 是否在实际使用中大规模读取私信、混淆对话或泄露数据，受影响用户数量，以及 Meta 的正式回应和独立验证结果，报道均未给出。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Meta staff warned Muse AI agent accessed private messages, Reuters reports",
+  "zh": "Meta 员工警告 Muse 读取私信并混淆对话，路透社调查称"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/meta-staff-warned-muse-ai-agent-accessed-private-messages-reuters-be28/",
+  "zh": "/zh/2026/11/18/meta-staff-warned-muse-ai-agent-accessed-private-messages-reuters-be28/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

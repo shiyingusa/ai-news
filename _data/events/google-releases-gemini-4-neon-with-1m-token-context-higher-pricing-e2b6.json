@@ -1,0 +1,72 @@
+{
+ "event_id": "google-releases-gemini-4-neon-with-1m-token-context-higher-pricing-e2b6",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T21:34:07+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "primary + 1 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "Google",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
+  },
+  {
+   "tier": "primary",
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50552424"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Google's blog says Gemini 4 Neon is rolling out in the API, Antigravity and the Gemini app for coding, knowledge work and science, with \"fast end-to-end task completion.\""
+   ],
+   "unconfirmed": [
+    "The one-million-token context window, $3/$15 pricing and \"fourth new Gemini model in a month\" framing come from The Decoder, not the quoted Google post; the available reporting includes no independent benchmark results, model card or dated general-availability schedule."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "谷歌博客（作者 Koray Kavukcuoglu）称 Gemini 4 Neon 已面向编程、知识工作和科学场景在 API、Antigravity 和 Gemini 应用中推出；The Decoder 报道其上下文窗口为 100 万 token，支持文本、图像、视频、音频和 PDF，输入/输出定价为每百万 token 3 美元/15 美元，并称这是一个月内第四款新 Gemini 模型。"
+   ],
+   "unconfirmed": [
+    "谷歌未公布独立或自测基准成绩，“快速完成端到端任务”属厂商说法；社区提到的 Artificial Analysis 指数、与 Carbon 的 CritPt 得分对比、与 Anthropic Opus 5.5 的实际体验差距，均来自 Hacker News 评论者个人使用印象，而非官方或第三方评测数据；各地区的开放范围和速率限制也未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google releases Gemini 4 Neon with 1M-token context, higher pricing",
+  "zh": "谷歌发布 Gemini 4 Neon：百万 token 上下文，定价高于前代"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/google-releases-gemini-4-neon-with-1m-token-context-higher-pricing-e2b6/",
+  "zh": "/zh/2026/11/18/google-releases-gemini-4-neon-with-1m-token-context-higher-pricing-e2b6/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

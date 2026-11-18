@@ -1,0 +1,62 @@
+{
+ "event_id": "nvidia-interim-ceo-colette-kress-pledges-december-pay-raises-after-3074",
+ "issue": "2026-11-18",
+ "section": "tech-industry",
+ "published_at": "2026-11-18T17:33:07+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wired",
+   "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"
+  },
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-promises-employee-pay-raises-equity-before-december-to-quell-unrest-in-wake-of-jensen-huang-scandal-at-first-all-hands-meeting-since-ceos-departure-staff-offered-perks-told-were-going-to-be-fine"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Nvidia's own press release, dated November 12, 2026, states that Jensen Huang resigned as President, CEO and a board member, that CFO Colette Kress was appointed interim CEO, and that Harvey C. Jones became the board's first-ever chair."
+   ],
+   "unconfirmed": [
+    "The compensation details rest on Wired's account of an internal all-hands — that Kress promised raises and more equity on an accelerated schedule, with the bumps set for December rather than the normal raise cycle. Also unconfirmed are the reported letter from a director-level employee warning of an exodus of \"irreplaceable talent,\" the reported pro-Huang faction on the board, and whether Huang could be reinstated; the sources do not give the size of the raises or the equity grants."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Nvidia 董事会于 11 月 12 日宣布，联合创始人黄仁勋辞去总裁、首席执行官及董事会成员职务，任命执行副总裁兼首席财务官 Colette Kress 为临时 CEO，并任命 Harvey C. Jones 为公司首位董事会主席（Nvidia 新闻稿，多家科技媒体同日报道）。据《连线》报道，Kress 在 11 月 18 日的全员会上承诺 12 月上调薪酬并增发股权，时间远早于公司常规调薪周期，并称薪酬与董事会的进一步说明是员工会前提问最集中的两个话题。"
+   ],
+   "unconfirmed": [
+    "加薪与股权的具体幅度、覆盖范围均未披露；黄仁勋辞职的原因及董事会的决策过程没有官方说明；董事会“不打算让黄仁勋回归”以及“董事会内部存在支持黄仁勋的派系”均来自媒体报道，后者更仅见于单一报道；一名总监级员工致信董事会与高管、警告“不可替代的人才”可能流失，同样只有一家媒体的转述；全员会内容目前仅来自《连线》对会议的描述，Nvidia 未公开会议记录。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nvidia interim CEO Colette Kress pledges December pay raises after Huang ouster, Wired reports",
+  "zh": "黄仁勋辞职后英伟达首次全员会：临时CEO承诺12月加薪并增发股权"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/nvidia-interim-ceo-colette-kress-pledges-december-pay-raises-after-3074/",
+  "zh": "/zh/2026/11/18/nvidia-interim-ceo-colette-kress-pledges-december-pay-raises-after-3074/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

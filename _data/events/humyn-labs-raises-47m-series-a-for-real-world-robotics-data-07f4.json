@@ -1,0 +1,57 @@
+{
+ "event_id": "humyn-labs-raises-47m-series-a-for-real-world-robotics-data-07f4",
+ "issue": "2026-11-18",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-18T22:43:06+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Robot Report",
+   "url": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Humyn Labs announced the $47 million round, split $26 million equity led by Accel and $21 million venture debt led by Lighthouse Canton, per the company's own statement reported by The Robot Report; co-founder Ishank Gupta described capture across vision, sound, touch and motion and partner operations in over 20 countries."
+   ],
+   "unconfirmed": [
+    "the claim of more than $50 million in annualized revenue within six months of operations rests solely on the company's word, with no audited figures, and the report names no customers, lab partners, valuation or per-dataset pricing; the proposed Brazil, Korea and India build-out and any measured improvement in deployment cycles are stated plans, not demonstrated results."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Humyn Labs 公布、The Robot Report 报道，本轮4700万美元由2600万美元股权与2100万美元风险债构成，领投方分别为 Accel 和 Lighthouse Canton。"
+   ],
+   "unconfirmed": [
+    "六个月做到5000万美元以上年化收入、20多国采集网络与四模态数据能力均为公司自述，未提供审计数字或第三方验证；客户名单、合同规模、单价以及跨机器人形态迁移的实际效果均未披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Humyn Labs raises $47M Series A for real-world robotics data",
+  "zh": "Humyn Labs 融资4700万美元，为机器人采集真实世界数据"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/humyn-labs-raises-47m-series-a-for-real-world-robotics-data-07f4/",
+  "zh": "/zh/2026/11/18/humyn-labs-raises-47m-series-a-for-real-world-robotics-data-07f4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

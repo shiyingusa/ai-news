@@ -1,0 +1,62 @@
+{
+ "event_id": "anthropic-reportedly-prices-ipo-at-83-a-share-above-marketed-range-31ef",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T17:15:00+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+  },
+  {
+   "tier": "independent",
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "CNBC reported, citing a person familiar with the matter, that Anthropic priced its IPO at $83 per share on Wednesday, above the $70-$78 marketed range."
+   ],
+   "unconfirmed": [
+    "the resulting valuation figures ($1.4 trillion previously targeted, roughly $1.5 trillion on a fully diluted basis), since they come from the same single unnamed source and no official Anthropic or underwriter announcement is quoted; the report also leaves out the number of shares sold, total proceeds, and when the stock begins trading."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "CNBC 报道称，其从一位知情人士处获悉 Anthropic 周三将发行价定为每股 83 美元，高于 70 至 78 美元的推介区间。"
+   ],
+   "unconfirmed": [
+    "Anthropic 官方尚未确认定价、约 1.5 万亿美元的完全稀释估值以及募资总额，这些均依赖单一匿名消息源；报道也未给出具体上市交易所、首个交易日安排与承销商超额配售（绿鞋）规模。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic reportedly prices IPO at $83 a share, above marketed range",
+  "zh": "Anthropic IPO 据报定价每股 83 美元，高于发行区间，CNBC 报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-marketed-range-31ef/",
+  "zh": "/zh/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-marketed-range-31ef/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

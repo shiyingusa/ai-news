@@ -1,0 +1,62 @@
+{
+ "event_id": "openai-says-its-models-lifted-amd-flagship-gpu-ppa-by-up-to-14-bca5",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T22:10:06+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "high",
+  "reason": "primary + 1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "OpenAI",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI published a post stating that its models delivered up to 14% PPA improvement on AMD's flagship GPU IP in under five months, and that AMD incorporated changes into a design sent to production, as reported by The Decoder."
+   ],
+   "unconfirmed": [
+    "The 14% figure and the \"roughly a year's worth of progress\" comparison rest on OpenAI's own account with no published baseline, benchmark methodology, or independent audit; neither the specific GPU IP, the manufacturing node, nor AMD's own confirmation of the number or the shipment timeline appears in the reports."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "OpenAI 在官方文章中声称，其模型在不到五个月内使 AMD 旗舰 GPU IP 的 PPA 最多改善 14%，并称 AMD 已将部分改动纳入一款送交制造的设计。"
+   ],
+   "unconfirmed": [
+    "上述 14% 改善是否经过独立基准或第三方复测，比较基线、具体 GPU IP、制程节点，以及送交制造的设计是否已流片或量产，OpenAI 均未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI says its models lifted AMD flagship GPU PPA by up to 14%",
+  "zh": "OpenAI称模型让AMD旗舰GPU IP的PPA最多改善14%"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/openai-says-its-models-lifted-amd-flagship-gpu-ppa-by-up-to-14-bca5/",
+  "zh": "/zh/2026/11/18/openai-says-its-models-lifted-amd-flagship-gpu-ppa-by-up-to-14-bca5/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

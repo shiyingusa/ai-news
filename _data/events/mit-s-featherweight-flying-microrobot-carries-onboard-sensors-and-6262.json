@@ -1,0 +1,57 @@
+{
+ "event_id": "mit-s-featherweight-flying-microrobot-carries-onboard-sensors-and-6262",
+ "issue": "2026-11-18",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-18T19:00:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "MIT News",
+   "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "MIT News reports that the team's paper in Science Robotics describes a flapping-wing microrobot carrying a 244-mg onboard electronics package with an inertial measurement unit, optical-flow sensor, time-of-flight sensor and microcontroller; it followed trajectories and landed on a sunflower outside motion capture while still powered offboard, with positional errors of a few centimeters."
+   ],
+   "unconfirmed": [
+    "The claim that this is the first sensory- and compute-autonomous aerial microrobot rests on the authors; independent replication, untethered outdoor flight, an onboard camera for obstacle avoidance and pollination use are not demonstrated, and this is a research prototype with no product price or availability."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "MIT 新闻稿和《Science Robotics》论文显示，该机器人携带了包含惯性测量单元、光流传感器和飞行时间传感器的 244 毫克电子组件，并在动作捕捉区域外完成了轨迹飞行与向日葵降落，位置误差为几厘米。"
+   ],
+   "unconfirmed": [
+    "研究团队所称的“首个感知与计算自主”尚待独立复现；无缆户外飞行、机上摄像头识别与避障、以及用于授粉的实际效果都还未实现，论文也未给出续航时间和量产或交付计划。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "MIT's featherweight flying microrobot carries onboard sensors and computation",
+  "zh": "MIT 扑翼微型机器人把传感器与计算单元带上机身"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/mit-s-featherweight-flying-microrobot-carries-onboard-sensors-and-6262/",
+  "zh": "/zh/2026/11/18/mit-s-featherweight-flying-microrobot-carries-onboard-sensors-and-6262/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

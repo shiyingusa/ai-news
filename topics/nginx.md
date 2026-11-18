@@ -2,6 +2,6 @@
 layout: topic
 lang: en
 topic: "nginx"
-title: "nginx"
+title: "Nginx"
 permalink: "/topics/nginx/"
 ---

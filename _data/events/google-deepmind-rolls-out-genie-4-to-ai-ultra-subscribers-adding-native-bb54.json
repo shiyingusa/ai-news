@@ -1,0 +1,72 @@
+{
+ "event_id": "google-deepmind-rolls-out-genie-4-to-ai-ultra-subscribers-adding-native-bb54",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T18:49:51+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "primary + 1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "Google",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+  },
+  {
+   "tier": "primary",
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50550415"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Google's own announcement states that Genie 4, a Project Genie agent, chainable worlds and a community gallery are rolling out to Google AI Ultra subscribers, and The Decoder reports that Genie 4 can be modified in real time via text and adds native sound for the first time."
+   ],
+   "unconfirmed": [
+    "the \"most realistic world model to date\" claim rests on Google's description with no independent benchmark or hands-on test, and the announcement leaves open the price of access beyond the Ultra subscription, the full list of eligible countries, and whether Workspace accounts can subscribe — a commenter reports their UK account still shows Genie 3."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "谷歌 DeepMind 的公告称，Genie 4 面向符合条件的 Google AI Ultra 订阅者提供，能生成可用文本实时修改的互动 3D 世界，并首次原生支持声音；社区画廊支持分享和二次创作。"
+   ],
+   "unconfirmed": [
+    "具体哪些国家和地区、哪些账户类型可开通，是否所有 AI Ultra 订阅都包含 Genie 4，以及“最逼真”和实时编辑的实际效果；这些目前只有谷歌的说法，缺少独立测试，社区还报告英国与 Workspace 账户的资格提示不一致。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google DeepMind rolls out Genie 4 to AI Ultra subscribers, adding native sound",
+  "zh": "Google DeepMind 推出 Genie 4：实时文本编辑 3D 世界，首添原生声音"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/google-deepmind-rolls-out-genie-4-to-ai-ultra-subscribers-adding-native-bb54/",
+  "zh": "/zh/2026/11/18/google-deepmind-rolls-out-genie-4-to-ai-ultra-subscribers-adding-native-bb54/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

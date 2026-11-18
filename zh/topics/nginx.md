@@ -2,6 +2,6 @@
 layout: topic
 lang: zh
 topic: "nginx"
-title: "nginx"
+title: "Nginx"
 permalink: "/zh/topics/nginx/"
 ---

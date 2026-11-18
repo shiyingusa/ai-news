@@ -1,0 +1,57 @@
+{
+ "event_id": "microsoft-s-mai-unveils-seven-models-as-products-reportedly-shift-in-7e7b",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T18:47:36+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Microsoft announced seven in-house MAI models at Ignite covering code, security, images, language and routing, and its own announcement states that MAI Code 2 reaches 98% of GPT-6.1 Sol's coding performance at 40% of the cost, while MAI Code 2 Flash matches GPT-6 Luna and Claude Haiku 5.5 at 65% and 20% of their cost respectively (Microsoft, as reported by Techzine)."
+   ],
+   "unconfirmed": [
+    "The 98%/40% and Flash figures are vendor benchmarks with no independent replication reported, and one outside analysis frames the comparison as being against a deprecated model (OrcaRouter), which would change how the cost-performance claim should be read. The report's core assertion that Microsoft is replacing external models inside its own products is attributed only to reporting rather than a named shipping commitment, and the announcement gives no per-token pricing, rollout dates, or list of affected products."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "微软 MAI 在 Ignite 上发布七款面向代码、安全、图像、语言和路由的模型；微软官方称 MAI Code 2 在编码任务上达到 GPT-6.1 Sol 的 98% 性能、成本仅为其 40%，并称该模型正成为微软产品背后的主力模型（来源：微软 MAI 发布页、The Decoder）。"
+   ],
+   "unconfirmed": [
+    "“用自研模型替换产品中的外部模型”涉及哪些具体产品、替换规模和上线时间，报道未给出完整清单；98%/40% 是微软自报的基准与成本口径，尚无独立第三方复测，七款模型的定价与开放范围也未披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Microsoft's MAI unveils seven models as products reportedly shift in-house",
+  "zh": "微软 Ignite 发布七款 MAI 自研模型，以更低成本替代外部模型"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/microsoft-s-mai-unveils-seven-models-as-products-reportedly-shift-in-7e7b/",
+  "zh": "/zh/2026/11/18/microsoft-s-mai-unveils-seven-models-as-products-reportedly-shift-in-7e7b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

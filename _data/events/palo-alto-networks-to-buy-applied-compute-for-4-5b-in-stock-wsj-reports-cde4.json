@@ -1,0 +1,57 @@
+{
+ "event_id": "palo-alto-networks-to-buy-applied-compute-for-4-5b-in-stock-wsj-reports-cde4",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T21:15:05+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wall Street Journal",
+   "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?st=xrTMe2&amp;reflink=desktopwebshare_permalink"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Wall Street Journal reported that Palo Alto Networks agreed to buy Applied Compute for $4.5 billion in stock, that the startup was valued at $3.25 billion this month, and that it was founded last year by former OpenAI researchers to customize open-weight AI models."
+   ],
+   "unconfirmed": [
+    "No closing date, financing condition, or regulatory review timeline is reported, and neither company's own statement is cited in the account. The report also does not say how Applied Compute's customization tools will be integrated into Palo Alto Networks' security products, or whether existing customers will keep the same standalone service."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《华尔街日报》报道，Palo Alto Networks 同意以 45 亿美元股票收购 Applied Compute；Applied Compute 去年由前 OpenAI 研究人员创立，专注于定制开放权重模型，本月估值为 32.5 亿美元。"
+   ],
+   "unconfirmed": [
+    "两家公司均未在报道中确认交易；交易完成时间、监管审批条件，以及 45 亿美元交易对价相对于 32.5 亿美元最近估值的定价依据，均未披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Palo Alto Networks to buy Applied Compute for $4.5B in stock, WSJ reports",
+  "zh": "Palo Alto Networks 同意以 45 亿美元股票收购 Applied Compute，《华尔街日报》报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/palo-alto-networks-to-buy-applied-compute-for-4-5b-in-stock-wsj-reports-cde4/",
+  "zh": "/zh/2026/11/18/palo-alto-networks-to-buy-applied-compute-for-4-5b-in-stock-wsj-reports-cde4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

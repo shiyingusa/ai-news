@@ -1,0 +1,57 @@
+{
+ "event_id": "toyota-expands-c-hr-ev-recall-to-19-000-vehicles-worldwide-d120",
+ "issue": "2026-11-18",
+ "section": "ev-energy",
+ "published_at": "2026-11-18T21:53:43+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/18/toyota-expands-c-hr-ev-recall-to-19000-globally/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reported that Toyota is recalling about 19,000 C-HR EVs worldwide, roughly 10,000 of them in the US, and framed it as an expansion of a prior recall."
+   ],
+   "unconfirmed": [
+    "the defect that triggered the recall, the fix, the notification schedule, and whether Toyota or NHTSA has formally confirmed the 19,000 and 10,000 figures — the report gives no cause, remedy, recall number, or regulator filing."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，丰田正在全球召回约1.9万辆C-HR EV，其中约1万辆在美国。"
+   ],
+   "unconfirmed": [
+    "缺陷的具体原因与部位、涉及的年款和生产区间、是否已有事故或人员受伤、修复方式（软件升级还是更换零部件），以及此次是否为一次既有召回的扩大——标题称“扩大”，正文未给出原召回的任何细节；丰田自身也未在报道中给出可引用的说法。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Toyota expands C-HR EV recall to 19,000 vehicles worldwide",
+  "zh": "丰田全球召回约1.9万辆C-HR EV，美国占约1万辆"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/toyota-expands-c-hr-ev-recall-to-19-000-vehicles-worldwide-d120/",
+  "zh": "/zh/2026/11/18/toyota-expands-c-hr-ev-recall-to-19-000-vehicles-worldwide-d120/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

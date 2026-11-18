@@ -1,0 +1,57 @@
+{
+ "event_id": "xint-says-gpt-models-found-nginx-rce-flaws-wiz-found-same-bugs-6821",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T16:25:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Forbes",
+   "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Forbes reported that Xint, a Darpa-backed cybersecurity company, says its AI using GPT 6.1 Sol and GPT-6 Luna found remote code execution vulnerabilities in Nginx, and Wiz said it independently found the same flaws; Wiz's advisory names CVE-2026-123633 and CVE-2026-123007 as critical flaws in Nginx itself."
+   ],
+   "unconfirmed": [
+    "the full CVE list and severity — Wiz rates two flaws Critical with a CVSS 4.0 score of 9.2, while a separate \"nginx 2root\" advisory says scores are not yet published and describes five Nginx RCE flaws plus a Linux kernel SCTP bug; also unconfirmed are the affected and patched Nginx versions, and how much of the discovery was done autonomously by the models rather than by Xint's researchers."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据Forbes报道，Xint称其用GPT 6.1 Sol和GPT-6 Luna发现Nginx远程代码执行漏洞，Wiz表示自己独立发现了相同漏洞。Wiz博客列出CVE-2026-123633和CVE-2026-123007，称两者均为Critical、CVSS 4.0评分9.2，缺陷位于NGINX本身。"
+   ],
+   "unconfirmed": [
+    "这些漏洞是否确由Xint的AI独立发现、两家公司谁先发现，目前只有公司说法；受影响版本与补丁状态也未明确。来源对范围与评分说法冲突：Wiz给两个CVE评9.2分，GetAstra称“nginx 2root”含五个Nginx RCE及一个Linux内核SCTP漏洞、CVSS尚未公布，nginx2shell还提到CVE-2026-123634等另外三个漏洞。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Xint says GPT models found Nginx RCE flaws; Wiz found same bugs",
+  "zh": "Xint称其AI发现Nginx远程代码执行漏洞，Wiz称独立发现相同漏洞"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/xint-says-gpt-models-found-nginx-rce-flaws-wiz-found-same-bugs-6821/",
+  "zh": "/zh/2026/11/18/xint-says-gpt-models-found-nginx-rce-flaws-wiz-found-same-bugs-6821/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

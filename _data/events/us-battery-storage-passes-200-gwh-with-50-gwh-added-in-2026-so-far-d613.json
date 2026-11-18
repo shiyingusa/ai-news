@@ -1,0 +1,57 @@
+{
+ "event_id": "us-battery-storage-passes-200-gwh-with-50-gwh-added-in-2026-so-far-d613",
+ "issue": "2026-11-18",
+ "section": "ev-energy",
+ "published_at": "2026-11-18T22:36:48+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The US has installed more than 200 GWh of battery storage, according to a report cited by Electrek and covered by SEIA, which puts additions at 48.3 GWh in the first nine months of 2026 — up 20% year over year — with Texas leading utility-scale deployment at 12.3 GWh, followed by Arizona (7.7 GWh) and California (6.8 GWh)."
+   ],
+   "unconfirmed": [
+    "The sources give no exact cumulative total beyond \"more than 200 GWh,\" do not break out how much of the figure is utility-scale versus residential or commercial storage, and do not detail the underlying project list or the specific numbers in the revised forecast; the article's own excerpt supplies only the headline total and the roughly 50 GWh of 2026 additions."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Electrek 报道称，美国已安装超过 200 GWh 电池储能，其中 2026 年前九个月新增 48.3 GWh；美国储能协会（SEIA）发布的报告称，同期全美装机同比增长 20%，得克萨斯州以 12.3 GWh 的公用事业规模新增装机居首，亚利桑那州和加利福尼亚州分别为 7.7 GWh 和 6.8 GWh。"
+   ],
+   "unconfirmed": [
+    "200 GWh 的统计范围，即是否包含住宅与表后储能、只统计公用事业规模还是全部计入，以及各州分项数字，均出自 SEIA 这份行业报告，未见独立第三方核验；Electrek 标题所承诺的“分布在哪里”，在可见正文中并未展开，具体项目清单与并网时间也无法从现有内容确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "US battery storage passes 200 GWh, with ~50 GWh added in 2026 so far, Electrek reports",
+  "zh": "美国电池储能装机突破200 GWh，2026年前三季新增近50GWh"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/us-battery-storage-passes-200-gwh-with-50-gwh-added-in-2026-so-far-d613/",
+  "zh": "/zh/2026/11/18/us-battery-storage-passes-200-gwh-with-50-gwh-added-in-2026-so-far-d613/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

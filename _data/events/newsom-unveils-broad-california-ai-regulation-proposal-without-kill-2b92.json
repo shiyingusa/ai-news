@@ -1,0 +1,57 @@
+{
+ "event_id": "newsom-unveils-broad-california-ai-regulation-proposal-without-kill-2b92",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T17:55:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Politico",
+   "url": "https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Politico reported that Newsom unveiled the proposal on Wednesday and that it would give California broad powers to regulate the AI industry and impose strict safety measures while not requiring kill switches."
+   ],
+   "unconfirmed": [
+    "The proposal's specific scope, enforcement powers, legislative path and timing; the available account is a brief summary linking to Politico, not the proposal text."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据Politico报道，纽森周三公布了这项提案，内容包括赋予加州监管AI行业的广泛权力、施加严格安全措施，并且不要求开发“终止开关”。"
+   ],
+   "unconfirmed": [
+    "提案的具体条文、覆盖哪些企业与应用场景、由哪个机构执法、是否已提交州议会审议，以及能否通过成为法律——这些报道摘要均未提及。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Newsom unveils broad California AI regulation proposal, without kill-switch mandate",
+  "zh": "纽森公布加州AI监管提案，未要求强制“终止开关”"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/newsom-unveils-broad-california-ai-regulation-proposal-without-kill-2b92/",
+  "zh": "/zh/2026/11/18/newsom-unveils-broad-california-ai-regulation-proposal-without-kill-2b92/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

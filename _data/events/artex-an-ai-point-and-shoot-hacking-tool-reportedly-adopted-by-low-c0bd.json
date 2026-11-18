@@ -1,0 +1,57 @@
+{
+ "event_id": "artex-an-ai-point-and-shoot-hacking-tool-reportedly-adopted-by-low-c0bd",
+ "issue": "2026-11-18",
+ "section": "ai-news",
+ "published_at": "2026-11-18T16:35:24+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wired",
+   "url": "https://www.wired.com/story/artex-ai-hacking-tools/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "WIRED's report describes Artex as an AI-powered penetration-testing tool that inexperienced users can operate through chatbot prompts to scan for and attack vulnerabilities."
+   ],
+   "unconfirmed": [
+    "that criminals are adopting it at any scale, how effective its attacks actually are, which AI model powers it, who makes it, and what it costs or where it is sold — all of that rests on a single outlet's reporting with no independent testing."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "WIRED 报道称，Artex 及类似渗透测试工具可让新手通过聊天机器人提示扫描目标系统并发动攻击。"
+   ],
+   "unconfirmed": [
+    "Artex 的开发者、底层模型、价格、发布时间和获取方式；WIRED 的报道摘要未提供独立验证或具体攻击案例。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Artex: an AI 'point-and-shoot' hacking tool reportedly adopted by low-skill criminals",
+  "zh": "Artex：“点射式”AI 黑客工具让新手用提示发动攻击，WIRED 报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/artex-an-ai-point-and-shoot-hacking-tool-reportedly-adopted-by-low-c0bd/",
+  "zh": "/zh/2026/11/18/artex-an-ai-point-and-shoot-hacking-tool-reportedly-adopted-by-low-c0bd/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

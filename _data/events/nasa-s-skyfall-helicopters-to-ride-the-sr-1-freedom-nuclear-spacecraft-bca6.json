@@ -1,0 +1,57 @@
+{
+ "event_id": "nasa-s-skyfall-helicopters-to-ride-the-sr-1-freedom-nuclear-spacecraft-bca6",
+ "issue": "2026-11-18",
+ "section": "space",
+ "published_at": "2026-11-18T17:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "JPL's Matthew Golombek, speaking at the Nov. 10 MEPAG meeting, described the SkyFall plan — three helicopters released about 1 km above Mars, landing independently, flying every other sol, a six-month prime mission with a one-year goal, and an identical five-instrument payload on each vehicle led by a flexible-antenna ground-penetrating radar — and said the project has grown from roughly six people to over 200 since NASA initiated it in March 2026."
+   ],
+   "unconfirmed": [
+    "that SR-1 Freedom will be ready for the late-2028 launch window, or that the 2030 capsule release and helicopter deployment sequence will work; no firm launch date, cost figure, or independent assessment of the nuclear spacecraft's schedule has been released, and Hubbard's \"shotgun marriage\" criticism is one expert's opinion rather than an official finding."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Golombek 在 MEPAG 会议上介绍了 SkyFall 的三架直升机、2028 年底发射、2030 年秋季释放、6 个月主任务、5 台仪器和探地雷达等方案；Space.com 报道了这些内容。"
+   ],
+   "unconfirmed": [
+    "SR-1 能否在 2028 年窗口前就绪仍无保证，Hubbard 公开质疑其进度；SkyFall 的具体科学飞行路线尚未确定，报道也未给出确切发射日期、任务成本或独立验证结果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "NASA's SkyFall helicopters to ride the SR-1 Freedom nuclear spacecraft to Mars",
+  "zh": "NASA SkyFall火星直升机拟搭乘核动力飞船，专家质疑"
+ },
+ "permalinks": {
+  "en": "/2026/11/18/nasa-s-skyfall-helicopters-to-ride-the-sr-1-freedom-nuclear-spacecraft-bca6/",
+  "zh": "/zh/2026/11/18/nasa-s-skyfall-helicopters-to-ride-the-sr-1-freedom-nuclear-spacecraft-bca6/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
