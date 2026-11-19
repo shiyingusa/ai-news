@@ -1,0 +1,57 @@
+{
+ "event_id": "sila-signs-silicon-anode-supply-deal-with-panasonic-backed-by-1-4b-1208",
+ "issue": "2026-11-19",
+ "section": "ev-energy",
+ "published_at": "2026-11-19T11:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Sila and Panasonic Energy announced a long-term offtake agreement for silicon-carbon anode material; Sila's own announcement states the deal and the company says it could exceed $1 billion over time. Sila opened its Moses Lake factory in September 2025 and it is operating, following a $100 million Department of Energy grant announced in 2022. The Defense Department committed a $1.4 billion loan, which Sila's press release describes as conditional."
+   ],
+   "unconfirmed": [
+    "the dollar value, total tonnage and price are not disclosed, so the $1 billion figure is Sila's estimate rather than a contracted number. The weight, volume, power and charging claims for the anode come from Sila, not independent testing, and no timeline was given for when Panasonic cells using the material reach commercial products."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Sila 与松下能源签署长期硅碳负极材料承购协议；Sila 声明称协议价值可能超过 10 亿美元；美国国防部向 Sila 作出 14 亿美元有条件贷款承诺；Sila 的 Moses Lake 工厂已于 2025 年 9 月开业并投入运营。"
+   ],
+   "unconfirmed": [
+    "协议总价值、采购量和价格均为 Sila 单方面说法，报道未给出具体数字；“至少扩大 10 倍产量”是 CEO 的说法；松下方面未在报道中提供交易细节，14 亿美元贷款目前仍是“有条件”承诺，尚未确认放款。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Sila signs silicon-anode supply deal with Panasonic, backed by $1.4B Defense Department loan",
+  "zh": "Sila 与松下签署硅碳负极供应协议，价值或超 10 亿美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/sila-signs-silicon-anode-supply-deal-with-panasonic-backed-by-1-4b-1208/",
+  "zh": "/zh/2026/11/19/sila-signs-silicon-anode-supply-deal-with-panasonic-backed-by-1-4b-1208/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "tesla-offers-select-customers-a-29-900-cybercab-with-a-299-monthly-fee-1983",
+ "issue": "2026-11-19",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-18T14:01:45+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tesla's own robotaxi social accounts posted that select customers were invited to purchase a Cybercab for $29,900 with December delivery, describing it as a limited release; the vehicle has no steering wheel or pedals."
+   ],
+   "unconfirmed": [
+    "how many cars or buyers are included, what the $299 monthly charge pays for, whether regulators in buyers' states will permit private ownership of a vehicle without steering-wheel or brake controls, and whether December deliveries will actually happen."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "特斯拉的 robotaxi 账号宣布已邀请“部分客户”购买双座 Cybercab，并称售价 29,900 美元、计划 12 月交付；报道称还需每月支付 299 美元。"
+   ],
+   "unconfirmed": [
+    "受邀客户和车辆的具体数量、299 美元月费的实际覆盖内容、12 月能否如期交付，以及车辆在公开道路上的自动驾驶表现，均无独立验证；报道也明确指出受邀人数不明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla offers select customers a $29,900 Cybercab with a $299 monthly fee",
+  "zh": "特斯拉向受邀客户开卖Cybercab，月费299美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/tesla-offers-select-customers-a-29-900-cybercab-with-a-299-monthly-fee-1983/",
+  "zh": "/zh/2026/11/19/tesla-offers-select-customers-a-29-900-cybercab-with-a-299-monthly-fee-1983/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

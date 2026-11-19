@@ -1,0 +1,57 @@
+{
+ "event_id": "bezos-backed-prometheus-has-raised-18b-and-is-reportedly-building-an-ba61",
+ "issue": "2026-11-19",
+ "section": "ai-news",
+ "published_at": "2026-11-19T11:15:02+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Fast Company",
+   "url": "https://www.fastcompany.com/91642361/jeff-bezoss-41-billion-ai-startup-prometheus-is-shrouded-in-secrecy-we-found-out-whos-building-it"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Fast Company's investigation, which profiled the backgrounds of 130 employees, establishes that Prometheus is Jeff Bezos' AI startup, has raised $18B, and employs roughly 250 people recruited from aerospace, biotech, defense and other fields, Fast Company reported."
+   ],
+   "unconfirmed": [
+    "The claim that Prometheus is building an \"end-to-end agentic AI engineering system\" rests on unnamed sources, and the company has not publicly described the system's capabilities, customers or a release date. Funding figures also differ across reports: earlier coverage described a $12B Series B at a $41B valuation, and it is unclear whether Fast Company's $18B refers to total capital raised or a later round."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Fast Company 记者 Rebecca Heilweil 的独家调查（核查了 130 名 Prometheus 员工的背景）报道称，贝索斯支持的这家 AI 初创公司目前约有 250 名员工、累计融资 180 亿美元，并从航空航天、生物技术、国防等领域招人；该报道标题同时给出 410 亿美元估值。"
+   ],
+   "unconfirmed": [
+    "“正在构建端到端智能体（agentic）AI 工程系统”仅为报道援引的匿名消息源说法，公司未公开产品形态、技术细节、时间表或客户。融资口径也需注意：其他报道称 Prometheus 完成 120 亿美元 B 轮融资、估值 410 亿美元，180 亿美元是累计融资额还是另有构成、其中多少为已到账股权资金，现有报道均未说明；此外没有任何独立测试或性能数据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Bezos-backed Prometheus has raised $18B and is reportedly building an agentic AI engineering system",
+  "zh": "贝索斯 AI 初创 Prometheus 据报融资 180 亿美元并开发智能体工程系统"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/bezos-backed-prometheus-has-raised-18b-and-is-reportedly-building-an-ba61/",
+  "zh": "/zh/2026/11/19/bezos-backed-prometheus-has-raised-18b-and-is-reportedly-building-an-ba61/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

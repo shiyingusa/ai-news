@@ -1,0 +1,57 @@
+{
+ "event_id": "tsmc-and-samsung-pause-some-china-chip-shipments-pending-us-licenses-ft-5cb2",
+ "issue": "2026-11-19",
+ "section": "chips-compute",
+ "published_at": "2026-11-19T10:41:24+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Financial Times",
+   "url": "https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Financial Times reported, citing unnamed sources, that TSMC and Samsung Electronics have paused some chip shipments to Chinese customers while they apply for licenses from the US Commerce Department, and that the halt follows new US export controls introduced by the department."
+   ],
+   "unconfirmed": [
+    "Neither TSMC, Samsung nor the Commerce Department has publicly confirmed the suspension; the report does not specify which chip types, process nodes or customers are affected, when the pause began, how many license applications are pending, or whether the shipments were halted voluntarily or under instruction. No independent outlet or company disclosure corroborates the pause."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "《金融时报》报道称，在美国商务部推出新一轮出口管制后，台积电（TSMC）与三星电子（Samsung Electronics）暂停了部分对华芯片出货，同时正在申请美国商务部的出口许可；该报道援引的是未具名消息人士。"
+   ],
+   "unconfirmed": [
+    "台积电、三星与美国商务部均未公开确认暂停出货或许可申请一事；报道未说明涉及哪些中国客户、哪些制程或产品类别、暂停范围与持续时间，也未列出新管制的具体条款，且这些说法无法与 2024 年 11 月美国商务部致函台积电、限制 7 纳米及以下先进芯片对华出货的旧报道混为一谈。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "TSMC and Samsung Pause Some China Chip Shipments Pending US Licenses, FT Reports",
+  "zh": "台积电、三星据报暂停部分对华芯片出货，等待美国许可证"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/tsmc-and-samsung-pause-some-china-chip-shipments-pending-us-licenses-ft-5cb2/",
+  "zh": "/zh/2026/11/19/tsmc-and-samsung-pause-some-china-chip-shipments-pending-us-licenses-ft-5cb2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

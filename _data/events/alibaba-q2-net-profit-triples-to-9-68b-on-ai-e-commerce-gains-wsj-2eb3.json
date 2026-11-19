@@ -1,0 +1,57 @@
+{
+ "event_id": "alibaba-q2-net-profit-triples-to-9-68b-on-ai-e-commerce-gains-wsj-2eb3",
+ "issue": "2026-11-19",
+ "section": "tech-industry",
+ "published_at": "2026-11-19T11:01:37+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wall Street Journal",
+   "url": "https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?st=wx49Qv&amp;reflink=desktopwebshare_permalink"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Alibaba reported fiscal second-quarter revenue up 10% year over year to about $40.7B, ahead of the roughly $40.41B consensus of three analysts surveyed by Zacks, and profit roughly tripled from a year earlier, per the Wall Street Journal's Tracy Qu and an Associated Press earnings snapshot. The Wall Street Journal also reported that Alibaba is preparing a Hong Kong listing for its chip unit, T-Head."
+   ],
+   "unconfirmed": [
+    "The two accounts differ on the profit figure — the Journal puts net profit at about $9.68B, while the AP snapshot cites $9.63B — and the Journal's claim that this beat a roughly $3.6B analyst estimate is not corroborated by the AP report, which gives no comparable profit consensus. Neither account breaks out how much of the profit gain came from AI versus e-commerce, and no timetable, size or valuation has been disclosed for the T-Head listing."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "阿里巴巴公布财年第二季度（9月止）业绩，营收同比增长10%至约407亿美元，净利润同比增长约三倍；美联社（经雅虎财经转载）给出的净利润为96.3亿美元，并称接受 Zacks 调查的三位分析师预期营收为404.1亿美元。公司同时表示正为芯片部门平头哥（T-Head）筹备香港上市。"
+   ],
+   "unconfirmed": [
+    "约96.8亿美元的净利润与“约36亿美元”的利润预期出自《华尔街日报》报道及 Techmeme 摘要，而美联社给出的净利润为96.3亿美元，两个口径存在小幅差异，无法判断哪一方为最终数字；财报未单独披露 AI 业务的营收或利润，“AI 盈利能力改善”属公司口径表述，尚无独立测算；平头哥上市的时间表、募资规模与估值均未公布。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Alibaba Q2 net profit triples to ~$9.68B on AI, e-commerce gains, WSJ reports",
+  "zh": "阿里巴巴第二财季营收增10%、净利增至三倍，AI与电商盈利改善"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/alibaba-q2-net-profit-triples-to-9-68b-on-ai-e-commerce-gains-wsj-2eb3/",
+  "zh": "/zh/2026/11/19/alibaba-q2-net-profit-triples-to-9-68b-on-ai-e-commerce-gains-wsj-2eb3/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

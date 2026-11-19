@@ -1,0 +1,33 @@
+{
+ "held_at": "2026-11-19T11:28:58+00:00",
+ "stories": [
+  {
+   "slug": "muslim-author-sues-xai-over-grok-hijab-removal-wired-reports-e5fe",
+   "title": "Muslim author sues xAI over Grok hijab removal, Wired reports",
+   "category": "allegation",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家"
+   ],
+   "source": "Wired",
+   "url": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
+   "files": [
+    "2026-11-19-muslim-author-sues-xai-over-grok-hijab-removal-wired-reports-e5fe-en.md",
+    "2026-11-19-muslim-author-sues-xai-over-grok-hijab-removal-wired-reports-e5fe-zh.md"
+   ]
+  },
+  {
+   "slug": "faa-ground-stop-traced-to-aviation-comms-instability-cause-unknown-20ea",
+   "title": "FAA ground stop traced to aviation comms 'instability,' cause unknown, Wired reports",
+   "category": "accident",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家"
+   ],
+   "source": "Wired",
+   "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
+   "files": [
+    "2026-11-19-faa-ground-stop-traced-to-aviation-comms-instability-cause-unknown-20ea-en.md",
+    "2026-11-19-faa-ground-stop-traced-to-aviation-comms-instability-cause-unknown-20ea-zh.md"
+   ]
+  }
+ ]
+}

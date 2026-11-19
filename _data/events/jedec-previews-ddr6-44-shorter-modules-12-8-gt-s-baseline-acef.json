@@ -1,0 +1,57 @@
+{
+ "event_id": "jedec-previews-ddr6-44-shorter-modules-12-8-gt-s-baseline-acef",
+ "issue": "2026-11-19",
+ "section": "chips-compute",
+ "published_at": "2026-11-19T10:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/pc-components/ram/ddr6-ram-shrinks-by-44-percent-while-delivering-4x-ddr5s-baseline-bandwidth-jedec-previews-12-8-gt-s-modules-with-up-to-1-terabyte-of-capacity-per-slot"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "JEDEC published a preview of the DDR6 standard stating an initial RDIMM data rate of 12.8 GT/s, a 96-bit data bus split into four 24-bit sub-channels, 64 banks, 128 Gb (16 GB) dies and a pseudo-channel architecture, with modules 74 mm long versus 133 mm for DDR5, JEDEC's press release and Tom's Hardware report. Tom's Hardware's arithmetic puts baseline per-module bandwidth at 153.6 GB/s against DDR5's 38.4 GB/s."
+   ],
+   "unconfirmed": [
+    "pin count, nominal voltage, burst length and supported form factors, which JEDEC has not disclosed and the report marks with question marks; the 4X figure is a baseline-versus-baseline comparison, only a little over 2X against DDR5-9200 RDIMMs (73.6 GB/s); module capacities of 128–256 GB consumer and up to 1 TB per server slot are the report's projections, not JEDEC figures; and no launch date exists — the 2029 commercialization target is third-party expectation, with no silicon, pricing or independent measurement reported."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "JEDEC 发布了 DDR6 的早期预览，拟定的服务器 RDIMM 起始速率为 12.8 GT/s，数据总线为 96 位，模块长度为 74 毫米；JEDEC 表示该标准仍在开发中，计划采用伪通道架构（pseudo-channel），以提升每个 DRAM 封装的带宽。"
+   ],
+   "unconfirmed": [
+    "最终引脚数、工作电压、突发长度、正式形态与消费级首发速率均未公布；每插槽 1TB、2029 年商用只是规划或业界预期，4 倍带宽也是相对 DDR5 基线的换算而非实测（相对 DDR5-9200 峰值约 2.1 倍），JEDEC 未给出发布日期，也没有独立测试或量产样品验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "JEDEC previews DDR6: 44% shorter modules, 12.8 GT/s baseline",
+  "zh": "JEDEC 预览 DDR6：模块缩短 44%，单模块带宽达 DDR5 基线四倍"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/jedec-previews-ddr6-44-shorter-modules-12-8-gt-s-baseline-acef/",
+  "zh": "/zh/2026/11/19/jedec-previews-ddr6-44-shorter-modules-12-8-gt-s-baseline-acef/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

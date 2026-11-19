@@ -1,0 +1,57 @@
+{
+ "event_id": "california-dmv-orders-waymo-to-halt-freeway-driving-over-construction-df74",
+ "issue": "2026-11-19",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-18T16:24:34+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The DMV ordered Waymo to suspend California highway driving until it demonstrates the cars are no longer an imminent hazard, as reported by the San Francisco Business Times and confirmed by Waymo's current surface-street-only operations; Waymo's June recall of roughly 3,800 highway-capable robotaxis and its July description to NHTSA of the construction-zone software fix are documented in the company's own regulatory filings."
+   ],
+   "unconfirmed": [
+    "The DMV has not publicly released the text of the order, so its exact scope and conditions are known only through reporting; Waymo has not said how many vehicles or which markets are affected by the current restriction, whether the July software update actually resolved the construction-zone behavior, or when it expects freeway service to resume."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "加州 DMV 已下达停止高速公路运营的命令，条件是 Waymo 证明车辆不再构成「迫在眉睫的公共安全危险」，Waymo 确认目前仅在普通道路运营；此前 4 月凤凰城 6 起、5 月加州 7 起施工区驶入事件，以及 6 月约 3800 辆车的召回，均见诸报道与 Waymo 提交 NHTSA 的文件。"
+   ],
+   "unconfirmed": [
+    "DMV 命令的完整文本、确切生效日期与解除条件未公开；Waymo 的 7 月软件更新是否真正解决施工区识别问题，以及它向 DMV 提交了何种证据，都没有独立验证或第三方测试数据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "California DMV orders Waymo to halt freeway driving over construction zones",
+  "zh": "加州 DMV 叫停 Waymo 高速运营，施工区识别再成焦点"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/california-dmv-orders-waymo-to-halt-freeway-driving-over-construction-df74/",
+  "zh": "/zh/2026/11/19/california-dmv-orders-waymo-to-halt-freeway-driving-over-construction-df74/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

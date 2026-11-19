@@ -1,0 +1,57 @@
+{
+ "event_id": "pangram-flags-99-of-award-winning-peruvian-novel-as-ai-generated-55f7",
+ "issue": "2026-11-19",
+ "section": "ai-news",
+ "published_at": "2026-11-18T16:09:08+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Decoder reported that Pangram flagged 99 percent of the novel and over 80 percent of the author's personal writing as AI-generated, and that Almadía said it reviewed the matter and stood by its award decision."
+   ],
+   "unconfirmed": [
+    "The identity of the author and the novel, Pangram's own explanation or confidence scores, and any independent replication of the detection results; Gallimard's screening plan is reported without a start date, scope, or how flags would be used in editorial decisions."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Decoder 报道，Pangram 将这部获奖小说的 99%、以及作者个人文本的 80% 以上判为 AI 生成；Almadía 在自行复核后公开表示继续支持作者与这部作品；Gallimard 计划引入该工具筛查稿件。"
+   ],
+   "unconfirmed": [
+    "报道未给出小说书名、作者姓名、奖项名称和检测文本片段，也未说明 Pangram 的判定方法或阈值；Almadía 的复核以何种标准进行、Pangram 是否回应，均无公开信息；Gallimard 的筛查计划目前只有报道来源，尚无时间表或实施细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Pangram flags 99% of award-winning Peruvian novel as AI-generated",
+  "zh": "Pangram 将获奖秘鲁小说 99% 判为 AI 生成，出版社力挺作者"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/pangram-flags-99-of-award-winning-peruvian-novel-as-ai-generated-55f7/",
+  "zh": "/zh/2026/11/19/pangram-flags-99-of-award-winning-peruvian-novel-as-ai-generated-55f7/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

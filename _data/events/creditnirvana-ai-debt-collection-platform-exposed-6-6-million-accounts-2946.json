@@ -1,0 +1,57 @@
+{
+ "event_id": "creditnirvana-ai-debt-collection-platform-exposed-6-6-million-accounts-2946",
+ "issue": "2026-11-19",
+ "section": "tech-industry",
+ "published_at": "2026-11-18T19:00:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wired",
+   "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "WIRED reported on November 18 that two vulnerabilities in the India-based AI debt collection platform CreditNirvana exposed roughly 6.6 million accounts and about 315,000 call recordings from its automated call center; security researcher Eaton Zveare is credited with the finding, and secondary reports (MLQ.ai, Credit & Collection News) repeat the same figures and date."
+   ],
+   "unconfirmed": [
+    "There is no evidence in the reports that anyone actually exploited the flaws or copied data — the exposure of emails, texts, call audio and credit reports is described as what attackers \"would have\" been able to reach. One secondary report says both flaws were fixed, but the available reporting does not give a clear remediation date, and no public statement from CreditNirvana itself is included."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《连线》（WIRED）报道，印度 AI 催收平台 CreditNirvana 存在两个严重漏洞，暴露了约 660 万个账户和约 31.5 万份通话录音，涉及邮箱、短信和信用报告等敏感数据；安全研究者 Eaton Zveare 于 11 月 18 日公开了这项发现，并称两个漏洞此后均已修复。"
+   ],
+   "unconfirmed": [
+    "报道没有说明是否有攻击者实际利用了这些漏洞、数据是否已被下载或滥用，也未给出修复的具体日期与年份；CreditNirvana 自身的公开回应和受影响用户范围，目前仅见于研究者与媒体的转述，尚无公司层面的确认或独立取证结果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "CreditNirvana AI debt collection platform exposed 6.6 million accounts",
+  "zh": "AI 讨债平台 CreditNirvana 漏洞暴露 660 万账户与 31.5 万段通话录音"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/creditnirvana-ai-debt-collection-platform-exposed-6-6-million-accounts-2946/",
+  "zh": "/zh/2026/11/19/creditnirvana-ai-debt-collection-platform-exposed-6-6-million-accounts-2946/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

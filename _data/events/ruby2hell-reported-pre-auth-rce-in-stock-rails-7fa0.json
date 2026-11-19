@@ -1,0 +1,67 @@
+{
+ "event_id": "ruby2hell-reported-pre-auth-rce-in-stock-rails-7fa0",
+ "issue": "2026-11-19",
+ "section": "tech-industry",
+ "published_at": "2026-11-19T05:09:11+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "verialabs.com",
+   "url": "https://verialabs.com/ruby2shell/"
+  },
+  {
+   "tier": "independent",
+   "name": "ruby-lang.org",
+   "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50556287"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Ruby core team rates a heap-based buffer overflow in Ruby's string case conversion as critical, tracked as CVE-2026-132825 and dubbed \"ruby2ßhell\"; it says changing the case of a crafted string may allow remote code execution, that proof-of-concept exploits can trigger code execution in some scenarios, and that patched versions have been released, per Cybersecurity News and Orca Security."
+   ],
+   "unconfirmed": [
+    "That the flaw gives pre-authentication RCE on stock, unmodified Rails applications — that framing comes from the Veria Labs blog post rather than the CVE description — along with the specific fixed version numbers and any independent reproduction; commenters also note the write-up overlaps substantially with a separate Ruby advisory covering six other vulnerabilities."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 ORCA Security 与 Cybersecurity News 的报道，Ruby 字符串大小写转换中的堆缓冲区溢出已被分配编号 CVE-2026-132825，代号“ruby2ßhell”；Ruby 核心团队将其评为 critical（严重），并称对特制字符串做大小写转换可能导致远程代码执行，且已知存在能在部分场景触发代码执行的验证性利用（proof-of-concept）；相关修复已发布。"
+   ],
+   "unconfirmed": [
+    "Verial Labs 博文所称“在未改动的原版 Rails 上可预认证远程代码执行”的完整利用链与稳定复现，尚无独立第三方验证；Hacker News 评论者指出该问题已被另一份涵盖另外六个漏洞的 Ruby 安全公告覆盖，本次披露的新增信息有限；补丁的具体版本号、受影响版本范围与发布时间在现有报道中均未明确。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Ruby2ßhell: reported pre-auth RCE in stock Rails",
+  "zh": "Ruby2ßhell：Rails 预认证 RCE 源于 ß 转大写"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/ruby2hell-reported-pre-auth-rce-in-stock-rails-7fa0/",
+  "zh": "/zh/2026/11/19/ruby2hell-reported-pre-auth-rce-in-stock-rails-7fa0/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

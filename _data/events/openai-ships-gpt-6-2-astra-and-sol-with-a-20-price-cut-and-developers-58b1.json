@@ -1,0 +1,57 @@
+{
+ "event_id": "openai-ships-gpt-6-2-astra-and-sol-with-a-20-price-cut-and-developers-58b1",
+ "issue": "2026-11-19",
+ "section": "ai-news",
+ "published_at": "2026-11-18T13:40:28+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "GeekPark (极客公园)",
+   "url": "http://www.geekpark.net/news/374175"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI's own announcement page and third-party model trackers confirm that GPT-6.2 Astra and GPT-6.2 Sol were released in November 2026 with a context window of roughly 1.05 million tokens and API pricing of $8 per million input tokens, $0.40 per million cached input tokens and $40 per million output tokens for Astra, and $2/$10 for Sol; GeekPark reports the rollout on 18 November, Beijing time, and the models are being offered through ChatGPT Work, Codex and the API rather than the standard ChatGPT chat interface."
+   ],
+   "unconfirmed": [
+    "the headline benchmark placements and per-task cost figures come from Artificial Analysis and Epoch AI indices as cited by GeekPark, not from an independent test run for this briefing; the negative developer verdicts (Matt Shumer, Theo Browne, Ethan Mollick, Simon Willison, Dan Shipper) are individual first-hand impressions; the claim that GPT-6.1 Astra was cancelled at the last minute, the ~25% engineer reassignment and the reported safety-regression numbers rest on OpenAI's system card and GeekPark's reporting; the claim that California's attorney general sued OpenAI over at least 80 safety incidents one day before launch is an allegation reported by GeekPark and has not been confirmed against a court filing here; and the fast-mode price increase scheduled for 1 March 2027, the hallucination-rate comparisons and the 59% figure for Astra are unverified outside the outlets GeekPark cites. The article text also cuts off mid-sentence at its end."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "OpenAI 官方发布页显示，GPT-6.2 Astra 与 Sol 于 2026 年 11 月上线（极客公园称北京时间为 11 月 18 日凌晨，第三方页面记为 11 月 17 日），主打更强的专业输出、编程与电脑操作能力及更低成本；Astra 定价为每百万 tokens 输入 8 美元、缓存输入 0.40 美元、输出 40 美元，Sol 为输入 2 美元、输出 10 美元，均支持文本与图像输入、纯文本输出，上下文窗口约 105 万 tokens（另一第三方页面记为 1.1M）。"
+   ],
+   "unconfirmed": [
+    "报道引用的成绩（Agents' Last Exam 最高 78.3%、Artificial Analysis 综合指数 62 分居第二、编程智能体榜仅 53 分且 Sol 倒退 3 分）、Astra 幻觉率从 50% 升至 59%、以及 Matt Shumer、Theo Browne、Ethan Mollick 等人的具体差评，均仅见于极客公园的转述或厂商自述，未经独立复测；发布前一天加州总检察长起诉 OpenAI、测试期间“至少 80 起安全事件”、Ultrafast 模式自 2027 年 3 月 1 日起由 3 倍涨至 6 倍、以及 GPT-6.2 尚未进入普通 ChatGPT 聊天界面等关键细节，同样只有单一来源或官方口径，缺乏独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI ships GPT-6.2 Astra and Sol with a 20% price cut, and developers push back",
+  "zh": "OpenAI 发布 GPT-6.2 Astra 与 Sol，跑分领先但实测口碑分化"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/openai-ships-gpt-6-2-astra-and-sol-with-a-20-price-cut-and-developers-58b1/",
+  "zh": "/zh/2026/11/19/openai-ships-gpt-6-2-astra-and-sol-with-a-20-price-cut-and-developers-58b1/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

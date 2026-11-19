@@ -1,0 +1,57 @@
+{
+ "event_id": "lenovo-posts-640m-net-loss-as-pc-component-costs-bite-despite-48-1820",
+ "issue": "2026-11-19",
+ "section": "tech-industry",
+ "published_at": "2026-11-19T06:50:02+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg's Yuan Gao reported that Lenovo's September-quarter revenue rose 48% year over year to $30.2 billion, above estimates, and that the company posted a $640 million net loss and its first operating loss since 2017."
+   ],
+   "unconfirmed": [
+    "The size of the accounting charges versus the component-cost impact, the segment breakdown, and whether the $38 million consensus figure was an expected loss or an expected profit; these rest on the Bloomberg account alone, with no primary filing cited."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据彭博报道，联想截至9月的季度营收为302亿美元、同比增长48%，净亏损6.4亿美元，并录得2017年以来首次营业亏损；彭博将亏损与会计费用及PC组件成本上升联系起来。"
+   ],
+   "unconfirmed": [
+    "彭博摘要未拆解会计费用的具体构成，也未说明3800万美元的“预期”指亏损还是利润；联想的正式财报文件细节不在报道中。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Lenovo posts $640M net loss as PC component costs bite despite 48% revenue growth",
+  "zh": "联想营收增48%仍净亏6.4亿美元，为2017年来首次营业亏损"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/lenovo-posts-640m-net-loss-as-pc-component-costs-bite-despite-48-1820/",
+  "zh": "/zh/2026/11/19/lenovo-posts-640m-net-loss-as-pc-component-costs-bite-despite-48-1820/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

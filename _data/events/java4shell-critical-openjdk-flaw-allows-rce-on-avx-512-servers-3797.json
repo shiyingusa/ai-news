@@ -1,0 +1,57 @@
+{
+ "event_id": "java4shell-critical-openjdk-flaw-allows-rce-on-avx-512-servers-3797",
+ "issue": "2026-11-19",
+ "section": "tech-industry",
+ "published_at": "2026-11-19T10:30:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "CVE-2026-114938 — nicknamed Java4Shell by Calif Research, the lab that reported it — is a memory-corruption flaw in OpenJDK's optimized Base64 decoder, publicly disclosed on November 17, 2026, and it only affects x86-64 processors with AVX-512 VBMI support, per Sophos's and Censys's advisories. Oracle has already fixed it and shipped updated Java builds; the reported severity is CVSS 4.0 9.2 (Critical) from the researchers versus CVSS 3.1 8.1 (High) from Oracle, a gap that reflects different scoring scales as well as different assessments."
+   ],
+   "unconfirmed": [
+    "that any of this is being exploited in the wild, the number of vulnerable systems behind the \"millions\" framing, the specific list of affected applications (Keycloak, Jira, Confluence, Jenkins and PingFederate unauthenticated; Kafka Broker, Solr, Elasticsearch, Gerrit and Spinnaker post-authentication) and vulnerable container images — all of which rest on Calif's own post — and Calif's claim that an AI bot found the bug for about $200 in tokens. The source material also gives no exact list of affected OpenJDK versions, no timeline for downstream vendor patches, and no independent reproduction beyond the researchers' own demonstration."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "CVE-2026-114938（代号“Java4Shell”）于 2026 年 11 月 17 日公开披露，是 OpenJDK 中 Base64 解码优化实现的内存破坏漏洞；Oracle 已发布修复版本，Sophos、Censys 等厂商也发布了安全公告；触发该漏洞需要 Java 实例运行在支持 AVX-512 VBMI 的 x86-64 处理器上（如 Intel Ice Lake、AMD Zen 4）。"
+   ],
+   "unconfirmed": [
+    "评分口径存在分歧——Oracle 按 CVSS 3.1 评为 8.1（高危），发现方 Calif Research 按 CVSS 4.0 评为 9.2（严重）；“数百万站点与服务受影响”的规模估计、Keycloak/Jira/Confluence/Jenkins/PingFederate 等具体应用清单、该漏洞由消耗 200 美元 token 的 AI 机器人发现的说法，以及各 Linux 发行版与第三方厂商的补丁覆盖情况，均未见独立验证，报道也未给出任何野外已遭利用的证据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Java4Shell: critical OpenJDK flaw allows RCE on AVX-512 servers",
+  "zh": "Java4Shell：OpenJDK Base64 优化缺陷可致未认证远程代码执行"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/java4shell-critical-openjdk-flaw-allows-rce-on-avx-512-servers-3797/",
+  "zh": "/zh/2026/11/19/java4shell-critical-openjdk-flaw-allows-rce-on-avx-512-servers-3797/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
