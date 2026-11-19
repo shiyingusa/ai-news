@@ -1,0 +1,57 @@
+{
+ "event_id": "amazon-warns-nyc-of-up-to-5-per-order-rise-over-delivery-hiring-bill-ny-20f2",
+ "issue": "2026-11-19",
+ "section": "tech-industry",
+ "published_at": "2026-11-19T16:05:06+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "New York Post",
+   "url": "https://nypost.com/2026/11/19/business/in-new-campaign-amazon-warns-nyc-customers-they-face-price-hikes-up-to-5-for-every-order-if-delivery-bill-is-passed/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Amazon is running a campaign telling New York City customers their orders could cost up to $5 more apiece if the City Council passes Intro 518, a bill that would require the company to directly hire last-mile delivery workers instead of relying on contracted delivery firms, the New York Post reported on November 19. The $5 figure comes from Amazon itself, and Quartz reported the company also said the bill could force it to stop working with small delivery firms and consider moving operations out of the city."
+   ],
+   "unconfirmed": [
+    "The $5 per-order estimate is Amazon's own projection; the reports give no methodology, no independent cost analysis, no indication of whether the charge would hit every order or only some, and no effective date. The bill's current legislative status and any vote schedule are also not established in the available reporting, and an analysis published by the business-advocacy site progresschamber.org arguing that consumers would bear the cost echoes Amazon's position rather than testing it."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "《纽约邮报》报道称，亚马逊已向纽约市顾客发出警告，若市议会通过要求其直接雇佣配送员的法案（Intro 518），每笔订单可能最多多收 5 美元；亚马逊同时表示该法案可能迫使它终止与小型配送公司的合作，并考虑将业务迁出该市（Quartz 亦报道了这一说法）。"
+   ],
+   "unconfirmed": [
+    "亚马逊“最多 5 美元”的具体测算依据、该法案目前在市议会的审议进度与表决时间、以及警告中“迁出纽约”的表述是否已成正式计划，均只有亚马逊方面的说法或单一媒体报道，未见法案全文细节或独立成本评估。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Amazon warns NYC of up to $5 per-order rise over delivery-hiring bill, NY Post reports",
+  "zh": "亚马逊警告纽约市用户：配送员直雇法案若通过，每单或涨至多5美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/amazon-warns-nyc-of-up-to-5-per-order-rise-over-delivery-hiring-bill-ny-20f2/",
+  "zh": "/zh/2026/11/19/amazon-warns-nyc-of-up-to-5-per-order-rise-over-delivery-hiring-bill-ny-20f2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

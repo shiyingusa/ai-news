@@ -1,0 +1,57 @@
+{
+ "event_id": "first-whole-body-single-cell-atlas-of-an-adult-vertebrate-in-a-1-cm-fish-a298",
+ "issue": "2026-11-19",
+ "section": "science-bio",
+ "published_at": "2026-11-19T17:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "MIT News",
+   "url": "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The study appears in Science with a DOI, and the authors report profiling more than 600,000 cells across the listed tissues; the atlas is accessible to anyone through the DigiFish site hosted by the Whitehead Institute."
+   ],
+   "unconfirmed": [
+    "The \"first whole-body atlas of an adult vertebrate\" framing is the authors' claim about the state of the field, not an independently adjudicated record; the paper states that what the retained positional gene programs actually do in adult fibroblasts remains unknown, and no independent group has yet validated the atlas annotations or the regeneration sequence."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "10月29日《科学》刊出该论文，麻省理工学院新闻网站的文章称团队分析了逾60万个细胞，并将图谱通过DigiFish公开。"
+   ],
+   "unconfirmed": [
+    "“首个”是作者对现有文献的表述，尚无独立机构确认此前没有同类全身图谱；成体细胞保留的位置记忆信号有何功能仍属未知，图谱能否推广到其他脊椎动物也未验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "First whole-body single-cell atlas of an adult vertebrate, in a 1-cm fish",
+  "zh": "研究称首个成年脊椎动物全身细胞图谱完成"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/first-whole-body-single-cell-atlas-of-an-adult-vertebrate-in-a-1-cm-fish-a298/",
+  "zh": "/zh/2026/11/19/first-whole-body-single-cell-atlas-of-an-adult-vertebrate-in-a-1-cm-fish-a298/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

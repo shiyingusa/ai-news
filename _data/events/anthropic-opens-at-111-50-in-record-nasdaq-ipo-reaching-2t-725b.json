@@ -1,0 +1,87 @@
+{
+ "event_id": "anthropic-opens-at-111-50-in-record-nasdaq-ipo-reaching-2t-725b",
+ "issue": "2026-11-19",
+ "section": "ai-news",
+ "published_at": "2026-11-19T16:56:35+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "high",
+  "reason": "6 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Reuters",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+  },
+  {
+   "tier": "independent",
+   "name": "Wired AI",
+   "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Verge AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
+  },
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+  },
+  {
+   "tier": "independent",
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+  },
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Reuters reported that ANT opened at $111.50 after pricing at $83 and reached a market value of about $2 trillion; CNBC reported the same opening price and called it the largest IPO on record."
+   ],
+   "unconfirmed": [
+    "the final proceeds and share count, which reports give as \"more than $80 billion\" and $81.3 billion, and the first-day closing price, which the source did not include."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "路透、CNBC 和 The Verge 均报道，Anthropic 周四在纳斯达克以「ANT」为代码开始交易，开盘价 111.50 美元，此前 IPO 定价为每股 83 美元；按定价计算估值约 1.5 万亿美元，开盘后市值达到约 2 万亿美元，并超过 SpaceX 成为史上最大 IPO。"
+   ],
+   "unconfirmed": [
+    "各来源给出的募资额不一致（一处称超过 800 亿美元，The Verge 称 813 亿美元）；首日收盘价与最终市值尚未确定。投资者关注的 AI 安全声誉、数据中心引发的公众反感是否影响增长，属于待观察的风险，并非已经发生的结果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic opens at $111.50 in record Nasdaq IPO, reaching ~$2T",
+  "zh": "Anthropic 登陆纳斯达克：开盘 111.50 美元，市值约 2 万亿美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/19/anthropic-opens-at-111-50-in-record-nasdaq-ipo-reaching-2t-725b/",
+  "zh": "/zh/2026/11/19/anthropic-opens-at-111-50-in-record-nasdaq-ipo-reaching-2t-725b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
