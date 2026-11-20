@@ -71,12 +71,14 @@ async def write_brief_from_lines(
         return None
     user = f"{LANG_NOTE.get(language, '')}\nDate: {date}\n\nToday's selected stories:\n{stories}"
     headline, paragraphs, takeaways = "", [], []
-    for attempt in range(2):
+    for attempt in range(3):  # the Chinese brief went missing on 11-16 after two failed tries
         try:
             raw = await client.complete(system=SYSTEM, user=user, temperature=0.4, max_tokens=8000)
         except Exception as exc:  # pragma: no cover - network/provider failure
-            logger.warning("Daily brief failed for %s: %s", language, exc)
-            return None
+            logger.warning("Daily brief failed for %s (attempt %d): %s", language, attempt + 1, exc)
+            import asyncio
+            await asyncio.sleep(15)
+            continue
         data = parse_json_response(raw)
         if not isinstance(data, dict) and raw and "{" in raw:
             try:  # tolerate raw newlines inside strings
