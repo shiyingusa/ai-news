@@ -5,6 +5,8 @@ lang: "zh"
 issue: "2026-11-14"
 story_id: "dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2"
 permalink: "/zh/2026/11/14/dongfeng-nissan-opens-nx7-phev-orders-198-miles-electric-range-20-000-72c2/"
+redirect_from:
+  - "/zh/2026/11/15/dongfeng-nissan-opens-nx7-phev-early-orders-at-20-000-claiming-198-72c2/"
 title: "东风日产 NX7 插混开启预订：约 198 英里纯电续航、约 2 万美元"
 dek: "东风日产已为新款 NX7 插电式混合动力车（PHEV，可外接充电、短途用电长途烧油的混动车）开启早期预订，宣称其 40 kWh 磷酸铁锂（LFP）电池可提供最高约 320 公里（约 198 英里）的纯电续航，售价约 2 万美元。"
 section: "ev-energy"
