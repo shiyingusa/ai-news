@@ -1,0 +1,57 @@
+{
+ "event_id": "kymera-s-oral-eczema-drug-kt-621-meets-phase-2-endpoints-9487",
+ "issue": "2026-11-23",
+ "section": "science-bio",
+ "published_at": "2026-11-23T12:00:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "STAT News",
+   "url": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Kymera's announcement states that BROADEN2 met all primary and secondary endpoints, including statistically significant placebo comparisons at all three doses and a safety profile led by mild-to-moderate conjunctivitis."
+   ],
+   "unconfirmed": [
+    "Independent verification is absent because the data have not been peer-reviewed or published; the available report omits trial size, full safety data and durability beyond 16 weeks, and no regulatory timeline is given."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Kymera 称 BROADEN2 二期试验达到所有主要和次要终点，三个剂量组在 16 周时相对安慰剂均有统计学显著改善，中等剂量组安慰剂校正后改善峰值 45%，EASI-75 比例为 62% 对 22%；结膜炎在低、中、高剂量组分别为 20%、13%、11%，均属轻中度且未导致停药。"
+   ],
+   "unconfirmed": [
+    "完整疗效与安全性数据尚未发表或经同行评审，具体终点数值、统计学细节仅见于公司公告；KT-621 与 Dupixent 等现有疗法的直接对比、三期试验时间表以及任何监管申报计划，均未在报道中给出。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Kymera's oral eczema drug KT-621 meets Phase 2 endpoints",
+  "zh": "Kymera 口服 STAT6 降解剂 KT-621 二期湿疹试验达全部终点"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/kymera-s-oral-eczema-drug-kt-621-meets-phase-2-endpoints-9487/",
+  "zh": "/zh/2026/11/23/kymera-s-oral-eczema-drug-kt-621-meets-phase-2-endpoints-9487/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-ceo-jensen-huang-to-testify-publicly-before-senate-banking-b379",
+ "issue": "2026-11-23",
+ "section": "chips-compute",
+ "published_at": "2026-11-23T17:50:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/jensen-huang-will-testify-publicly-before-us-senators-next-week"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Committee Chairman Tim Scott's statement, as reported by Bloomberg, says Huang will appear publicly before the Senate Banking Committee on December 3, with the hearing centered on oversight of US export controls."
+   ],
+   "unconfirmed": [
+    "The full witness list, the hearing's formal title and scope, and whether the date will hold; Bloomberg also describes Huang as \"newly reinstated\" CEO without explanation. The account rests on a committee chairman's statement relayed by Bloomberg and a Techmeme aggregation — no committee hearing notice or transcript was available."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "参议院银行委员会主席 Tim Scott 通过声明表示，黄仁勋将于 12 月 3 日出席该委员会的公开听证会，主题是出口管制监督；上述内容由彭博社报道。"
+   ],
+   "unconfirmed": [
+    "听证会的完整证人名单、是否还有其他企业或官员出席、黄仁勋的证词立场与具体内容，以及委员会是否已正式发布听证通知。彭博社在报道中称黄仁勋为“新近复职”（newly reinstated）的英伟达 CEO，但现有报道未解释这一表述所指的具体变动。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nvidia CEO Jensen Huang to testify publicly before Senate Banking Committee on Dec. 3",
+  "zh": "美参议院银行委员会称黄仁勋将于 12 月 3 日就出口管制公开作证"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/nvidia-ceo-jensen-huang-to-testify-publicly-before-senate-banking-b379/",
+  "zh": "/zh/2026/11/23/nvidia-ceo-jensen-huang-to-testify-publicly-before-senate-banking-b379/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "cylib-to-take-over-basf-s-battery-recycling-business-including-c5ba",
+ "issue": "2026-11-23",
+ "section": "ev-energy",
+ "published_at": "2026-11-23T14:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/23/aachen-startup-cylib-acquires-basfs-battery-recycling-business/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "electrive reports that Aachen-based battery recycling startup Cylib is taking over BASF's battery recycling business under a signed agreement, including two facilities in Schwarzheide in Brandenburg and the North America business."
+   ],
+   "unconfirmed": [
+    "The purchase price and other deal terms, closing conditions or any required regulatory approval, the timeline for completing the transfer, and the effect on recycling capacity and staff at the Schwarzheide and North American sites; the report gives none of these, and no separate statement from BASF or Cylib was available to check the details against."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，德国亚琛的电池回收初创公司 Cylib 将接手巴斯夫的电池回收业务，交易包括位于勃兰登堡州施瓦茨海德的两处设施以及巴斯夫的北美业务；报道配图说明显示，双方已举行合同签署仪式。"
+   ],
+   "unconfirmed": [
+    "交易价格、具体交易条款、交割条件与时间表、是否仍需监管批准，以及该交易对回收产能和员工安排的实际影响，报道均未披露，也无法确认交易是否已经完成交割。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Cylib to take over BASF's battery recycling business, including Schwarzheide plants",
+  "zh": "Cylib 收购巴斯夫电池回收业务，含德国与北美部分"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/cylib-to-take-over-basf-s-battery-recycling-business-including-c5ba/",
+  "zh": "/zh/2026/11/23/cylib-to-take-over-basf-s-battery-recycling-business-including-c5ba/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
