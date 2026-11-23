@@ -1,0 +1,57 @@
+{
+ "event_id": "sierra-raises-1-75b-series-f-at-reported-30b-valuation-d6a5",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T14:43:03+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Sierra said on Nov. 23 that it raised a $1.75 billion Series F at a $30 billion valuation, led by Greenoaks and Lightspeed Venture Partners, with Benchmark, Sequoia, Greenoaks, GV and Tiger Global all returning, according to the company's own announcement and CMSWire."
+   ],
+   "unconfirmed": [
+    "That the valuation doubled within six months (implying a prior round near $15 billion) rests on TechCrunch's reporting rather than a figure in Sierra's announcement; the sources also give no revenue, customer-count or booking details to support the demand claim."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Sierra 于 11 月 23 日宣布完成 17.5 亿美元 F 轮融资，估值 300 亿美元；本轮由 Greenoaks 和 Lightspeed Venture Partners 领投，Benchmark、Sequoia、GV、Tiger Global 等原有领投方全部继续参与（Sierra 官方博客与 CMSWire 报道一致）。"
+   ],
+   "unconfirmed": [
+    "“六个月内估值翻倍”一说来自 TechCrunch 的报道标题，Sierra 官方博客只给出本轮 300 亿美元估值，未列出上一轮的具体数字；融资的具体条款、营收与客户规模、资金用途，以及独立第三方对估值的核实，均未披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Sierra raises $1.75B Series F at reported $30B valuation",
+  "zh": "Sierra 完成 17.5 亿美元 F 轮融资，估值据报六个月内翻倍至 300 亿美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/sierra-raises-1-75b-series-f-at-reported-30b-valuation-d6a5/",
+  "zh": "/zh/2026/11/23/sierra-raises-1-75b-series-f-at-reported-30b-valuation-d6a5/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

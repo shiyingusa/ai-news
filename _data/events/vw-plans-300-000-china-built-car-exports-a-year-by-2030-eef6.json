@@ -1,0 +1,57 @@
+{
+ "event_id": "vw-plans-300-000-china-built-car-exports-a-year-by-2030-eef6",
+ "issue": "2026-11-23",
+ "section": "ev-energy",
+ "published_at": "2026-11-23T12:39:41+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/23/if-you-cant-beat-em-vw-to-export-300000-chinese-built-cars-per-year-by-2030/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reports that Volkswagen plans to export roughly 300,000 China-built VW vehicles per year by 2030, a strategy the outlet frames against the company's declining sales and annual capacity cuts approaching one million units."
+   ],
+   "unconfirmed": [
+    "The report does not name the models slated for export, the destination markets, or a start date, and it cites no Volkswagen statement, filing or press release for the 300,000 figure or the capacity-cut number — so both rest on Electrek's account alone. The article as published is a truncated teaser that breaks off before the underlying details, and no independent confirmation or pricing information is available."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Electrek 报道称，大众汽车计划到 2030 年每年从中国出口约 30 万辆中国制造的汽车；同一篇报道还提到，大众销量正在下滑，年产能削减规模接近 100 万辆，并提到一批价格更低的中国竞争对手正在进入西方市场。"
+   ],
+   "unconfirmed": [
+    "这篇 Electrek 报道正文被截断，没有引用大众的官方声明或新闻稿，也没有说明涉及哪些车型、出口到哪些市场、这 30 万辆指整车出口还是包含其他形式，以及产能削减的具体规模和时间表。目前只有 Electrek 一家报道，大众方面并未公开确认上述细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "VW plans 300,000 China-built car exports a year by 2030",
+  "zh": "大众计划到2030年每年从中国出口约30万辆汽车"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/vw-plans-300-000-china-built-car-exports-a-year-by-2030-eef6/",
+  "zh": "/zh/2026/11/23/vw-plans-300-000-china-built-car-exports-a-year-by-2030-eef6/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

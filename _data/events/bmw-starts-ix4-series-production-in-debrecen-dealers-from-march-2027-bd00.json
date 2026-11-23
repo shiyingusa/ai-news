@@ -1,0 +1,57 @@
+{
+ "event_id": "bmw-starts-ix4-series-production-in-debrecen-dealers-from-march-2027-bd00",
+ "issue": "2026-11-23",
+ "section": "ev-energy",
+ "published_at": "2026-11-23T11:32:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/23/bmw-ix4-rolls-off-production-line-alongside-ix3-in-debrecen/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "BMW has started series production of the iX4 in Debrecen alongside the iX3, and the model is the second Neue Klasse vehicle built at that plant, electrive reported."
+   ],
+   "unconfirmed": [
+    "technical specifications, range, pricing, production volumes and which two drivetrain variants will launch; the March 2027 dealer date is BMW's stated plan, and no independent confirmation of output or timing exists yet."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，宝马 iX4 已在德布勒森工厂开始批量生产，该工厂此前已生产 iX3，iX4 是这里的第二款 Neue Klasse 车型。"
+   ],
+   "unconfirmed": [
+    "报道未提供 iX4 的售价、续航、电池与动力参数、产能规划，也未说明“2027 年 3 月起交付经销商”是否为确定日期；两款动力版本的具体差异同样没有披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BMW starts iX4 series production in Debrecen, dealers from March 2027",
+  "zh": "宝马 iX4 在德布勒森工厂投产，与 iX3 共线"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/bmw-starts-ix4-series-production-in-debrecen-dealers-from-march-2027-bd00/",
+  "zh": "/zh/2026/11/23/bmw-starts-ix4-series-production-in-debrecen-dealers-from-march-2027-bd00/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

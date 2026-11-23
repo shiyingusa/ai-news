@@ -1,0 +1,57 @@
+{
+ "event_id": "walmart-lets-meta-s-muse-agent-buy-black-friday-deals-via-agent-gateway-106e",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T11:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Walmart says it is rolling out a live implementation of its Agent Gateway, that Meta's Muse can find and purchase Black Friday deals via the Sparky assistant, and that Agent Profiles let customers set spending limits, approve purchases and view agent purchase history."
+   ],
+   "unconfirmed": [
+    "Independent testing of a Muse-initiated purchase, how many customers or which markets have access, whether the integration continues after Black Friday, and whether other AI agents besides Muse are supported on the gateway."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "沃尔玛表示，Meta 的 Muse 可以通过 Sparky 助手和 Agent Gateway 查找并购买黑五商品，购买经“Agent Profiles”执行，用户可设消费上限、批准交易并查看购买记录（沃尔玛向 The Verge 说明）。"
+   ],
+   "unconfirmed": [
+    "该功能具体向哪些用户、哪些地区开放，覆盖规模与全面上线时间；代理实际下单的成功率与准确性；以及是否有独立测试或用户实测数据。报道也未提及该服务是否收费或有无额外条件。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Walmart lets Meta's Muse agent buy Black Friday deals via Agent Gateway",
+  "zh": "沃尔玛开放 Agent Gateway，Meta Muse 可代用户抢购黑五商品"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/walmart-lets-meta-s-muse-agent-buy-black-friday-deals-via-agent-gateway-106e/",
+  "zh": "/zh/2026/11/23/walmart-lets-meta-s-muse-agent-buy-black-friday-deals-via-agent-gateway-106e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

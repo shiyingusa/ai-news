@@ -1,0 +1,57 @@
+{
+ "event_id": "ibm-ends-u-s-visa-sponsorship-for-some-workers-offering-overseas-b1d0",
+ "issue": "2026-11-23",
+ "section": "tech-industry",
+ "published_at": "2026-11-23T11:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Rest of World",
+   "url": "https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "IBM is discontinuing U.S. visa and green-card sponsorship for most roles in IBM Consulting, its largest division with more than 150,000 employees, and visa holders in that unit have been told to relocate abroad or leave by year-end, according to multiple outlets (NationWire, HR Briefing, The Times of India) citing IBM's own statement."
+   ],
+   "unconfirmed": [
+    "IBM has not published how many employees are affected, which roles or countries remain eligible for sponsorship, the size of the pay cuts tied to relocation, or whether relocation is guaranteed; the precise effective date and the exact wording of the year-end deadline rest on outlet reporting rather than a public IBM document."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "IBM 表示将在其最大部门 IBM Consulting（逾 15 万名员工）的“多数”岗位停止美国签证与绿卡担保，受影响的外籍员工需在年底前转往海外岗位或离职；这一表述出自 IBM 的公开声明，并得到《印度时报》《HR Briefing》等报道的一致转述。"
+   ],
+   "unconfirmed": [
+    "报道中的“大幅降薪”主要来自员工方面的说法，IBM 未公布薪资调整幅度；同样未披露的还包括受影响员工的具体人数、哪些岗位或技能属于例外、迁往哪些国家，以及海外用工的薪酬标准。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "IBM ends U.S. visa sponsorship for some workers, offering overseas relocation, report says",
+  "zh": "IBM 停止部分美国签证与绿卡担保，转而提供海外调动"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/ibm-ends-u-s-visa-sponsorship-for-some-workers-offering-overseas-b1d0/",
+  "zh": "/zh/2026/11/23/ibm-ends-u-s-visa-sponsorship-for-some-workers-offering-overseas-b1d0/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

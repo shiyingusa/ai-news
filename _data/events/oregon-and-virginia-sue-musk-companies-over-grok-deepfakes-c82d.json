@@ -1,0 +1,57 @@
+{
+ "event_id": "oregon-and-virginia-sue-musk-companies-over-grok-deepfakes-c82d",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T11:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wired",
+   "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Wired reports that the Oregon and Virginia attorneys general filed lawsuits against several of Musk's companies alleging inadequate Grok safeguards against sexualized deepfake imagery of real people, including children."
+   ],
+   "unconfirmed": [
+    "the specific corporate defendants, the courts and case numbers, the exact legal claims and remedies sought, whether any identified minors are involved, and any response from Musk's companies—the report as summarized does not supply these details."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《连线》报道，俄勒冈州和弗吉尼亚州总检察长已起诉马斯克旗下多家公司，指控 Grok 的安全防护不足以阻止真实人物（含儿童）的性化图像生成。"
+   ],
+   "unconfirmed": [
+    "具体被告名单（标题称 SpaceX，正文称“多家公司”）、受理法院与提交日期、援引的法条及索赔金额均未披露；关于 Grok 防护不足这一核心指控，目前只有原告方主张，尚无独立调查或法院认定。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Oregon and Virginia Sue Musk Companies Over Grok Deepfakes",
+  "zh": "两州起诉马斯克旗下公司，指 Grok 防护不足"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/oregon-and-virginia-sue-musk-companies-over-grok-deepfakes-c82d/",
+  "zh": "/zh/2026/11/23/oregon-and-virginia-sue-musk-companies-over-grok-deepfakes-c82d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

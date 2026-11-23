@@ -1,0 +1,19 @@
+{
+ "held_at": "2026-11-23T18:30:03+00:00",
+ "stories": [
+  {
+   "slug": "nvidia-board-reinstates-jensen-huang-as-ceo-after-us-government-input-e3a7",
+   "title": "Nvidia board reinstates Jensen Huang as CEO after US government input",
+   "category": "allegation",
+   "reasons": [
+    "英文标题把指控写成了事实"
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "files": [
+    "2026-11-23-nvidia-board-reinstates-jensen-huang-as-ceo-after-us-government-input-e3a7-en.md",
+    "2026-11-23-nvidia-board-reinstates-jensen-huang-as-ceo-after-us-government-input-e3a7-zh.md"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "metr-s-updated-ai-time-horizon-plot-shows-weaker-judgment-skills-9c07",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T13:10:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "MIT Technology Review's newsletter reports that METR's new report updates its time-horizon plot with additional open-ended tasks, such as designing AI evaluations and scoring philosophical arguments, and that models performed poorly on them relative to coding."
+   ],
+   "unconfirmed": [
+    "the newsletter does not link to or quote the primary report, so the size of the measured gains, the exact scores on the new judgment-heavy tasks, the task suite's composition and any independent replication of the results are not established here."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "MIT Technology Review 的简报称，METR 的新报告更新了其时间跨度图，新增开放式任务，并发现部分能力呈指数级改善、模型在判断类任务上表现较弱。"
+   ],
+   "unconfirmed": [
+    "简报未给出具体分数、任务数量或改进幅度，也未直接链接完整报告；因此这些结论仍需看 METR 的原始方法和独立复现。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "METR's updated AI time-horizon plot shows weaker judgment skills",
+  "zh": "METR 更新 AI 时间跨度图：判断类任务进展落后于编程"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/metr-s-updated-ai-time-horizon-plot-shows-weaker-judgment-skills-9c07/",
+  "zh": "/zh/2026/11/23/metr-s-updated-ai-time-horizon-plot-shows-weaker-judgment-skills-9c07/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

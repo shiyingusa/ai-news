@@ -1,0 +1,67 @@
+{
+ "event_id": "zhipu-s-glm-5-4-runs-28-layers-twice-in-a-750b-loop-transformer-5094",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T10:06:43+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "z.ai",
+   "url": "https://z.ai/blog/glm-5.4"
+  },
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50609685"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Z.ai's release note states that GLM-5.4 is a 750B-parameter model in which 28 layers run twice, that the company positions it as its first Loop Transformer, and that published benchmark scores so far cover only a 30B test model."
+   ],
+   "unconfirmed": [
+    "the claim that the model matches 2–3-trillion-parameter systems rests on Z.ai's own word with no published full-scale benchmarks or independent evaluation, and the Coding Plan–only availability comes from a user report rather than a documented Z.ai statement."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "智谱在自家发布说明中称 GLM-5.4 为 7500 亿参数、28 层循环执行两次的架构；The Decoder 报道了该架构细节及“对标 2–3 万亿参数模型”的公司说法；开发者 Simon Willison 实测确认该模型只能通过 Coding Plan 获取，且该套餐的 API key 与常规 key 用法相同。"
+   ],
+   "unconfirmed": [
+    "7500 亿参数模型本体没有任何公开基准分数，仅有 300B 测试模型的数据；“以一半层数达到 2–3 万亿参数模型水平”目前只是公司自述，缺少独立评测；价格、完整开放日期以及是否会进入常规 API 或 OpenRouter 均未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Zhipu's GLM-5.4 runs 28 layers twice in a 750B 'Loop Transformer'",
+  "zh": "智谱发布 GLM-5.4：首个 Loop Transformer，28 层各跑两遍"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/zhipu-s-glm-5-4-runs-28-layers-twice-in-a-750b-loop-transformer-5094/",
+  "zh": "/zh/2026/11/23/zhipu-s-glm-5-4-runs-28-layers-twice-in-a-750b-loop-transformer-5094/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

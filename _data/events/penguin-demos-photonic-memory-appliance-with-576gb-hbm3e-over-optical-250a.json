@@ -1,0 +1,57 @@
+{
+ "event_id": "penguin-demos-photonic-memory-appliance-with-576gb-hbm3e-over-optical-250a",
+ "issue": "2026-11-23",
+ "section": "chips-compute",
+ "published_at": "2026-11-23T18:00:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Penguin Solutions showed the MemoryAI Photonic Appliance at SC26 with up to 576 GB of HBM3E plus 16 TB of DDR5, a 7.2 TB/s aggregate bandwidth target, CXL.mem 3.1 over optical links, and customer samples slated for the second half of 2027, according to Tom's Hardware's report from the show."
+   ],
+   "unconfirmed": [
+    "Actual application performance, the claim of transparent access without application changes, the sub-350ns PF-NIC and sub-200ns chiplet latency figures (which exclude PCIe/CXL overhead), pricing, and where Penguin will source HBM3E in volume around 2028 as the industry moves to HBM4."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Penguin Solutions 在 SC26 展出了该设备，Tom's Hardware 报道其 576GB HBM3E／16TB DDR5 容量、7.2 TB/s 聚合带宽目标、三种内存访问模式（HBM 直连、HBM 作 DDR5 写穿缓存、DDR5 直连）以及基于 Marvell PFMM 与 PF-NIC 的架构细节。"
+   ],
+   "unconfirmed": [
+    "透明访问无需改应用、低于 350ns／200ns 的延迟（前者尚未计入 PCIe/CXL 开销）、2027 年下半年送样能否如期，以及多加速器共享后每张卡实际分到多少带宽——这些均无独立测试或第三方验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Penguin demos photonic memory appliance with 576GB HBM3E over optical CXL at SC26",
+  "zh": "Penguin 展出光子外置内存：最高 576GB HBM3E，2027 下半年送样"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/penguin-demos-photonic-memory-appliance-with-576gb-hbm3e-over-optical-250a/",
+  "zh": "/zh/2026/11/23/penguin-demos-photonic-memory-appliance-with-576gb-hbm3e-over-optical-250a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

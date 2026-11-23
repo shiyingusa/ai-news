@@ -1,0 +1,57 @@
+{
+ "event_id": "senate-passes-permitting-overhaul-with-route-for-solar-developers-to-edf2",
+ "issue": "2026-11-23",
+ "section": "ev-energy",
+ "published_at": "2026-11-23T08:15:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Senate passed BAAJA 62-33 as an amendment to H.R. 2347, after a 69-27 vote on Nov. 18 to substitute the bill's text and a 73-25 procedural vote on Nov. 9, pv magazine reported; the bill was introduced Sept. 30 by Senators Shelley Moore Capito, Mike Lee, Sheldon Whitehouse and Martin Heinrich."
+   ],
+   "unconfirmed": [
+    "The specific mechanics — the 60-day delay threshold, 50%-100% damages range, the Nov. 6, 2026 permit cut-off date, the 150-day NEPA window, FERC's one-year state backstop and the 18-month behind-the-meter aggregation rule — come from a section-by-section summary by the Bipartisan Policy Center, not from bill text quoted in the report, and could change in the House; SEIA's estimate that the bill unlocks 167 GW of solar by 2035 is the trade group's own modeling, and the report gives no House vote date."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "参议院以62比33通过作为 H.R. 2347 修正案的 BAAJA，此前11月18日以69比27同意替换文本，11月9日以73比25通过程序性投票；法案由 Capito、Lee、Whitehouse、Heinrich 四位参议员于9月30日提出。上述条款内容来自 BPC 对参议院通过文本的逐条摘要。"
+   ],
+   "unconfirmed": [
+    "众议院是否放行、法案能否在1月初前成为法律；太阳能产业协会（SEIA）所称“2028至2035年新增167吉瓦太阳能、2035年占比超18%”是该行业协会自己的测算，未获独立验证；赔偿比例和60天、150天等具体门槛均依据 BPC 摘要，报道未提供独立核对。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Senate passes permitting overhaul with route for solar developers to sue agencies",
+  "zh": "美参议院通过许可改革法案，允许太阳能开发商起诉联邦机构"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/senate-passes-permitting-overhaul-with-route-for-solar-developers-to-edf2/",
+  "zh": "/zh/2026/11/23/senate-passes-permitting-overhaul-with-route-for-solar-developers-to-edf2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

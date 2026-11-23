@@ -1,0 +1,57 @@
+{
+ "event_id": "new-york-completes-master-plan-for-5-gw-of-advanced-nuclear-5346",
+ "issue": "2026-11-23",
+ "section": "ev-energy",
+ "published_at": "2026-11-23T15:55:07+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/new-york-unveils-advanced-nuclear-master-plan"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "World Nuclear News reports that Hochul announced completion of the Master Plan for Responsible Advanced Nuclear Development and that it sets a 5 GW new nuclear capacity target."
+   ],
+   "unconfirmed": [
+    "which reactor technologies or project sites the plan favours, the timeline for construction, the cost, and any siting, permitting or procurement measures — the report gives none of these details."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据世界核能新闻报道，州长凯西·霍楚尔宣布《负责任先进核能开发总体规划》已完成，该规划为实现新增5吉瓦核电装机容量的目标制定了路线图。"
+   ],
+   "unconfirmed": [
+    "规划包含哪些具体项目、采用何种反应堆技术、项目选址在哪里、资金从何而来、需要经过哪些审批和开工时间安排，以及5吉瓦目标能否落实；报道未给出任何日期，也未说明州议会或监管机构后续将如何审议。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "New York completes master plan for 5 GW of advanced nuclear",
+  "zh": "纽约州公布先进核能总体规划，目标新增5吉瓦"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/new-york-completes-master-plan-for-5-gw-of-advanced-nuclear-5346/",
+  "zh": "/zh/2026/11/23/new-york-completes-master-plan-for-5-gw-of-advanced-nuclear-5346/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

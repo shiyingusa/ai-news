@@ -1,0 +1,57 @@
+{
+ "event_id": "china-details-three-uncrewed-precursor-missions-before-2030-crewed-moon-fc3f",
+ "issue": "2026-11-23",
+ "section": "space",
+ "published_at": "2026-11-22T22:31:24+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "CMSA announced the \"by 2030\" crewed landing goal on May 29, 2023, and this year merged the crewed landing program with the robotic Chang'e program into a single Lunar Exploration Project; Wang Xiang presented the three-uncrewed-mission sequence at the symposium that began Oct. 31, and Chang'e 5 (2020) and Chang'e 6 (2024) did demonstrate autonomous lunar ascent and lunar orbit docking."
+   ],
+   "unconfirmed": [
+    "the 2028 and 2029 dates for the uncrewed lander test and the full dress rehearsal are expectations rather than firm schedules, and no hardware milestone, launch date or independent assessment of the CZ-10, Mengzhou or Lanyue vehicles is reported; the report also does not state whether the three-day surface stay and daily moonwalks change the roughly six hours on the surface described when the goal was announced in 2023."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据中国载人航天工程在第七届载人航天学术大会上的介绍，载人登月与嫦娥机器人探月已合并为单一“探月工程”，由王翔担任总设计师；他在会上给出了三次无人任务（2027年初梦舟-1、约2028年无人揽月着陆、约2029年双箭全流程演练）的先后顺序，相关细节由《NASA太空飞行》报道。"
+   ],
+   "unconfirmed": [
+    "2027年初、2028年、2029年均为报道所述“预计”时间，并非公布的确切发射日期；载人登月是否落在2029年、从而与中华人民共和国成立80周年重合，报道仅称“可能”；三次无人试验的实际硬件状态、长征十号与长征十号甲的首飞时间，均无官方时间表或独立验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "China details three uncrewed precursor missions before 2030 crewed Moon landing",
+  "zh": "中国公布载人登月详细路线图：三次无人任务先行"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/china-details-three-uncrewed-precursor-missions-before-2030-crewed-moon-fc3f/",
+  "zh": "/zh/2026/11/23/china-details-three-uncrewed-precursor-missions-before-2030-crewed-moon-fc3f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

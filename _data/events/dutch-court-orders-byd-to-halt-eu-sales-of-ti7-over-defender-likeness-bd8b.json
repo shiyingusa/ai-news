@@ -1,0 +1,57 @@
+{
+ "event_id": "dutch-court-orders-byd-to-halt-eu-sales-of-ti7-over-defender-likeness-bd8b",
+ "issue": "2026-11-23",
+ "section": "ev-energy",
+ "published_at": "2026-11-23T17:30:00+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/23/court-deems-byd-ti7-too-similar-to-jlr-defender/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "A Dutch court, ruling in interim proceedings, ordered ten BYD subsidiaries to stop building and selling the Ti7 in the EU after finding the model looks too similar to JLR's Defender, electrive reported; the Guardian reported the ban takes effect one week after the ruling and that the court noted BYD \"currently has no concrete plans to place the Ti 7 on the market in the EU.\" Automotive News likewise reported that the court found the Ti7 infringes the Defender's design."
+   ],
+   "unconfirmed": [
+    "No court document or judgment was published alongside the reports, so the injunction's precise terms — how long it lasts, whether it covers imports as well as sales, and whether BYD will appeal — are not established, and the main trial on the infringement claim is still pending, meaning the underlying design dispute has not been finally decided."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "electrive 报道，荷兰法院在临时程序中命令十家比亚迪子公司停止在欧盟生产与销售 Ti7，认定该车外观与捷豹路虎 Defender 过于相似；主审仍未结束，这项临时命令并非终局判决。卫报亦报道，该禁令将在裁决一周后生效。"
+   ],
+   "unconfirmed": [
+    "临时命令的具体法律依据究竟是外观设计权还是版权，以及禁令覆盖的具体车型版本和地域范围，目前仍不清楚；Automotive News 以“版权案”描述此案，与“外观相似”的表述并不完全一致。卫报称，裁决提到比亚迪“目前没有在欧盟市场推出 Ti7 的具体计划”；这一细节仅来自单家报道，若属实，禁令对实际销量的影响仍待观察。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Dutch court orders BYD to halt EU sales of Ti7 over Defender likeness",
+  "zh": "荷兰法院临时裁定：比亚迪Ti7因外观近似捷豹路虎卫士被禁在欧盟销售"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/dutch-court-orders-byd-to-halt-eu-sales-of-ti7-over-defender-likeness-bd8b/",
+  "zh": "/zh/2026/11/23/dutch-court-orders-byd-to-halt-eu-sales-of-ti7-over-defender-likeness-bd8b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "eu-council-signals-shift-away-from-binding-ev-quotas-for-corporate-1ecb",
+ "issue": "2026-11-23",
+ "section": "ev-energy",
+ "published_at": "2026-11-23T14:30:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/23/eu-council-signals-shift-away-from-binding-ev-quotas-for-corporate-fleets/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The European Parliament's press service reports that MEPs backed draft rules covering corporate cars and vans of large businesses (more than 250 employees and turnover above €50 million), adopted 89 votes to 29 with four abstentions, that would replace binding quotas with aspirational national targets ranging from 67% to 95% for 2030 and 2035; electrive reported on 27 October that the EVP group had secured a majority against binding quotas."
+   ],
+   "unconfirmed": [
+    "That the Council has formally endorsed a voluntary approach — the report says only that the Council \"seems to be following suit\" and cites no Council document or vote, and the final scope, target levels and legal force will not be settled until member states and Parliament conclude negotiations."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据欧洲议会新闻公报（2026 年 11 月 4 日），议会相关委员会以 89 票赞成、29 票反对、4 票弃权通过草案立场，将成员国在 2030 年和 2035 年新注册企业车辆中零排放与低排放车辆占比目标设为“努力目标”（aspirational targets），区间为 67% 至 95%；草案覆盖欧盟境内雇员超过 250 人、营业额超过 5000 万欧元的大型企业注册的企业用车和厢式车。electrive 10 月 27 日亦报道，欧洲人民党（EVP）已在议会内取得多数，反对具约束力的企业车队电动车配额。"
+   ],
+   "unconfirmed": [
+    "报道称欧盟理事会“似乎”正跟随议会将约束性配额降为自愿目标，但未引用理事会官方文件、表决结果或具体立场文本，理事会正式立场及最终三方谈判结果均未确定；报道也未给出后续表决或生效时间表。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "EU Council signals shift away from binding EV quotas for corporate fleets",
+  "zh": "欧盟理事会倾向把企业车队电动车配额降为自愿目标"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/eu-council-signals-shift-away-from-binding-ev-quotas-for-corporate-1ecb/",
+  "zh": "/zh/2026/11/23/eu-council-signals-shift-away-from-binding-ev-quotas-for-corporate-1ecb/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

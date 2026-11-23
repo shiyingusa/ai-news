@@ -1,0 +1,62 @@
+{
+ "event_id": "amazon-to-buy-much-of-decart-for-7-5b-bloomberg-reports-6a79",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T17:14:23+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+  },
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Amazon has agreed to acquire much of the AI startup Decart, including its Decart Optimization Stack along with its founding team and AI researchers, Bloomberg's Matt Day reported, citing a person familiar with the matter; Amazon's own announcement confirmed the agreement but gave no price, according to explainx.ai's account of that post. The deal is described as signed, not closed."
+   ],
+   "unconfirmed": [
+    "The ~$7.5 billion figure comes only from Bloomberg's unnamed source — Amazon has not disclosed a price, and the same reporting says Amazon is not acquiring Decart's AI models (Lucy, Oasis and similar). What exactly is excluded, the deal's closing conditions and timing, and any link to Trainium sales plans are not established by the primary sources."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "彭博社记者 Matt Day 报道，亚马逊已同意收购 Decart 的大部分资产，包括 Decart Optimization Stack 优化软件栈及其创始团队和 AI 研究人员（tool-2-1、tool-2-2）；据 explainX 引述的亚马逊官方新闻稿，亚马逊确认签署了收购该优化软件栈并聘用其联合创始人和 AI 团队的协议（tool-2-3）。"
+   ],
+   "unconfirmed": [
+    "约 75 亿美元的对价仅来自彭博社援引的匿名消息源，亚马逊的公告并未给出金额；交易是否已完成交割、以现金还是股票支付，均无官方说明；彭博社称亚马逊不收购 Decart 的 Lucy、Oasis 等 AI 模型，这一点同样不见于亚马逊公告；报道也没有说明这笔收购与亚马逊对外销售 Trainium 芯片之间的具体联系。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Amazon to buy much of Decart for $7.5B, Bloomberg reports",
+  "zh": "亚马逊据报以75亿美元收购Decart优化技术及研究团队"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/amazon-to-buy-much-of-decart-for-7-5b-bloomberg-reports-6a79/",
+  "zh": "/zh/2026/11/23/amazon-to-buy-much-of-decart-for-7-5b-bloomberg-reports-6a79/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

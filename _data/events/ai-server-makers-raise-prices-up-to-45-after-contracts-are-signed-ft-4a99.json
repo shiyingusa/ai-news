@@ -1,0 +1,57 @@
+{
+ "event_id": "ai-server-makers-raise-prices-up-to-45-after-contracts-are-signed-ft-4a99",
+ "issue": "2026-11-23",
+ "section": "chips-compute",
+ "published_at": "2026-11-23T12:30:00+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Financial Times reported that data center server suppliers are seeking price increases of 25%, 30% or as much as 45% on contracts signed months earlier, with GPU servers up 20–30% and memory-heavy CPU nodes doubling or tripling in price; TrendForce and other outlets repeated the figures, crediting the FT. The one documented dispute is on the record: XTX Finland Oy is suing a Dell Irish subsidiary over an added $62–70 million on a previously agreed $549 million order for 1,680 servers, a case The Irish Times reported in June and that is still ongoing."
+   ],
+   "unconfirmed": [
+    "Every percentage figure rests on unnamed people described by the FT, with no customer, contract, invoice or specific server model and configuration published, and no supplier named in the FT account beyond the Dell litigation; whether buyers hold clauses capping price volatility is unresolved — the FT asked the companies it contacted and none confirmed or denied it."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "《金融时报》报道称，服务器供应商在合同签署数月后向客户提出涨价，涨幅分别有 25%、30%、45% 等档位；GPU 服务器涨价 20%–30%，内存密集型 CPU 节点价格翻倍或涨至三倍（Tom's Hardware 与 TrendForce 均转述该报道）。另据《爱尔兰时报》报道，XTX Finland Oy 已于 2026 年 6 月就戴尔爱尔兰子公司在一笔 5.49 亿美元、1680 台服务器订单上追加 6200 万至 7000 万美元的要求提起诉讼，案件仍在审理中。"
+   ],
+   "unconfirmed": [
+    "上述涨幅均出自《金融时报》援引的未具名消息人士，没有具名供应商出面确认具体涨幅、涉及客户或机型；报道也未说明这些合同是否包含价格波动条款——《金融时报》询问过的公司均未证实也未否认。DRAM 短缺是涨价主因的说法同样只有消息人士口径，缺少独立的成本拆解或第三方核价。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "AI server makers raise prices up to 45% after contracts are signed, FT reports",
+  "zh": "AI服务器签约后涨价最高45%，内存短缺推高节点成本"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/ai-server-makers-raise-prices-up-to-45-after-contracts-are-signed-ft-4a99/",
+  "zh": "/zh/2026/11/23/ai-server-makers-raise-prices-up-to-45-after-contracts-are-signed-ft-4a99/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,62 @@
+{
+ "event_id": "blog-post-on-17-million-line-lean-artifact-sparks-llm-proof-debate-8e70",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T05:00:49+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "micjm.com",
+   "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50607668"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "A blog post at micjm.com argues that a 17-million-line Lean proof is large enough to raise review concerns, and Hacker News commenters discussed the implications for LLM-assisted proof generation."
+   ],
+   "unconfirmed": [
+    "That the proof is LLM-generated, that it concerns the Generalized Riemann Hypothesis, and that it has been reduced to 13 million lines all rest on community comments and were not established by the available source material."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "该条目指向的博客文章讨论了一个约 1700 万行的 Lean 证明工件，相关 Hacker News 讨论集中在 LLM 辅助证明的正确性风险。"
+   ],
+   "unconfirmed": [
+    "该证明是否由 LLM 生成、是否包含逻辑错误，以及评论中“已降到 1300 万行”的说法，均未在给出的材料中得到独立确认；博客文章的具体论证也未提供。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Blog post on 17-million-line Lean artifact sparks LLM proof debate",
+  "zh": "1700 万行 Lean 证明引发可信度争论"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/blog-post-on-17-million-line-lean-artifact-sparks-llm-proof-debate-8e70/",
+  "zh": "/zh/2026/11/23/blog-post-on-17-million-line-lean-artifact-sparks-llm-proof-debate-8e70/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

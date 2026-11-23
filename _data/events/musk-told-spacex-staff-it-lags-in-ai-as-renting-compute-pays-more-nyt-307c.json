@@ -1,0 +1,57 @@
+{
+ "event_id": "musk-told-spacex-staff-it-lags-in-ai-as-renting-compute-pays-more-nyt-307c",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T17:35:00+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html?unlocked_article_code=1.SlE.aCYC.YU6IyUKPOOHb&amp;smid=url-share"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The New York Times reported on November 23, citing unnamed sources, that Elon Musk told SpaceX employees the company is falling behind in AI and that renting data-center computing to competitors, including Anthropic, is more lucrative than using it to improve SpaceX's own products; Quartz and Fortune have likewise reported that SpaceX leases compute capacity to AI companies."
+   ],
+   "unconfirmed": [
+    "SpaceX has not publicly confirmed the internal meeting, Musk's remarks, or which companies are customers — the Times account rests entirely on people it does not name, and no contract terms, capacity figures, or revenue numbers have been disclosed. Quartz's headline names Google as a customer alongside Anthropic, while the Times summary names only Anthropic, so the full customer list remains unconfirmed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《纽约时报》11月23日报道（Techmeme 转引），马斯克已告知 SpaceX 员工公司在前沿 AI 上落后，并认为把数据中心的算力出租给竞争对手（包括 Anthropic）比用于改进自家产品更赚钱；Quartz 同日报道亦如此表述。"
+   ],
+   "unconfirmed": [
+    "SpaceX 与马斯克本人均未公开确认上述内部讲话，相关说法全部来自《纽约时报》的匿名消息源；报道未披露租赁合同的规模、金额、期限，也未说明出租算力具体挤占了多少内部 AI 研发资源。客户名单亦不一致：Techmeme 与《纽约时报》摘要仅点名 Anthropic，而 Quartz 标题及《纽约时报》文章链接同时提到 Google，Google 是否为租户尚无独立证实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Musk told SpaceX staff it lags in AI as renting compute pays more, NYT reports",
+  "zh": "马斯克称SpaceX在AI上落后，出租算力比自用更赚钱，《纽约时报》报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/musk-told-spacex-staff-it-lags-in-ai-as-renting-compute-pays-more-nyt-307c/",
+  "zh": "/zh/2026/11/23/musk-told-spacex-staff-it-lags-in-ai-as-renting-compute-pays-more-nyt-307c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

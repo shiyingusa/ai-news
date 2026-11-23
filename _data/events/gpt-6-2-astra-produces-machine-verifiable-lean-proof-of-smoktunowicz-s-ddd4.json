@@ -1,0 +1,57 @@
+{
+ "event_id": "gpt-6-2-astra-produces-machine-verifiable-lean-proof-of-smoktunowicz-s-ddd4",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T12:17:01+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Vals AI's own write-up states that GPT-6.2 Astra wrote a Lean 4 proof of Smoktunowicz's gap theorem for graded domains in 94 minutes, about 1,800 lines, taking a route that differs from the published proof — building on a new quantity it called \"capacity\" and working around three deep results absent from Mathlib; The Decoder also reports Astra leading Autoform-Hard with 49 of 56 tasks solved."
+   ],
+   "unconfirmed": [
+    "the claim that this is the first computer-checkable proof of the theorem and that no other AI could solve it rests on Vals AI's assessment rather than an independent review, and neither OpenAI nor a third party has publicly confirmed the \"self-invented strategy\" framing, the leaderboard figures, or how much scaffolding and human guidance the 94-minute run involved."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Vals AI 发布了评测说明与带注释的证明，称 GPT-6.2 Astra 用 94 分钟、约 1800 行 Lean 4 代码给出了代数家 Agata Smoktunowicz 间隙定理（graded domains 情形）的可机器验证形式化证明，且所走路线与已发表的证明不同；另外两家媒体转述了相同的时间和代码行数。The Decoder 报道称 Astra 以 56 项中解出 49 项领跑 Autoform-Hard 榜单。"
+   ],
+   "unconfirmed": [
+    "“首个此类证明”目前只是 Vals AI 的说法（另一家媒体写作“被认为是首个”），没有独立第三方复核该证明或 Autoform-Hard 成绩；该定理此前已有正式发表的数学证明，Astra 完成的是形式化，而非提出新定理，标题中“解出无其他 AI 能解的定理”应在此意义下理解；它自创的“capacity”量及绕开 Mathlib 缺失引理的具体做法，细节也未获独立评估。现有报道中未见 OpenAI 的官方声明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "GPT-6.2 Astra produces machine-verifiable Lean proof of Smoktunowicz's gap theorem",
+  "zh": "GPT-6.2 Astra 给出 Smoktunowicz 间隙定理的可机器验证 Lean 证明"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/gpt-6-2-astra-produces-machine-verifiable-lean-proof-of-smoktunowicz-s-ddd4/",
+  "zh": "/zh/2026/11/23/gpt-6-2-astra-produces-machine-verifiable-lean-proof-of-smoktunowicz-s-ddd4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

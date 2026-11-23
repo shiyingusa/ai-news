@@ -1,0 +1,57 @@
+{
+ "event_id": "starship-s-first-second-stage-catch-reframes-launch-costs-geekpark-d151",
+ "issue": "2026-11-23",
+ "section": "space",
+ "published_at": "2026-11-23T07:49:06+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "GeekPark (极客公园)",
+   "url": "http://www.geekpark.net/news/374355"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "SpaceX caught Starship's upper stage with the launch tower's arms at Starbase, Texas, on November 14, 2026, after Flight 15 lifted off on November 13 carrying 26 Starlink satellites; the Super Heavy booster was caught as well, the first time both stages of the 124-meter vehicle were recovered (Ars Technica, Phys.org, and SpaceX's own launch webcast)."
+   ],
+   "unconfirmed": [
+    "the roughly 22.5-hour orbital duration of the ship's flight and the framing of the catch as the first engineering validation of orbital-class heavy spacecraft recovery rest on GeekPark's account alone. Every figure about the Chinese startup 穿越者 (Space Transportation Pioneer) — its January 2023 founding, the under-5g touchdown impact in its full-size landing-buffer test, the claim to be the world's third commercial company to complete such a test, the CYZ1 / CYZ2.1 / CYZ2.2 three-stage plan, and its plan to tender 30 commercial crewed launches — comes from the company itself, with no dates attached to the milestones. The argument that second-stage recovery will bend the space-economy cost curve is the outlet's and its interviewees' projection, not an independently measured result."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Ars Technica 与 phys.org 报道，SpaceX 于 2026 年 11 月 13 日执行星舰第 15 次试飞，飞船在 11 月 14 日返回时于得州星基地被发射塔机械臂捕获；本次试飞同时回收了超重型助推器与飞船上面级，是星舰首次实现两级同时回收。"
+   ],
+   "unconfirmed": [
+    "极客公园所称“约 22.5 小时轨道飞行”“人类航天史上第一次完成轨道级大载重飞船回收工程验证”属该媒体的表述与业内解读，文中未直接引述 SpaceX 的说法；关于穿越者的“全球第三家完成此类全尺寸着陆缓冲试验”“触地冲击过载控制在 5g 以内”、三阶段研制规划，以及面向国内火箭企业采购“未来 30 次商业载人发射”运力等信息，均出自该公司自述，无独立来源验证；文章也未交代捕获后飞船的实际状态与复用计划。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Starship's first second-stage catch reframes launch costs, GeekPark reports",
+  "zh": "星舰飞船完成轨道级回收验证"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/starship-s-first-second-stage-catch-reframes-launch-costs-geekpark-d151/",
+  "zh": "/zh/2026/11/23/starship-s-first-second-stage-catch-reframes-launch-costs-geekpark-d151/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

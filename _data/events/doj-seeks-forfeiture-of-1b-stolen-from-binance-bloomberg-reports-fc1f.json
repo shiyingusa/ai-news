@@ -1,0 +1,57 @@
+{
+ "event_id": "doj-seeks-forfeiture-of-1b-stolen-from-binance-bloomberg-reports-fc1f",
+ "issue": "2026-11-23",
+ "section": "tech-industry",
+ "published_at": "2026-11-23T17:25:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-seeks-to-recover-more-than-1-billion-from-binance-hack"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg reported Monday that a court filing shows the DOJ seeking forfeiture of more than $1 billion in cryptocurrency stolen from Binance by hackers linked to North Korea."
+   ],
+   "unconfirmed": [
+    "The filing's exact legal basis, the precise amount, whether the funds have been located or seized, and the court's response are not established in the report; no independent confirmation or ruling was cited."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据彭博社报道，美国司法部于周一提交法庭文件，寻求没收逾1亿美元——即超过10亿美元——据称由与朝鲜有关联的黑客从币安窃取的加密货币，依据是这份法院文件。"
+   ],
+   "unconfirmed": [
+    "这批资金目前是否已被冻结或由美方实际控制、对应的是哪一次入侵及发生时间、“与朝鲜关联”的具体依据，均只见于彭博社对法庭文件的转述，报道未引用司法部公开声明，也无独立验证；资金数额的具体构成同样未作说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "DOJ seeks forfeiture of $1B+ stolen from Binance, Bloomberg reports",
+  "zh": "美司法部寻求没收朝鲜关联黑客从币安窃取的逾10亿美元加密资产"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/doj-seeks-forfeiture-of-1b-stolen-from-binance-bloomberg-reports-fc1f/",
+  "zh": "/zh/2026/11/23/doj-seeks-forfeiture-of-1b-stolen-from-binance-bloomberg-reports-fc1f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "openai-scientist-proposes-shared-ai-development-limits-warns-of-2027-903b",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T01:22:36+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "GeekPark (极客公园)",
+   "url": "http://www.geekpark.net/news/374304"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI chief scientist Jakub Pachocki published a post proposing that leading AI labs agree on measurable limits for advanced model development, built around perplexity as a cross-company tracking metric — TechCrunch and ForkLog both reported the post on Nov 22."
+   ],
+   "unconfirmed": [
+    "The specific internal figures (log-perplexity of about 0.99 for GPT-3.5 and 0.91 for GPT-4, capability jumps below 0.8, breakthroughs near 0.76, transformative capability at 0.68–0.7), Sam Altman's endorsement, and the 2027 acceleration warning come only from the post as relayed by GeekPark/CnBeta; no other lab has adopted the proposal or published comparable numbers, which AI Weekly notes leaves the \"common limits\" idea without a second signatory, and no independent test confirms the thresholds."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据极客公园援引 CnBeta 的报道，OpenAI 首席科学家雅库布·帕霍茨基（Jakub Pachocki）于 11 月 22 日发表文章，提议各家 AI 企业为先进模型开发建立可测量的行业共同限制，并以困惑度（perplexity，衡量模型预测下一个文本 Token 的能力）等可跨企业追踪的指标设定首个开发门槛；TechCrunch 同日也报道了这篇文章，并指出其核心正是困惑度这一度量。OpenAI CEO 萨姆·奥尔特曼公开称这是 OpenAI 一段时间以来最重要的文章之一，并支持行业就共同限制达成一致。文章还披露了 OpenAI 内部的对数困惑度数据：GPT-3.5 约 0.99、GPT-4 约 0.91。"
+   ],
+   "unconfirmed": [
+    "对数困惑度降至 0.8 时出现网络安全与数学新能力、约 0.76 时在部分开放数学问题上取得突破，以及进入 0.68–0.7 区间可能出现“变革性能力”，这些门槛与对应现象都只是 OpenAI 一方的内部观察；关于最早 2027 年预训练出现快速进展、而对齐与行为监控可能跟不上的判断同样属于该公司预测，未经独立验证。目前没有任何其他前沿实验室公开承诺加入或公布可比的困惑度数据，也尚无成形的标准、评测协议或实施时间表；中文报道属于二手汇总，未附原文链接和完整评测方法。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI scientist proposes shared AI development limits, warns of 2027 acceleration",
+  "zh": "OpenAI首席科学家提议设AI开发行业统一门槛"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/openai-scientist-proposes-shared-ai-development-limits-warns-of-2027-903b/",
+  "zh": "/zh/2026/11/23/openai-scientist-proposes-shared-ai-development-limits-warns-of-2027-903b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
