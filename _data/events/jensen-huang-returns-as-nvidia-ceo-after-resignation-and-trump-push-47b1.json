@@ -1,0 +1,67 @@
+{
+ "event_id": "jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1",
+ "issue": "2026-11-23",
+ "section": "tech-industry",
+ "published_at": "2026-11-23T19:57:18+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+  },
+  {
+   "tier": "independent",
+   "name": "Axios",
+   "url": "https://www.axios.com/2026/11/23/trump-vance-jensen-huang-nvidia-ceo-return"
+  },
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Verge reported that Nvidia's board accepted Jensen Huang's resignation as CEO on November 12, and Reuters and the New York Post reported that the board reinstated him on November 23, 11 days later; Huang himself acknowledged he had been \"unfaithful\" to his wife and had \"created problems for the board.\" The New York Post reported that President Trump praised the board's decision as \"correct and proper.\""
+   ],
+   "unconfirmed": [
+    "Axios's account that Trump personally pushed Nvidia to reinstate Huang, which rests on unnamed sources, along with the underlying allegations that Huang had an affair with a woman reportedly passing intelligence to China and that a Chinese intelligence agency was involved in the matter — accusations that come from NYT reporting cited by The Verge, not from any official finding. The Verge's article is truncated and no source details the board's deliberations or the terms of Huang's return."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "黄仁勋于11月12日辞去 Nvidia CEO 一职，他本人承认对妻子“不忠”，并称自己“给董事会制造了问题”；据路透社和《纽约邮报》报道，11月23日 Nvidia 董事会重新任命他为 CEO，距辞职仅11天，特朗普随后公开称赞董事会做出了“正确且恰当”的决定。"
+   ],
+   "unconfirmed": [
+    "特朗普“施压”公司恢复黄仁勋一事仅见于 Axios 引述的匿名知情人士，白宫与 Nvidia 均未公开说明施压方式或董事会内部表决情况；辞职起因于一名被指为中国从事间谍活动的女性的说法，目前依赖《纽约时报》等媒体的报道，相关指控未经独立证实，Nvidia 也未公布调查结论。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Jensen Huang returns as Nvidia CEO after resignation and Trump push",
+  "zh": "黄仁勋辞任英伟达CEO后再回归，Axios称特朗普曾施压董事会"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1/",
+  "zh": "/zh/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

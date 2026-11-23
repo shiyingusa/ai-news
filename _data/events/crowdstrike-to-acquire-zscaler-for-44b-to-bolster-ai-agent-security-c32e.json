@@ -1,0 +1,55 @@
+{
+ "event_id": "crowdstrike-to-acquire-zscaler-for-44b-to-bolster-ai-agent-security-c32e",
+ "issue": "2026-11-23",
+ "section": "tech-industry",
+ "published_at": "2026-11-23T16:20:11+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "CrowdStrike has agreed to acquire Zscaler in an all-stock transaction that values the zero-trust security provider at about $43.9 billion, according to statements reported by CNBC, Bloomberg and The Information; CNBC reported the deal is expected to close in the second half of CrowdStrike's fiscal 2028, and CrowdStrike said the combination would better equip customers to use AI agents."
+   ],
+   "unconfirmed": [
+    "The $44 billion figure in the headline is a rounding of the ~$43.9 billion stated deal value, and the sources give no exchange ratio, regulatory-review status, breakup terms, or financing detail. Neither company's own press release is in the available reporting, and no independent assessment of the price or of the AI-agent rationale has been published, so the strategic justification rests on CrowdStrike's word."
+   ]
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": [
+    "每股收购价、双方董事会是否已批准、Zscaler 股东大会与监管审批的时间表均未在报道中披露；CrowdStrike 所称交易将“让客户更好地使用 AI 智能体”属于公司给出的理由，尚无独立验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "CrowdStrike to acquire Zscaler for $44B to bolster AI agent security",
+  "zh": "CrowdStrike 拟以 440 亿美元收购 Zscaler，TechCrunch 报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/crowdstrike-to-acquire-zscaler-for-44b-to-bolster-ai-agent-security-c32e/",
+  "zh": "/zh/2026/11/23/crowdstrike-to-acquire-zscaler-for-44b-to-bolster-ai-agent-security-c32e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "reports-russia-may-launch-nuclear-armed-satellite-sooner-than-assessed-34d7",
+ "issue": "2026-11-23",
+ "section": "space",
+ "published_at": "2026-11-23T19:28:30+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "German media reported on Monday, November 23, that Western intelligence officials believe Russia could put a nuclear-armed satellite into orbit before the end of the year, and the German government said it is taking those reports very seriously, The Guardian reported. US lawmakers were briefed in early 2024 on the program, and US officials said then that Russia had flown a 2022 test satellite to study radiation effects on space hardware but had not placed a nuclear weapon in orbit."
+   ],
+   "unconfirmed": [
+    "that a launch decision has actually been made or that a December launch will happen — the timing rests on anonymous intelligence assessments relayed by German outlets, including German Space Command's view that a launch could come as early as December and the report that a satellite designated Sputnik-S has sat in storage near Moscow for years. There is no official Russian confirmation, no public primary documentation of the payload, and no independent verification of the satellite's status or launch schedule."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "德国媒体 11 月 23 日报道，西方情报官员担心俄罗斯可能在年底前将一枚核武装卫星送入轨道；德国政府同日表示正“非常严肃”对待这一报道（《卫报》）。可查的公开背景是，美国国会议员早在 2024 年初就听取过有关俄方寻求部署天基核武器的情报简报，当时美方官员称俄罗斯尚未把核武器送入轨道。"
+   ],
+   "unconfirmed": [
+    "报道所称“最早 12 月”发射的时间表、卫星代号 Sputnik-S 以及其长期存放于莫斯科周边地区等细节，均出自德国媒体报道，未见俄罗斯官方回应，也没有美国或北约的公开文件佐证；该卫星是否已具备可用作战能力同样未知。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Reports: Russia may launch nuclear-armed satellite sooner than assessed",
+  "zh": "报道称俄罗斯或最快下月将核武器送入轨道"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/reports-russia-may-launch-nuclear-armed-satellite-sooner-than-assessed-34d7/",
+  "zh": "/zh/2026/11/23/reports-russia-may-launch-nuclear-armed-satellite-sooner-than-assessed-34d7/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

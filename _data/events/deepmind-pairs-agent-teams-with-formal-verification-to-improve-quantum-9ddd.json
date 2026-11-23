@@ -1,0 +1,57 @@
+{
+ "event_id": "deepmind-pairs-agent-teams-with-formal-verification-to-improve-quantum-9ddd",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T16:59:40+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Google DeepMind published a blog post, dated 23 November 2026, describing the use of agent teams and formal verification to improve quantum algorithms for fusion and chemistry, per the company's own announcement."
+   ],
+   "unconfirmed": [
+    "the specific algorithms modified, the size or nature of any speedup, the verification method used, and whether the work has appeared in a peer-reviewed paper or as released code — the post's description as available gives none of these details, and no independent test is cited."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Google DeepMind 在其官方博客发文，称使用智能体团队与形式化验证改进用于聚变和化学的量子算法。"
+   ],
+   "unconfirmed": [
+    "改进的具体幅度与算法细节；形式化验证在这些结果中究竟证明了什么；结果是否经过独立复现或同行评审。博客摘要未披露论文、代码、基准数据或发布时间表。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "DeepMind pairs agent teams with formal verification to improve quantum algorithms",
+  "zh": "DeepMind 用智能体团队与形式化验证改进量子算法"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/deepmind-pairs-agent-teams-with-formal-verification-to-improve-quantum-9ddd/",
+  "zh": "/zh/2026/11/23/deepmind-pairs-agent-teams-with-formal-verification-to-improve-quantum-9ddd/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

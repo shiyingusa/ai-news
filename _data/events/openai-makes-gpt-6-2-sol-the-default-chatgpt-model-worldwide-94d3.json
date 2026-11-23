@@ -1,0 +1,57 @@
+{
+ "event_id": "openai-makes-gpt-6-2-sol-the-default-chatgpt-model-worldwide-94d3",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T20:39:18+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Decoder reports that OpenAI is making GPT-6.2 Sol the default model in ChatGPT's chat tab with a worldwide rollout, and that OpenAI cites internal-test improvements in image understanding (47.4 to 71.7 percent), difficult-instruction handling (78.1 percent correct), and safety-policy adherence."
+   ],
+   "unconfirmed": [
+    "The benchmark numbers are OpenAI's internal figures with no published test sets, scoring method, or comparison protocol, and no independent evaluation has reproduced them. The report also leaves out the exact rollout timeline, whether the model is available through the API, and whether users can keep using the previous default."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "The Decoder 报道 OpenAI 已将 GPT-6.2 Sol 设为 ChatGPT 聊天标签页的全球默认模型，并引用其内部测试数据。"
+   ],
+   "unconfirmed": [
+    "图像理解从 47.4% 升至 71.7%、复杂指令正确率 78.1% 等数字均为 OpenAI 自测，缺少独立复现；完整上线时间、API 可用性与定价未披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI makes GPT-6.2 Sol the default ChatGPT model worldwide",
+  "zh": "OpenAI 将 GPT-6.2 Sol 设为 ChatGPT 全球默认模型"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/openai-makes-gpt-6-2-sol-the-default-chatgpt-model-worldwide-94d3/",
+  "zh": "/zh/2026/11/23/openai-makes-gpt-6-2-sol-the-default-chatgpt-model-worldwide-94d3/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

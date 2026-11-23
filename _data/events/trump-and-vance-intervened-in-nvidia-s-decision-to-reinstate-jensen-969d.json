@@ -1,0 +1,57 @@
+{
+ "event_id": "trump-and-vance-intervened-in-nvidia-s-decision-to-reinstate-jensen-969d",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T19:30:02+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Reuters",
+   "url": "https://www.reuters.com/world/us/trump-saw-nvidias-huang-protector-open-weight-ai-models-sources-say-2026-11-23/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Reuters reported, citing sources it did not name, that President Donald Trump and Vice President JD Vance personally intervened in Nvidia's decision to reinstate Jensen Huang as CEO over the weekend, convinced he alone protected American-made open-weight AI models (Reuters, byline Steve Holland and Courtney Rozen, Nov 23). Trump himself acknowledged speaking to Nvidia's board directly about Huang, and Semafor reported that he dialed into Nvidia's Sunday board meeting hours before the reinstatement was announced. Separately, the Senate banking committee announced that Huang, now reinstated, will testify on 3 December in a hearing titled \"Protecting America's AI Advantage: Oversight of the US Export Controls.\""
+   ],
+   "unconfirmed": [
+    "Why Huang had been out of the CEO role, what specifically Trump and Vance said to the board, and whether the open-weight AI argument was the board's actual stated reason rather than the officials' belief as described by Reuters' unnamed sources. The report carries no on-record comment from Nvidia, the board, the White House or Huang, and no company statement, commitments on open-weight policy, or details of any quid pro quo appear in the available accounts."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "路透社报道（雅虎转载）称，据知情人士消息，美国总统特朗普与副总统万斯亲自介入英伟达让黄仁勋复职的决定；Semafor 报道称，在英伟达周日的董事会会议开始前数小时，特朗普致电该会议，主张让黄仁勋回归；《卫报》直播博客称，特朗普本人表示曾直接与英伟达董事会谈及黄仁勋，并称黄仁勋将于 12 月 3 日出席参议院银行委员会名为“保护美国 AI 优势：美国出口管制监督”的公开听证会。"
+   ],
+   "unconfirmed": [
+    "特朗普与万斯“相信只有黄仁勋一人在保护美国制造的开放权重模型”这一动机，目前仅来自匿名消息源；两人在介入中具体说了什么、董事会如何表决、是否存在任何政策交换，均无公开记录，英伟达也未就此次介入公开发声。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Trump and Vance intervened in Nvidia's decision to reinstate Jensen Huang, Reuters reports",
+  "zh": "特朗普与万斯亲自介入英伟达决策，认定黄仁勋独自守护开放权重模型，路透社报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/trump-and-vance-intervened-in-nvidia-s-decision-to-reinstate-jensen-969d/",
+  "zh": "/zh/2026/11/23/trump-and-vance-intervened-in-nvidia-s-decision-to-reinstate-jensen-969d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

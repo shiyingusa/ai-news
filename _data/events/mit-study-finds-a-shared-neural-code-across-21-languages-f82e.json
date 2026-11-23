@@ -1,0 +1,57 @@
+{
+ "event_id": "mit-study-finds-a-shared-neural-code-across-21-languages-f82e",
+ "issue": "2026-11-23",
+ "section": "science-bio",
+ "published_at": "2026-11-23T21:15:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "MIT News",
+   "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "MIT News reports that a study led by Andrea Gregor de Varda and senior author Evelina Fedorenko, both of MIT's McGovern Institute, was published in Nature Neuroscience and built encoding models — tools that map a language model's internal numbers onto predicted brain activity — for 21 languages. The team combined existing brain-scan data from speakers of 12 languages with newly recorded data from speakers of nine more (including Italian, German, Russian, Hindi, Arabic, Mandarin and Korean) who listened to \"Alice in Wonderland\" in their native language, and reports that the models predicted brain responses in every language tested."
+   ],
+   "unconfirmed": [
+    "The headline interpretation — that the shared component across languages is specifically meaning — rests on the authors' own feature analysis, and the MIT account gives no prediction-accuracy figures, no comparison against alternative explanations, and no independent replication; the version of the text provided also cuts off mid-sentence in de Varda's remarks on how languages differ. The claimed future applications, from multilingual tools for detecting cognitive decline to reconstructing a dying language from one speaker's brain scans, are stated as possibilities, not demonstrated results."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "麻省理工学院新闻办公室称，这项研究已于 2026 年 11 月 23 日发表在《自然-神经科学》（Nature Neuroscience），第一作者为 Andrea Gregor de Varda，资深作者为麦戈文脑研究所的 Evelina Fedorenko。研究把 21 种语言（含南非荷兰语、马拉地语、立陶宛语、越南语、印地语、阿拉伯语、普通话、韩语等）的脑成像数据与多语言模型的输出结合，训练出编码模型，并报告这些模型对各语言的大脑反应都有准确预测；一个只用单一语言训练的模型也能预测未经训练语言的大脑活动，研究者据此把跨语言共享的成分指向“意义”。"
+   ],
+   "unconfirmed": [
+    "上述预测准确度没有给出具体数值，也没有独立团队复现；“人类存在共同神经编码”是对模型预测相似性的解读，文章未排除其他解释。用 AI 语言工具做认知衰退诊断、以及反向还原濒危语言说话者脑信号，均属研究者的未来设想，尚无临床或实地验证；新闻稿正文在 de Varda 谈语言差异处中断，论文列出的局限未能看到。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "MIT study finds a shared neural code across 21 languages",
+  "zh": "MIT 研究用多语言 AI 模型发现跨 21 种语言的共同神经编码"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/mit-study-finds-a-shared-neural-code-across-21-languages-f82e/",
+  "zh": "/zh/2026/11/23/mit-study-finds-a-shared-neural-code-across-21-languages-f82e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

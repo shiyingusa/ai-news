@@ -1,0 +1,57 @@
+{
+ "event_id": "fda-approves-welgemda-first-drug-for-limb-girdle-muscular-dystrophy-babb",
+ "issue": "2026-11-23",
+ "section": "science-bio",
+ "published_at": "2026-11-23T21:23:42+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "STAT News",
+   "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "STAT reported that the FDA approved BridgeBio's Welgemda (ribitol) on Monday as the first drug for limb-girdle muscular dystrophy, specifically the LGMD 2i/R9 subtype; BridgeBio said it will charge insurers $75,446.58 per 28-day supply, just under $1 million a year, and estimates 2,000–3,000 U.S. patients and 4,000–5,000 in Europe. BridgeBio's NDA for the same subtype was submitted in late March 2026 and accepted with priority review in late May 2026, per company announcements."
+   ],
+   "unconfirmed": [
+    "The STAT+ excerpt is truncated and carries no trial data, so the magnitude of benefit, the label's age range and any post-marketing requirements, the U.S. launch date, and actual insurer coverage remain unclear; the $75,446.58 figure is a list price before any rebates or discounts, and the patient counts are company estimates rather than registry counts."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 STAT 报道，FDA 于 11 月 23 日（周一）批准 BridgeBio 的 Welgemda（ribitol）用于 LGMD 2i/R9 亚型，这是肢带型肌营养不良症的首个获批药物；BridgeBio 表示，28 天用量将向保险公司收取 75,446.58 美元，折合年费用略低于 100 万美元。"
+   ],
+   "unconfirmed": [
+    "这篇报道没有给出支撑此次批准的关键临床试验数据，例如步行能力等终点和安全性结果。此前的公司公告称，该药的新药申请获得优先审评，3 期结果涉及步行改善，但这些细节未在此文中得到核实。报道也未说明具体的上市时间和保险覆盖安排。此外，美国 2,000–3,000 名、欧洲 4,000–5,000 名患者是 BridgeBio 自行估算，年费用是对保险公司标价而非净价。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "FDA approves Welgemda, first drug for limb-girdle muscular dystrophy",
+  "zh": "FDA批准首款肢带型肌营养不良症药物Welgemda"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/fda-approves-welgemda-first-drug-for-limb-girdle-muscular-dystrophy-babb/",
+  "zh": "/zh/2026/11/23/fda-approves-welgemda-first-drug-for-limb-girdle-muscular-dystrophy-babb/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "commerce-reportedly-adds-megaspeed-to-us-entity-list-semafor-says-1253",
+ "issue": "2026-11-23",
+ "section": "chips-compute",
+ "published_at": "2026-11-23T20:10:11+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Semafor",
+   "url": "https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Semafor reported, citing unnamed sources, that the Commerce Department added Megaspeed to its entity list on Monday, requiring licenses for US companies to sell chips to the company; the New York Times reported the same designation."
+   ],
+   "unconfirmed": [
+    "No official Commerce Department notice or entity-list entry appears in the available reporting, and Business Insider described Commerce as \"preparing to blacklist\" Megaspeed, leaving the formal effective date and license terms unconfirmed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《纽约时报》和 Semafor 报道，美国商务部于周一将 Megaspeed 列入实体清单，此后美国公司若要向其出口 Nvidia 芯片等美国技术，须申请许可；美国司法部与商务部发布的联合声明确认，商务部工业与安全局（BIS）对 Megaspeed 展开调查，并于 2025 年 6 月在 Singaporean 执法部门配合下进行实地最终用途核查、约谈首席执行官 Alice Huang，Nvidia 则于 2025 年 6 月将 Megaspeed 列入其“禁售”名单。"
+   ],
+   "unconfirmed": [
+    "Semafor 的报道依据未具名消息源，商务部尚未公布正式清单条目，许可的具体范围与生效细则均不清楚；Business Insider 在几乎同一时间仍称商务部“准备”将其列入黑名单，这与“周一已列入”的说法在时点上不一致；Megaspeed 涉及芯片走私的指控目前仍属指控，未经裁定。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Commerce reportedly adds Megaspeed to US entity list, Semafor says",
+  "zh": "美国商务部将 Megaspeed 列入实体清单，Semafor 报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/commerce-reportedly-adds-megaspeed-to-us-entity-list-semafor-says-1253/",
+  "zh": "/zh/2026/11/23/commerce-reportedly-adds-megaspeed-to-us-entity-list-semafor-says-1253/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,63 @@
+{
+ "event_id": "anthropic-s-claude-ship-lets-agents-review-fix-and-approve-pull-requests-2706",
+ "issue": "2026-11-23",
+ "section": "ai-news",
+ "published_at": "2026-11-23T22:05:50+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "3 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Verge AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+  },
+  {
+   "tier": "independent",
+   "name": "ZDNET",
+   "url": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [
+    "Anthropic 发布了 Claude Ship，Claude 现可审查、修复并批准 PR；PR Steward 与 Claude Approvals 两个代理于同日开启 beta（The Verge）；Code Review 功能 3 月公布、10 月正式可用（Anthropic 官方资源页）。ZDNET 报道称 beta 面向 Claude Team 和 Enterprise 套餐、作用于 GitHub PR 并依据团队策略。"
+   ],
+   "unconfirmed": [
+    "定价、正式开放（GA）时间、代理批准权限的具体边界（例如能否满足分支保护与审计要求）均未披露；也没有独立测试或用户实测结果，实际修复与批准质量仍只有厂商说法。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic's Claude Ship lets agents review, fix and approve pull requests",
+  "zh": "Anthropic 推出 Claude Ship，AI 代理可审查、修复并批准 PR"
+ },
+ "permalinks": {
+  "en": "/2026/11/23/anthropic-s-claude-ship-lets-agents-review-fix-and-approve-pull-requests-2706/",
+  "zh": "/zh/2026/11/23/anthropic-s-claude-ship-lets-agents-review-fix-and-approve-pull-requests-2706/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
