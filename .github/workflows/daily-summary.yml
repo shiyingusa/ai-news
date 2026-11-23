@@ -100,6 +100,15 @@ jobs:
             echo "::error::Add the DEEPSEEK_API_KEY secret in Settings > Secrets and variables > Actions."
             exit 1
           fi
+          # A run with no model balance fetches fine but writes nothing, so
+          # stop here with a clear error instead of publishing an empty edition.
+          BAL=$(curl -s -H "Authorization: Bearer $DEEPSEEK_API_KEY" https://api.deepseek.com/user/balance || true)
+          echo "DeepSeek balance: $(echo "$BAL" | python3 -c 'import json,sys; d=json.load(sys.stdin); print(d.get("is_available"), [(b["currency"], b["total_balance"]) for b in d.get("balance_infos", [])])' 2>/dev/null || echo unknown)"
+          if echo "$BAL" | grep -q '"is_available": *false'; then
+            echo "::error::DeepSeek balance is used up. Top up at https://platform.deepseek.com/top_up, then re-run this workflow."
+            exit 1
+          fi
+          touch /tmp/run-start
 
       - name: Run AI Daily Radar
         env:
@@ -126,6 +135,16 @@ jobs:
 
       - name: Set current date
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Check the morning issue has stories
+        if: needs.gate.outputs.edition == '0'
+        run: |
+          NEW=$(find docs/_stories -name '*.md' -newer /tmp/run-start 2>/dev/null | wc -l)
+          echo "New story files: $NEW"
+          if [ "$NEW" -eq 0 ] || [ ! -f "docs/_posts/${DATE}-summary-en.md" ]; then
+            echo "::error::The morning run produced no stories or no briefing. Not marking the edition as published; check the model errors above."
+            exit 1
+          fi
 
       - name: Mark this edition as published
         run: mkdir -p docs/_editions && date -u +%FT%TZ > "docs/_editions/${{ env.DATE }}-e${{ needs.gate.outputs.edition }}.txt"
