@@ -1,0 +1,67 @@
+{
+ "event_id": "tidal-to-ban-fully-ai-generated-music-on-december-9-c7d2",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-24T17:17:09+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "high",
+  "reason": "3 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge AI",
+   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+  },
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Hollywood Reporter",
+   "url": "https://www.hollywoodreporter.com/music/music-industry-news/tidal-bans-wholly-ai-generated-music-1236762171/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tidal announced that it will ban fully AI-generated music on December 9 and says such tracks made up 43% of uploads over the previous 90 days and more than 60% of new uploads on November 6; it also says the ban covers only fully AI-generated music, not human-made tracks that use AI tools."
+   ],
+   "unconfirmed": [
+    "The exact deletion figure is inconsistent across reports — 27 million in Ars Technica versus about 29 million in The Verge — and Tidal's estimates of 80,000 to 85,000 daily rejections and a 96% zero-play share, along with how it will detect fully AI-generated tracks, have not been independently verified."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Tidal官方账号和音乐负责人Robert Andersen确认了12月9日生效的禁令及“仅限完全AI生成”的适用范围；Tidal还表示，被标注曲目中有96%在过去90天零播放。"
+   ],
+   "unconfirmed": [
+    "删除规模与每日拒收量均为公司单方数据，且删除数字相互矛盾——《The Verge》引述Andersen称约2900万首，Ars Technica则报道当前标注为AI的曲目为2700万首、占目录6.3%；检测准确率和误判申诉机制也没有独立验证或说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tidal to ban fully AI-generated music on December 9",
+  "zh": "Tidal将于12月9日起封禁完全AI生成音乐"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/tidal-to-ban-fully-ai-generated-music-on-december-9-c7d2/",
+  "zh": "/zh/2026/11/24/tidal-to-ban-fully-ai-generated-music-on-december-9-c7d2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,61 @@
+{
+ "held_at": "2026-11-24T23:24:23+00:00",
+ "stories": [
+  {
+   "slug": "amazon-adds-36-leo-satellites-on-ariane-6-moves-falcon-9-to-december-6382",
+   "title": "Amazon adds 36 Leo satellites on Ariane 6, moves Falcon 9 to December",
+   "category": "accident",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家"
+   ],
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+   "files": [
+    "2026-11-24-amazon-adds-36-leo-satellites-on-ariane-6-moves-falcon-9-to-december-6382-en.md",
+    "2026-11-24-amazon-adds-36-leo-satellites-on-ariane-6-moves-falcon-9-to-december-6382-zh.md"
+   ]
+  },
+  {
+   "slug": "cia-and-odni-discover-breach-in-open-source-intelligence-analysis-d215",
+   "title": "CIA and ODNI discover breach in open-source intelligence analysis system, NYT reports",
+   "category": "accident",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家"
+   ],
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT&amp;smid=url-share",
+   "files": [
+    "2026-11-24-cia-and-odni-discover-breach-in-open-source-intelligence-analysis-d215-en.md",
+    "2026-11-24-cia-and-odni-discover-breach-in-open-source-intelligence-analysis-d215-zh.md"
+   ]
+  },
+  {
+   "slug": "prosecutors-say-ex-openai-employee-recorded-hundreds-of-meetings-9320",
+   "title": "Prosecutors say ex-OpenAI employee recorded hundreds of meetings, possible trade secrets",
+   "category": "allegation",
+   "reasons": [
+    "中文标题把指控写成了事实"
+   ],
+   "source": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/saudi-openai-eavesdropper-who-bugged-company-office-had-hundreds-of-private-recordings-was-in-frequent-communication-with-saudi-government-perp-had-dozens-of-recordings-of-discussions-of-trade-secrets",
+   "files": [
+    "2026-11-24-prosecutors-say-ex-openai-employee-recorded-hundreds-of-meetings-9320-en.md",
+    "2026-11-24-prosecutors-say-ex-openai-employee-recorded-hundreds-of-meetings-9320-zh.md"
+   ]
+  },
+  {
+   "slug": "amazon-drone-clips-cable-and-crashes-onto-michigan-garage-faa-opens-11c9",
+   "title": "Amazon drone clips cable and crashes onto Michigan garage, FAA opens probe",
+   "category": "accident",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家"
+   ],
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+   "files": [
+    "2026-11-24-amazon-drone-clips-cable-and-crashes-onto-michigan-garage-faa-opens-11c9-en.md",
+    "2026-11-24-amazon-drone-clips-cable-and-crashes-onto-michigan-garage-faa-opens-11c9-zh.md"
+   ]
+  }
+ ]
+}

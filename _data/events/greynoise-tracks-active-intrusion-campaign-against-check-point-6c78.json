@@ -1,0 +1,62 @@
+{
+ "event_id": "greynoise-tracks-active-intrusion-campaign-against-check-point-6c78",
+ "issue": "2026-11-24",
+ "section": "tech-industry",
+ "published_at": "2026-11-24T16:32:17+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "greynoise.io",
+   "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50630594"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "GreyNoise says it tracked an intrusion campaign against Check Point Security Management Servers, with confirmed activity from October 17 to November 2, 2026, affecting at least 22 organizations globally; Cybersecurity Dive and SecurityWeek relayed the report."
+   ],
+   "unconfirmed": [
+    "The supplied reports contain no Check Point statement confirming the intrusions, the 22-victim count, or GreyNoise's AI-enabled characterization; the initial access vector is unresolved, with community commenters speculating about an internet-exposed management server and a specific CVE, and SecurityWeek describes the campaign as likely ongoing beyond GreyNoise's confirmed window."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "GreyNoise 报告称，2026 年 10 月 17 日至 11 月 2 日期间确认存在针对 Check Point 安全管理服务器（Security Management Server）的攻击活动，全球至少 22 家不同机构受影响；上述结论来自 GreyNoise 自行发布的博客，SecurityWeek 与 Cybersecurity Dive 均转述了这份报告。"
+   ],
+   "unconfirmed": [
+    "攻击者的身份、所谓“AI 赋能/AI 辅助”的具体程度、初始入口是否为 CVE-2026-16232、以及攻击活动目前是否仍在持续，均只有 GreyNoise 一家之说；目前未见 Check Point 的确认或回应，也没有独立机构复现攻击，或公布受影响机构名单。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "GreyNoise tracks active intrusion campaign against Check Point management servers",
+  "zh": "GreyNoise 称 Check Point 安全管理服务器正遭活跃入侵"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/greynoise-tracks-active-intrusion-campaign-against-check-point-6c78/",
+  "zh": "/zh/2026/11/24/greynoise-tracks-active-intrusion-campaign-against-check-point-6c78/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

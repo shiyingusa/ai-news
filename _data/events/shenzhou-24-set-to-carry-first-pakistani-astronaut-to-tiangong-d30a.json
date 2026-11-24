@@ -1,0 +1,57 @@
+{
+ "event_id": "shenzhou-24-set-to-carry-first-pakistani-astronaut-to-tiangong-d30a",
+ "issue": "2026-11-24",
+ "section": "space",
+ "published_at": "2026-11-24T16:26:52+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "CMSA named Tang Hongbo, Wu Yi and Muhammad Zeeshan Ali as the Shenzhou-24 crew at a pre-launch news conference, and the Chang Zheng 2F/G carrying the spacecraft rolled out to Site 91 on Nov. 17; Tiangong adjusted its orbit on Nov. 23 ahead of the arrival."
+   ],
+   "unconfirmed": [
+    "The Nov. 25 launch time is a target — the report says \"no earlier than\" — and Ali's roughly one-week stay, the docking time and his return date are mission plans rather than flown results; no independent confirmation of the schedule is given."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 NASASpaceflight 报道，中国载人航天工程办公室公布了神舟二十四号乘组名单，任务计划不早于11月25日00:18 UTC从酒泉发射；阿里是载荷专家，驻留约一周后乘神舟二十三号返回。"
+   ],
+   "unconfirmed": [
+    "发射是否按时进行、交会对接与驻留是否成功、阿里是否完成中巴实验，以及“首位外籍航天员进入天宫”能否成为既成事实；报道未披露具体实验清单和成果，也没有独立于中方安排的任务结果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Shenzhou-24 set to carry first Pakistani astronaut to Tiangong",
+  "zh": "神舟二十四号将送巴基斯坦航天员首访天宫"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/shenzhou-24-set-to-carry-first-pakistani-astronaut-to-tiangong-d30a/",
+  "zh": "/zh/2026/11/24/shenzhou-24-set-to-carry-first-pakistani-astronaut-to-tiangong-d30a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

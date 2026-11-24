@@ -1,0 +1,62 @@
+{
+ "event_id": "prismml-s-ternary-bonsai-2-5-27b-runs-locally-at-2230-tokens-s-users-ca7e",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-24T20:08:03+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "prismml.com",
+   "url": "https://prismml.com/news/bonsai-2-5-27b"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50633922"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "PrismML's site carries a release post titled \"Ternary Bonsai 2.5 27B,\" and commenters say they have actually run the weights locally — one reports 22.3 tokens/s generation and 222.9 tokens/s prompt processing on a Mac Mini M5 Pro (24GB RAM) using a Q2 GGUF, with a 128k context fitting in memory. Third-party comparison pages list an earlier \"Ternary Bonsai 2 27B\" with a mathematics category score of 45.5/100, ranking it #73 of 125 models in that category."
+   ],
+   "unconfirmed": [
+    "The post's own text was not available to this briefing, so parameter count claims, license, file sizes, pricing, and download links rest on the title and commenters rather than a primary technical document. The headline performance claims come from Hacker News anecdotes with no posted methodology — the asserted SWE-bench Verified parity with Opus 4.6 (a commenter's own hedge: \"unless I'm totally mistaken\") and the reported ~30 tokens/s via Unsloth Studio have not been independently measured, and no one has shown whether ternary weights get hardware acceleration outside FPGAs. The sources also conflict on naming and deployment: commenters discuss \"2.5\" as a local GGUF, while the aggregator pages describe a \"2\" model as a hosted production API model dated September 2026 — the briefing cannot reconcile whether these are the same lineage."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Hacker News 上关于 PrismML 的 Bonsai 2.5 27B 的讨论中，多位评论者称已在本机运行该模型的三值量化版本（Q2 GGUF）：一人在 Mac Mini M5 Pro（24GB 内存、512GB SSD）上测得生成速度约 22.3 tok/s、首字延迟约 2.12 秒、提示处理约 222.9 tok/s，并表示可轻松装下 128k 上下文；另一人通过 Unsloth Studio 在 MacBook 上测得约 300 tok/s 预填充、30 tok/s 生成，并称其智能体调用“稳定”。以上均为用户自测数据，不是厂商基准。"
+   ],
+   "unconfirmed": [
+    "PrismML 官方给出的参数量、量化方案、基准分数、许可证与发布范围在可得材料中均未出现；“在 SWE-bench Verified 上与 Opus 4.6 相当”仅是一位评论者的推测，他本人也质疑其中有多少是“刷榜”、多少是基准本身变化；benchlm.ai 与 anotherwrapper.com 的第三方对比页把该模型与 Claude Opus 4.6 并列，但其中一页标注日期早于本次发布，不能视为独立验证。其在真实智能体编码任务中的表现，以及三值权重除 FPGA 外是否存在硬件加速，同样未得到证实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "PrismML's Ternary Bonsai 2.5 27B runs locally at ~22–30 tokens/s, users report",
+  "zh": "PrismML 发布三值量化模型 Ternary Bonsai 2.5 27B"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/prismml-s-ternary-bonsai-2-5-27b-runs-locally-at-2230-tokens-s-users-ca7e/",
+  "zh": "/zh/2026/11/24/prismml-s-ternary-bonsai-2-5-27b-runs-locally-at-2230-tokens-s-users-ca7e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

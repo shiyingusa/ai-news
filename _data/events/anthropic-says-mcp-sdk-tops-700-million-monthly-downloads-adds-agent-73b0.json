@@ -1,0 +1,57 @@
+{
+ "event_id": "anthropic-says-mcp-sdk-tops-700-million-monthly-downloads-adds-agent-73b0",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-24T19:23:41+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Decoder reported that Anthropic says monthly downloads of its MCP software development kit now exceed 700 million, two years after the Model Context Protocol launched, and that the protocol is gaining background tasks, follow-up questions to users and file uploads aimed at letting Claude work more independently."
+   ],
+   "unconfirmed": [
+    "How the 700 million figure is counted (package downloads versus installs or users, and over what period), and whether any independent measure backs it; whether the three new features have shipped, are in preview, or are only planned; and which Claude products or plans get them, from what date, at what price, and under which protocol version. The Decoder's account is secondary reporting and gives no link or detailed quotation from an Anthropic announcement."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Decoder 报道，Anthropic 称其 MCP（Model Context Protocol，模型上下文协议）SDK 月下载量已超过 7 亿次，此时距该协议发布约两年；报道列出的新协议能力包括后台任务、向用户追问和文件上传，目标是让 Claude 更独立地执行工作。以上数字与功能清单均出自 Anthropic 的说法，由 The Decoder 转述。"
+   ],
+   "unconfirmed": [
+    "7 亿次的统计口径（是否含 CI 流水线、镜像站与重复安装）、新功能对应的版本号、上线时间与可用范围，报道均未披露，也没有独立第三方核验；这些功能是已经发布、处于预览还是仅停留在计划阶段，同样无法从现有报道判断。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic says MCP SDK tops 700 million monthly downloads, adds agent features",
+  "zh": "Anthropic 称 MCP SDK 月下载超 7 亿，扩展协议支持更自主的智能体"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/anthropic-says-mcp-sdk-tops-700-million-monthly-downloads-adds-agent-73b0/",
+  "zh": "/zh/2026/11/24/anthropic-says-mcp-sdk-tops-700-million-monthly-downloads-adds-agent-73b0/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

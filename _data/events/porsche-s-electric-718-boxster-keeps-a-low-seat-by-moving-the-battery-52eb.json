@@ -1,0 +1,57 @@
+{
+ "event_id": "porsche-s-electric-718-boxster-keeps-a-low-seat-by-moving-the-battery-52eb",
+ "issue": "2026-11-24",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T16:58:20+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Ars Technica drove a 718 Boxster EV prototype on canyon roads near Los Angeles, and Porsche has placed the battery pack behind the driver with a single motor driving the rear wheels, the outlet reported."
+   ],
+   "unconfirmed": [
+    "power output, range, charging speed, price, and exact production timing — all absent from the report — and the handling and seating impressions come from a manufacturer-hosted drive of a prototype rather than an independent measurement."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Ars Technica 记者亲自在山路和城市道路上试驾了该原型车；电池组位于驾驶座后方而非座舱地板下，由单电机驱动后轮；保时捷计划明年完整揭晓新车。"
+   ],
+   "unconfirmed": [
+    "功率、续航、价格、量产时间均未披露；标题提到“模拟换挡”和“911 血统”，但正文未展开细节，是否进入量产版不明；低坐姿与驾驶感受属于记者主观评价，原型车规格也可能与最终量产车不同。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Porsche's electric 718 Boxster keeps a low seat by moving the battery",
+  "zh": "保时捷电动718 Boxster原型车首试：电池置于座椅后方，坐姿依然很低"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/porsche-s-electric-718-boxster-keeps-a-low-seat-by-moving-the-battery-52eb/",
+  "zh": "/zh/2026/11/24/porsche-s-electric-718-boxster-keeps-a-low-seat-by-moving-the-battery-52eb/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

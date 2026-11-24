@@ -1,0 +1,57 @@
+{
+ "event_id": "nasa-s-perseverance-and-odyssey-pause-mars-science-operations-a483",
+ "issue": "2026-11-24",
+ "section": "space",
+ "published_at": "2026-11-24T22:50:11+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "NASA's Nov. 19 blog said teams are investigating separate technical issues affecting science operations on the Perseverance rover and the 2001 Mars Odyssey orbiter; Space.com reported that Perseverance has an antenna problem and Odyssey a reaction-wheel problem, and NASA says both are operating beyond their design lifetimes."
+   ],
+   "unconfirmed": [
+    "How long the suspensions will last, what caused them, and when science work will resume; NASA has not said either spacecraft is lost, so the “knocked offline” framing is broader than the agency's statement, and no independent assessment of the hardware's condition has been published."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "NASA 于 11 月 19 日在其官方博客上确认，“毅力号”火星车与“奥德赛”号轨道器的团队正在调查分别影响这两项任务科学作业的技术问题（NASA 博客）。Ars Technica 报道，受影响的这两项任务是目前在火星运行的四个任务中的两个；毅力号正处于探索火星的第六年，奥德赛号 2001 年进入火星轨道，是历史上运行最久的火星任务。毅力号自 2021 年 2 月 18 日着陆以来持续工作。"
+   ],
+   "unconfirmed": [
+    "故障的具体成因与恢复时间。Space.com 报道称，毅力号的问题是天线故障，奥德赛号的问题是反作用轮运转异常，但 NASA 未公布修复时间表，Ars Technica 也称这些中断“希望是暂时的”；目前没有消息说明科学作业何时恢复、损失了多少观测数据，也没有任何来源确认任务失败。“一半火星舰队”的说法取决于在役任务如何计数，各来源未给出统一的清单。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "NASA's Perseverance and Odyssey pause Mars science operations",
+  "zh": "NASA 毅力号与奥德赛号因技术问题暂停科学操作"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/nasa-s-perseverance-and-odyssey-pause-mars-science-operations-a483/",
+  "zh": "/zh/2026/11/24/nasa-s-perseverance-and-odyssey-pause-mars-science-operations-a483/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

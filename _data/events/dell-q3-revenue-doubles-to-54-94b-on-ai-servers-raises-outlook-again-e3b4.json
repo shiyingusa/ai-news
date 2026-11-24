@@ -1,0 +1,57 @@
+{
+ "event_id": "dell-q3-revenue-doubles-to-54-94b-on-ai-servers-raises-outlook-again-e3b4",
+ "issue": "2026-11-24",
+ "section": "chips-compute",
+ "published_at": "2026-11-24T21:45:55+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Reuters",
+   "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Reuters reported that Dell's fiscal third-quarter revenue was $54.94B, up 103% year over year and above the $49.32B analyst estimate, and that Dell raised its annual revenue and profit forecasts for the third time this year."
+   ],
+   "unconfirmed": [
+    "The report gives no dollar figures for the new annual guidance, no AI-server revenue or order backlog numbers, and no margin detail; the attribution of the quarter to \"surging AI server demand\" is Dell's and Reuters' framing rather than an independently audited breakdown, and secondary reports summarizing the same forecast raise describe it as a Thursday announcement, conflicting with Reuters' Tuesday."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "路透社报道，戴尔（DELL.N）公布第三季度营收 549.4 亿美元、同比增长 103%，高于 493.2 亿美元的市场预期，并在创纪录的季度业绩后上调全年营收与利润指引，为今年第三次上调。"
+   ],
+   "unconfirmed": [
+    "上调后的全年营收、利润具体指引数值，AI 服务器订单与积压订单规模、利润率影响及各部门拆分，在可见报道中均未给出；103% 的同比增速未说明比较基数与统计口径，也无独立核实；另有两家转述报道将该次发布描述为“周四”，与本条的“周二”不一致。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Dell Q3 revenue doubles to $54.94B on AI servers, raises outlook again",
+  "zh": "戴尔第三季度营收同比增长103%，年内第三次上调全年指引，路透社报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/dell-q3-revenue-doubles-to-54-94b-on-ai-servers-raises-outlook-again-e3b4/",
+  "zh": "/zh/2026/11/24/dell-q3-revenue-doubles-to-54-94b-on-ai-servers-raises-outlook-again-e3b4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

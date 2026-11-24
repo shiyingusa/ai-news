@@ -1,0 +1,57 @@
+{
+ "event_id": "bepicolombo-reaches-mercury-orbit-but-short-thruster-burn-points-to-78e4",
+ "issue": "2026-11-24",
+ "section": "space",
+ "published_at": "2026-11-24T20:38:54+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "ESA confirmed that BepiColombo's signal was acquired at 01:02 UTC on Nov. 22 and that the spacecraft was in orbit around Mercury after a planned 37-minute orbit-insertion burn; ESA later said the burn was shorter than planned because of a software issue, according to NASA Spaceflight's account and ESA statements cited by Wikipedia and European Spaceflight."
+   ],
+   "unconfirmed": [
+    "the exact nature of the software fault, how much of the burn was lost, the resulting orbit parameters, and the corrective maneuver plan; the statement that little correction will be needed rests on mission-team assessments, and no independent orbital tracking or detailed ESA/JAXA anomaly report is cited."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "ESA 于 11 月 22 日 01:02 UTC 确认收到 BepiColombo 信号，探测器已进入水星轨道；ESA 随后表示，探测器在入轨机动中“因软件问题，推进器点火时间短于计划”，原定 37 分钟的点火因此被缩短（ESA 说法，经 NASA Spaceflight、European Spaceflight 及维基百科转述）。"
+   ],
+   "unconfirmed": [
+    "软件故障的具体性质与成因、实际点火时长与由此产生的轨道偏差、以及“只需很少修正即可完成任务”的判断，目前均仅来自 ESA 方面声明与转述，没有独立测量或第三方轨道数据佐证；信号比预期晚数小时才捕获的原因，ESA 也未作说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BepiColombo reaches Mercury orbit but short thruster burn points to software glitch",
+  "zh": "BepiColombo 进入水星轨道，软件问题缩短点火时间"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/bepicolombo-reaches-mercury-orbit-but-short-thruster-burn-points-to-78e4/",
+  "zh": "/zh/2026/11/24/bepicolombo-reaches-mercury-orbit-but-short-thruster-burn-points-to-78e4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

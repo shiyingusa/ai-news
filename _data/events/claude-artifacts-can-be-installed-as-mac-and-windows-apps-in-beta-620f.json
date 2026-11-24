@@ -1,0 +1,57 @@
+{
+ "event_id": "claude-artifacts-can-be-installed-as-mac-and-windows-apps-in-beta-620f",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-24T22:05:01+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Claude",
+   "url": "https://claude.com/resources/articles/install-as-app"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Anthropic’s Claude article, as summarized by Techmeme, says the beta “Install as app” feature lets users open Claude artifacts as Mac and Windows apps with notifications and optional full computer access."
+   ],
+   "unconfirmed": [
+    "Which artifact types can be installed, whether the beta is open to all Claude users or a limited group, and what “full computer access” permits or how it is gated; no independent test is available."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Anthropic 官方公告，该 beta 功能可将 Claude artifacts 安装为 Mac 和 Windows 桌面应用，支持通知，并提供可选的完整电脑访问权限。"
+   ],
+   "unconfirmed": [
+    "哪些套餐与地区可用、是否收费、beta 结束时间，以及“完整电脑访问”具体能读写什么、如何授权，公告均未说明，也没有独立测试或用户实测结果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Claude artifacts can be installed as Mac and Windows apps in beta",
+  "zh": "Anthropic 测试“Install as app”：Claude artifact 可装成 Mac 和 Windows 应用"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/claude-artifacts-can-be-installed-as-mac-and-windows-apps-in-beta-620f/",
+  "zh": "/zh/2026/11/24/claude-artifacts-can-be-installed-as-mac-and-windows-apps-in-beta-620f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

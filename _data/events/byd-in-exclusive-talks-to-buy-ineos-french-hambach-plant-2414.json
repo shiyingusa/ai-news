@@ -1,0 +1,57 @@
+{
+ "event_id": "byd-in-exclusive-talks-to-buy-ineos-french-hambach-plant-2414",
+ "issue": "2026-11-24",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T17:58:40+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "BYD itself confirmed it has entered exclusive negotiations to acquire Ineos Automotive's Hambach plant in France; Electrek reports the deal would be BYD's second EU passenger-car factory after Hungary and the first purchase of an existing European plant by a Chinese automaker."
+   ],
+   "unconfirmed": [
+    "the price, the plant's capacity, which models would be built there, and any closing date; the report also does not detail the terms under which Grenadier production would move to the US. Nothing indicates the transaction has been signed, and exclusive talks can still fall through."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "比亚迪方面确认已进入对英力士汉巴赫工厂的排他性收购谈判；该厂此前由梅赛德斯为 Smart 城市车建造，后由吉姆·拉特克利夫用于生产英力士的 Grenadier，上述信息来自比亚迪的确认与 Electrek 的报道。"
+   ],
+   "unconfirmed": [
+    "交易能否最终签署并完成；报道提到的 Grenadier 生产转移至美国的具体安排；收购价格、工厂产能、将投产的车型以及时间表，报道均未给出。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BYD in exclusive talks to buy Ineos' French Hambach plant",
+  "zh": "比亚迪就收购英力士法国汉巴赫工厂展开排他性谈判"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/byd-in-exclusive-talks-to-buy-ineos-french-hambach-plant-2414/",
+  "zh": "/zh/2026/11/24/byd-in-exclusive-talks-to-buy-ineos-french-hambach-plant-2414/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
