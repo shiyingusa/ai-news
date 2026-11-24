@@ -1,0 +1,67 @@
+{
+ "event_id": "ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd",
+ "issue": "2026-11-24",
+ "section": "tech-industry",
+ "published_at": "2026-11-23T16:13:12+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "ladybird.org",
+   "url": "https://ladybird.org/posts/alpha/"
+  },
+  {
+   "tier": "independent",
+   "name": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/23/ladybird/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50614249"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Ladybird project published its first alpha on 23 November 2026, installable on macOS and Linux without compiling it yourself; the project's own October newsletter reported that it passed Safari Technology Preview on the Web Platform Tests suite on 26 October, after gaining roughly 75,650 passes in five days (Ladybird)."
+   ],
+   "unconfirmed": [
+    "That the alpha is usable as a daily browser — the project itself warns that some sites will not work and that it will crash sometimes, and explicitly makes \"no promises about security today.\" The 7x JetStream 3 WebAssembly speedup and the scale of coding-agent contributions are the project's own figures rather than independent measurements, and the smooth-rendering reports come from a handful of individual commenters and one blogger's testing, not a broad compatibility study."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Ladybird 项目于 11 月 23 日发布了首个 alpha 版，macOS 和 Linux 用户无需自行编译即可安装，项目官方声明中承认部分网站无法使用、会崩溃，并且“今天对安全性不做任何承诺”。Ladybird 自己的 10 月通讯称，当月网页平台测试（WPT，约 225 万项子测试）通过数增加 75,650 项，并在 10 月 26 日超过 Safari Technology Preview；维基百科条目确认该项目以 BSD 2-Clause 许可开源，并于 2026 年 2 月开始把 JavaScript 解析器从 C++ 移植到 Rust。"
+   ],
+   "unconfirmed": [
+    "JetStream 3 的 WebAssembly 基准提升 7 倍、布局与 JIT 改进的实际体验收益，均为项目方自述，尚无独立复测；哪些具体模型被用于批量修复 WPT，官方未披露。早期用户“网站几乎全部正常渲染”属个人测试反馈，Datasette Lite 因 service worker 相关接口缺失而报错，说明兼容性仍有缺口。alpha 版的日常使用稳定性与安全性均未经验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Ladybird releases first alpha of its from-scratch browser engine",
+  "zh": "Ladybird 发布首个 alpha，macOS 与 Linux 可直接安装"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd/",
+  "zh": "/zh/2026/11/24/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

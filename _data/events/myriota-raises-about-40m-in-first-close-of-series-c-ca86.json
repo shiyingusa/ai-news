@@ -1,0 +1,57 @@
+{
+ "event_id": "myriota-raises-about-40m-in-first-close-of-series-c-ca86",
+ "issue": "2026-11-24",
+ "section": "space",
+ "published_at": "2026-11-23T23:25:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wall Street Journal",
+   "url": "https://www.wsj.com/pro/venture-capital/australian-iot-startup-aims-to-help-bridge-the-gap-between-ai-and-the-real-world-83864d54"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Myriota announced on 24 November 2026 that it closed the first tranche of its Series C, raising AU$60 million (about US$40 million), led by Main Sequence Ventures, Hostplus and the National Reconstruction Fund Corporation, with Funds SA joining as a new investor, according to the company's own announcement; Myriota says the money will scale its satellite constellation and fund hiring and expansion, and Dealroom puts its cumulative funding above AU$160 million (US$107.5 million)."
+   ],
+   "unconfirmed": [
+    "The final size of the round — the company says the first close came ahead of schedule and the round has yet to close, so the total remains unknown; SmartCompany reports a \"$50 million raise\" with AU$25 million from the NRFC, a figure that conflicts with the AU$60 million first close and that no source reconciles; the WSJ framing of Myriota as helping \"bridge the gap between AI and the real world\" is the outlet's characterization, and the figure of 100 new jobs rests on a single report."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Myriota 于 2026 年 11 月 24 日发布公司公告（阿德莱德），宣布提前完成 C 轮首次交割，金额为 6000 万澳元（约 4000 万美元），由 Main Sequence Ventures 与澳大利亚国家重建基金（NRFC）领投，Hostplus 亦参与领投；《华尔街日报》记者 Rhiannon Hoyle 报道的“约 4000 万美元”与该公告金额一致。"
+   ],
+   "unconfirmed": [
+    "本轮最终总额与估值——公司公告称融资仍在推进、将按计划完成，Dealroom 称其累计融资已超过 1.6 亿澳元（约 1.075 亿美元），但这些均无独立第三方核实；SmartCompany 报道的数额为 5000 万澳元、其中 NRFC 出资 2500 万澳元，与公司公告的 6000 万澳元首关金额不一致，报道未解释差异；“新增 100 个岗位”这一扩张目标仅见于 SmartCompany，公司公告未逐项确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Myriota raises about $40M in first close of Series C",
+  "zh": "澳大利亚卫星物联网公司 Myriota 完成约 4000 万美元 C 轮首关，《华尔街日报》报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/myriota-raises-about-40m-in-first-close-of-series-c-ca86/",
+  "zh": "/zh/2026/11/24/myriota-raises-about-40m-in-first-close-of-series-c-ca86/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

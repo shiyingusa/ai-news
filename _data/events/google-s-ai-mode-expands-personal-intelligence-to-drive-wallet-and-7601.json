@@ -1,0 +1,57 @@
+{
+ "event_id": "google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-23T19:14:46+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "TechCrunch reported that Personal Intelligence in AI Mode now reaches Drive and Wallet and is coming to the Gemini app, describing it as Google drawing on user data already inside its ecosystem."
+   ],
+   "unconfirmed": [
+    "Google's own announcement, the rollout scope (countries, account types, free versus paid tiers), whether the data linkage is opt-in or on by default, which file types in Drive are searchable, and any independent test of answer quality or privacy behavior — the report supplies none of these."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "TechCrunch 报道，谷歌把 AI 模式的个人智能扩展到 Drive、Wallet 和 Gemini 应用，使回答可以基于用户已存在谷歌生态中的数据，而不再只依据公开网页。"
+   ],
+   "unconfirmed": [
+    "该功能具体覆盖哪些国家与账号类型、是否需要用户手动开启、用户能否逐项关闭对 Drive 或 Wallet 数据的访问，以及回答质量是否有独立测试；这些报道均未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google's AI Mode expands Personal Intelligence to Drive, Wallet and Gemini",
+  "zh": "谷歌 AI 模式个人智能扩展至 Drive、Wallet 与 Gemini 应用"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601/",
+  "zh": "/zh/2026/11/24/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

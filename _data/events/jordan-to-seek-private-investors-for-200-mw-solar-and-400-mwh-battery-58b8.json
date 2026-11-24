@@ -1,0 +1,57 @@
+{
+ "event_id": "jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8",
+ "issue": "2026-11-24",
+ "section": "ev-energy",
+ "published_at": "2026-11-23T10:36:16+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/23/jordan-plans-200-mw-solar-100-mw-400-mwh-storage-projects/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "pv magazine, citing the ministry's conference announcement, reports the 200 MW solar and 100 MW/400 MWh BESS plans, the build-own-operate structure with NEPCO as offtaker and storage beneficiary, the $100–130 million and $70–90 million investment ranges, and the February and March 2027 prequalification dates."
+   ],
+   "unconfirmed": [
+    "The cost ranges are planning estimates rather than bid or contract prices; locations, tariffs, financing terms and the storage technology supplier are all undisclosed, and no project has been financed or built."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "约旦能源与矿产资源部在首届约旦-欧盟投资会议上公布这两个项目，均采用 BOO 模式，由国家电力公司购电并作为储能项目受益方；两项目投资区间分别为 1 亿至 1.3 亿美元和 7000 万至 9000 万美元，预审时间表为 2027 年 2 月和 3 月，这些内容出自该部公开表态及约旦新闻社报道。"
+   ],
+   "unconfirmed": [
+    "项目是否已有确定资金、选址、并网方案和最终装机规模；投资额与时间均为部委规划数字，尚无招标文件或合同佐证，报道也未说明储能项目的购电或容量付费安排。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Jordan to seek private investors for 200 MW solar and 400 MWh battery storage",
+  "zh": "约旦拟招标 200 MW 光伏与 100 MW/400 MWh 储能，资格预审定于 2027 年初"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8/",
+  "zh": "/zh/2026/11/24/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

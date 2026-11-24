@@ -1,0 +1,57 @@
+{
+ "event_id": "bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-23T15:47:18+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "GeekPark (极客公园)",
+   "url": "http://www.geekpark.net/news/374374"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "GeekPark reports that Doubao's phone assistant published a list on October 14 of more than 150 apps — WeChat, Taobao and Meituan among them — that do not allow it to act on their pages, and that both Doubao phones so far come from ZTE's Nubia: the M153 engineering sample (December, ¥3,499) and the NaviX Ultra (September, from ¥5,999). Separately, the November 19 Cailian Press (财联社) supply-chain report that Foxconn unit FIH Mobile won an OpenAI phone assembly order, with launch around late 2027 or 2028, was picked up by Android Authority and Gizmochina."
+   ],
+   "unconfirmed": [
+    "OpenAI has not confirmed it is building a phone, and its reported specs — a MediaTek Dimensity 9600 with dual AI processors, per TF International analyst Ming-Chi Kuo — rest on analyst and supply-chain claims. No party has confirmed any ByteDance acquisition of, or stake in, ZTE's phone business; ZTE publicly denied a joint-venture version of that plan on November 3, the reported deal with another major phone maker said to close in November is unattributed, and the ~200,000-unit 2026 stocking figure plus ZTE's evaluation of rival models come from unnamed sources."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "极客公园的报道称，豆包手机助手在 10 月 14 日公示了一份超过 150 款应用的清单，微信、淘宝、美团等均在列，均不允许豆包代替用户在其页面内操作；报道还列出两代机型的进度与价格：中兴旗下努比亚 M153 工程样机去年 12 月少量发售、3499 元，努比亚 NaviX Ultra 今年 9 月上市、5999 元起，并援引 IDC 数据称中国今年第三季度智能手机出货约 5790 万台；工信部 11 月 6 日通知要求应用分发平台推动开发者以电子签名声明是否同意智能体调用，未声明同意的不得强制调用。"
+   ],
+   "unconfirmed": [
+    "据财联社 11 月 19 日引述供应链人士，富士康旗下富智康拿到 OpenAI 手机组装订单、产品可能在 2027 年底或 2028 年面市，天风国际郭明𫓹称该机采用定制联发科天玑 9600；但 OpenAI 从未确认造手机，该订单也无交易方证实。文中“另一家手机大厂与豆包的合作 11 月内落地”、中兴手机业务合资方案（中兴 11 月 3 日已公开否认）、字节收购努比亚，均属传闻；字节去年 12 月曾表示无自研手机计划。至于“字节应当自己造手机”本身是文章的分析推论，并非公司公布的计划或已定排期。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "ByteDance's Doubao phone push hits app-ecosystem limits, GeekPark argues",
+  "zh": "豆包手机两代后，字节需要自建手机厂"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34/",
+  "zh": "/zh/2026/11/24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

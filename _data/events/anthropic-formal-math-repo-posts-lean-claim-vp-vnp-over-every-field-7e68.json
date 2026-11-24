@@ -1,0 +1,62 @@
+{
+ "event_id": "anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-23T22:09:10+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "GitHub",
+   "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50620102"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Anthropic's formal-math GitHub repository hosts a paper titled “VP ≠ VNP over every field,” credited to Claude/Anthropic, alongside a Lean 4 formalization reported at roughly 73,000 lines; the repository describes the work as a research artifact Anthropic does not maintain and states that no human mathematician has checked the proof."
+   ],
+   "unconfirmed": [
+    "The mathematical claim that VP ≠ VNP over every field has not been independently verified or peer-reviewed, and the paper itself says it has not analyzed how the argument relates to relativization or algebrization; it also remains unclear how much of the work was AI-generated beyond the “Claude” attribution."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Anthropic 的 formal-math 仓库中确实存在一个 vp-vnp 目录，内含署名「Claude / Anthropic」、题为《VP ≠ VNP over every field》的论文以及 Lean 4 形式化代码；仓库自述该证明尚无人类数学家审阅，属于研究性产物，Anthropic 不予维护（据仓库本身及 AGI Hunt、lavx.hu 等报道）。论文本身也承认「尚未分析其与相对化、代数化的关系」。"
+   ],
+   "unconfirmed": [
+    "证明的数学正确性，以及 Lean 形式化是否完整（有无 sorry、额外公理），均无独立验证；「Claude 为唯一作者」只是论文署名，尚无第三方核实其生成方式；论文篇幅（约 70 页）与形式化规模（约 7.3 万行 Lean）出自二手报道，不同来源表述不完全一致。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic formal-math repo posts Lean claim VP ≠ VNP over every field",
+  "zh": "Anthropic formal-math 仓库公开 VP ≠ VNP 的 Lean 形式化"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68/",
+  "zh": "/zh/2026/11/24/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

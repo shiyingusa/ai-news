@@ -1,0 +1,57 @@
+{
+ "event_id": "saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef",
+ "issue": "2026-11-24",
+ "section": "ev-energy",
+ "published_at": "2026-11-23T09:14:42+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/23/saudi-arabia-expands-self-consumption-rules-to-50-mw/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "SERA's updated self-consumption regulation lifts the maximum covered system capacity from 2 MW to 50 MW, permits integrated battery storage, defines the four capacity bands with their approval requirements and fees, and establishes mandatory net billing, according to the regulation as described by the Saudi Press Agency and reported by pv magazine."
+   ],
+   "unconfirmed": [
+    "The effective date of the new rules and whether they apply to applications already in process are not stated; the monetary value or rate at which exported kilowatt-hours are credited under net billing is not given; and the capacity thresholds, fees and credit terms rest on the regulator's own announcement with no independent assessment of how they will work in practice."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "SERA 发布了更新后的自消费规则，容量上限由 2 MW 提高至 50 MW，允许集成电池储能，并按四档设定审批要求与费用，同时规定净计量计费与 12 个月额度有效期——以上依据沙特通讯社（SPA）发布的声明及 pv magazine 的报道。"
+   ],
+   "unconfirmed": [
+    "新规的具体生效日期、净计量抵扣电价的计价方式，以及服务商是否已按要求上线电子申请平台并公布合格承包商与可用电网容量清单，报道均未提及；规则落地效果尚无独立验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Saudi Arabia raises self-consumption cap to 50 MW and allows battery storage",
+  "zh": "沙特将自消费可再生能源规则上限扩至50 MW"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef/",
+  "zh": "/zh/2026/11/24/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
