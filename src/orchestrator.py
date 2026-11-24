@@ -5,6 +5,7 @@ import os
 from collections import defaultdict
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from functools import cached_property
 from pathlib import Path
 from typing import Dict, List, Literal, Optional
@@ -353,7 +354,7 @@ class HorizonOrchestrator:
                 self.console.print(f"[yellow]{self.icons['warning']} Risk check skipped: {e}[/yellow]\n")
 
             # 7. Generate and save daily summaries for each configured language
-            today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
             story_slugs: dict[str, str] = {}
             story_titles: dict[str, str] = {}
             used_photos: set = set()
@@ -597,12 +598,12 @@ class HorizonOrchestrator:
             # Send webhook failure notification if configured
             if self.webhook_notifier:
                 await self.webhook_notifier.send_failure(
-                    date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                    date=datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d"),
                     error_message=str(e),
                 )
             if self.wechat_notifier:
                 await self.wechat_notifier.send_failure(
-                    date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                    date=datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d"),
                     error_message=str(e),
                 )
 

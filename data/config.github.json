@@ -670,7 +670,7 @@
     "time_window_hours": 24
   },
   "digest": {
-    "max_items": 40,
+    "max_items": 25,
     "profile_order": [
       "ai-news",
       "chips-compute",

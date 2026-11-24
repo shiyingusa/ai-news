@@ -1,18 +1,10 @@
 name: Daily AI briefing
 
 on:
-  schedule:
-    # 11:17 UTC = 6:17 am New York in winter (7:17 am in summer).
-    # GitHub can start scheduled runs hours late, so there are backup times;
-    # a backup run does nothing if today's issue is already published.
-    - cron: '17 11 * * *'
-    - cron: '43 11 * * *'
-    - cron: '13 12 * * *'
-    - cron: '47 12 * * *'
-    - cron: '23 13 * * *'
-    # Same-day updates: 17:17 UTC = 12:17 pm and 23:17 UTC = 6:17 pm New York (winter).
-    - cron: '17 17 * * *'
-    - cron: '17 23 * * *'
+  # No GitHub cron: its scheduled runs often start hours late and once
+  # published a stray issue after 7 pm. Claude scheduled tasks dispatch the
+  # morning (6:17 am ET) and evening (6:17 pm ET) editions, and a self-check
+  # task re-runs any edition that did not publish.
   workflow_dispatch:      # "Run workflow" button for a manual run
     inputs:
       edition:
@@ -33,7 +25,7 @@ jobs:
     steps:
       - id: check
         run: |
-          DAY=$(date -u +%F)
+          DAY=$(TZ=America/New_York date +%F)
           SCHED="${{ github.event.schedule }}"
           EDITION="${{ github.event.inputs.edition || '0' }}"
           [ "$SCHED" = "17 17 * * *" ] && EDITION=1
@@ -134,7 +126,7 @@ jobs:
           git push || echo "::warning::Could not push the digest archive; the site still deploys."
 
       - name: Set current date
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        run: echo "DATE=$(TZ=America/New_York date +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: Check the morning issue has stories
         if: needs.gate.outputs.edition == '0'
