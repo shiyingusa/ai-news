@@ -1,0 +1,57 @@
+{
+ "event_id": "spacex-and-tesla-in-talks-for-3-5t-all-stock-merger-ft-reports-b423",
+ "issue": "2026-11-24",
+ "section": "tech-industry",
+ "published_at": "2026-11-24T10:50:00+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Financial Times",
+   "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Financial Times reported that SpaceX and Tesla have entrusted five directors with negotiating the terms of a potential $3.5tn combination and are racing to complete a deal before the end of the year. Elon Musk said in October that the two companies were exploring a merger, the New York Times reported."
+   ],
+   "unconfirmed": [
+    "The $3.5tn valuation, the all-stock structure, the assertion that all five directors have ties to Musk and the year-end deadline all rest on unnamed sources; neither company has confirmed a signed agreement, a board vote or a regulatory filing. The FT account describes a single group of five directors working out terms, while the headline refers to two special committees of five — leaving unresolved whether five directors are involved in total or five on each committee."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《金融时报》报道，SpaceX 与特斯拉已将这笔潜在合并的条款谈判交给五名董事，并力争在年底前完成交易；《纽约时报》2026年10月21日的报道称，马斯克本人公开表示两家公司正在探讨合并。"
+   ],
+   "unconfirmed": [
+    "交易能否最终达成、3.5万亿美元估值、全股票交易结构以及“年底前完成”的时间表，目前仅来自《金融时报》援引的匿名消息人士；两家公司均未公开确认，协议的具体条款、这五名董事为何被视为“无利害关系”以及他们的表决安排也都没有披露。Yahoo Finance 报道的投资者 Gary Black 对潜在股权稀释的批评，同样属于外部评论而非交易细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "SpaceX and Tesla in talks for $3.5T all-stock merger, FT reports",
+  "zh": "消息称 SpaceX 与特斯拉洽谈 3.5 万亿美元全股票合并，《金融时报》报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/spacex-and-tesla-in-talks-for-3-5t-all-stock-merger-ft-reports-b423/",
+  "zh": "/zh/2026/11/24/spacex-and-tesla-in-talks-for-3-5t-all-stock-merger-ft-reports-b423/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

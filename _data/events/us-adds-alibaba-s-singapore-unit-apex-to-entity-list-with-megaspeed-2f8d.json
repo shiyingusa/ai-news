@@ -1,0 +1,62 @@
+{
+ "event_id": "us-adds-alibaba-s-singapore-unit-apex-to-entity-list-with-megaspeed-2f8d",
+ "issue": "2026-11-24",
+ "section": "chips-compute",
+ "published_at": "2026-11-24T11:10:03+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions"
+  },
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg reports that a US Commerce Department filing adds Alibaba's Singaporean subsidiary Apex Enterprise Solutions, Megaspeed and five affiliates to the Entity List."
+   ],
+   "unconfirmed": [
+    "The specific conduct or rationale behind Apex's listing, the identities of all five affiliates, and the listing's effective date; Alibaba says Apex never diverted chips covered by US export restrictions and will take legal steps to protect its rights."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "依据一份申报文件，美国商务部将阿里巴巴的新加坡子公司 Apex Enterprise Solutions，连同 Megaspeed 及另外五家关联公司，一并列入实体清单；Bloomberg 报道了该消息，《海峡时报》和 kursiv.media 的报道也确认 Apex 在列。"
+   ],
+   "unconfirmed": [
+    "阿里巴巴是否经 Apex 转售受美国出口管制的芯片。阿里巴巴否认相关指控，称 Apex 从未转运受美国出口限制的芯片，并将采取法律措施；新加坡当局正在调查 Megaspeed 采购 Nvidia 芯片一事，目前未提出指控。报道未说明列入清单的具体理由、生效细节及五家关联公司的完整名单。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "US adds Alibaba's Singapore unit Apex to Entity List with Megaspeed, Bloomberg reports",
+  "zh": "美国将阿里巴巴新加坡子公司Apex与Megaspeed列入实体清单"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/us-adds-alibaba-s-singapore-unit-apex-to-entity-list-with-megaspeed-2f8d/",
+  "zh": "/zh/2026/11/24/us-adds-alibaba-s-singapore-unit-apex-to-entity-list-with-megaspeed-2f8d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "meta-rolls-out-muse-agent-to-uk-adults-a-big-tech-first-politico-reports-734d",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-24T07:50:01+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Politico",
+   "url": "https://www.politico.eu/article/meta-ai-agent-muse-launch-uk/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Meta rolled out its personal AI agent Muse to UK adults, as reported by Politico, which characterizes it as the first Big Tech AI agent launch in the UK."
+   ],
+   "unconfirmed": [
+    "which everyday tasks Muse performs, its price and platform availability, the specific content of UK watchdogs' warnings about agents, and whether Meta has launched Muse in other markets; the \"first Big Tech\" description rests on Politico's reporting rather than an independent count."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Politico 报道，Meta 已向英国成年人推出 Muse，并将其描述为首家在英国推出 AI 代理的大型科技公司。"
+   ],
+   "unconfirmed": [
+    "Muse 的具体能力、价格、完整覆盖范围及独立测试结果均未在报道中披露；英国监管机构是否已对 Muse 采取正式行动也尚无消息。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Meta rolls out Muse agent to UK adults, a Big Tech first, Politico reports",
+  "zh": "Meta 在英国向成年人推出个人 AI 代理 Muse"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/meta-rolls-out-muse-agent-to-uk-adults-a-big-tech-first-politico-reports-734d/",
+  "zh": "/zh/2026/11/24/meta-rolls-out-muse-agent-to-uk-adults-a-big-tech-first-politico-reports-734d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

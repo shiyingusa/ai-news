@@ -1,0 +1,57 @@
+{
+ "event_id": "ladybird-s-from-scratch-browser-engine-opens-alpha-testing-on-macos-and-5d77",
+ "issue": "2026-11-24",
+ "section": "tech-industry",
+ "published_at": "2026-11-23T22:38:09+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Ladybird's developer announced an alpha release of the browser on macOS and Linux, following more than four years of work; the browser uses an engine developed independently of Gecko, Blink and WebKit."
+   ],
+   "unconfirmed": [
+    "How well the alpha renders real-world websites, its stability and performance, and any download or hardware requirements — none of these have been independently tested. The timing of a Windows build is also unstated, with The Verge reporting only that it is planned for \"later stages\" of the project."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Kling 在 ladybird.org 发布公告，宣布 alpha 版面向 macOS 与 Linux 推出，项目已开发四年多（据 The Verge 报道）。"
+   ],
+   "unconfirmed": [
+    "稳定性、网页兼容性与性能均无第三方测试数据；Windows 版本仅表示在“后期阶段”推出，没有日期；报道也未说明具体获取方式与硬件要求。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Ladybird's from-scratch browser engine opens alpha testing on macOS and Linux",
+  "zh": "Ladybird 自研浏览器引擎开启 alpha 测试"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/ladybird-s-from-scratch-browser-engine-opens-alpha-testing-on-macos-and-5d77/",
+  "zh": "/zh/2026/11/24/ladybird-s-from-scratch-browser-engine-opens-alpha-testing-on-macos-and-5d77/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

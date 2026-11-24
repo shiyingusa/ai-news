@@ -1,0 +1,62 @@
+{
+ "event_id": "vw-id-polo-wait-times-near-two-years-despite-1-000-cars-a-day-45d2",
+ "issue": "2026-11-24",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T08:43:26+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "InsideEVs",
+   "url": "https://insideevs.com/news/816560/vw-id-polo-cupra-raval-skoda-epiq-demand-high-wait-times/"
+  },
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/23/vw-id-polo-customers-now-face-year-long-wait-times/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "InsideEVs reports that the Martorell plant in Spain, which builds the Volkswagen ID. Polo and Cupra Raval, is already producing 1,000 cars per day, and that production there is now to be ramped up faster."
+   ],
+   "unconfirmed": [
+    "The wait-time figures rest on the outlet's reporting rather than a cited Volkswagen statement, and the numbers do not fully agree — the headline says buyers face waits of nearly two years, while the article text says ID. Polo customers sometimes wait more than a year and that the other three models in the family also require patience. The attribution of the delays to a battery-cell shortage, the claim that Volkswagen underestimated demand, and any per-model wait times or delivery dates are not confirmed by the company in the report."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 InsideEVs 援引 electrive 的报道，位于西班牙马托雷利的工厂同时组装大众 ID. Polo 与 Cupra Raval，目前日产量约 1,000 辆；报道称大众将加快扩产步伐，同时电池电芯短缺正在拖慢生产。"
+   ],
+   "unconfirmed": [
+    "报道正文只说 ID. Polo 部分客户需等待“一年以上”，标题所称“接近两年”在文中没有给出依据，两处说法并不一致；大众尚未公开确认具体等车时长，也未说明包括斯柯达 Epiq 在内的其余三款车型各自的排期，以及扩产的具体时间表和产能目标。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "VW ID. Polo Wait Times Near Two Years Despite 1,000 Cars a Day",
+  "zh": "大众ID. Polo与Cupra Raval供不应求，部分等待近两年"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/vw-id-polo-wait-times-near-two-years-despite-1-000-cars-a-day-45d2/",
+  "zh": "/zh/2026/11/24/vw-id-polo-wait-times-near-two-years-despite-1-000-cars-a-day-45d2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

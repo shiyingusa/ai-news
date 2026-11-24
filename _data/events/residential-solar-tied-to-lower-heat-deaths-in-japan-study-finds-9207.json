@@ -1,0 +1,57 @@
+{
+ "event_id": "residential-solar-tied-to-lower-heat-deaths-in-japan-study-finds-9207",
+ "issue": "2026-11-24",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T09:18:43+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/24/residential-solar-linked-to-reduced-health-risks-from-extreme-temperatures/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The study is a peer-reviewed article in Social Science & Medicine (vol. 410, 2026) by Yi-Chun Ko of the Asian Growth Research Institute and Shinsuke Uchida of Doshisha University, and journal indexes confirm its stated scope — whether residential solar PV can mitigate health risks by reducing households' reliance on grid electricity during extreme heat (tool-2-1, tool-2-3); its publication listing dates to October 2026 (tool-2-2)."
+   ],
+   "unconfirmed": [
+    "The headline figures — an ~8.2% annual reduction in heat-related excess deaths overall and ~8.5% for people 65 and older — are the authors' own model-based estimates from their instrumental-variable design, not independently replicated measurements, and the \"first causal evidence\" description is the co-author's characterization of his own work; the 38% electricity price increase and the prefecture-level mortality and installation data are stated in the paper without independent verification here, and the authors themselves note that solar adoption skews toward higher-income households, so the size and distribution of any real-world benefit remain uncertain."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "这篇论文题为《Climate resilience through residential solar energy: Reducing health risks from extreme temperatures》，作者为亚洲成长研究所的 Yi-Chun Ko 与日本同志社大学的 Shinsuke Uchida，刊于《Social Science & Medicine》第 410 卷（2026 年），ScienceDirect 与 RePEc 的文献记录均与其一致；研究以 2011 年东日本大地震后核电停运、电价最高上涨 38% 并同期推行住宅光伏补贴为自然实验，将 2009—2014 年 44 个都道府县的月度死亡率数据、天气数据与官方光伏装机数据结合，用工具变量法分离光伏 adopt 的影响，结论是极端高温相关超额死亡年均减少约 8.2%，65 岁及以上人群约 8.5%，低温下未见类似效应。"
+   ],
+   "unconfirmed": [
+    "8.2% 与 8.5% 是作者按研究期内光伏装机年均增速推算的模型估计值，并非实测的死亡人数下降，尚无独立复现或第三方评估；作者所称这是“首个证明户用光伏可作为公共卫生干预手段的因果证据”，属于作者自我评价，未获外部确认；研究结论基于日本特定电价冲击与补贴环境，能否外推到其他市场、其他电价机制尚不清楚；论文也自认光伏 adoption 偏向高收入地区，健康收益分配可能不均，这一点尚无量化数据支撑。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Residential solar tied to lower heat deaths in Japan, study finds",
+  "zh": "研究：日本住宅光伏使高温相关超额死亡年降约8%"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/residential-solar-tied-to-lower-heat-deaths-in-japan-study-finds-9207/",
+  "zh": "/zh/2026/11/24/residential-solar-tied-to-lower-heat-deaths-in-japan-study-finds-9207/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

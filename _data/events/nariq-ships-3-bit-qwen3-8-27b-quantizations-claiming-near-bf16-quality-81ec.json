@@ -1,0 +1,62 @@
+{
+ "event_id": "nariq-ships-3-bit-qwen3-8-27b-quantizations-claiming-near-bf16-quality-81ec",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-23T13:42:38+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "Hugging Face",
+   "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50611402"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "NariQ's model card publishes BF16, 3-bit, 2.5-bit and 2-bit scores for DeepSWE, Terminal-Bench 2.1, AIME 25+26, MSGM and RealWorldQA, and a commit in the same repository describes the DeepSWE figures as three-round averages with per-cell task counts and Docker-based runs (tool-3-1). The card also states that running these files currently requires NariQ's own llama.cpp fork."
+   ],
+   "unconfirmed": [
+    "All scores are author-reported with no independent replication, and the release does not say what the 4K–64K context-length numbers (88.9 up to 111.7) actually measure, so the claim that decode speed is comparable to other quants rests on the vendor's word; several 3-bit and 2.5-bit results also come out above the BF16 baseline without explanation, and the Terminal-Bench version cited, 2.1, is not the 4.1 release listed on the benchmark's own site (tool-3-3)."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "NariQ 在 Hugging Face 上发布了 Qwen3.8-27B 的 3-bit 及更低比特量化版本，发布页列出了 DeepSWE、Terminal-Bench 2.1、AIME 25+26、MSGM、RealWorldQA 五组基准上 BF16 与 3-bit／2.5-bit／2-bit 的对比数字，并说明目前必须使用其自建的 llama.cpp 分支（nari-llama.cpp）才能运行；模型仓库的提交说明显示 DeepSWE 为三轮平均、在 Docker 环境中逐题统计并给出样本数（tool-3-1）。"
+   ],
+   "unconfirmed": [
+    "“接近 BF16 质量”和“首个在长程 agentic 任务上保持 BF16 水平”的说法均为作者自报，尚无可查的独立第三方复测；发布内容未交代标题所称 10 GB 文件的具体构成、各基准所用的评测框架版本与 held-out 划分，而公开的 Terminal-Bench 排行榜页面当前已是 4.1 版（tool-3-3），与文中 2.1 版成绩不能直接对比；Mac 上约 3.8 tok/s（M3 Pro，3.0bpw）的推理速度仅见于评论者转述的说明，发布正文未给出。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "NariQ ships 3-bit Qwen3.8-27B quantizations claiming near-BF16 quality",
+  "zh": "NariQ 发布 Qwen3.8-27B 低比特量化，10 GB 文件声称接近 BF16"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/nariq-ships-3-bit-qwen3-8-27b-quantizations-claiming-near-bf16-quality-81ec/",
+  "zh": "/zh/2026/11/24/nariq-ships-3-bit-qwen3-8-27b-quantizations-claiming-near-bf16-quality-81ec/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

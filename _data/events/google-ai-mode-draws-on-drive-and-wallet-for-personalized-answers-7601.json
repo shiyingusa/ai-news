@@ -1,0 +1,57 @@
+{
+ "event_id": "google-ai-mode-draws-on-drive-and-wallet-for-personalized-answers-7601",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-23T19:14:46+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Google announced on Monday that Personal Intelligence in Search's AI Mode now extends to Google Drive, Google Wallet and the Gemini app, per TechCrunch and Google's own blog post, which says users must opt in to connect those services."
+   ],
+   "unconfirmed": [
+    "The rollout sequence and reach — Android Authority reports Wallet support arrives first, following Gemini connectivity earlier this month, with Drive and the Gemini app connections trailing — but Google's post and the coverage do not specify a full availability date, countries, or which account tiers qualify; they also leave out what data each integration can read, how long it is retained, and whether any independent privacy or security review has been done."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Google 在其官方博客中表示，用户可主动选择加入（opt-in），将 Google Wallet、Drive 和 Gemini 应用接入 AI Mode 的 Personal Intelligence；TechCrunch 报道该消息于周一公布；Android Authority 称 Wallet 支持最先上线，而 Gemini 连接此前本月早些时候已经推出。"
+   ],
+   "unconfirmed": [
+    "报道未说明完整推送时间表、覆盖的国家与地区、哪些账号类型可用，也没有给出隐私与数据处理的具体细节；个性化回答是否准确、是否可靠，目前只有 Google 自己的描述，没有独立测试，报道中也未提及收费是否变化。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google AI Mode draws on Drive and Wallet for personalized answers",
+  "zh": "Google AI 模式接入 Drive、Wallet 与 Gemini 应用"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/google-ai-mode-draws-on-drive-and-wallet-for-personalized-answers-7601/",
+  "zh": "/zh/2026/11/24/google-ai-mode-draws-on-drive-and-wallet-for-personalized-answers-7601/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

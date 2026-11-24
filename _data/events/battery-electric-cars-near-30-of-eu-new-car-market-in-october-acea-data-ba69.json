@@ -1,0 +1,53 @@
+{
+ "event_id": "battery-electric-cars-near-30-of-eu-new-car-market-in-october-acea-data-ba69",
+ "issue": "2026-11-24",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T10:30:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/24/acea-battery-electric-cars-capture-30-per-cent-of-eu-passenger-car-market/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "electrive reported, citing ACEA (the European Automobile Manufacturers' Association, which the search result confirms represents 17 major European car, truck, van and bus makers), that 280,000 battery-electric cars were registered in the EU in October, 61 per cent more than a year earlier, and that BEVs took nearly 30 per cent of the overall passenger car market."
+   ],
+   "unconfirmed": [
+    "no ACEA release or dataset was available to check the figures independently, and the report gives no country or brand breakdown, no total market volume, and no clarity on whether the scope is the EU alone or the wider EU+EFTA+UK grouping ACEA often uses; the headline rounds the share to 30 per cent while the article text says \"nearly 30 per cent.\""
+   ]
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Battery-electric cars near 30% of EU new-car market in October, ACEA data shows",
+  "zh": "ACEA：欧盟10月纯电动车占乘用车市场近30%"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/battery-electric-cars-near-30-of-eu-new-car-market-in-october-acea-data-ba69/",
+  "zh": "/zh/2026/11/24/battery-electric-cars-near-30-of-eu-new-car-market-in-october-acea-data-ba69/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

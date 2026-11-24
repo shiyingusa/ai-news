@@ -1,0 +1,57 @@
+{
+ "event_id": "google-reportedly-retracted-west-bank-maps-changes-after-israeli-624a",
+ "issue": "2026-11-24",
+ "section": "tech-industry",
+ "published_at": "2026-11-24T04:00:14+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wired",
+   "url": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Wired published an investigation reporting that a Google product manager spent years trying to map Israeli checkpoints in the West Bank more accurately in Google Maps, and that the company later reversed key parts of that work, according to Wired's headline and summary."
+   ],
+   "unconfirmed": [
+    "That Israeli government pressure was the reason for the rollback — this rests on Wired's unnamed sources, and the item carries no on-record Google statement, no identification of which map changes shipped versus were removed, and no independent verification; Wired itself reported in December 2024 that Palestinians had long complained about missing and outdated West Bank data in Maps."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Wired 发表了这项调查，报道援引匿名消息人士称，一名谷歌产品经理多年推动在谷歌地图上准确标注约旦河西岸的以色列检查站，公司后来撤销了其中关键部分；Wired 在 2024 年 12 月也曾报道，巴勒斯坦居民长期抱怨当地地图数据缺失或过时，导致出行困难。"
+   ],
+   "unconfirmed": [
+    "目前可见的报道摘要未提及谷歌的回应或官方说法；具体哪些改动曾上线、何时被撤销、以及撤销是否确因以色列方面施压，都只出自匿名消息源，尚无独立证实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google reportedly retracted West Bank Maps changes after Israeli pressure, Wired reports",
+  "zh": "消息人士：谷歌因以色列施压撤回谷歌地图约旦河西岸关键改动"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/google-reportedly-retracted-west-bank-maps-changes-after-israeli-624a/",
+  "zh": "/zh/2026/11/24/google-reportedly-retracted-west-bank-maps-changes-after-israeli-624a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

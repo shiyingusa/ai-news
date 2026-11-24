@@ -1,0 +1,57 @@
+{
+ "event_id": "aws-launches-five-open-strands-decider-v2-models-the-new-stack-reports-88c0",
+ "issue": "2026-11-24",
+ "section": "ai-news",
+ "published_at": "2026-11-24T04:25:01+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The New Stack",
+   "url": "https://thenewstack.io/aws-strands-decider-v2/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Strands Labs' own announcement says Strands Decider v2 is a family of five decision models built on Gemma 4, spanning 2B to 31B parameters under Apache 2.0, with weights published on Hugging Face and v2 support in the open-source Strands Decider repository; the models do not generate text but pick from a supplied list of options, returning a probability for each in a single forward pass, and VentureBeat independently describes the release the same way. The New Stack dates the launch to \"Monday,\" consistent with third-party coverage placing it on Nov 23, 2026."
+   ],
+   "unconfirmed": [
+    "the accuracy and calibration of the returned probabilities at each model size rest so far on the vendor's description, with no independent benchmark supplied; throughput, latency and how the five sizes compare in real agent-routing workloads are also unverified, and the item offers no detail on what changed from the earlier Strands Labs release seven weeks prior."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Strands Labs 的博客（tool-3-1）称 Strands Decider v2 是基于 Gemma 4 的五个模型，参数规模从 E2B 到 31B，采用 Apache 2.0 许可，模型权重已发布在 Hugging Face，v2 支持已进入开源的 Strands Decider 仓库；VentureBeat（tool-3-2）和 explainx.ai（tool-3-3）的报道与这一描述一致。据该博客所述，Decider 属于“system one”模型：它不生成文本，而是在一次前向传播中从给定选项里选择，并为每个选项返回一个概率。"
+   ],
+   "unconfirmed": [
+    "模型的决策准确率、概率校准质量与延迟等性能主张目前仅出自公司自己的博客，没有独立评测或第三方复现；各尺寸模型的具体硬件要求、是否通过 AWS 托管服务提供以及定价，均未在报道中说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "AWS launches five open Strands Decider v2 models, The New Stack reports",
+  "zh": "AWS 推出 Strands Decider v2：五个基于 Gemma 4 的开放决策模型"
+ },
+ "permalinks": {
+  "en": "/2026/11/24/aws-launches-five-open-strands-decider-v2-models-the-new-stack-reports-88c0/",
+  "zh": "/zh/2026/11/24/aws-launches-five-open-strands-decider-v2-models-the-new-stack-reports-88c0/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
