@@ -4,16 +4,21 @@
  "section": "tech-industry",
  "published_at": "2026-11-23T19:57:18+00:00",
  "updated": null,
- "status": "reported",
- "status_step": 2,
+ "status": "announced",
+ "status_step": 3,
  "planned": false,
- "status_label": null,
+ "status_label": "Announced",
  "confidence": {
   "level": "high",
-  "reason": "2 independent"
+  "reason": "primary + 2 independent"
  },
- "radar_score": 8.0,
+ "radar_score": 9.5,
  "sources": [
+  {
+   "tier": "primary",
+   "name": "NVIDIA",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+  },
   {
    "tier": "independent",
    "name": "The Verge",
@@ -30,7 +35,7 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
   }
  ],
- "discovered_via": null,
+ "discovered_via": "The Verge",
  "facts": {
   "en": {
    "verified": [
@@ -55,8 +60,8 @@
   "zh"
  ],
  "titles": {
-  "en": "Jensen Huang returns as Nvidia CEO after resignation and Trump push",
-  "zh": "黄仁勋辞任英伟达CEO后再回归，Axios称特朗普曾施压董事会"
+  "en": "Nvidia board reinstates Jensen Huang as CEO, 11 days after he resigned",
+  "zh": "英伟达董事会恢复黄仁勋CEO职务，Axios称特朗普曾施压"
  },
  "permalinks": {
   "en": "/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1/",
