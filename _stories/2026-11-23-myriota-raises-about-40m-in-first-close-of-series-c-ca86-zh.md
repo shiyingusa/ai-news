@@ -1,16 +1,16 @@
 ---
 layout: story
 lang: zh
-date: 2026-11-24 06:00:00 -0500
-issue: "2026-11-24"
+date: 2026-11-23 19:32:00 -0500
+issue: "2026-11-23"
 story_id: "myriota-raises-about-40m-in-first-close-of-series-c-ca86"
-permalink: "/zh/2026/11/24/myriota-raises-about-40m-in-first-close-of-series-c-ca86/"
+permalink: "/zh/2026/11/23/myriota-raises-about-40m-in-first-close-of-series-c-ca86/"
 title: "澳大利亚卫星物联网公司 Myriota 完成约 4000 万美元 C 轮首关，《华尔街日报》报道"
 dek: "澳大利亚卫星物联网连接提供商 Myriota 在 C 轮融资的首次交割（first close）中筹集约 4000 万美元，资金将用于招聘员工并扩展其卫星星座。"
 description: "澳大利亚卫星物联网连接提供商 Myriota 在 C 轮融资的首次交割（first close）中筹集约 4000 万美元，资金将用于招聘员工并扩展其卫星星座。"
 section: "space"
-rank: 6
-edition: 0
+rank: 226
+edition: 2
 section_rank: 1
 score: 7.0
 status: "Announced"
@@ -21,10 +21,10 @@ discussion_url: null
 published_at: "2026-11-23T23:25:01+00:00"
 tags: ["satellite IoT", "space technology", "funding", "Series C", "Australia"]
 topics: ["satellite-iot", "space-technology", "funding", "series-c", "australia"]
-order: "20261124-0-993"
-image: "/assets/stories/2026-11-24/myriota-raises-about-40m-in-first-close-of-series-c-ca86-share.jpg"
-art: "/assets/stories/2026-11-24/myriota-raises-about-40m-in-first-close-of-series-c-ca86.jpg"
-thumb: "/assets/stories/2026-11-24/myriota-raises-about-40m-in-first-close-of-series-c-ca86-640.jpg"
+order: "20261123-2-973"
+image: "/assets/stories/2026-11-23/myriota-raises-about-40m-in-first-close-of-series-c-ca86-share.jpg"
+art: "/assets/stories/2026-11-23/myriota-raises-about-40m-in-first-close-of-series-c-ca86.jpg"
+thumb: "/assets/stories/2026-11-23/myriota-raises-about-40m-in-first-close-of-series-c-ca86-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/ge1fabcf1b28faa88e9efdc4d47ba18446034dab9015e4b0641f070fc4403393c03f6012257724cab8f9365c7e7a2cdc9_1280.jpg", "author": "WikiImages", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/satellite-spacecraft-space-67718/", "provider": "Pixabay", "width": 2274, "height": 1506}
 ---
 

@@ -1,16 +1,16 @@
 ---
 layout: story
 lang: en
-date: 2026-11-24 06:00:00 -0500
-issue: "2026-11-24"
+date: 2026-11-23 19:32:00 -0500
+issue: "2026-11-23"
 story_id: "saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef"
-permalink: "/2026/11/24/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef/"
+permalink: "/2026/11/23/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef/"
 title: "Saudi Arabia raises self-consumption cap to 50 MW and allows battery storage"
 dek: "Saudi Arabia's Electricity Regulatory Authority (SERA) has replaced the 2 MW ceiling on renewable self-consumption systems with a 50 MW cap, and the updated framework explicitly permits integrated battery storage, pv magazine reports…"
 description: "Saudi Arabia's Electricity Regulatory Authority (SERA) has replaced the 2 MW ceiling on renewable self-consumption systems with a 50 MW cap, and the updated framework explicitly permits integrated battery storage, pv magazine reports…"
 section: "ev-energy"
-rank: 5
-edition: 0
+rank: 225
+edition: 2
 section_rank: 2
 score: 7.0
 status: "Announced"
@@ -21,10 +21,10 @@ discussion_url: null
 published_at: "2026-11-23T09:14:42+00:00"
 tags: ["Saudi Arabia", "solar policy", "self-consumption", "battery storage", "distributed energy"]
 topics: ["saudi-arabia", "solar-policy", "self-consumption", "battery-storage", "distributed-energy"]
-order: "20261124-0-994"
-image: "/assets/stories/2026-11-24/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef-share.jpg"
-art: "/assets/stories/2026-11-24/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef.jpg"
-thumb: "/assets/stories/2026-11-24/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef-640.jpg"
+order: "20261123-2-974"
+image: "/assets/stories/2026-11-23/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef-share.jpg"
+art: "/assets/stories/2026-11-23/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef.jpg"
+thumb: "/assets/stories/2026-11-23/saudi-arabia-raises-self-consumption-cap-to-50-mw-and-allows-battery-8cef-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/ge2c349f3500de1422fa7430ec9c47907323d68b87fca9899b9b04abe8cf52491e27488ee00c1252f34fc27baa53a3372142d3273902f0440f131aea162e94e91_1280.jpg", "author": "fietzfotos", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/solar-energy-solar-panels-5622969/", "provider": "Pixabay", "width": 4401, "height": 1933}
 ---
 

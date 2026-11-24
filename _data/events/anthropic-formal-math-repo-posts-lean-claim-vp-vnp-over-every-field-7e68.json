@@ -1,6 +1,6 @@
 {
  "event_id": "anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68",
- "issue": "2026-11-24",
+ "issue": "2026-11-23",
  "section": "ai-news",
  "published_at": "2026-11-23T22:09:10+00:00",
  "updated": null,
@@ -54,8 +54,8 @@
   "zh": "Anthropic formal-math 仓库公开 VP ≠ VNP 的 Lean 形式化"
  },
  "permalinks": {
-  "en": "/2026/11/24/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68/",
-  "zh": "/zh/2026/11/24/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68/"
+  "en": "/2026/11/23/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68/",
+  "zh": "/zh/2026/11/23/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68/"
  },
  "merged_urls": [],
  "corrected": false

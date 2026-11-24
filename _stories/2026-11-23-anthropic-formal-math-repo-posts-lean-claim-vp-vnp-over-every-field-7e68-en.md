@@ -1,16 +1,16 @@
 ---
 layout: story
 lang: en
-date: 2026-11-24 06:00:00 -0500
-issue: "2026-11-24"
+date: 2026-11-23 19:32:00 -0500
+issue: "2026-11-23"
 story_id: "anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68"
-permalink: "/2026/11/24/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68/"
+permalink: "/2026/11/23/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68/"
 title: "Anthropic formal-math repo posts Lean claim VP ≠ VNP over every field"
 dek: "Anthropic's public formal-math repository now hosts a Lean formalization claiming that VP ≠ VNP over every field, separating two algebraic complexity classes that are analogues of P and NP."
 description: "Anthropic's public formal-math repository now hosts a Lean formalization claiming that VP ≠ VNP over every field, separating two algebraic complexity classes that are analogues of P and NP."
 section: "ai-news"
-rank: 1
-edition: 0
+rank: 221
+edition: 2
 section_rank: 1
 score: 7.0
 status: "Released"
@@ -21,10 +21,10 @@ discussion_url: "https://news.ycombinator.com/item?id=50620102"
 published_at: "2026-11-23T22:09:10+00:00"
 tags: ["formal verification", "Lean", "complexity theory", "AI for mathematics", "Anthropic"]
 topics: ["formal-verification", "lean", "complexity-theory", "ai-for-mathematics", "anthropic"]
-order: "20261124-0-998"
-image: "/assets/stories/2026-11-24/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68-share.jpg"
-art: "/assets/stories/2026-11-24/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68.jpg"
-thumb: "/assets/stories/2026-11-24/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68-640.jpg"
+order: "20261123-2-978"
+image: "/assets/stories/2026-11-23/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68-share.jpg"
+art: "/assets/stories/2026-11-23/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68.jpg"
+thumb: "/assets/stories/2026-11-23/anthropic-formal-math-repo-posts-lean-claim-vp-vnp-over-every-field-7e68-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g4097b6e04d807e81def251c0131936faa0df031694afc2bd4803601cd708634ae8b9506b125bc03cc111866c6d4c8d1451eb1e5b4efdb95f5aa802e857e5bede_1280.jpg", "author": "Pexels", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/laptop-notebook-cellphone-computer-1839876/", "provider": "Pixabay", "width": 3778, "height": 2519}
 ---
 

@@ -1,16 +1,16 @@
 ---
 layout: story
 lang: en
-date: 2026-11-24 06:00:00 -0500
-issue: "2026-11-24"
+date: 2026-11-23 19:32:00 -0500
+issue: "2026-11-23"
 story_id: "jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8"
-permalink: "/2026/11/24/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8/"
+permalink: "/2026/11/23/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8/"
 title: "Jordan to seek private investors for 200 MW solar and 400 MWh battery storage"
 dek: "Jordan's Ministry of Energy and Mineral Resources said at the inaugural Jordan-EU Investment Conference last week that it will invite private investors early next year to build a 200 MW solar plant and a 100 MW/400 MWh battery energy…"
 description: "Jordan's Ministry of Energy and Mineral Resources said at the inaugural Jordan-EU Investment Conference last week that it will invite private investors early next year to build a 200 MW solar plant and a 100 MW/400 MWh battery energy…"
 section: "ev-energy"
-rank: 4
-edition: 0
+rank: 224
+edition: 2
 section_rank: 1
 score: 7.0
 status: "Planned"
@@ -21,10 +21,10 @@ discussion_url: null
 published_at: "2026-11-23T10:36:16+00:00"
 tags: ["Jordan", "solar", "battery storage", "BESS", "renewable energy"]
 topics: ["jordan", "solar", "battery-storage", "bess", "renewable-energy"]
-order: "20261124-0-995"
-image: "/assets/stories/2026-11-24/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8-share.jpg"
-art: "/assets/stories/2026-11-24/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8.jpg"
-thumb: "/assets/stories/2026-11-24/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8-640.jpg"
+order: "20261123-2-975"
+image: "/assets/stories/2026-11-23/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8-share.jpg"
+art: "/assets/stories/2026-11-23/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8.jpg"
+thumb: "/assets/stories/2026-11-23/jordan-to-seek-private-investors-for-200-mw-solar-and-400-mwh-battery-58b8-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g41cdbb19ebc9297694af72d3e3a808466828884ecec91450d864d792c018327093c3bedc2f6554fb61c9052e708573c0982caa8022851782828de65157378fe1_1280.jpg", "author": "Michael_Pointner", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/solar-panels-solar-energy-8244680/", "provider": "Pixabay", "width": 4314, "height": 2876}
 ---
 

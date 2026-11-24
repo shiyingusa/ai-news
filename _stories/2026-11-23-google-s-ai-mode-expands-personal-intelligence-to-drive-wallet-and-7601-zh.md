@@ -1,16 +1,16 @@
 ---
 layout: story
 lang: zh
-date: 2026-11-24 06:00:00 -0500
-issue: "2026-11-24"
+date: 2026-11-23 19:32:00 -0500
+issue: "2026-11-23"
 story_id: "google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601"
-permalink: "/zh/2026/11/24/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601/"
+permalink: "/zh/2026/11/23/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601/"
 title: "谷歌 AI 模式个人智能扩展至 Drive、Wallet 与 Gemini 应用"
 dek: "谷歌正在把 AI 模式（AI Mode，搜索中的对话式 AI 界面）里的“个人智能”（Personal Intelligence）扩展到 Google Drive、Google Wallet 以及 Gemini 应用。"
 description: "谷歌正在把 AI 模式（AI Mode，搜索中的对话式 AI 界面）里的“个人智能”（Personal Intelligence）扩展到 Google Drive、Google Wallet 以及 Gemini 应用。"
 section: "ai-news"
-rank: 2
-edition: 0
+rank: 222
+edition: 2
 section_rank: 2
 score: 7.0
 status: "Released"
@@ -21,10 +21,10 @@ discussion_url: null
 published_at: "2026-11-23T19:14:46+00:00"
 tags: ["Google AI Mode", "Gemini app", "personalization", "Google Drive", "Google Wallet"]
 topics: ["google-ai-mode", "gemini-app", "personalization", "google-drive", "google-wallet"]
-order: "20261124-0-997"
-image: "/assets/stories/2026-11-24/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601-share.jpg"
-art: "/assets/stories/2026-11-24/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601.jpg"
-thumb: "/assets/stories/2026-11-24/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601-640.jpg"
+order: "20261123-2-977"
+image: "/assets/stories/2026-11-23/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601-share.jpg"
+art: "/assets/stories/2026-11-23/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601.jpg"
+thumb: "/assets/stories/2026-11-23/google-s-ai-mode-expands-personal-intelligence-to-drive-wallet-and-7601-640.jpg"
 photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Strawberries_ISO_denoise_test%2C_ISO_12800_photo_-_Topaz_DeNoise_AI_v._3.7.2%2C_RAW_mode%2C_noise_removal_25.jpg/1920px-Strawberries_ISO_denoise_test%2C_ISO_12800_photo_-_Topaz_DeNoise_AI_v._3.7.2%2C_RAW_mode%2C_noise_removal_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Alexis Jazz", "licence": "CC0", "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en", "source_url": "https://commons.wikimedia.org/wiki/File:Strawberries_ISO_denoise_test,_ISO_12800_photo_-_Topaz_DeNoise_AI_v._3.7.2,_RAW_mode,_noise_removal_25.jpg", "provider": "Wikimedia Commons", "width": 5488, "height": 3664}
 ---
 

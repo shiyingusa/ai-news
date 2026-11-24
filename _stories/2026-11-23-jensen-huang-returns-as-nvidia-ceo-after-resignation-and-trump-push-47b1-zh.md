@@ -5,18 +5,18 @@ date: 2026-11-23 18:23:03 -0500
 issue: "2026-11-23"
 story_id: "jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1"
 permalink: "/zh/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1/"
-title: "黄仁勋辞任英伟达CEO后再回归，Axios称特朗普曾施压董事会"
-dek: "英伟达联合创始人黄仁勋于11月12日辞去CEO一职，董事会在其承认自己给董事会\"制造了问题\"后接受了辞呈，随后他又回到了这一岗位。"
-description: "英伟达联合创始人黄仁勋于11月12日辞去CEO一职，董事会在其承认自己给董事会\"制造了问题\"后接受了辞呈，随后他又回到了这一岗位。"
+title: "英伟达董事会恢复黄仁勋CEO职务，Axios称特朗普曾施压"
+dek: "英伟达 11 月 23 日宣布，董事会一致投票恢复黄仁勋的总裁兼 CEO 职务及董事席位，即刻生效，距他 11 月 12 日辞职仅 11 天。"
+description: "英伟达 11 月 23 日宣布，董事会一致投票恢复黄仁勋的总裁兼 CEO 职务及董事席位，即刻生效，距他 11 月 12 日辞职仅 11 天。"
 section: "tech-industry"
 rank: 210
 edition: 2
 section_rank: 2
-score: 8.0
-status: "Available"
-source_name: "The Verge"
-source_url: "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
-via: null
+score: 9.5
+status: "Announced"
+source_name: "NVIDIA"
+source_url: "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+via: "The Verge"
 discussion_url: null
 published_at: "2026-11-23T19:57:18+00:00"
 tags: ["Nvidia", "Jensen Huang", "corporate governance", "AI chips", "executive leadership"]
@@ -30,6 +30,8 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/
 
 {% raw %}
 <div class="story-lead" markdown="1">
+
+英伟达 11 月 23 日宣布，董事会一致投票恢复黄仁勋的总裁兼 CEO 职务及董事席位，即刻生效；公告称董事会听取了美国政府高层的意见，确信此举不构成国家安全风险。这距他 11 月 12 日辞职仅 11 天。
 
 英伟达联合创始人黄仁勋于11月12日辞去CEO一职，董事会在其承认自己给董事会"制造了问题"后接受了辞呈，随后他又回到了这一岗位。据 The Verge 报道，黄仁勋承认对妻子"不忠"；《纽约时报》此前报道他与一名向中国传递情报的女性关系密切，后续报道又称中国情报机构曾招募相关人员。Axios 11月23日援引消息人士称，特朗普在盟友提出黄仁勋对美国经济"大到不能倒"、且是"深层政府"操作的受害者之后，向英伟达施压要求让其复职。辞职消息公布之初，特朗普曾在斯蒂芬·A·史密斯的电台节目上表示黄仁勋会"重新站稳脚跟"，并提到苹果前CEO蒂姆·库克是可能的CEO人选。
 

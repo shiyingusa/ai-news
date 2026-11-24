@@ -1,16 +1,16 @@
 ---
 layout: story
 lang: zh
-date: 2026-11-24 06:00:00 -0500
-issue: "2026-11-24"
+date: 2026-11-23 19:32:00 -0500
+issue: "2026-11-23"
 story_id: "bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34"
-permalink: "/zh/2026/11/24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34/"
+permalink: "/zh/2026/11/23/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34/"
 title: "豆包手机两代后，字节需要自建手机厂"
 dek: "极客公园 11 月 23 日的评论文章认为，豆包手机已卖到第二代，但字节跳动仍缺一家自己说了算的手机厂：第二代努比亚 NaviX Ultra 于 2026 年 9 月上市、5999 元起…"
 description: "极客公园 11 月 23 日的评论文章认为，豆包手机已卖到第二代，但字节跳动仍缺一家自己说了算的手机厂：第二代努比亚 NaviX Ultra 于 2026 年 9 月上市、5999 元起…"
 section: "ai-news"
-rank: 3
-edition: 0
+rank: 223
+edition: 2
 section_rank: 3
 score: 7.0
 status: "Rumored"
@@ -21,10 +21,10 @@ discussion_url: null
 published_at: "2026-11-23T15:47:18+00:00"
 tags: ["AI assistants", "AI phones", "ByteDance", "Doubao", "mobile ecosystem"]
 topics: ["ai-assistants", "ai-phones", "bytedance", "doubao", "mobile-ecosystem"]
-order: "20261124-0-996"
-image: "/assets/stories/2026-11-24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34-share.jpg"
-art: "/assets/stories/2026-11-24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34.jpg"
-thumb: "/assets/stories/2026-11-24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34-640.jpg"
+order: "20261123-2-976"
+image: "/assets/stories/2026-11-23/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34-share.jpg"
+art: "/assets/stories/2026-11-23/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34.jpg"
+thumb: "/assets/stories/2026-11-23/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/gdd5e271a2c5b9f42ea40ad28f2f6e5bea4237d5bf866e305410a6f9102a7e7e04fcd89d2f3d263e074aa0d7d88e7a9d1911f542bb700a0c5972bde4934dfc7f9_1280.jpg", "author": "Pexels", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/hands-phone-smartphone-electronics-1851218/", "provider": "Pixabay", "width": 5472, "height": 3648}
 ---
 

@@ -1,6 +1,6 @@
 {
  "event_id": "ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd",
- "issue": "2026-11-24",
+ "issue": "2026-11-23",
  "section": "tech-industry",
  "published_at": "2026-11-23T16:13:12+00:00",
  "updated": null,
@@ -59,8 +59,8 @@
   "zh": "Ladybird 发布首个 alpha，macOS 与 Linux 可直接安装"
  },
  "permalinks": {
-  "en": "/2026/11/24/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd/",
-  "zh": "/zh/2026/11/24/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd/"
+  "en": "/2026/11/23/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd/",
+  "zh": "/zh/2026/11/23/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd/"
  },
  "merged_urls": [],
  "corrected": false

@@ -1,16 +1,16 @@
 ---
 layout: story
 lang: en
-date: 2026-11-24 06:00:00 -0500
-issue: "2026-11-24"
+date: 2026-11-23 19:32:00 -0500
+issue: "2026-11-23"
 story_id: "bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34"
-permalink: "/2026/11/24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34/"
+permalink: "/2026/11/23/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34/"
 title: "ByteDance's Doubao phone push hits app-ecosystem limits, GeekPark argues"
 dek: "GeekPark argues that ByteDance's Doubao phone strategy has hit an ecosystem wall: Doubao can book a Caocao ride, but it cannot tap send on a WeChat message because WeChat…"
 description: "GeekPark argues that ByteDance's Doubao phone strategy has hit an ecosystem wall: Doubao can book a Caocao ride, but it cannot tap send on a WeChat message because WeChat…"
 section: "ai-news"
-rank: 3
-edition: 0
+rank: 223
+edition: 2
 section_rank: 3
 score: 7.0
 status: null
@@ -21,10 +21,10 @@ discussion_url: null
 published_at: "2026-11-23T15:47:18+00:00"
 tags: ["AI assistants", "AI phones", "ByteDance", "Doubao", "mobile ecosystem"]
 topics: ["ai-assistants", "ai-phones", "bytedance", "doubao", "mobile-ecosystem"]
-order: "20261124-0-996"
-image: "/assets/stories/2026-11-24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34-share.jpg"
-art: "/assets/stories/2026-11-24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34.jpg"
-thumb: "/assets/stories/2026-11-24/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34-640.jpg"
+order: "20261123-2-976"
+image: "/assets/stories/2026-11-23/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34-share.jpg"
+art: "/assets/stories/2026-11-23/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34.jpg"
+thumb: "/assets/stories/2026-11-23/bytedance-s-doubao-phone-push-hits-app-ecosystem-limits-geekpark-argues-4e34-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/gdd5e271a2c5b9f42ea40ad28f2f6e5bea4237d5bf866e305410a6f9102a7e7e04fcd89d2f3d263e074aa0d7d88e7a9d1911f542bb700a0c5972bde4934dfc7f9_1280.jpg", "author": "Pexels", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/hands-phone-smartphone-electronics-1851218/", "provider": "Pixabay", "width": 5472, "height": 3648}
 ---
 

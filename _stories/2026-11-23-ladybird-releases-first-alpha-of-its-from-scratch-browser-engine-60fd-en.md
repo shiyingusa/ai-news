@@ -1,16 +1,16 @@
 ---
 layout: story
 lang: en
-date: 2026-11-24 06:00:00 -0500
-issue: "2026-11-24"
+date: 2026-11-23 19:32:00 -0500
+issue: "2026-11-23"
 story_id: "ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd"
-permalink: "/2026/11/24/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd/"
+permalink: "/2026/11/23/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd/"
 title: "Ladybird releases first alpha of its from-scratch browser engine"
 dek: "The Ladybird project released its first alpha on 23 November 2026, so macOS and Linux users can now install the browser without compiling it themselves."
 description: "The Ladybird project released its first alpha on 23 November 2026, so macOS and Linux users can now install the browser without compiling it themselves."
 section: "tech-industry"
-rank: 7
-edition: 0
+rank: 227
+edition: 2
 section_rank: 1
 score: 7.0
 status: "Released"
@@ -21,10 +21,10 @@ discussion_url: "https://news.ycombinator.com/item?id=50614249"
 published_at: "2026-11-23T16:13:12+00:00"
 tags: ["browsers", "open source", "web standards", "software releases", "privacy"]
 topics: ["browsers", "open-source", "web-standards", "software-releases", "privacy"]
-order: "20261124-0-992"
-image: "/assets/stories/2026-11-24/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd-share.jpg"
-art: "/assets/stories/2026-11-24/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd.jpg"
-thumb: "/assets/stories/2026-11-24/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd-640.jpg"
+order: "20261123-2-972"
+image: "/assets/stories/2026-11-23/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd-share.jpg"
+art: "/assets/stories/2026-11-23/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd.jpg"
+thumb: "/assets/stories/2026-11-23/ladybird-releases-first-alpha-of-its-from-scratch-browser-engine-60fd-640.jpg"
 photo_credit: {"url": "https://pixabay.com/get/g26b80ec4dac2aa9e750c4633ed621739b73e20fb64a0af6cf7c971cd16aad691667c1bf5261a24ac29527daf0d6521fc9a0b363d5c3c77303235f60cbbd1fc0d_1280.jpg", "author": "Monoar_CGI_Artist", "licence": "Pixabay Content License", "licence_url": "https://pixabay.com/service/license-summary/", "source_url": "https://pixabay.com/photos/laptop-workstation-browsing-tablet-1483974/", "provider": "Pixabay", "width": 3807, "height": 2121}
 ---
 
