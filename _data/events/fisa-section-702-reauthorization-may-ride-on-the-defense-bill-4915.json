@@ -1,0 +1,57 @@
+{
+ "event_id": "fisa-section-702-reauthorization-may-ride-on-the-defense-bill-4915",
+ "issue": "2026-11-25",
+ "section": "tech-industry",
+ "published_at": "2026-11-24T20:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Rounds, an intelligence committee member, told Politico that Section 702 could be attached to the NDAA, and The Verge reports the authority has not technically lapsed despite a failed reauthorization vote."
+   ],
+   "unconfirmed": [
+    "whether congressional leadership will actually attach the reauthorization, what its text and duration would be, and whether it can pass before the session ends — no filed bill or enacted text is cited, and the quoted remarks are truncated."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "The Verge 报道，参议员迈克·朗兹对 Politico 表示，FISA 第702条可能被附加到 NDAA；报道还称该监听授权尚未在法律上失效。"
+   ],
+   "unconfirmed": [
+    "是否真会附加、附加文本的具体内容、续期时长和表决时间表均未公布；The Verge 引用的朗兹原话在报道摘要中被截断。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "FISA Section 702 reauthorization may ride on the defense bill",
+  "zh": "FISA 第702条续期或搭上国防授权法案，Politico 报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/fisa-section-702-reauthorization-may-ride-on-the-defense-bill-4915/",
+  "zh": "/zh/2026/11/25/fisa-section-702-reauthorization-may-ride-on-the-defense-bill-4915/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

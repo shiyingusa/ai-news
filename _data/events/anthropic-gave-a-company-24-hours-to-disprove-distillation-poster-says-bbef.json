@@ -1,0 +1,57 @@
+{
+ "event_id": "anthropic-gave-a-company-24-hours-to-disprove-distillation-poster-says-bbef",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-24T16:45:44+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "low",
+  "reason": "0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50630809"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "A Hacker News user posting as \"weli\" says their company was accused by Anthropic of using its API to distill Claude models and was given 24 hours to prove otherwise; the poster denies training models and says the only pattern that could look like distillation is automated regression benchmarking when AI settings change (the author's own account on Hacker News). Anthropic has publicly levelled similar distillation accusations at other developers, including DeepSeek and Moonshot AI, per DeepLearning.AI's The Batch."
+   ],
+   "unconfirmed": [
+    "That Anthropic actually sent such a notice, which policy clause it cites, and whether the flag is a false positive — no copy of the notice, date, or company identity was provided, and Anthropic has not commented publicly. Commenters' accounts — an OpenAI case traced to a compromised API key, advice to route Anthropic models through AWS Bedrock — are individual anecdotes, not evidence about this case."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Hacker News 用户 weli 于 11 月 24 日发帖称，其公司被 Anthropic 指控用 Claude API 做模型蒸馏（即用大模型输出训练自家模型），并被要求在 24 小时内自证清白；帖子说明他们并不训练自有模型，唯一可疑用法是更改 AI 设置时跑的自动化回归基准测试，并公开征询同行如何在不泄露用户隐私的前提下举证。"
+   ],
+   "unconfirmed": [
+    "Anthropic 是否确实发出该通知、24 小时期限是否属实、被指控的具体行为为何，以及自动化基准测试是否违反其政策——这些均只有发帖人单方陈述，Anthropic 未公开回应，也无第三方佐证；此前 Anthropic 曾公开指控 DeepSeek、Moonshot、MiniMax 等中国开发商蒸馏 Claude（据 DeepLearning.AI 与 n1n 报道），说明此类指控有先例，但并不构成本帖个案的证据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic gave a company 24 hours to disprove distillation, poster says",
+  "zh": "开发者称被 Anthropic 指控蒸馏模型，限 24 小时自证"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/anthropic-gave-a-company-24-hours-to-disprove-distillation-poster-says-bbef/",
+  "zh": "/zh/2026/11/25/anthropic-gave-a-company-24-hours-to-disprove-distillation-poster-says-bbef/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

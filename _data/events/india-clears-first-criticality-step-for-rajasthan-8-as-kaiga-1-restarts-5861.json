@@ -1,0 +1,57 @@
+{
+ "event_id": "india-clears-first-criticality-step-for-rajasthan-8-as-kaiga-1-restarts-5861",
+ "issue": "2026-11-25",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T17:10:59+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/start-up-milestones-for-indian-plants"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "World Nuclear News reported that India's nuclear regulator gave NPCIL permission for the First Approach to Criticality at Rajasthan Atomic Power Project unit 8, and that Kaiga unit 1 restarted after its refurbishment outage."
+   ],
+   "unconfirmed": [
+    "that Rajasthan 8 has actually achieved criticality or been connected to the grid; the duration of the Kaiga outage, which the report calls record-breaking without giving a figure; and the timing of either plant's full commercial operation, which no source specifies."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据世界核新闻报道，印度核监管机构向印度核电公司（NPCIL）发放了拉贾斯坦原子能项目8号机组的首次临界许可；凯加核电站1号机组在翻新停堆后恢复运行。"
+   ],
+   "unconfirmed": [
+    "停堆的实际时长（报道仅称“创纪录”）、凯加1号机组复运的确切日期、8号机组真正达到临界的时间，以及机组功率等运行数据，报道均未提供，也没有监管文件或第三方独立信息加以佐证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "India clears first-criticality step for Rajasthan 8 as Kaiga 1 restarts",
+  "zh": "印度拉贾斯坦8号机组获首次临界许可，凯加1号机组复运"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/india-clears-first-criticality-step-for-rajasthan-8-as-kaiga-1-restarts-5861/",
+  "zh": "/zh/2026/11/25/india-clears-first-criticality-step-for-rajasthan-8-as-kaiga-1-restarts-5861/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

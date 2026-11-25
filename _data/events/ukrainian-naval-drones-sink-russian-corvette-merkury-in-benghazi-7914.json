@@ -1,0 +1,57 @@
+{
+ "event_id": "ukrainian-naval-drones-sink-russian-corvette-merkury-in-benghazi-7914",
+ "issue": "2026-11-25",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-24T12:00:57+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Associated Press reported that the Merkury sank in port after being hit by at least two Ukrainian naval drones on November 22, and Zelenskyy published footage showing drone boats approaching and exploding against both the warship and the cargo ship."
+   ],
+   "unconfirmed": [
+    "the Security Service's account of seven drones launched from a mother ship, Zelenskyy's assertion that the Angara was transporting weapons, the extent of damage to the cargo ship, and any casualty figures; the report cites no Russian acknowledgement and no independent battle-damage assessment."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "美联社报道，11月22日停靠班加西的俄导弹护卫舰“水星”号遭至少两艘乌克兰无人艇撞击后在港内沉没；泽连斯基发布了显示无人艇撞击该舰与干货船“安加拉”号的视频。"
+   ],
+   "unconfirmed": [
+    "乌克兰安全部门所称“从母船放出七艘无人艇”、舰上卡-27直升机被毁以及“安加拉”号运载武器的说法，目前仅有乌方表述；报道未给出伤亡人数、无人艇型号或母船信息，也未见俄方确认或独立核实损害评估。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Ukrainian naval drones sink Russian corvette Merkury in Benghazi",
+  "zh": "乌克兰无人艇在班加西港击沉俄导弹护卫舰，并袭击随行货船"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/ukrainian-naval-drones-sink-russian-corvette-merkury-in-benghazi-7914/",
+  "zh": "/zh/2026/11/25/ukrainian-naval-drones-sink-russian-corvette-merkury-in-benghazi-7914/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "switzerland-awards-32-truck-charging-sites-to-fastned-obornes-and-b6f3",
+ "issue": "2026-11-25",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T14:30:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/24/switzerland-fastned-obornes-and-milence-secure-initial-truck-charging-network/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Switzerland's Federal Roads Office (FEDRO) awarded the 32 locations it tendered in January 2026 for 82 truck charging stations along national roads, split into three lots — Lot 1 to Fastned, Lot 2 to Obornes, Lot 3 to Milence — electrive reported."
+   ],
+   "unconfirmed": [
+    "the rollout timetable — first stations in 2030 and all 82 by 2035 — appears in other outlets' coverage (mobility-360, The EV Report, IN Power) but not in electrive's report, and no charging power, contract terms, pricing or site-by-site details were disclosed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "瑞士联邦公路局（FEDRO）将 2026 年 1 月招标的 32 个地点分配给三家企业，第 1 标段归 Fastned、第 2 标段归 Obornes、第 3 标段归 Milence，沿国道规划共 82 座卡车充电站；这是合同授予，不是已投运的充电设施（electrive 根据 FEDRO 公告报道）。"
+   ],
+   "unconfirmed": [
+    "各站点的具体位置、充电功率与单站规模未在报道中说明；首批站点 2030 年投运、2035 年前建成 82 座的进度来自 mobility-360、The EV Report 等二手报道，FEDRO 原始公告的相应时间表尚未经独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Switzerland awards 32 truck charging sites to Fastned, Obornes and Milence",
+  "zh": "瑞士授出32处卡车充电站点，Fastned、Obornes与Milence分获三标段"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/switzerland-awards-32-truck-charging-sites-to-fastned-obornes-and-b6f3/",
+  "zh": "/zh/2026/11/25/switzerland-awards-32-truck-charging-sites-to-fastned-obornes-and-b6f3/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

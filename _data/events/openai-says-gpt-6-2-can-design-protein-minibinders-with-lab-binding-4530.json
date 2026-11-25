@@ -1,0 +1,67 @@
+{
+ "event_id": "openai-says-gpt-6-2-can-design-protein-minibinders-with-lab-binding-4530",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-24T21:02:22+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "OpenAI",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+  },
+  {
+   "tier": "primary",
+   "name": "OpenAI News",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50634658"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenAI states that GPT-6.2 generated 3D minibinder designs by writing code, and that its own lab tests found evidence of binding for five targets."
+   ],
+   "unconfirmed": [
+    "how much of the design work was genuinely done by GPT-6.2 rather than the specialized models — SolubleMPNN produced the sequences and other tools filtered candidates — and OpenAI's own account supplies no binding affinities, success rates, comparison with existing design methods, peer review, or independent replication."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 OpenAI 报告，GPT-6.2 在拿到五个靶蛋白三维结构及指定结合位点后自行写代码生成微结合体的三维设计，实验室测试发现五个靶点均有结合迹象；序列由 SolubleMPNN 生成、候选由其他专用蛋白模型筛选，这也是该报告自己写明的内容。"
+   ],
+   "unconfirmed": [
+    "结合证据的强度（亲和力、特异性、可重复性）目前只有 OpenAI 单方描述，没有独立复现或同行评审数据；“不依赖专用蛋白 AI 模型”究竟覆盖多少环节仍不清楚，因为序列设计与候选筛选由专用模型完成。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "OpenAI says GPT-6.2 can design protein minibinders, with lab binding evidence",
+  "zh": "GPT-6.2 靠推理与代码设计蛋白质微结合体，五个靶点测得结合信号"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/openai-says-gpt-6-2-can-design-protein-minibinders-with-lab-binding-4530/",
+  "zh": "/zh/2026/11/25/openai-says-gpt-6-2-can-design-protein-minibinders-with-lab-binding-4530/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

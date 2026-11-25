@@ -1,0 +1,57 @@
+{
+ "event_id": "meta-and-amazon-discuss-linking-muse-ai-agent-ending-amazon-block-e522",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-25T10:15:01+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Fortune",
+   "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Fortune, citing unnamed sources, reported that Meta and Amazon are discussing a deal to connect Muse to Amazon and end Amazon's block, and that any deal would need both CEOs' approval."
+   ],
+   "unconfirmed": [
+    "Whether the discussions will produce a deal, its terms, timing or scope, and why Amazon blocked Muse; neither Meta nor Amazon has publicly confirmed the talks."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《财富》报道（引述未具名消息人士），亚马逊与 Meta 正在讨论一项让 Muse 接入亚马逊、解除现有封禁的潜在协议，且协议需双方 CEO 批准。"
+   ],
+   "unconfirmed": [
+    "谈判能否达成协议、封禁的起始时间与覆盖范围及其实施理由、交易条款和上线时间；亚马逊与 Meta 均未公开确认或置评，报道也未提供可供独立核实的细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Meta and Amazon discuss linking Muse AI agent, ending Amazon block, Fortune reports",
+  "zh": "消息人士：Meta 与亚马逊洽谈让 Muse 接入并解除封禁"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/meta-and-amazon-discuss-linking-muse-ai-agent-ending-amazon-block-e522/",
+  "zh": "/zh/2026/11/25/meta-and-amazon-discuss-linking-muse-ai-agent-ending-amazon-block-e522/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

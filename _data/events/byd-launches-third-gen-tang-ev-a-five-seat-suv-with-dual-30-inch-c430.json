@@ -1,0 +1,57 @@
+{
+ "event_id": "byd-launches-third-gen-tang-ev-a-five-seat-suv-with-dual-30-inch-c430",
+ "issue": "2026-11-25",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T15:40:49+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/24/byd-launches-new-luxury-5-seat-ev-suv-two-30-screens-under-30000/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reported that BYD launched the third-generation Tang in China as a five-seat SUV with a starting price below $30,000 and two screens larger than 30 inches; the article lists a 402 hp (300 kW) rear motor and CLTC ranges of 730 km for the base Premium and 850 km for the Laser Premium and Laser Flagship. A separate ievchina listing also gives up to 850 km CLTC, a second-generation Blade Battery and God's Eye B ADAS."
+   ],
+   "unconfirmed": [
+    "The exact Chinese price, delivery start, battery capacity and all-wheel-drive specifications are not disclosed; Electrek says \"launched\" while ievchina describes a Q4 launch following a Chengdu Auto Show unveiling, so whether customer deliveries have begun is unclear, and no independent range test or complete specification sheet is available."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，比亚迪在中国推出第三代唐，定位五座旗舰纯电 SUV，起售价低于 3 万美元；同一篇报道列出的参数为后驱版单电机 402 马力（300 kW），CLTC 续航 730 公里（Premium 版）和 850 公里（Laser Premium、Laser Flagship 版）。行业媒体 ievchina 记录该车在 2026 年成都车展首发，搭载第二代刀片电池和“天神之眼”B 智驾系统。"
+   ],
+   "unconfirmed": [
+    "具体起售价数字（报道只称“低于 3 万美元”）、各版本定价、交付时间以及中国以外市场的上市计划均未公布；730/850 公里为 CLTC 工况数据，并非独立实测，智驾功能的实际能力也没有第三方验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BYD launches third-gen Tang EV, a five-seat SUV with dual 30-inch screens under $30,000",
+  "zh": "比亚迪发布第三代唐 EV：五座旗舰 SUV 起售价低于 3 万美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/byd-launches-third-gen-tang-ev-a-five-seat-suv-with-dual-30-inch-c430/",
+  "zh": "/zh/2026/11/25/byd-launches-third-gen-tang-ev-a-five-seat-suv-with-dual-30-inch-c430/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

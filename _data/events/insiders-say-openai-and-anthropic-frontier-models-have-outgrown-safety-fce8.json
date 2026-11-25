@@ -1,0 +1,57 @@
+{
+ "event_id": "insiders-say-openai-and-anthropic-frontier-models-have-outgrown-safety-fce8",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-24T14:02:31+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Axios reported, and The Decoder relays, that many staff at OpenAI and Anthropic doubt their own unreleased frontier models can still be safely controlled, and that internal discussions about pausing releases or training are underway."
+   ],
+   "unconfirmed": [
+    "which models are at issue, how many employees hold this view, whether leadership shares it, and whether any pause has been agreed or scheduled — all of this rests on unnamed insiders, and neither company's position is stated in the account."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "The Decoder 转述 Axios 的报道称，OpenAI 与 Anthropic 有员工对自家未发布前沿模型的安全性表达担忧，并出现是否暂停发布或停止训练的讨论。"
+   ],
+   "unconfirmed": [
+    "具体涉及多少员工、指向哪些模型、公司是否已做出任何暂停决定，以及这些判断依据的内部评估；报道未提供内部文件、具名信源或公司回应。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Insiders say OpenAI and Anthropic frontier models have outgrown safety controls, Axios reports",
+  "zh": "OpenAI与Anthropic内部人士称未发布模型已超出安全措施"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/insiders-say-openai-and-anthropic-frontier-models-have-outgrown-safety-fce8/",
+  "zh": "/zh/2026/11/25/insiders-say-openai-and-anthropic-frontier-models-have-outgrown-safety-fce8/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

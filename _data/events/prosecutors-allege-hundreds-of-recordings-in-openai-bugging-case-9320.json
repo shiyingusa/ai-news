@@ -1,0 +1,57 @@
+{
+ "event_id": "prosecutors-allege-hundreds-of-recordings-in-openai-bugging-case-9320",
+ "issue": "2026-11-25",
+ "section": "tech-industry",
+ "published_at": "2026-11-24T16:30:00+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/saudi-openai-eavesdropper-who-bugged-company-office-had-hundreds-of-private-recordings-was-in-frequent-communication-with-saudi-government-perp-had-dozens-of-recordings-of-discussions-of-trade-secrets"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "According to a prosecutors' court filing reported by Bloomberg, investigators found hundreds of audio files on former OpenAI employee Abdulrahman Alfozan's personal computer, including dozens of recordings of OpenAI meetings or conversations from September 2026, some of which prosecutors say involve discussions of what may be trade secrets; the filing also says he kept AI-generated transcripts, uploaded some files to Dropbox, and was in frequent contact with people affiliated with the Saudi government. Alfozan was arrested in October after a hidden recording device was found in an OpenAI conference room, and the October 27 indictment charges him with interception of oral communications — not trade-secret theft or economic espionage (Bloomberg, PBS)."
+   ],
+   "unconfirmed": [
+    "Whether the recordings actually contain trade secrets, whether Alfozan passed anything to the Saudi government, and what he intended to do with the material — all of which he denies, with his lawyer stating he has no special or covert ties to the Saudi government. Prosecutors have not said what he might have wanted to do with the recordings, no additional charges have been filed, and the decision on his request for $1 million bond was still pending at a hearing set for Tuesday."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "根据 10 月 27 日的起诉书，OpenAI 前员工 Abdulrahman Alfozan 被控“拦截口头通信”（interception of oral communications），而非窃取商业秘密或经济间谍；检方在法庭文件中称，在其个人电脑上发现数百个音频文件，其中数十段是 2026 年 9 月在 OpenAI 发生的会议或对话录音，部分录音已上传至 Dropbox，并按日期和内容重新命名（《彭博社》11 月 23 日报道，Tom's Hardware 转述）。"
+   ],
+   "unconfirmed": [
+    "这些录音是否确实含有商业秘密，以及他是否打算或已经将内容交给沙特方面；Alfozan 本人否认，其律师称他与沙特政府“没有特殊或秘密联系”，检方也表示尚不清楚录音的用途。周二保释听证的结果、100 万美元保释金请求能否获准、是否追加指控，目前均无定论，最新细节仅来自《彭博社》一家媒体的报道。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Prosecutors allege hundreds of recordings in OpenAI bugging case",
+  "zh": "OpenAI前员工被控窃听，彭博社称发现数百段录音"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/prosecutors-allege-hundreds-of-recordings-in-openai-bugging-case-9320/",
+  "zh": "/zh/2026/11/25/prosecutors-allege-hundreds-of-recordings-in-openai-bugging-case-9320/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

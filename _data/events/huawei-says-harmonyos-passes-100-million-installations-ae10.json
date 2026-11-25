@@ -1,0 +1,57 @@
+{
+ "event_id": "huawei-says-harmonyos-passes-100-million-installations-ae10",
+ "issue": "2026-11-25",
+ "section": "tech-industry",
+ "published_at": "2026-11-25T07:10:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/big-tech/article/3375680/huaweis-home-grown-harmonyos-passes-100-million-device-mark-landmark-moment"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Huawei said in a statement on Tuesday that HarmonyOS, its Android-free operating system, has passed 100 million installations across smartphones, tablets and PCs, and that its ecosystem offers more than 460,000 apps and services from over 12 million registered developers — figures carried by the South China Morning Post and Xinhua, which also note the current generation followed HarmonyOS 5, introduced in October 2024, with versions 6 and 7 arriving afterwards."
+   ],
+   "unconfirmed": [
+    "All three figures come from Huawei itself; no independent measurement of installs, app counts or developer registrations is cited, and the reports do not specify the period over which the 100 million accumulated or how installations are counted (pre-installed devices versus upgrades versus active users). A separate report that HarmonyOS has overtaken iOS in China rests on a single outlet and is not corroborated by the sources above."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《南华早报》与新华社报道，华为在一份公司声明中称，HarmonyOS 装机量已突破 1 亿台，生态提供逾 46 万个应用与服务、注册开发者超过 1200 万；新华社另称，华为于 2024 年 10 月推出 HarmonyOS 5 新架构，此后更新至 6、7 版本。"
+   ],
+   "unconfirmed": [
+    "1 亿这一数字是累计激活量还是当前活跃设备数、统计截止时间为何，以及手机、平板、PC 各自的分布，华为均未说明，也没有第三方机构独立核验；46 万应用数和 1200 万开发者数同样仅有华为单方面口径。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Huawei says HarmonyOS passes 100 million installations",
+  "zh": "华为称鸿蒙装机量突破1亿台，应用与服务逾46万个"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/huawei-says-harmonyos-passes-100-million-installations-ae10/",
+  "zh": "/zh/2026/11/25/huawei-says-harmonyos-passes-100-million-installations-ae10/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

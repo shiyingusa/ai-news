@@ -2,6 +2,6 @@
 layout: topic
 lang: en
 topic: "ai"
-title: "AI安全"
+title: "AI"
 permalink: "/topics/ai/"
 ---

@@ -1,0 +1,62 @@
+{
+ "event_id": "shenzhou-24-carries-first-pakistani-astronaut-to-tiangong-d30a",
+ "issue": "2026-11-25",
+ "section": "space",
+ "published_at": "2026-11-24T16:26:52+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/"
+  },
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "NASA Spaceflight reported that Shenzhou-24 launched from Jiuquan on a Chang Zheng 2F/G at 00:18 UTC on Nov. 25, and that CMSA named Tang Hongbo, Wu Yi and Muhammad Zeeshan Ali as the crew; the article says Ali, a Pakistani payload specialist, will spend about a week aboard Tiangong and return on Shenzhou-23."
+   ],
+   "unconfirmed": [
+    "the article is truncated and does not quote a CMSA primary statement directly, so details such as Ali's April training start, the backup assignment and the precise length of his stay rest on secondary reporting; Nature corroborates that Ali is the first foreign astronaut to visit Tiangong."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 NASASpaceflight 报道，神舟二十四号于北京时间 11 月 25 日 8 时 18 分（00:18 UTC）由长征二号 F/G 火箭在酒泉卫星发射中心发射；乘组为中国载人航天工程办公室在发射前一天公布的指令长汤洪波、飞行工程师吴毅和巴基斯坦载荷专家穆罕默德·齐尚·阿里，另一名巴方航天员赫拉姆·达乌德为备份。阿里将成为首位进入轨道的巴基斯坦航天员，计划在轨约一周后改乘神舟二十三号返回。"
+   ],
+   "unconfirmed": [
+    "阿里是否已成功对接并进入天宫、以及“首位进入空间站的外国访客”这一定性，目前仍属任务计划而非已完成的独立确认；该报道发布于 11 月 24 日 16 时 26 分（UTC），早于其自述的发射时刻，正文在升空阶段即被截断，对接时间、在轨实验清单与具体停留天数均依赖中国载人航天方面及二手转述。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Shenzhou-24 carries first Pakistani astronaut to Tiangong",
+  "zh": "神舟二十四号发射，天宫空间站迎来首位外国航天员"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/shenzhou-24-carries-first-pakistani-astronaut-to-tiangong-d30a/",
+  "zh": "/zh/2026/11/25/shenzhou-24-carries-first-pakistani-astronaut-to-tiangong-d30a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

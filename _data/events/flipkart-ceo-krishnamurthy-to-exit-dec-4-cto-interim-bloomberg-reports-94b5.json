@@ -1,0 +1,57 @@
+{
+ "event_id": "flipkart-ceo-krishnamurthy-to-exit-dec-4-cto-interim-bloomberg-reports-94b5",
+ "issue": "2026-11-25",
+ "section": "tech-industry",
+ "published_at": "2026-11-25T09:40:02+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/flipkart-ceo-to-exit-after-transforming-walmart-s-india-play"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg reported that Walmart-owned Flipkart's chief executive, Kalyan Krishnamurthy, plans to leave on December 4, and that the company's chief technology officer will take over as interim CEO. The report describes Krishnamurthy as a key architect of Flipkart's rise to become India's largest online retailer."
+   ],
+   "unconfirmed": [
+    "The interim CEO is not named, no reason is given for the departure, and there is no timetable or process for appointing a permanent successor. It is also unclear whether the statement came from Walmart or from Flipkart — the headline attributes it to Walmart, while the summary attributes it to Flipkart — and a separate account reported that Flipkart called an emergency town hall on the Monday before the announcement amid speculation about the exit, a detail the company has not confirmed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "彭博社（Sankalp Phartiyal）报道，沃尔玛表示，其旗下的 Flipkart 首席执行官卡利扬·克里希纳穆尔蒂（Kalyan Krishnamurthy）计划于 12 月 4 日离任，并任命公司首席技术官（CTO）为临时 CEO；Flipkart 是印度最大的在线零售商，克里希纳穆尔蒂是公司成长为印度第一大电商的关键推动者。"
+   ],
+   "unconfirmed": [
+    "报道未点名这位临时 CEO 的 CTO 姓名，也未说明克里希纳穆尔蒂离任的原因、是否已有正式继任者的遴选安排，以及管理层更替对 Flipkart 战略的影响。另有报道称，Flipkart 在周一临时召开全员大会，令外界对其离职的猜测升温，但该细节仅见于单一报道。本条为简讯式转述，上述内容均需以沃尔玛或 Flipkart 的官方公告及彭博社原文进一步核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Flipkart CEO Krishnamurthy to exit Dec. 4; CTO interim, Bloomberg reports",
+  "zh": "Flipkart CEO 克里希纳穆尔蒂将于12月4日离任，CTO 暂代"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/flipkart-ceo-krishnamurthy-to-exit-dec-4-cto-interim-bloomberg-reports-94b5/",
+  "zh": "/zh/2026/11/25/flipkart-ceo-krishnamurthy-to-exit-dec-4-cto-interim-bloomberg-reports-94b5/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

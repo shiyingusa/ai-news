@@ -1,0 +1,57 @@
+{
+ "event_id": "softbank-completes-acquisition-of-marc-raibert-s-rai-institute-6d7d",
+ "issue": "2026-11-25",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-24T14:48:57+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Robot Report",
+   "url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Robot Report reported that SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, following the outlet's September 2026 report that the two sides had agreed to a deal; the institute was founded in 2022 by Boston Dynamics founder Marc Raibert with more than $400 million in initial funding from Hyundai."
+   ],
+   "unconfirmed": [
+    "The purchase price and any other financial terms, which were not disclosed; SoftBank declined to comment to The Robot Report, so completion rests on the outlet's reporting rather than a company announcement; and it remains unclear whether RAI will keep operating independently or whether SoftBank's ownership will shift its research priorities."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Robot Report 报道，软银已完成从现代汽车集团手中收购机器人学与人工智能研究院（RAI）；软银回应了该媒体的邮件提问但拒绝置评，交易财务条款未披露。RAI 由波士顿动力创始人 Marc Raibert 于 2022 年创立，现代汽车集团提供逾 4 亿美元初始资金，总部位于马萨诸塞州剑桥市，并在苏黎世设有办公室。该媒体此前于 2026 年 9 月率先报道双方达成收购协议，当时援引了多个消息源。"
+   ],
+   "unconfirmed": [
+    "交易“已完成”目前仅来自 The Robot Report 一家媒体的报道（该媒体称“获悉”），软银拒绝置评，也没有双方联合公告或监管文件佐证；收购价格、RAI 是否会继续独立运营、研究重点是否调整，以及它将与软银旗下的 Skild AI、Agile Robots 等公司如何协作，报道均未给出信息。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "SoftBank completes acquisition of Marc Raibert's RAI Institute",
+  "zh": "软银完成收购 Marc Raibert 的机器人与人工智能研究所"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/softbank-completes-acquisition-of-marc-raibert-s-rai-institute-6d7d/",
+  "zh": "/zh/2026/11/25/softbank-completes-acquisition-of-marc-raibert-s-rai-institute-6d7d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

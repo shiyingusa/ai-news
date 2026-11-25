@@ -1,0 +1,57 @@
+{
+ "event_id": "vw-and-elli-price-v2g-wallbox-at-1-995-for-december-launch-9758",
+ "issue": "2026-11-25",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T16:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/24/vw-and-elli-launch-e1995-v2g-bidi-wallbox/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Volkswagen and Elli say the German V2G package is due in December 2026, the DC wallbox costs €1,995, and the launch covers VW, VW Commercial Vehicles, Cupra and Skoda, according to the report."
+   ],
+   "unconfirmed": [
+    "The report does not give the electricity tariff, wallbox power rating, compatible vehicle list, installation cost, or whether grid operators have certified the unit; delivery in December 2026 remains a stated plan."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "大众与 Elli 宣布 2026 年 12 月进入德国市场，直流墙盒售价 1,995 欧元，并确认大众、大众商用车、Cupra 和斯柯达四个品牌参与首发（据 electrive 报道厂商公布的信息）。"
+   ],
+   "unconfirmed": [
+    "报道未披露电价资费的具体数字、墙盒的充放电功率与所需车型配置，也未给出确切开售日期与交付时间；这些内容目前仅来自厂商说法，没有独立测试或第三方验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "VW and Elli price V2G wallbox at €1,995 for December launch",
+  "zh": "大众与 Elli 12 月在德国推出 1,995 欧元 V2G 墙盒"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/vw-and-elli-price-v2g-wallbox-at-1-995-for-december-launch-9758/",
+  "zh": "/zh/2026/11/25/vw-and-elli-price-v2g-wallbox-at-1-995-for-december-launch-9758/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

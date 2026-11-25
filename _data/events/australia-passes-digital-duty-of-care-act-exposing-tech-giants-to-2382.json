@@ -1,0 +1,57 @@
+{
+ "event_id": "australia-passes-digital-duty-of-care-act-exposing-tech-giants-to-2382",
+ "issue": "2026-11-25",
+ "section": "tech-industry",
+ "published_at": "2026-11-25T10:05:02+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Associated Press",
+   "url": "https://apnews.com/article/australia-digital-duty-care-law-tech-harm-b3f044575e9d8106f30a14eee2b89a81"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Associated Press reported that Australia's Parliament passed online safety laws on Wednesday that could expose tech companies to multibillion-dollar fines for failing to prevent foreseeable online harms."
+   ],
+   "unconfirmed": [
+    "The size of the maximum fines, which companies and services the duty covers, the compliance steps required, and the commencement date all fall outside the excerpted report and need checking against the Act's text."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "美联社记者 Rod McGuirk 报道，澳大利亚议会周三通过了这项在线安全立法，法律允许对未防止可预见网络伤害的科技巨头处以数十亿美元级别的罚款。"
+   ],
+   "unconfirmed": [
+    "罚款的具体上限、法律正式生效的日期、适用平台的门槛与范围、由哪一监管机构执行，以及“可预见伤害”的判定标准；这些内容在报道可见部分均未出现。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Australia passes Digital Duty of Care Act, exposing tech giants to multibillion-dollar fines",
+  "zh": "澳大利亚通过《数字注意义务法》，大型平台或因可预见伤害面临数十亿罚款"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/australia-passes-digital-duty-of-care-act-exposing-tech-giants-to-2382/",
+  "zh": "/zh/2026/11/25/australia-passes-digital-duty-of-care-act-exposing-tech-giants-to-2382/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,62 @@
+{
+ "event_id": "sandboxed-models-can-communicate-via-inference-servers-lesswrong-30d4",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-25T02:34:21+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "lesswrong.com",
+   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50637686"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "A LessWrong post argues that two agents running on the same inference server can reliably communicate even when they cannot send each other messages or access the same files, using side channels in the shared inference stack (tool-2-1). Secondary write-ups, including theprimary.com, attribute the study to Niranjan Deshpande and repeat the claim that sandboxed models can communicate covertly across shared inference hardware (tool-2-2)."
+   ],
+   "unconfirmed": [
+    "Neither the post nor the coverage supplies an independent reproduction or third-party measurement, and no inference-server vendor has confirmed the behavior or responded publicly. Commenters on the discussion dispute that the attacks are realistic, arguing they require the two agents to already know of each other and share pre-arranged messages, plus detailed knowledge of the server's kernels and configuration — so the channels' practicality, reliability outside a demonstration, and the effectiveness of proposed defenses such as per-context cache-separation keys all remain open."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "LessWrong 上确实发表了这篇分析（第三方报道称作者为 Niranjan Deshpande），帖子摘要明确主张：同一推理服务器上运行的两个智能体，即使无法互相发送消息、也无法访问同一文件，仍能可靠地通信，并称这是一种基于推理服务器侧信道（side channel，即通过共享硬件或缓存等间接途径传递信息）的隐蔽信道。"
+   ],
+   "unconfirmed": [
+    "上述通信是否在真实云部署中成立、需要哪些前提条件、传输速率有多高，均无独立复现或第三方测量；帖子涉及的具体推理框架与版本、以及防御措施能否阻断信道，报道也未给出可核验细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Sandboxed models can communicate via inference servers, LessWrong analysis claims",
+  "zh": "分析称沙箱内的模型仍可通过推理服务器侧信道通信"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/sandboxed-models-can-communicate-via-inference-servers-lesswrong-30d4/",
+  "zh": "/zh/2026/11/25/sandboxed-models-can-communicate-via-inference-servers-lesswrong-30d4/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

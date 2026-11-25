@@ -1,0 +1,57 @@
+{
+ "event_id": "eu-sets-200-day-quota-capping-chinese-hybrid-car-imports-at-191-780-e3f2",
+ "issue": "2026-11-25",
+ "section": "ev-energy",
+ "published_at": "2026-11-24T12:15:42+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/24/eu-introduces-import-quotas-for-hybrids-from-china-and-other-countries/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The EU has adopted a provisional cap allowing up to 191,780 China-made hybrid and plug-in hybrid passenger cars into the bloc from 1 December 2026 to 18 June 2027 — the 200-day period — as reported by carnewschina.com, Bloomberg and auto.mail.ru. Bloomberg reports the measure is temporary while the EU carries out a probe that is expected to lead to longer-term restrictions."
+   ],
+   "unconfirmed": [
+    "The reports give no detail on the parallel restrictions on hybrid imports from countries other than China — which countries are covered, at what volumes, or how those limits are calculated. auto.mail.ru describes plug-in hybrids as the main target, while carnewschina.com says the cap covers both hybrids and plug-in hybrids; no source details how the quota is allocated among manufacturers or how it will be enforced."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "欧盟对从中国进口的混合动力乘用车实施临时进口配额，上限为 191,780 辆，实施期为 200 天，即 2026 年 12 月 1 日至 2027 年 6 月 18 日；相关措施同时限制来自其他国家的混合动力车进口（electrive 报道，Bloomberg、carnewschina 等亦作此报道）。"
+   ],
+   "unconfirmed": [
+    "配额如何在车企之间分配、具体涵盖哪些车型（普通混动与插电式混动的比例）、对“其他国家”的限制范围与力度，以及 2027 年 6 月 18 日之后的安排，均未见于现有报道；Bloomberg 称该配额为临时措施，欧盟正进行一项调查，最终可能实施为期数年的长期限制，但调查结论与后续方案尚未公布。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "EU sets 200-day quota capping Chinese hybrid car imports at 191,780",
+  "zh": "欧盟对华混合动力车设200天进口配额，上限191,780辆"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/eu-sets-200-day-quota-capping-chinese-hybrid-car-imports-at-191-780-e3f2/",
+  "zh": "/zh/2026/11/25/eu-sets-200-day-quota-capping-chinese-hybrid-car-imports-at-191-780-e3f2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

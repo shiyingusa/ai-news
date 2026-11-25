@@ -1,0 +1,57 @@
+{
+ "event_id": "doj-announces-record-anti-scam-sweep-800-charged-2-200-trafficking-1116",
+ "issue": "2026-11-25",
+ "section": "tech-industry",
+ "published_at": "2026-11-24T22:30:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Justice Department's own announcement, dated this week, states that federal prosecutors have charged more than 800 defendants in over 400 cases across 85 federal districts, and that more than $8 billion in intended victim losses was recovered; Attorney General Todd Blanche and FBI Director Kash Patel are named as the officials presenting the results, and the DOJ release describes FBI-led Operation Blackout as having restrained nearly $17 billion in illicit funds, seized more than 14,000 digital devices and dismantled 29 scam compounds. Fox News and Yahoo carried the same $8 billion and 800-defendant figures."
+   ],
+   "unconfirmed": [
+    "No independent audit backs any of the totals, and the two dollar amounts measure different things — roughly $17 billion \"restrained\" by the FBI versus more than $8 billion in \"intended victim losses recovered\" from prosecutions — so the headline's framing of a single $17 billion seizure should not be read as money returned to victims. The count of 2,200 trafficked workers freed, the 320-plus arrests by foreign partners and the 50 people facing U.S. charges under Operation Blackout rest solely on FBI statements, and the report does not say how many of the 800 defendants have been convicted versus merely charged."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "美国司法部官网新闻稿及《福克斯新闻》报道显示，司法部长 Todd Blanche 宣布对 800 多名被告提起指控，案件超过 400 起、分布在 85 个联邦辖区，并称追回逾 80 亿美元“意图骗取受害者损失”。司法部称，FBI 主导的“Operation Blackout”在亚、非、中东捣毁 29 处诈骗园区，限制（restrained）近 170 亿美元非法资金、查获逾 1.4 万台设备。"
+   ],
+   "unconfirmed": [
+    "原文标题称“查获 170 亿美元”，而司法部原文用词是“限制（restrained）”，二者并不等同；同时 170 亿美元与 80 亿美元是两个不同口径（前者为非法资金总额，后者为意图骗取损失），报道未加区分，读者不应视为同一笔金额。2,200 余名被解救的贩运劳工、境外 320 余人被捕、50 名“诈骗人员”在美被起诉等数字均来自执法机构自述，无独立核实；文中引用的盖洛普“2025 年美国民众被骗 68 亿美元”数据亦未经其他来源印证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "DOJ announces record anti-scam sweep: 800+ charged, 2,200 trafficking victims freed",
+  "zh": "美国司法部称破获史上最大诈骗网络，指控800余名被告"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/doj-announces-record-anti-scam-sweep-800-charged-2-200-trafficking-1116/",
+  "zh": "/zh/2026/11/25/doj-announces-record-anti-scam-sweep-800-charged-2-200-trafficking-1116/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
