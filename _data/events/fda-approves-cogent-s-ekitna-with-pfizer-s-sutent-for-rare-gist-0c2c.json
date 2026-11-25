@@ -1,0 +1,57 @@
+{
+ "event_id": "fda-approves-cogent-s-ekitna-with-pfizer-s-sutent-for-rare-gist-0c2c",
+ "issue": "2026-11-25",
+ "section": "science-bio",
+ "published_at": "2026-11-25T20:44:15+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "STAT News",
+   "url": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The FDA granted Cogent Biosciences approval for bezuclastinib, marketed as Ekitna, in combination with Pfizer's Sutent for advanced GIST, per the FDA approval notice cited by STAT."
+   ],
+   "unconfirmed": [
+    "The efficacy and safety data supporting approval, the labeled dosing and any restrictions on which patients qualify, the price, and the launch date — none appear in STAT's brief item, which also describes the indication as \"stomach cancer\" while the FDA notice it links to specifies advanced gastrointestinal stromal tumors."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "美国 FDA 批准 Cogent Biosciences 的 bezuclastinib（商品名 Ekitna）与辉瑞的 Sutent（sunitinib）联合用于晚期胃肠道间质瘤（GIST）；FDA 公告和 STAT 报道均如此表述。"
+   ],
+   "unconfirmed": [
+    "该组合的具体疗效数据、定价、上市时间以及是否为首创机制，STAT 的简报未提供，需等待公司或 FDA 标签进一步披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "FDA approves Cogent's Ekitna with Pfizer's Sutent for rare GIST",
+  "zh": "FDA 批准 Ekitna 联合 Sutent 治疗晚期 GIST"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/fda-approves-cogent-s-ekitna-with-pfizer-s-sutent-for-rare-gist-0c2c/",
+  "zh": "/zh/2026/11/25/fda-approves-cogent-s-ekitna-with-pfizer-s-sutent-for-rare-gist-0c2c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

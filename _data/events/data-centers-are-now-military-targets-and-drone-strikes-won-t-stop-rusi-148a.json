@@ -1,0 +1,57 @@
+{
+ "event_id": "data-centers-are-now-military-targets-and-drone-strikes-won-t-stop-rusi-148a",
+ "issue": "2026-11-25",
+ "section": "tech-industry",
+ "published_at": "2026-11-25T16:47:14+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Ars Technica's own recap confirms it hosted a live conversation between reporter Jeremy Hsu and RUSI's Joseph Jarnecki, and quotes Jarnecki saying that military use of cloud compute can make civilian data centers legitimate military objects and create an incentive to target them."
+   ],
+   "unconfirmed": [
+    "the prediction that attacks on data centers will continue is Jarnecki's judgment, not a documented trend line; the recap offers no tally of incidents, no attribution for specific strikes beyond the countries named, and no independent damage assessment. The description of the Middle East strikes as the first-ever military attack on Amazon data centers is Ars's characterization, and Ars's own earlier September reporting — that Iranian strikes caused permanent loss of customer data — is referenced but not detailed here."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Ars Technica 的直播记录称，中东今年首次发生针对亚马逊数据中心的军事袭击，俄乌之间也出现针对数据中心的大规模无人机互袭；RUSI 的 Joseph Jarnecki 在讨论中解释了军民两用与目标选择逻辑。"
+   ],
+   "unconfirmed": [
+    "直播摘要未给出袭击次数、具体设施、受损范围或永久数据丢失的独立核实细节；“袭击不会停止”是讨论者的判断，并非已量化的预测。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Data centers are now military targets, and drone strikes won't stop, RUSI analyst says",
+  "zh": "对数据中心的军事与无人机袭击预计不会停止"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/data-centers-are-now-military-targets-and-drone-strikes-won-t-stop-rusi-148a/",
+  "zh": "/zh/2026/11/25/data-centers-are-now-military-targets-and-drone-strikes-won-t-stop-rusi-148a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

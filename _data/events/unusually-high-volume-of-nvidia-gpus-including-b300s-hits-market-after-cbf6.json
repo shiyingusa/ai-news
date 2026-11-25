@@ -1,0 +1,57 @@
+{
+ "event_id": "unusually-high-volume-of-nvidia-gpus-including-b300s-hits-market-after-cbf6",
+ "issue": "2026-11-25",
+ "section": "chips-compute",
+ "published_at": "2026-11-25T18:25:00+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "CNBC published the report on Nov. 25, attributing it to three people it did not name; according to that account, Nvidia GPU sellers are seeking new buyers and an unusually large volume of the hardware, including thousands of B300s, reached the market after the U.S. tightened China-linked remote access."
+   ],
+   "unconfirmed": [
+    "Nvidia has not confirmed the volume, the B300 count or the link to the remote-access rule, and the report leaves out pricing, seller identities, buyer locations and whether any sale has closed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "CNBC 于 11 月 25 日报道（援引三位知情人士）称，在美国收紧对中国相关客户远程访问先进 AI 芯片的限制后，英伟达 GPU 卖家正在为其硬件寻找新买家。此前在 11 月 17 日，CNBC 曾报道英伟达表示不会向将超过 50% 的 GPU 转租给中国公司的客户出售芯片。"
+   ],
+   "unconfirmed": [
+    "报道中“异常高的出货量”以及“数千块 B300”这两个具体规模数字，全部来自三位匿名消息人士，英伟达与美国商务部均未公开确认；报道也没有给出流入市场的 GPU 总量、售价或折价幅度、卖家身份，以及这批货源与远程访问新规之间的因果联系，均属未经独立核实的说法。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Unusually high volume of Nvidia GPUs, including B300s, hits market after US curbs, CNBC reports",
+  "zh": "美国限制远程访问后，含数千块B300的英伟达GPU流入市场，CNBC报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/unusually-high-volume-of-nvidia-gpus-including-b300s-hits-market-after-cbf6/",
+  "zh": "/zh/2026/11/25/unusually-high-volume-of-nvidia-gpus-including-b300s-hits-market-after-cbf6/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

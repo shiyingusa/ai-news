@@ -1,0 +1,62 @@
+{
+ "event_id": "scott-aaronson-on-ai-s-rapid-progress-on-open-math-problems-c314",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-25T19:11:27+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "scottaaronson.blog",
+   "url": "https://scottaaronson.blog/?p=10379"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50646108"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "A paper titled \"The Matrix Multiplication Exponent Is Nine Fourths,\" dated November 24, 2026, is posted in OpenAI's public math preprints repository on GitHub, and an abstract for it appears on alphaXiv. Scott Aaronson's November 25 blog post argues that a run of solutions to long-open problems in mathematics and theoretical computer science amounts to a remarkable moment, and the post drew heavy Hacker News discussion. Wikipedia's entry on the complexity of matrix multiplication confirms that the exponent ω has a decades-long history of successively improved bounds."
+   ],
+   "unconfirmed": [
+    "That LLM or generative-AI systems specifically produced these results, rather than a combination of Lean, MathLib and large-scale compute — a question commenter utopiah raises directly — and which named systems were involved. Also unconfirmed: independent verification of the claimed nine-fourths bound on ω, and the completeness and faithfulness of any Lean formalizations, since commenter onetimeusename notes that gaps between Lean and informal proofs have been a recurring problem with machine-generated proofs. Aaronson's characterization of the moment as singular is his assessment, not an established finding."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Scott Aaronson 在 11 月 25 日的博文中主张，近期 AI 参与解决多个数学与理论计算机科学开放问题，是他一直想象中的“AI 奇点”开端；博文链接的论文题为《The matrix multiplication exponent is nine fourths》，PDF 存放在 OpenAI 的 math 预印本仓库中（tool-1-3）。矩阵乘法指数是刻画矩阵乘法算法渐近复杂度的核心指标（tool-1-1）。"
+   ],
+   "unconfirmed": [
+    "这批成果的具体数量、LLM 与 Lean 各自贡献多少、证明是否经过同行评审或独立复核，以及 Lean 形式化与 informal 证明是否存在实质出入，均无独立确认；Aaronson 的“奇点”判断是个人评论，九分之四的指数结论目前也只是一篇预印本（tool-1-2、tool-1-3）。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Scott Aaronson on AI's rapid progress on open math problems",
+  "zh": "Aaronson 称 AI 正解决一批开放数学问题，引发争论"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/scott-aaronson-on-ai-s-rapid-progress-on-open-math-problems-c314/",
+  "zh": "/zh/2026/11/25/scott-aaronson-on-ai-s-rapid-progress-on-open-math-problems-c314/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

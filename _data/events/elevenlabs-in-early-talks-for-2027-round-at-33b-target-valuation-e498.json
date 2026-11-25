@@ -1,0 +1,57 @@
+{
+ "event_id": "elevenlabs-in-early-talks-for-2027-round-at-33b-target-valuation-e498",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-25T19:00:46+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg published the report on the talks and the $33 billion target, against a $22 billion valuation reported in September; the figures come from people Bloomberg did not name."
+   ],
+   "unconfirmed": [
+    "that a round will happen at all, who would invest, its size, its terms or its exact date, and the $700 million annual recurring revenue figure, which rests on the same unnamed sources and has not been independently audited or published by ElevenLabs."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "彭博社报道称，ElevenLabs 正就一轮 2027 年融资进行早期讨论，消息来自未具名知情人士；报道同时提到其 9 月估值为 220 亿美元。"
+   ],
+   "unconfirmed": [
+    "330 亿美元的目标估值、7 亿美元的年经常性收入、融资时间表与投资方均仅来自未具名消息人士，ElevenLabs 未公开确认，也没有独立第三方核实这些数字；报道未提及本轮拟募资金额。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "ElevenLabs in early talks for 2027 round at $33B target valuation, Bloomberg reports",
+  "zh": "ElevenLabs 传以 330 亿美元目标估值洽谈 2027 年融资，彭博报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/elevenlabs-in-early-talks-for-2027-round-at-33b-target-valuation-e498/",
+  "zh": "/zh/2026/11/25/elevenlabs-in-early-talks-for-2027-round-at-33b-target-valuation-e498/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

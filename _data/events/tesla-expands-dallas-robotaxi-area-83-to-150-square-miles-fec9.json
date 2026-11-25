@@ -1,0 +1,57 @@
+{
+ "event_id": "tesla-expands-dallas-robotaxi-area-83-to-150-square-miles-fec9",
+ "issue": "2026-11-25",
+ "section": "robotics-autonomy",
+ "published_at": "2026-11-25T18:54:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Not a Tesla App",
+   "url": "https://www.notateslaapp.com/news/5081/tesla-nearly-doubles-dallas-robotaxi-service-area"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Not a Tesla App reported that Tesla's Dallas robotaxi service area grew 83% to 150 square miles, adding Carrollton, Addison and Richardson; EVwire's account of the same change describes the geofence moving from roughly 81 square miles north past I-635 toward Addison and Richardson."
+   ],
+   "unconfirmed": [
+    "No Tesla statement, map or filing confirming the new boundary was cited by any of the reports, all of which repeat the same figures, so the 150-square-mile area, the roughly 81-square-mile starting point and the 83% figure rest on secondary reporting rather than company data; the reports also give no vehicle count, no detail on whether rides in the new zone are driverless, and no independent verification of service quality there."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Not a Tesla App 与 EVwire 均报道，特斯拉将达拉斯 Robotaxi 服务区域扩大约 83%，从约 81 平方英里增至约 150 平方英里，并新增覆盖 Carrollton、Addison 和 Richardson，服务范围向北越过 I-635。两家媒体对新增面积和增幅的说法基本一致。"
+   ],
+   "unconfirmed": [
+    "特斯拉官方没有发布扩区公告，也没有更新服务地图，上述地理范围目前仅来自媒体转述；约 81 平方英里的原面积基线只出现在 EVwire 于 X 的帖子中；报道未说明新增区域是否已全面开放叫车、投入车辆数量，以及是否以无安全员方式运营。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tesla expands Dallas robotaxi area 83% to 150 square miles",
+  "zh": "特斯拉达拉斯 Robotaxi 服务区扩大 83% 至 150 平方英里"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/tesla-expands-dallas-robotaxi-area-83-to-150-square-miles-fec9/",
+  "zh": "/zh/2026/11/25/tesla-expands-dallas-robotaxi-area-83-to-150-square-miles-fec9/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

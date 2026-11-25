@@ -1,0 +1,57 @@
+{
+ "event_id": "pentagon-officials-weighed-defense-production-act-leverage-on-nvidia-s-8f5c",
+ "issue": "2026-11-25",
+ "section": "chips-compute",
+ "published_at": "2026-11-25T22:55:03+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Washington Post",
+   "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Washington Post reported, citing unnamed sources, that Defense Secretary Pete Hegseth and other Pentagon officials discussed using the Defense Production Act — the Cold War-era law that lets presidents direct private industry — as leverage to pressure Nvidia's board to reinstate Jensen Huang, according to the account relayed by Techmeme. The reinstatement itself is established: Nvidia's board returned Huang as CEO about 11 days after he resigned over disclosed extramarital affairs, and President Trump said he spoke to the board before Huang's return (The Guardian, Euronews)."
+   ],
+   "unconfirmed": [
+    "Everything about the alleged pressure campaign rests on anonymous sources — whether any DPA authority was formally invoked or merely floated, which officials beyond Hegseth took part, when the discussions occurred, whether the White House directed them, and whether Nvidia's board was ever directly contacted by the Pentagon. Neither the Pentagon nor Nvidia has confirmed the account on the record, and no document, filing or official statement substantiating it has surfaced."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Techmeme 转载，《华盛顿邮报》报道称，国防部长皮特·赫格塞斯（Pete Hegseth）与其他五角大楼官员曾讨论以《国防生产法》（Defense Production Act，冷战时期授予总统干预经济广泛权力的法律）为筹码，向英伟达董事会施压（tool-1-1 至 tool-1-3 未涉及该报道本身，该说法仅有《华盛顿邮报》单一来源）。另据《卫报》与《华尔街日报》报道，英伟达董事会已让黄仁勋复任首席执行官；他此前辞职，董事会是在其辞职 11 天后作出复职决定的（tool-1-1、tool-1-3）。Euronews 报道称，特朗普表示在黄仁勋回归前他曾与英伟达董事会通话（tool-1-2）。"
+   ],
+   "unconfirmed": [
+    "五角大楼是否真的援引或威胁援引《国防生产法》、由哪些官员在何时提出、是否形成任何正式行动，均无官方确认，白宫、五角大楼与英伟达也未公开置评。各方报道的时间线互相矛盾：《华盛顿邮报》描述的是施压董事会“复职”黄仁勋，而其他媒体报道董事会已在 11 月 23 日前后完成复职，现有信息无法判断相关讨论发生在复职之前还是之后，也无法确认施压与复职决定之间是否存在因果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Pentagon officials weighed Defense Production Act leverage on Nvidia's board, Washington Post reports",
+  "zh": "消息称五角大楼曾讨论以《国防生产法》施压英伟达董事会，《华盛顿邮报》报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/pentagon-officials-weighed-defense-production-act-leverage-on-nvidia-s-8f5c/",
+  "zh": "/zh/2026/11/25/pentagon-officials-weighed-defense-production-act-leverage-on-nvidia-s-8f5c/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

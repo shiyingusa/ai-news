@@ -1,0 +1,57 @@
+{
+ "event_id": "intel-shareholder-lawsuit-alleges-trump-pressured-board-into-10-stake-9991",
+ "issue": "2026-11-25",
+ "section": "chips-compute",
+ "published_at": "2026-11-25T16:39:23+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Richard Paisner's shareholder suit challenges the U.S. government's 10% stake in Intel, and Tom's Hardware, citing Wired, reports that unsealed case documents include internal notes of Commerce Department lawyer David Shapiro warning that rejecting the offer would have \"consequences\"; the complaint also alleges a conflict of interest involving Intel adviser Skadden Arps (Bloomberg Law). The 10% government stake itself is confirmed (The Verge)."
+   ],
+   "unconfirmed": [
+    "That Trump personally directed the pressure, that the stake was an unlawful quid pro quo for the $8.9 billion in CHIPS Act funds, and that Intel's outside counsel provided $100 million in free legal services — these rest on the complaint's allegations and Wired's review, not on a court finding or independent confirmation."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "少数股东 Richard Paisner 已就美国政府取得 Intel 10% 股权一事起诉 Intel（3DNews 援引《金融时报》报道，LegalClarity 汇总的 Bloomberg Law 报道亦确认该诉讼）；诉状指控公司 CEO 与董事会在交易前受到美国政府施压，并指出为 Intel 提供交易咨询的世达律师事务所（Skadden, Arps）存在利益冲突；The Verge 报道确认联邦政府确实持有了 Intel 10% 股份。"
+   ],
+   "unconfirmed": [
+    "Tom's Hardware 援引《连线》（Wired）查阅的已解封文件称，商务部律师 David Shapiro 曾对 Intel 首席财务官表示“不要以为这是一场谈判”，并称拒绝“后果无法预料”——这些引述仅来自单家媒体的文件解读，法庭尚未认定；白宫以解冻 89 亿美元 CHIPS 法案资金作为交换条件、Intel 外部律师提供高达 1 亿美元免费法律服务以换取免于行政令，均属诉状与匿名消息源的说法，未经独立证实；法院亦未就 10% 股权是否违法作出任何裁决。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Intel shareholder lawsuit alleges Trump pressured board into 10% stake",
+  "zh": "Intel 股东诉讼指控白宫施压换取 10% 股权"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/intel-shareholder-lawsuit-alleges-trump-pressured-board-into-10-stake-9991/",
+  "zh": "/zh/2026/11/25/intel-shareholder-lawsuit-alleges-trump-pressured-board-into-10-stake-9991/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

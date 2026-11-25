@@ -1,0 +1,62 @@
+{
+ "event_id": "community-repo-offers-much-shorter-version-of-anthropic-s-grh-lean-proof-f63f",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-25T21:48:10+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "primary + 0 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "primary",
+   "name": "GitHub",
+   "url": "https://github.com/lsernau/grh-lean"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50648050"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "A public GitHub repository named lsernau/grh-lean exists and is presented on Hacker News as a much shorter community version of Anthropic's GRH Lean formal verification, with commenters describing human-readable documentation and a split between \"known math\" and \"new math\"."
+   ],
+   "unconfirmed": [
+    "The exact reduction — commenters cite roughly 17 million lines down to about 76,000 (99.56%), while another refers to a \"300kloc\" proof — and whether the compact proof compiles, proves the same theorem as the original, or was produced by Anthropic applying internal models over a few days."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Hacker News 上出现一条提交，指向 lsernau 的 GitHub 仓库 grh-lean，并将其描述为 Anthropic GRH Lean 验证的“短得多”的版本；仓库和讨论链接可公开访问。"
+   ],
+   "unconfirmed": [
+    "约 1700 万行降至约 7.6 万行、99.56% 降幅、300kloc 的可读版本、“已知数学/新数学”分区与文档，均来自评论者，未获独立核验；评论中 300kloc 与约 7.6 万行两种规模说法也未对齐。Anthropic 是否认可该版本、证明是否完整、人类可读性究竟如何，均无官方说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Community repo offers much shorter version of Anthropic's GRH Lean proof",
+  "zh": "Anthropic 的 GRH Lean 验证出现大幅精简社区版"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/community-repo-offers-much-shorter-version-of-anthropic-s-grh-lean-proof-f63f/",
+  "zh": "/zh/2026/11/25/community-repo-offers-much-shorter-version-of-anthropic-s-grh-lean-proof-f63f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

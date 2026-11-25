@@ -1,0 +1,62 @@
+{
+ "event_id": "new-york-to-ban-ai-chatbot-toys-for-five-years-starting-in-february-4f0b",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-25T18:11:46+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+  },
+  {
+   "tier": "independent",
+   "name": "NBC News",
+   "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "NBC News reported that New York Governor Kathy Hochul signed a bill on November 25 barring the manufacture, exchange, distribution and sale of AI-chatbot-powered toys in the state, with the five-year ban taking effect in February; the same report says California Governor Gavin Newsom signed a four-year ban in September."
+   ],
+   "unconfirmed": [
+    "The safety evidence cited for the ban comes from Common Sense Media testing that secondary write-ups summarize as finding 27% of AI toy responses inappropriate for children, with no AI toys recommended for ages 5 and under — the underlying report itself was not reviewed here, and the outlets do not detail enforcement, penalties, or which toy categories are exempt."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 NBC 新闻报道，纽约州州长 Kathy Hochul 于 11 月 25 日签署法案，禁止在纽约州制造、交换、分销和销售由 AI 聊天机器人驱动的玩具，禁令为期五年，自 2 月起生效；加州州长 Gavin Newsom 已于 9 月签署为期四年的类似禁令。"
+   ],
+   "unconfirmed": [
+    "报道未说明该法案的罚则、执法方式，也未说明“2 月起”指哪一年的 2 月；TechCrunch 称 Common Sense Media 的新研究发现玩具存在接触不适宜内容及影响情绪发育的安全失效，但没有给出研究方法和原始数据，而“27% 的玩具回答不适合儿童”这一数字只见于转述该机构测试的二手博客，未经原始报告核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "New York to ban AI chatbot toys for five years starting in February",
+  "zh": "纽约州签署五年禁令，禁止AI聊天机器人玩具"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/new-york-to-ban-ai-chatbot-toys-for-five-years-starting-in-february-4f0b/",
+  "zh": "/zh/2026/11/25/new-york-to-ban-ai-chatbot-toys-for-five-years-starting-in-february-4f0b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

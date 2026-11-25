@@ -1,0 +1,57 @@
+{
+ "event_id": "chip-curbs-stall-billions-in-data-center-loans-tied-to-bytedance-b216",
+ "issue": "2026-11-25",
+ "section": "chips-compute",
+ "published_at": "2026-11-25T22:05:01+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg reported that lenders have pulled back on billions of dollars in loans tied to ByteDance, Alibaba and Tencent, and that some have delayed an upsized $6.6 billion loan sought by Bain Capital's Bridge Data Centres, whose Malaysian facilities serve clients including ByteDance; the account is attributed to people involved in the discussions."
+   ],
+   "unconfirmed": [
+    "The scale and cause of the pullback rest on unnamed people, not on statements from the lenders, Bain Capital, ByteDance, Alibaba or Tencent, and the report does not establish which lenders froze or delayed what, whether any deals were cancelled rather than paused, or how much of the total remains on hold."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "彭博社报道称，据参与讨论的人士透露，部分贷款方推迟了一笔最高达 66 亿美元的贷款，借款方是贝恩资本（Bain Capital）旗下的 Bridge Data Centres，其马来西亚数据中心设施的客户包括字节跳动；同时，与字节跳动、阿里巴巴和腾讯相关的数十亿美元贷款也放缓推进。"
+   ],
+   "unconfirmed": [
+    "贷款推迟与美国的芯片出口管制之间是否存在直接因果关系，目前仅由匿名消息人士的说法支撑；彭博社没有说明涉及哪些贷款方、受影响贷款总额究竟是多少，也没有说明这是暂停、取消还是仅延长尽职调查时间。另有 Cryptopolitan 的一篇报道称，华盛顿已通过严格许可机制允许包括这三家在内的七家中国企业购买英伟达 H200 芯片，这一说法没有得到其他来源印证，本篇报道也未提及该说法。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Chip curbs stall billions in data-center loans tied to ByteDance, Alibaba, Tencent, Bloomberg reports",
+  "zh": "美国芯片管制波及字节、阿里、腾讯相关数据中心贷款，彭博报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/chip-curbs-stall-billions-in-data-center-loans-tied-to-bytedance-b216/",
+  "zh": "/zh/2026/11/25/chip-curbs-stall-billions-in-data-center-loans-tied-to-bytedance-b216/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

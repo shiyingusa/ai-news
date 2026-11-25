@@ -1,0 +1,57 @@
+{
+ "event_id": "report-says-us-chip-curbs-are-slowing-deepseek-moonshot-and-alibaba-bf32",
+ "issue": "2026-11-25",
+ "section": "ai-news",
+ "published_at": "2026-11-25T20:51:02+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Decoder reported on 25 November 2026 that US chip-access curbs, anti-distillation measures and reduced access to Nvidia hardware abroad are pressuring DeepSeek, Moonshot AI and Alibaba, and that DeepSeek researchers have internally estimated a gap of up to nine months behind US models — claims the outlet attributes to a report it does not name."
+   ],
+   "unconfirmed": [
+    "The nine-month figure, the assertion that the gap is widening, and the causal link to export controls and anti-distillation rules all rest on that single unnamed report; no methodology, measurement basis or independent benchmark is given, none of the three labs has commented on the record, and the report is not identified so it cannot be checked."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "The Decoder 报道称，据一份报告，美国的芯片出口限制、反蒸馏措施以及海外获取英伟达硬件渠道的收窄，正给 DeepSeek、Moonshot AI 和阿里巴巴带来压力。外部资料显示，DeepSeek 早前曾使用为符合美国出口管制而设计的降规版英伟达 H800 芯片训练模型（WIRED 报道）。"
+   ],
+   "unconfirmed": [
+    "DeepSeek 研究人员“内部估计落后美国模型至多九个月”且差距正在扩大这一说法，仅来自该报道转述的一份未具名、未链接的报告，没有 DeepSeek 或任何实验室的公开确认，也无独立测量佐证；反蒸馏措施具体如何拖慢研发、三家实验室各自受到多大影响，以及该估算的基准模型与时间点，报道均未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Report says US chip curbs are slowing DeepSeek, Moonshot and Alibaba",
+  "zh": "报道称美国芯片管制与反蒸馏措施已拖慢中国AI实验室"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/report-says-us-chip-curbs-are-slowing-deepseek-moonshot-and-alibaba-bf32/",
+  "zh": "/zh/2026/11/25/report-says-us-chip-curbs-are-slowing-deepseek-moonshot-and-alibaba-bf32/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

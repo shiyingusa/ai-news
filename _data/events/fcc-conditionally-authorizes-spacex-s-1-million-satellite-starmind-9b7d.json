@@ -1,0 +1,77 @@
+{
+ "event_id": "fcc-conditionally-authorizes-spacex-s-1-million-satellite-starmind-9b7d",
+ "issue": "2026-11-25",
+ "section": "space",
+ "published_at": "2026-11-25T17:25:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "high",
+  "reason": "5 independent"
+ },
+ "radar_score": 9.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Reuters",
+   "url": "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/"
+  },
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+  },
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+  },
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites"
+  },
+  {
+   "tier": "independent",
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The FCC published an authorization on Wednesday for up to 1 million Starmind satellites, with a 2033 first-satellite milestone and a 2040 full-constellation milestone, and FCC Chairman Brendan Carr issued a statement calling it a \"bold new frontier\" for computing infrastructure."
+   ],
+   "unconfirmed": [
+    "whether satellites of this kind can be built, launched and operated at that scale or cost — no Starmind satellite has flown, and the Q3 2027 first launch is SpaceX's stated aim, not an FCC requirement; the conditions the FCC attached beyond the two milestones, and how its deferred ruling on graveyard-orbit disposal will be resolved, are not detailed in these accounts."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "FCC 于11月25日发布公告，给予 SpaceX 有条件授权，可部署最多100万颗 Starmind 卫星；Carr 的声明以及2033年至少一颗、2040年100万颗的里程碑要求均出自 FCC 公开文件，路透社、Ars Technica、The Verge 与 Space.com 的报道在这些数字上一致。"
+   ],
+   "unconfirmed": [
+    "100万颗这一规模在工程、发射成本与轨道安全上是否可行，报道未提供独立评估；SpaceX 所称“2027年第三季度发射首批卫星”是公司目标而非已排定的发射；FCC 同时推迟了 SpaceX 关于将600公里以上卫星送入“墓地轨道”处置的请求，相关离轨规则尚未确定。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "FCC conditionally authorizes SpaceX's 1-million-satellite Starmind constellation",
+  "zh": "FCC 批准 SpaceX 部署100万颗“Starmind”太空数据中心卫星"
+ },
+ "permalinks": {
+  "en": "/2026/11/25/fcc-conditionally-authorizes-spacex-s-1-million-satellite-starmind-9b7d/",
+  "zh": "/zh/2026/11/25/fcc-conditionally-authorizes-spacex-s-1-million-satellite-starmind-9b7d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
