@@ -1,0 +1,57 @@
+{
+ "event_id": "judge-blocks-fcc-s-early-review-of-abc-broadcast-licenses-b00e",
+ "issue": "2026-11-26",
+ "section": "tech-industry",
+ "published_at": "2026-11-26T16:38:00+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "US District Judge Loren AliKhan granted ABC a preliminary injunction barring the FCC from conducting its early review of ABC's broadcast station licenses while the case proceeds, and rejected the agency's motion to dismiss ABC's First Amendment retaliation lawsuit, according to the ruling linked in The Verge's report and matching accounts from CNN, The Guardian and the New York Post. The judge wrote that ABC was \"likely to succeed on their retaliation claim\" and that Disney's lawyers had \"sufficiently cast the early license renewal proceedings as a retaliatory act.\""
+   ],
+   "unconfirmed": [
+    "This is a preliminary-stage ruling, not a final judgment on the merits, so the retaliation claim itself has not been proven; the ruling's exact scope and duration, whether the FCC will appeal, and any statement from the agency or Chair Brendan Carr were not established by the available reports. The reports also give no date for the next hearing or trial step."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "美国地区法官 Loren AliKhan 于 11 月 25 日作出初步禁令，禁止 FCC 在诉讼期间提前审查 ABC 的广播执照，并驳回 FCC 要求驳回 ABC 第一修正案报复诉讼的请求；裁决称 ABC“很可能”在其报复主张上胜诉。上述内容来自法院裁决，并由 The Verge、CNN、《卫报》和《纽约邮报》报道。"
+   ],
+   "unconfirmed": [
+    "这只是初步禁令，并非终局判决；FCC 是否出于报复而行动、是否最终违反第一修正案，仍待案件实体审理，ABC 所称 FCC“发动报复行动”目前只是其诉讼主张。FCC 是否上诉、禁令的具体期限，以及裁决对 ABC 各地方台的完整适用范围，目前报道均未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Judge blocks FCC's early review of ABC broadcast licenses",
+  "zh": "联邦法官初步阻止FCC提前审查ABC广播牌照"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/judge-blocks-fcc-s-early-review-of-abc-broadcast-licenses-b00e/",
+  "zh": "/zh/2026/11/26/judge-blocks-fcc-s-early-review-of-abc-broadcast-licenses-b00e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "google-to-require-public-contact-details-from-many-android-developers-fc3f",
+ "issue": "2026-11-26",
+ "section": "tech-industry",
+ "published_at": "2026-11-26T17:06:24+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Google’s Play Console help page says every active developer account must declare whether it is a “trader” or “non-trader” under EEA and UK law by February 1, 2027, regardless of where its apps are distributed; The Verge reported that Google announced the change to comply with the EU Digital Services Act and that contact details will be made public worldwide."
+   ],
+   "unconfirmed": [
+    "Which developers will be classified as traders and exactly which phone number and address will be published; Google’s revenue-based guidance is broad, the report is truncated, and no independent confirmation or implementation details are available."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Google Play 官方帮助页面写明，所有有效开发者账号都必须在 2027 年 2 月 1 日前声明自己是“商户”（trader）还是非商户，无论应用面向哪个地区发布；The Verge 报道称，被认定为商户的开发者需公开电话号码和地址，且这些信息全球可见。"
+   ],
+   "unconfirmed": [
+    "The Verge 的报道摘要不完整，因此“商户”的具体判定标准（Google 仅笼统描述为从应用中获取收入、尤其收入规律或量大者）、非商户的豁免范围、页面上究竟展示哪些字段、个人开发者是否会因此暴露住址，以及逾期不申报的具体后果，都尚未得到完整核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google to Require Public Contact Details From Many Android Developers",
+  "zh": "Google将要求许多Android开发者公开电话和地址"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/google-to-require-public-contact-details-from-many-android-developers-fc3f/",
+  "zh": "/zh/2026/11/26/google-to-require-public-contact-details-from-many-android-developers-fc3f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,49 @@
+{
+ "event_id": "inside-clay-s-rebuild-of-its-gtm-agent-stack-d953",
+ "issue": "2026-11-26",
+ "section": "tech-blog",
+ "published_at": "2026-11-26T23:02:48+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Latent Space",
+   "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [],
+   "unconfirmed": []
+  },
+  "zh": {
+   "verified": [],
+   "unconfirmed": []
+  }
+ },
+ "has_fact_check": false,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Inside Clay's Rebuild of Its GTM Agent Stack",
+  "zh": "Clay 的 GTM 智能体工程取舍"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/inside-clay-s-rebuild-of-its-gtm-agent-stack-d953/",
+  "zh": "/zh/2026/11/26/inside-clay-s-rebuild-of-its-gtm-agent-stack-d953/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

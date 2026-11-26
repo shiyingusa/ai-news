@@ -1,0 +1,57 @@
+{
+ "event_id": "mercedes-benz-gla-350-4matic-electric-800-volt-compact-suv-driven-4e9b",
+ "issue": "2026-11-26",
+ "section": "ev-energy",
+ "published_at": "2026-11-26T17:00:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/26/mercedes-benz-gla-test-drive-compact-suv-with-800-volt-architecture-and-two-tonne-towing-capacity/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "electrive's test drive confirms the GLA 350 4MATIC electric exists, drives, and carries an 800-volt system, 85-kWh battery, two-speed transmission, front storage compartment, two-tonne towing rating and MB.OS, as reported by the reviewer who drove it."
+   ],
+   "unconfirmed": [
+    "pricing, market launch timing and availability, plus the efficiency and short-charging-stop claims, which come from a manufacturer-organised first drive rather than standardised or independent testing."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrify 的试驾报道，GLA 350 4MATIC 纯电版配有 800 伏架构、85 kWh 电池、两速变速箱、前备箱、两吨拖拽能力与 MB.OS 系统。"
+   ],
+   "unconfirmed": [
+    "报道未披露售价、WLTP 续航里程、直流快充峰值功率与 10%–80% 充电时间，也未给出欧洲上市时间；上述性能数字与两吨拖拽在实际使用中的表现，仍有待厂商公布参数或第三方独立测试验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Mercedes-Benz GLA 350 4MATIC electric: 800-volt compact SUV driven",
+  "zh": "奔驰 GLA 350 4MATIC 纯电版试驾：800 伏架构、两吨拖拽"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/mercedes-benz-gla-350-4matic-electric-800-volt-compact-suv-driven-4e9b/",
+  "zh": "/zh/2026/11/26/mercedes-benz-gla-350-4matic-electric-800-volt-compact-suv-driven-4e9b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

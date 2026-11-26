@@ -1,0 +1,57 @@
+{
+ "event_id": "binance-lifts-withdrawal-suspension-after-record-6-3b-hack-d36a",
+ "issue": "2026-11-26",
+ "section": "tech-industry",
+ "published_at": "2026-11-26T19:55:02+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Reuters",
+   "url": "https://www.reuters.com/technology/binance-lifts-withdrawal-suspension-after-63-billion-crypto-heist-2026-11-26/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Binance said on Thursday that its withdrawal recovery work is complete and that it has lifted the withdrawal suspension, following a hack last month in which a record $6.3 billion was stolen, Reuters reported."
+   ],
+   "unconfirmed": [
+    "how much of the $6.3 billion has been recovered, whether customer funds were fully covered, what caused the breach and what security changes followed — the report does not address these, and the figures rest on Binance's own statement."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据路透社报道，币安表示其提币恢复工作已完成，并已解除上个月黑客攻击后实施的提币暂停；该报道称被盗金额为 63 亿美元，创下纪录。"
+   ],
+   "unconfirmed": [
+    "63 亿美元是否已被追回或全额补偿、储备是否已恢复到攻击前水平、提币功能是否已在所有用户和所有币种上恢复，均无独立审计或第三方核实；攻击的具体入侵方式与确切发生日期，报道亦未交代。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Binance lifts withdrawal suspension after record $6.3B hack",
+  "zh": "币安称已完成恢复工作，全面解除提币暂停，此前被盗 63 亿美元"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/binance-lifts-withdrawal-suspension-after-record-6-3b-hack-d36a/",
+  "zh": "/zh/2026/11/26/binance-lifts-withdrawal-suspension-after-record-6-3b-hack-d36a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

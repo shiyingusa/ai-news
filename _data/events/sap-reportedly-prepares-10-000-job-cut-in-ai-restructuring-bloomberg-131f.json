@@ -1,0 +1,57 @@
+{
+ "event_id": "sap-reportedly-prepares-10-000-job-cut-in-ai-restructuring-bloomberg-131f",
+ "issue": "2026-11-26",
+ "section": "tech-industry",
+ "published_at": "2026-11-26T16:50:28+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg reported on November 26, citing people familiar with the matter, that SAP is preparing a plan to eliminate at least 10,000 positions — roughly 9% of its global workforce — as part of a restructuring of its software business for the AI era."
+   ],
+   "unconfirmed": [
+    "SAP has not publicly confirmed the plan, and the report does not establish a timeline, which units would be affected, or whether the 10,000 figure is a final number; secondary summaries say product development and sales could be hit, and one outlet, Zerohedge, called it a \"second round\" of AI restructuring, but neither detail is corroborated by SAP or by Bloomberg's published excerpt."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "彭博社记者 Christina Kyriasoglou 报道，SAP 正筹备一项计划，拟削减至少 1 万个岗位，约占其全球员工的 9%，以围绕人工智能重塑软件业务；该报道援引知情人士的说法。"
+   ],
+   "unconfirmed": [
+    "SAP 尚未公开确认这一裁员计划，也未公布时间表、具体受影响的部门或成本规模；行情网站 TradingView 的摘要提到产品研发与销售部门可能受影响，二手报道 ZeroHedge 则将其称为“第二轮 AI 重组”，这两点均未获公司证实，也未见其他独立信源印证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "SAP reportedly prepares 10,000-job cut in AI restructuring, Bloomberg reports",
+  "zh": "SAP 据称筹备裁减至少1万个岗位，约占全球员工9%，彭博报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/sap-reportedly-prepares-10-000-job-cut-in-ai-restructuring-bloomberg-131f/",
+  "zh": "/zh/2026/11/26/sap-reportedly-prepares-10-000-job-cut-in-ai-restructuring-bloomberg-131f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
