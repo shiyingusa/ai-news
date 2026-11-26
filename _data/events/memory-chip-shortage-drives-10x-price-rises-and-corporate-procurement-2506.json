@@ -1,0 +1,57 @@
+{
+ "event_id": "memory-chip-shortage-drives-10x-price-rises-and-corporate-procurement-2506",
+ "issue": "2026-11-26",
+ "section": "chips-compute",
+ "published_at": "2026-11-26T07:30:01+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wall Street Journal",
+   "url": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=Rx7QaC"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Wall Street Journal reports that a worldwide memory chip shortage has led companies to form dedicated procurement teams and that some chip prices have climbed as much as 10x in a year, driving electronics prices up."
+   ],
+   "unconfirmed": [
+    "Which specific memory products and companies are seeing the tenfold increases, how broadly that figure applies across the market, and any independent price data — the available account is a short summary of the WSJ article, so volume, contract terms and timing details are missing."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "《华尔街日报》报道称全球存在存储芯片短缺，多家公司为此设立采购“作战室”，部分芯片价格一年内涨幅最高达10倍，并推动电子产品涨价。"
+   ],
+   "unconfirmed": [
+    "具体是哪些芯片品类与型号涨了10倍、涨幅的统计来源与时间段、短缺波及的厂商范围与持续时间；Techmeme的摘要仅截取了报道开头，未提供价格数据、受访企业名单或行业机构的独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Memory chip shortage drives 10x price rises and corporate procurement war rooms, WSJ reports",
+  "zh": "存储芯片短缺，部分芯片一年涨10倍，企业设采购作战室，《华尔街日报》报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/memory-chip-shortage-drives-10x-price-rises-and-corporate-procurement-2506/",
+  "zh": "/zh/2026/11/26/memory-chip-shortage-drives-10x-price-rises-and-corporate-procurement-2506/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

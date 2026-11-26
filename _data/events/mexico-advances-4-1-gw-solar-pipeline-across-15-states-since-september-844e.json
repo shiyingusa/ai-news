@@ -1,0 +1,57 @@
+{
+ "event_id": "mexico-advances-4-1-gw-solar-pipeline-across-15-states-since-september-844e",
+ "issue": "2026-11-26",
+ "section": "ev-energy",
+ "published_at": "2026-11-26T07:12:56+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/26/more-than-4-1-gw-of-large-scale-solar-projects-advance-across-mexico-since-september/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "pv magazine México's project-by-project review records Semarnat conditional environmental authorizations for Cerro Colorado, Planta Fotovoltaica Campeche and Los Girasoles; CNE generation permits for the three Green Park Energy projects; a 20-year Atlas Renewable Energy–Industrias Peñoles PPA for a 269 MW solar-plus-storage project; and CFE's own report that the 300 MW third phase of Puerto Peñasco is more than 27% built, with operation scheduled for December 2027."
+   ],
+   "unconfirmed": [
+    "the 4.1 GW figure is the magazine's own aggregation of projects at very different stages, not an official registry or an operating-capacity number, and several entries are merely environmental assessment filings rather than approvals. Battery capacity is undisclosed for Cerro Colorado and for the Atlas–Peñoles project, whose official name is also withheld, and no independent cost, output or completion data exists for the announced plants."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "pv magazine México 基于自身报道梳理出，这些项目分布在 15 个州；Semarnat 对 Cerro Colorado、Campeche 光伏项目和 Los Girasoles 给出了有条件环境许可，国家能源委员会（CNE）向 Green Park Energy 的 FV Cuquío、FV Villa Juárez 和 FV San Diego de la Unión 三个项目发放了发电许可。"
+   ],
+   "unconfirmed": [
+    "4.1 GW 是该媒体自行汇总的项目统计，并非政府口径的装机数字；除 CFE 称 Puerto Peñasco 三期（300 MW）建设进度超过 27% 外，其余项目均未开工，投资额与建设周期属开发商估算；Cerro Colorado 和 Coahuila 光伏配储项目的储能容量未披露，后者的项目名称也未公布。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Mexico advances 4.1 GW solar pipeline across 15 states since September",
+  "zh": "墨西哥9月以来逾4.1 GW大型光伏项目推进"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/mexico-advances-4-1-gw-solar-pipeline-across-15-states-since-september-844e/",
+  "zh": "/zh/2026/11/26/mexico-advances-4-1-gw-solar-pipeline-across-15-states-since-september-844e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

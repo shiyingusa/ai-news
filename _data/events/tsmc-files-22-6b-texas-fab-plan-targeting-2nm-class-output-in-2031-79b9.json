@@ -1,0 +1,57 @@
+{
+ "event_id": "tsmc-files-22-6b-texas-fab-plan-targeting-2nm-class-output-in-2031-79b9",
+ "issue": "2026-11-26",
+ "section": "chips-compute",
+ "published_at": "2026-11-26T10:30:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "TSMC Arizona Corporation's JETI application to the Texas Comptroller sets out a $22.6 billion project on a 3,232-acre site, construction spending from 2027, commercial operations in 2031, about $354 million in school-tax relief, and roughly 2,099 new hires; the Comptroller has recommended the application for approval."
+   ],
+   "unconfirmed": [
+    "that TSMC will buy the land or build, that the school district and governor will approve the tax limitation, and that the budget is sufficient — Tom's Hardware estimates a single 20,000-wafer-per-month 2nm module costs $25 billion to $35 billion, above this plan's total."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "德州审计长公开的 JETI 申请文件显示，TSMC Arizona 提交了这份 22.6 亿美元、约 3.54 亿美元学区税减免的申请，并列出逐年建筑与设备支出（设备支出在 2030 年达 90.5 亿美元峰值）、2,099 人的招聘计划，以及 2031 年投入商业运营、2032 年满产的时间表；审计长已建议批准。"
+   ],
+   "unconfirmed": [
+    "台积电是否真的会买地建厂——文件未作任何承诺，公司称仍在评估；税减免尚未最终获批，须由学区和州长签署；文章同时指出，按业内估算单座 2nm 级、月产约 2 万片晶圆的厂区需 250 亿至 350 亿美元，22.6 亿美元低于该区间下限，且申请表格 Schedule A 截至 2031 年的合计为 216.6 亿美元，与 226 亿美元的总投资说法并不完全一致。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "TSMC files $22.6B Texas fab plan targeting 2nm-class output in 2031",
+  "zh": "台积电申请德州226亿美元厂区，2nm级芯片最早2031年投产"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/tsmc-files-22-6b-texas-fab-plan-targeting-2nm-class-output-in-2031-79b9/",
+  "zh": "/zh/2026/11/26/tsmc-files-22-6b-texas-fab-plan-targeting-2nm-class-output-in-2031-79b9/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

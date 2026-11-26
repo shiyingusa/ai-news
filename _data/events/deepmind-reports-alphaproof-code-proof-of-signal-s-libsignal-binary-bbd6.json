@@ -1,0 +1,57 @@
+{
+ "event_id": "deepmind-reports-alphaproof-code-proof-of-signal-s-libsignal-binary-bbd6",
+ "issue": "2026-11-26",
+ "section": "tech-industry",
+ "published_at": "2026-11-25T12:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Google DeepMind published a paper and GitHub repository for AlphaProof Code and reported a complete Lean proof of an Arm-compiled AArch64 libsignal binary."
+   ],
+   "unconfirmed": [
+    "independent replication of the proof and DeepMind's claim that the method generalizes to other software at practical cost."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "DeepMind 在其博客公布了这项工作，并放出了论文与 GitHub 代码仓库；证明针对的是带少量外围代码、由 Arm 工具链编译的 libsignal 二进制；团队自述的 Lean 规模（约 120 万行用于规范与密码学推理、约 530 万行用于逐条二进制指令核对）和约 1% 人工复核比例均出自其自身说明。"
+   ],
+   "unconfirmed": [
+    "报道中“因此 Signal 是安全的”属记者推论，论文只证明该二进制与团队自己写的规范一致；暂无独立第三方复算这套 Lean 证明的报道；规范本身是否准确仍靠人工判断，文章也未给出项目耗时或与人工验证的成本对比。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "DeepMind reports AlphaProof Code proof of Signal's libsignal binary",
+  "zh": "DeepMind 用 AlphaProof Code 完成 Signal 加密库二进制的形式化证明"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/deepmind-reports-alphaproof-code-proof-of-signal-s-libsignal-binary-bbd6/",
+  "zh": "/zh/2026/11/26/deepmind-reports-alphaproof-code-proof-of-signal-s-libsignal-binary-bbd6/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

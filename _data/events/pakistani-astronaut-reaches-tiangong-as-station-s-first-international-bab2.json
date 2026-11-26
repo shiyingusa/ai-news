@@ -1,0 +1,57 @@
+{
+ "event_id": "pakistani-astronaut-reaches-tiangong-as-station-s-first-international-bab2",
+ "issue": "2026-11-26",
+ "section": "space",
+ "published_at": "2026-11-25T17:41:11+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Space.com",
+   "url": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-becomes-1st-international-visitor-to-chinas-tiangong-space-station-photos"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "CMSA announced that Shenzhou-24 lifted off Nov. 24 and that Ali arrived at Tiangong on Nov. 25, with a three-person crew; Space.com reported that his flight stems from the February 2025 China-Pakistan cooperation agreement."
+   ],
+   "unconfirmed": [
+    "the list of four biotechnology and materials projects and the photosynthetic cyanobacteria experiment rests on a single Times of India report, the CMSA update was read through machine translation, and no independent source confirms the planned full-year stay for Zhu or the precise duration of Ali's return flight."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "中国载人航天工程办公室（CMSA）发布消息称，巴基斯坦航天员阿里随神舟二十四号于11月25日凌晨抵达天宫，飞船前一日晚间发射、约6小时后对接，阿里以载荷专家身份执飞，其入选依据是2025年2月中巴在伊斯兰堡签署的航天合作协议。"
+   ],
+   "unconfirmed": [
+    "阿里在轨开展的四项生物技术与材料合作项目以及光合蓝细菌实验，细节目前仅见于《印度时报》转述的“计划”，CMSA未公布完整实验清单或结果；“约一周”的停留时长和具体返回日期也没有确切时间，报道本身未提供独立于CMSA的第三方确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Pakistani astronaut reaches Tiangong as station's first international visitor",
+  "zh": "巴基斯坦航天员阿里抵达天宫，成中国空间站首位外籍访客"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/pakistani-astronaut-reaches-tiangong-as-station-s-first-international-bab2/",
+  "zh": "/zh/2026/11/26/pakistani-astronaut-reaches-tiangong-as-station-s-first-international-bab2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

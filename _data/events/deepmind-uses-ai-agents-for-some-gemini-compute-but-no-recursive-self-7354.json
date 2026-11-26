@@ -1,0 +1,57 @@
+{
+ "event_id": "deepmind-uses-ai-agents-for-some-gemini-compute-but-no-recursive-self-7354",
+ "issue": "2026-11-26",
+ "section": "ai-news",
+ "published_at": "2026-11-25T13:23:36+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "DeepMind research chief Koray Kavukcuoglu, as reported by The Decoder, said the lab uses AI agents to run part of its compute for Gemini experiments, that it intentionally does not train on the agents' chains of thought so they can be reviewed, and that the lab is still far from recursive self-improvement."
+   ],
+   "unconfirmed": [
+    "how much of DeepMind's compute the agents control, which agent systems are involved, and when this practice began; no independent verification or technical paper is cited, and the distance-from-recursive-self-improvement judgment is Kavukcuoglu's own assessment."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Decoder 报道，Koray Kavukcuoglu 表示 Google DeepMind 正用智能体运行部分 Gemini 实验，实验室离递归自我改进仍远，且智能体的思维链被刻意保持未训练以便审查。"
+   ],
+   "unconfirmed": [
+    "智能体具体控制多少算力、实验覆盖哪些任务、对下一代 Gemini 的性能影响，以及这些说法能否被独立验证，报道均未提供。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "DeepMind uses AI agents for some Gemini compute, but no recursive self-improvement yet",
+  "zh": "DeepMind 用 AI 智能体运行部分 Gemini 实验，称递归自我改进仍远"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/deepmind-uses-ai-agents-for-some-gemini-compute-but-no-recursive-self-7354/",
+  "zh": "/zh/2026/11/26/deepmind-uses-ai-agents-for-some-gemini-compute-but-no-recursive-self-7354/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

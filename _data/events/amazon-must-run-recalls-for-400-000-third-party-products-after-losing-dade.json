@@ -1,0 +1,57 @@
+{
+ "event_id": "amazon-must-run-recalls-for-400-000-third-party-products-after-losing-dade",
+ "issue": "2026-11-26",
+ "section": "tech-industry",
+ "published_at": "2026-11-25T23:56:44+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Verge",
+   "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The US District Court for the District of Maryland ruled in favor of the CPSC, which announced the decision, in the agency's case arguing Amazon is a distributor of third-party goods rather than only a logistics provider and is therefore responsible for carrying out recalls; the dispute covers more than 400,000 \"Fulfilled by Amazon\" products the agency deemed a \"substantial product hazard,\" including faulty carbon monoxide detectors and hair dryers lacking electrocution protection (CPSC, reported by The Verge). Amazon sued the agency in March 2025 after the recall order, and the CPSC had already determined in July 2024 that Amazon qualified as a distributor of such products."
+   ],
+   "unconfirmed": [
+    "The ruling's full text and reasoning are not quoted, so the scope of the court's holding beyond the distributor question is unverified; the sources give no deadlines, remedies or notification mechanics the order imposes, and Amazon has not said publicly whether it will appeal. The 400,000-plus figure rests on the CPSC's earlier order rather than on an independently audited product count."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "美国马里兰州联邦地区法院就美国消费品安全委员会（CPSC）诉亚马逊一案作出有利于 CPSC 的裁决，认定亚马逊是第三方商品的“分销商”而非单纯物流服务商，因此须对逾 40 万件“亚马逊配送”（Fulfilled by Amazon）的危险商品执行召回，涉及故障一氧化碳探测器、无防触电保护的电吹风等（CPSC 新闻稿与 The Verge 报道）。CPSC 早在 2024 年 7 月即认定亚马逊属于此类商品的“分销商”并负有召回责任，亚马逊于 2025 年 3 月就此起诉 CPSC。"
+   ],
+   "unconfirmed": [
+    "亚马逊是否会上诉、召回的具体执行时间表与消费者通知方式，以及该裁决是否适用于上述 40 万件之外的商品；报道未给出裁决的具体日期，也未包含亚马逊对判决的回应。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Amazon must run recalls for 400,000 third-party products after losing CPSC case",
+  "zh": "亚马逊召回诉讼败诉，须处理逾40万件第三方危险商品"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/amazon-must-run-recalls-for-400-000-third-party-products-after-losing-dade/",
+  "zh": "/zh/2026/11/26/amazon-must-run-recalls-for-400-000-third-party-products-after-losing-dade/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

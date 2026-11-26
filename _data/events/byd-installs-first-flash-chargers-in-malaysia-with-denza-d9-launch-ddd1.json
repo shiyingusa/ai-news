@@ -1,0 +1,57 @@
+{
+ "event_id": "byd-installs-first-flash-chargers-in-malaysia-with-denza-d9-launch-ddd1",
+ "issue": "2026-11-26",
+ "section": "ev-energy",
+ "published_at": "2026-11-25T14:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/25/byd-starts-deploying-flash-chargers-in-malaysia/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "BYD Malaysia has switched on its Flash Charging network, launched alongside the 2027 Denza D9; Malaysian outlets report chargers are live at three Denza showrooms (Balakong, Glenmarie and Old Klang Road), with 1,500 kW output available to vehicles using the second-generation Blade battery, and that charging will be free for Denza D9 and Z9GT owners until end-2027 (paultan.org, autobuzz.my, dsf.my)."
+   ],
+   "unconfirmed": [
+    "The headline performance figures — 10–70% in five minutes and roughly 400 km of added range — are BYD's own claims at launch, not independent test results; the plan for 12 locations this year and 130 by 2027 comes from the same launch coverage, and the promise of access for other EV brands has no date, pricing or connector/power conditions attached."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，比亚迪已在马来西亚部署首批 Flash Charger 闪充桩，时间与搭载第二代刀片电池的腾势 D9 上市同步；比亚迪称这些兆瓦级充电桩“很快”将向其他电动车品牌开放。"
+   ],
+   "unconfirmed": [
+    "electrive 的报道没有给出充电桩数量、站点位置或时间表，也未提供任何充电性能实测数据。马来西亚媒体 paultan.org、Autobuzz 和 DSF 称发布日为 11 月 19 日，首批位于 Balakong、Glenmarie、Old Klang Road 三处腾势展厅，并称今年将达 12 个站点、2027 年达 130 个，腾势 D9 与 Z9GT 车主在 2027 年底前免费充电——这些数字均来自比亚迪马来西亚方面的说法，未见独立核实。1,500 kW 峰值功率、10%–70% 约 5 分钟、补充约 400 公里续航同样属于厂商口径；其他品牌何时接入、是否收费亦未说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BYD installs first Flash Chargers in Malaysia with Denza D9 launch",
+  "zh": "比亚迪在马来西亚部署首批闪充桩，腾势D9同步上市"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/byd-installs-first-flash-chargers-in-malaysia-with-denza-d9-launch-ddd1/",
+  "zh": "/zh/2026/11/26/byd-installs-first-flash-chargers-in-malaysia-with-denza-d9-launch-ddd1/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

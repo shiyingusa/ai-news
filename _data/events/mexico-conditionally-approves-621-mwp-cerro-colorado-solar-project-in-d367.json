@@ -1,0 +1,57 @@
+{
+ "event_id": "mexico-conditionally-approves-621-mwp-cerro-colorado-solar-project-in-d367",
+ "issue": "2026-11-26",
+ "section": "ev-energy",
+ "published_at": "2026-11-26T10:15:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/26/mexico-conditionally-approves-621-mw-solar-project-in-veracruz/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Semarnat's DGIRA issued the conditional environmental approval, according to pv magazine, and the filing specifies the 621.17 MWp capacity, 941,166 modules, 1,803 Huawei inverters, the site area and municipalities, and the two-year construction and 30-year operating periods."
+   ],
+   "unconfirmed": [
+    "the capacity and configuration of the battery storage systems, whether the remaining federal, state and municipal permits will be granted, and any construction start date, investment figure or power purchase agreement, none of which the report provides."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "墨西哥Semarnat下属DGIRA对Cerro Colorado项目作出有条件环境批准，pv magazine 依据官方文件列出装机621.17 MWp、941,166块660 W组件、1,803台330 kW华为逆变器、三座升压变电站，以及两年建设、30年运营、九个月退役的期限。"
+   ],
+   "unconfirmed": [
+    "项目是否已开工、是否完成融资、何时投运均未见披露；电池储能只有“将使用”的表述而无容量；“有条件”批准的具体附加条款全文、以及项目能否在两年建设窗口内推进，都还没有独立信息。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Mexico conditionally approves 621 MWp Cerro Colorado solar project in Veracruz",
+  "zh": "墨西哥有条件批准韦拉克鲁斯州621兆瓦光伏项目"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/mexico-conditionally-approves-621-mwp-cerro-colorado-solar-project-in-d367/",
+  "zh": "/zh/2026/11/26/mexico-conditionally-approves-621-mwp-cerro-colorado-solar-project-in-d367/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

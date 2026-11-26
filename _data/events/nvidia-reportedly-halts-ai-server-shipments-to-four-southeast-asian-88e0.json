@@ -1,0 +1,57 @@
+{
+ "event_id": "nvidia-reportedly-halts-ai-server-shipments-to-four-southeast-asian-88e0",
+ "issue": "2026-11-26",
+ "section": "chips-compute",
+ "published_at": "2026-11-26T05:45:02+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Financial Times",
+   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?accessToken=zwAAAaKuNQQ-lc82jEUmoM5JUdOoR_A5rypRr894OKcVB9RGBdOqYCH1rysjcM8_V3g53u1A9NOvn7-PtUiQ488yW5PWvC5N09OZQc9GiKyhHdO5lhOroTBLn9OMFcQdt82IlAE.MEUCIAPJOFlcs0Bojv5ln7BmjmdLTj5dPHWXAdsn-FuOch_SAiEA5Eu4HIM2_h5rJDnldWxSlTi5axDZdg9vO7b_UplS1Nk&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Financial Times reported, citing unnamed sources, that Nvidia told its manufacturing partners to halt AI server shipments to Malaysia, Singapore, Thailand and Indonesia, and tied the move to tightening US export controls meant to keep AI computing power out of Chinese hands. Reuters and Channel NewsAsia both carried the story attributing it to the FT, rather than to their own reporting or to Nvidia."
+   ],
+   "unconfirmed": [
+    "Nvidia has not publicly confirmed any such instruction, and no US agency has been cited as publishing a measure that names these four countries. The identity of the manufacturing partners, which chips or server configurations are covered, whether the halt applies to orders already placed, and its duration are all left out of the reporting. One aggregator account said the halt reaches server makers including Dell and Supermicro and follows a US AI chip rule that took effect on November 19, but that detail rests on a single outlet and is not corroborated by the FT summary or the wire pickups."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《金融时报》报道，英伟达已要求其制造合作伙伴停止向马来西亚、新加坡、泰国和印度尼西亚发运搭载英伟达芯片的AI服务器；路透社和新加坡亚洲新闻台（CNA）均转述了这一报道，并称此举与美国加紧出口管制、阻止中国获取AI算力有关。Stockanalysis汇总的报道进一步点名戴尔和超微（Supermicro）为收到要求的服务器厂商，并称相关美国AI芯片规则于11月19日生效。"
+   ],
+   "unconfirmed": [
+    "英伟达未公开确认这一指令，报道整体建立在《金融时报》的匿名消息源之上，路透社与CNA属于转述而非独立证实。受限芯片型号、是否涵盖已签订单、禁令持续时间、生效范围是否包括经由这些国家转口，以及11月19日规则的具体条款，目前均无官方文件或独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nvidia reportedly halts AI server shipments to four Southeast Asian markets, FT says",
+  "zh": "英伟达据报要求制造伙伴停发东南亚四国AI服务器"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/nvidia-reportedly-halts-ai-server-shipments-to-four-southeast-asian-88e0/",
+  "zh": "/zh/2026/11/26/nvidia-reportedly-halts-ai-server-shipments-to-four-southeast-asian-88e0/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,62 @@
+{
+ "event_id": "nfs2root-12-year-old-pre-auth-root-flaw-reported-in-linux-kernel-nfs-0e01",
+ "issue": "2026-11-26",
+ "section": "tech-industry",
+ "published_at": "2026-11-25T20:35:50+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "opensec.in",
+   "url": "https://opensec.in/blog/nfs2root-cve-2026-99362"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50647161"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "OpenSec's report, which labels the issue CVE-2026-99362, describes a 12-year-old pre-authentication remote root vulnerability in the Linux kernel's NFS server; its detection guidance checks whether nfsd is loaded, whether NFSv4.1 or 4.2 is enabled, and whether port 2049 is reachable on a non-loopback address."
+   ],
+   "unconfirmed": [
+    "A Hacker News commenter said no proof-of-concept was posted, and another described disabling NFSv4.1/4.2 via /proc/fs/nfsd/versions as a temporary workaround; the report does not provide exploit evidence or a full technical write-up, and independent testing, practical exploitability, and whether that workaround fully closes the issue are unconfirmed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 OpenSec 博客（CVE-2026-99362），Linux 内核内置的 NFS 服务器 nfsd 存在一个据称潜伏约 12 年的预认证远程 root 漏洞；该文给出的受影响条件是 nfsd 已加载（lsmod | grep -w nfsd）、启用了 NFSv4.1 或 4.2（cat /proc/fs/nfsd/versions 显示 +4.1/+4.2），且 2049 端口可从非回环地址访问。Hacker News 讨论中，有运维者据此做临时缓解，例如 superkuh 将 \"-4.1 -4.2\" 写入 /proc/fs/nfsd/versions 关闭这两个次版本（重启后失效）。"
+   ],
+   "unconfirmed": [
+    "目前没有公开的 PoC 或利用代码（评论者 gsich 指出“no poc posted”），也无独立复现或实测结果；现有报道未包含上游内核补丁提交、发行版安全公告或 CVE 官方记录，因此确切受影响的内核版本范围、修复版本，以及“预认证即可取得 root”的实际可利用性，目前仍只有该博客一方说法。另有一条搜索结果讲的是另一个 NFSv4 漏洞 CVE-2026-31402（NFSv4.0 LOCK 重放缓存堆溢出），与本案无关，不能作为佐证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Nfs2root: 12-year-old pre-auth root flaw reported in Linux kernel NFS server",
+  "zh": "Linux 内核 NFS 服务器被指存在潜伏 12 年的预认证远程 root 漏洞"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/nfs2root-12-year-old-pre-auth-root-flaw-reported-in-linux-kernel-nfs-0e01/",
+  "zh": "/zh/2026/11/26/nfs2root-12-year-old-pre-auth-root-flaw-reported-in-linux-kernel-nfs-0e01/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

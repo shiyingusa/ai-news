@@ -1,0 +1,57 @@
+{
+ "event_id": "china-s-cxmt-and-ymtc-expand-dram-and-nand-but-hbm-remains-out-of-reach-1629",
+ "issue": "2026-11-26",
+ "section": "chips-compute",
+ "published_at": "2026-11-25T13:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tom's Hardware, citing CXMT's Oct. 30 quarterly filing, reports a nine-month net profit of ¥132.0 billion ($19.6 billion) on revenue of ¥269.0 billion ($40.0 billion), against a ¥5.28 billion loss a year earlier; YMTC's Q1 figures were ¥47.04 billion in revenue and ¥33.38 billion in profit attributable to shareholders. The article states that no Chinese manufacturer can yet produce HBM in volume, and that CXMT's STAR Market prospectus lists no HBM project — Huawei designs its own HBM but does not disclose who manufactures it."
+   ],
+   "unconfirmed": [
+    "CXMT's HBM3E status rests on anonymous reporting — Pandaily reported that risk production has begun with samples under qualification at Alibaba's T-Head and Cambricon, but yields, volumes and final specs remain undisclosed; TechPowerUp reported CXMT still struggles with HBM3E module yield, leaving any mass-production date (reported targets cluster around 2027) unverified. Fab capacity plans, including the Shanghai and second Beijing fabs, and the identity of Huawei's HBM foundry are likewise unconfirmed; Tom's Hardware itself notes capacities, planned fabs, and HBM progress rest largely on anonymous sources."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "CXMT 10 月 30 日季报显示，前三季度营收 ¥269.0 billion（$40.0 billion）、净利润 ¥132.0 billion（$19.6 billion），而上年同期为亏损 ¥5.28 billion；YMTC 第一季度营收 ¥47.04 billion（$7.0 billion）、归母净利润 ¥33.38 billion（$5.0 billion）；CXMT 在合肥有两座、北京有一座 12 英寸晶圆厂，各约月产 10 万片；CXMT 的招股书未列出任何 HBM 项目；Tom's Hardware 称目前没有中国厂商能批量生产 HBM；YMTC 已于 8 月 21 日提交科创板招股书。"
+   ],
+   "unconfirmed": [
+    "CXMT 的 HBM3E 处于“风险生产”（risk production，工艺尚未完全认证前的小批量试产）一说，源自匿名报道，报道本身也承认产能、规划晶圆厂和 HBM 进展“很大程度上依赖匿名信源”；量产时间表说法不一，有报道称目标为 2026 年底，另有报道称可能要到 2027 年，且提及良率问题与延期风险。华为自研 HBM 由谁代工未有公开说明；CXMT 宣称 G5 平台达到 11.95nm 半间距、单晶圆die数增至少 50%，系公司口径，TechInsights 表示尚未分析 G5；年末出货的 4F² 服务器 DDR5 RDIMM 是 CXMT 总裁的表态，尚无规格与速度数据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "China's CXMT and YMTC expand DRAM and NAND, but HBM remains out of reach",
+  "zh": "长鑫、长江存储营收激增，中国仍无量产 HBM"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/china-s-cxmt-and-ymtc-expand-dram-and-nand-but-hbm-remains-out-of-reach-1629/",
+  "zh": "/zh/2026/11/26/china-s-cxmt-and-ymtc-expand-dram-and-nand-but-hbm-remains-out-of-reach-1629/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "meta-declined-fca-request-to-test-muse-before-uk-launch-wired-reports-4060",
+ "issue": "2026-11-26",
+ "section": "ai-news",
+ "published_at": "2026-11-26T10:51:27+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Wired AI",
+   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Wired reported that the FCA said Meta declined its request to jointly test Meta's Muse personal agent before launching it in the UK, and warned that agents create \"another force of attack.\""
+   ],
+   "unconfirmed": [
+    "Meta's account of why it refused, the specific attack scenarios the FCA is warning about, and the exact UK launch date and availability — the report says only \"Tuesday.\""
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《连线》报道，英国金融行为监管局（FCA）称 Meta 拒绝了其在 Meta 个人 AI 智能体 Muse 于周二在英国上线前进行联合测试的请求，并警告 AI 智能体带来“另一种攻击力量”。"
+   ],
+   "unconfirmed": [
+    "FCA 要求联合测试的具体范围与法律依据、Muse 在英国的实际可用状态，以及所谓智能体攻击风险的具体表现，报道均未说明；报道也未包含 Meta 的回应或 FCA 的后续行动。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Meta declined FCA request to test Muse before UK launch, WIRED reports",
+  "zh": "Meta 拒绝 FCA 联合测试要求，仍在英国上线个人代理 Muse"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/meta-declined-fca-request-to-test-muse-before-uk-launch-wired-reports-4060/",
+  "zh": "/zh/2026/11/26/meta-declined-fca-request-to-test-muse-before-uk-launch-wired-reports-4060/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

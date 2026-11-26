@@ -1,0 +1,57 @@
+{
+ "event_id": "sand-ai-plans-to-open-source-480b-magi-2-video-model-with-0-5-s-api-9fa3",
+ "issue": "2026-11-26",
+ "section": "ai-news",
+ "published_at": "2026-11-26T08:38:54+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "GeekPark (极客公园)",
+   "url": "http://www.geekpark.net/news/374532"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Sand.ai announced on November 25 that it intends to open-source the full weights of MAGI-2, described as a 480B-parameter mixture-of-experts audio-video model activating about 28B parameters per inference, with a 1080P API list price of ¥0.5 per second and existing adaptations for Hygon and Moore Threads chips, GeekPark reported."
+   ],
+   "unconfirmed": [
+    "that MAGI-2 actually tops Artificial Analysis's image-to-video-with-audio ranking and beats Seedance 2.5 — that comparison, the \"under one tenth\" cost gap (which depends on Seedance 2.5's own unstated list price), the liblib blind-test result, and the 30-second/20-asset capabilities all rest on Sand.ai's account; the weights have not been published, and no release date, license or independent benchmark has been provided."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据极客公园报道，Sand.ai 于 11 月 25 日宣布计划尽快开源 MAGI-2 全量权重；该模型为 480B 总参数 MoE 架构、单次推理激活约 28B，官方 API 刊例价为 1080P 每秒 0.5 元。"
+   ],
+   "unconfirmed": [
+    "权重何时发布、采用何种许可证、“全量”具体涵盖哪些组件均未说明；“AA 榜单第一”出自公司提供的截图与 liblib 盲测对比，并非独立复核结果；0.5 元/秒的计费细则、并发配额，以及本地私有化部署后的真实成本，也都没有第三方验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Sand.ai plans to open-source 480B MAGI-2 video model with ¥0.5/s API pricing",
+  "zh": "Sand.ai 计划开源 480B 参数 MAGI-2，API 定价 0.5 元/秒"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/sand-ai-plans-to-open-source-480b-magi-2-video-model-with-0-5-s-api-9fa3/",
+  "zh": "/zh/2026/11/26/sand-ai-plans-to-open-source-480b-magi-2-video-model-with-0-5-s-api-9fa3/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

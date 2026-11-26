@@ -1,0 +1,57 @@
+{
+ "event_id": "microsoft-says-salt-typhoon-and-other-china-north-korea-groups-adopt-ai-717b",
+ "issue": "2026-11-26",
+ "section": "tech-industry",
+ "published_at": "2026-11-26T06:00:48+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "techmeme.com",
+   "url": "https://www.techmeme.com/261126/p3#a261126p3"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Microsoft has published a report stating that state-backed groups in China and North Korea, Salt Typhoon among them, are using the AI penetration-testing tool ARTEX, as reported by The Record."
+   ],
+   "unconfirmed": [
+    "The available account does not say who developed ARTEX, whether it is custom-built or adapted from commercial tooling, which victims or sectors were targeted, how many intrusions are involved, or what indicators of compromise defenders should look for; those details rest on Microsoft's report and were not independently verified."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "微软发布的报告称，中国和朝鲜的国家支持黑客组织（包括“盐台风”）已使用 AI 渗透测试工具 ARTEX 进行攻击，《The Record》根据该报告作了报道。"
+   ],
+   "unconfirmed": [
+    "ARTEX 的技术能力、来源与开发者，以及它被用于哪些具体入侵、造成何种后果，报道均未披露；上述归因目前只有微软一方说法，没有独立验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Microsoft says Salt Typhoon and other China, North Korea groups adopt AI pentest tool ARTEX",
+  "zh": "微软称中国、朝鲜黑客组织（含“盐台风”）已使用 AI 渗透测试工具 ARTEX"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/microsoft-says-salt-typhoon-and-other-china-north-korea-groups-adopt-ai-717b/",
+  "zh": "/zh/2026/11/26/microsoft-says-salt-typhoon-and-other-china-north-korea-groups-adopt-ai-717b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

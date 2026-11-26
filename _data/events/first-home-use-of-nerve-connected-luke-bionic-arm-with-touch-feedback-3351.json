@@ -1,0 +1,57 @@
+{
+ "event_id": "first-home-use-of-nerve-connected-luke-bionic-arm-with-touch-feedback-3351",
+ "issue": "2026-11-26",
+ "section": "science-bio",
+ "published_at": "2026-11-26T09:59:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The University of Utah team and MIT Technology Review report that Davidson is the first of nine implanted trial participants to take the nerve-connected LUKE arm home; the LUKE arm received FDA approval in 2014, but the nerve interface is experimental."
+   ],
+   "unconfirmed": [
+    "Peer-reviewed results, independent measures of how much the device helps in daily life, any long-term effects on Davidson's nerves or brain, and whether other participants will use it at home; the report gives no trial completion date, success rate or commercial availability."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《麻省理工科技评论》报道，Davidson在犹他大学临床试验中植入连接前臂神经的LUKE仿生手，是第九名植入者，也是首位将该实验设备带回家独立使用的人；他报告能感知压力并处理易碎物品。"
+   ],
+   "unconfirmed": [
+    "单例居家使用的长期获益与安全性、神经信号在更长时间内的稳定性，以及结果能否推广到其他截肢者，均缺乏同行评审数据；设备价格、上市时间和更广泛可用性未披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "First home use of nerve-connected LUKE bionic arm with touch feedback",
+  "zh": "首位受试者将LUKE仿生手带回家独立使用"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/first-home-use-of-nerve-connected-luke-bionic-arm-with-touch-feedback-3351/",
+  "zh": "/zh/2026/11/26/first-home-use-of-nerve-connected-luke-bionic-arm-with-touch-feedback-3351/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

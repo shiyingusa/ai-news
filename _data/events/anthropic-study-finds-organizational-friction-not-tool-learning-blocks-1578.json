@@ -1,0 +1,57 @@
+{
+ "event_id": "anthropic-study-finds-organizational-friction-not-tool-learning-blocks-1578",
+ "issue": "2026-11-26",
+ "section": "ai-news",
+ "published_at": "2026-11-25T13:14:27+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The Decoder reports that Anthropic studied nearly 300 AI deployments at 58 US companies and that close to one in five delivered no business value, with review burden, internal bottlenecks and employee resistance cited as the main barriers."
+   ],
+   "unconfirmed": [
+    "The study's methodology, how \"business value\" was defined and measured, how the 58 companies were selected, and the researchers' full set of recommendations, none of which the coverage specifies."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 The Decoder 报道，Anthropic 对 58 家美国公司的近 300 个 AI 部署做了研究，发现约五分之一的部署未产生业务价值，主要障碍被归为审核负担、内部瓶颈与员工抵触。"
+   ],
+   "unconfirmed": [
+    "研究的具体方法、样本如何选取、“业务价值”如何衡量，以及分行业、分规模的结果，报道均未披露；这些结论来自 Anthropic 自身研究，尚无独立复现或第三方评估。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Anthropic study finds organizational friction, not tool learning, blocks AI value at work",
+  "zh": "Anthropic 研究：近 300 个企业 AI 部署中约五分之一未产生业务价值"
+ },
+ "permalinks": {
+  "en": "/2026/11/26/anthropic-study-finds-organizational-friction-not-tool-learning-blocks-1578/",
+  "zh": "/zh/2026/11/26/anthropic-study-finds-organizational-friction-not-tool-learning-blocks-1578/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
