@@ -1,0 +1,22 @@
+# Short, evergreen introductions shown at the top of topic pages.
+# Written by hand (not generated). Keep to facts that will not go stale.
+nvidia:
+  en: "Nvidia designs the graphics processors (GPUs) that train and run most of today's large AI models. Founded in 1993 by Jensen Huang, Chris Malachowsky and Curtis Priem, it started in PC graphics; its CUDA software, launched in 2006, let developers use GPUs for general computing and became the default platform for AI work. Our coverage tracks its chips, its supply chain, export rules and leadership."
+  zh: "英伟达设计的图形处理器（GPU）是当今训练和运行大模型的主力。公司由黄仁勋、克里斯·马拉科夫斯基和柯蒂斯·普里姆于 1993 年创立，最初做电脑显卡；2006 年推出的 CUDA 软件让开发者能用 GPU 做通用计算，后来成为 AI 开发的默认平台。我们在这里跟踪它的芯片、供应链、出口管制和管理层动向。"
+openai:
+  en: "OpenAI is the AI lab behind the GPT models and ChatGPT, which launched in November 2022 and brought chatbots into the mainstream. Founded in 2015 as a nonprofit research lab, it later added a commercial arm and partnerships with Microsoft and others. Our coverage follows its model releases, products, funding and the policy fights around it."
+  zh: "OpenAI 是 GPT 系列模型和 ChatGPT 的开发者。ChatGPT 于 2022 年 11 月上线，让聊天机器人进入大众视野。OpenAI 2015 年以非营利研究机构身份成立，后来设立了商业部门，并与微软等公司合作。我们在这里跟踪它的模型发布、产品、融资以及相关政策争议。"
+anthropic:
+  en: "Anthropic is an AI company founded in 2021 by former OpenAI researchers, including Dario and Daniela Amodei. It builds the Claude family of models and publishes research on AI safety. Our coverage follows its model releases, products, funding and partnerships. Disclosure: parts of AI Daily Radar's tooling use Claude."
+  zh: "Anthropic 是一家 AI 公司，由达里奥·阿莫代伊、丹妮拉·阿莫代伊等前 OpenAI 研究人员于 2021 年创立，开发 Claude 系列模型，并发表 AI 安全研究。我们在这里跟踪它的模型发布、产品、融资和合作。说明：AI Daily Radar 的部分工具使用了 Claude。"
+spacex:
+  en: "SpaceX, founded by Elon Musk in 2002, builds the Falcon 9 and Falcon Heavy rockets, the Dragon spacecraft, the Starlink satellite network and the fully reusable Starship. Landing and reflying Falcon 9 boosters made it the world's busiest launch provider. See our explainer on how reusable rockets changed launch economics."
+  zh: "SpaceX 由马斯克于 2002 年创立，研制猎鹰 9 号和猎鹰重型火箭、龙飞船、星链卫星网络以及完全可重复使用的星舰。猎鹰 9 号助推器的回收复飞让它成为全球发射次数最多的公司。可以看看我们关于可回收火箭如何改变发射经济的解读。"
+  link: "/explainers/reusable-rockets-economics/"
+tesla:
+  en: "Tesla makes electric cars, batteries and energy storage systems, and is developing driver-assistance software and humanoid robots. Our coverage follows its vehicles, Full Self-Driving and robotaxi plans, the Optimus robot, energy business and Elon Musk's role."
+  zh: "特斯拉生产电动汽车、电池和储能系统，并在开发辅助驾驶软件和人形机器人。我们在这里跟踪它的车型、FSD 与自动驾驶出租车计划、Optimus 机器人、能源业务，以及马斯克的角色。"
+hbm:
+  en: "High-bandwidth memory (HBM) stacks DRAM chips vertically next to an AI processor, giving it far more memory bandwidth than ordinary RAM. It often sets how fast a large language model can answer, and only SK hynix, Samsung and Micron make it at scale."
+  zh: "高带宽内存（HBM）把多颗 DRAM 芯片竖着叠起来、放在 AI 处理器旁边，带宽远高于普通内存。大模型回答问题有多快，往往取决于它；能大规模生产的只有 SK 海力士、三星和美光三家。"
+  link: "/explainers/hbm-high-bandwidth-memory/"

@@ -52,6 +52,8 @@ async def main() -> int:
     parser.add_argument("--site", default="site")
     parser.add_argument("--days", type=int, default=3)
     parser.add_argument("--config", default="data/config.github.json")
+    parser.add_argument("--only-overrides", action="store_true",
+                        help="only stories whose front matter sets photo_query (no model call)")
     args = parser.parse_args()
     load_dotenv()
 
@@ -65,15 +67,20 @@ async def main() -> int:
         text = path.read_text(encoding="utf-8")
         if front_value(text, "photo_credit"):
             continue
+        if args.only_overrides and not front_value(text, "photo_query"):
+            continue
         targets.append((path, text, day))
     print(f"{len(targets)} stories without a photo")
     if not targets:
         return 0
 
-    config = StorageManager(config_path=args.config).load_config()
-    client = create_ai_client(config.ai)
-    entries = [(str(p), front_value(t, "title") or "", front_value(t, "tags") or []) for p, t, _ in targets]
-    queries = await queries_for(client, entries)
+    # A story can name its own search terms (photo_query); only the rest need the model.
+    queries = {str(p): list(front_value(t, "photo_query")) for p, t, _ in targets if front_value(t, "photo_query")}
+    entries = [(str(p), front_value(t, "title") or "", front_value(t, "tags") or []) for p, t, _ in targets if str(p) not in queries]
+    if entries:
+        config = StorageManager(config_path=args.config).load_config()
+        client = create_ai_client(config.ai)
+        queries.update(await queries_for(client, entries))
 
     used: set = set()
     for credit_file in (site / "assets" / "stories").glob("*/*.json"):

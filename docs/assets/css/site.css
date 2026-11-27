@@ -388,3 +388,5 @@ a.score{color:inherit;text-decoration:underline dotted;text-underline-offset:3px
 .story-lead p + p { margin-top: .9em; }
 .community { margin-top: 36px; padding: 16px 20px; border-left: 3px solid var(--rule, #d8d4cc); background: var(--surface); border-radius: var(--radius); font-size: .95em; }
 .community h2 { font-size: 15px; letter-spacing: .02em; color: var(--ink-2); margin-top: 0; }
+
+.topic-intro { max-width: 68ch; font-size: 17px; line-height: 1.6; color: var(--ink); margin: 12px 0 10px; }

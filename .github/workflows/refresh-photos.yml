@@ -8,6 +8,9 @@ on:
       days:
         description: "How many recent days to check"
         default: "3"
+      only_overrides:
+        description: "Only stories that set photo_query (no model calls, no brief backfill)"
+        default: "false"
 
 concurrency:
   group: daily-briefing
@@ -48,8 +51,12 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: |
-          uv run python scripts/refresh_photos.py --site site --days ${{ github.event.inputs.days || '3' }}
-          uv run python scripts/backfill_briefs.py --site site --days ${{ github.event.inputs.days || '3' }}
+          if [ "${{ github.event.inputs.only_overrides }}" = "true" ]; then
+            uv run python scripts/refresh_photos.py --site site --days ${{ github.event.inputs.days || '3' }} --only-overrides
+          else
+            uv run python scripts/refresh_photos.py --site site --days ${{ github.event.inputs.days || '3' }}
+            uv run python scripts/backfill_briefs.py --site site --days ${{ github.event.inputs.days || '3' }}
+          fi
 
       - name: Publish
         working-directory: site
