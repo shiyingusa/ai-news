@@ -22,10 +22,11 @@ published_at: "2026-11-23T19:57:18+00:00"
 tags: ["Nvidia", "Jensen Huang", "corporate governance", "AI chips", "executive leadership"]
 topics: ["nvidia", "jensen-huang", "corporate-governance", "ai-chips", "executive-leadership"]
 order: "20261123-2-989"
-image: "/assets/stories/2026-11-23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1-share.jpg"
-art: "/assets/stories/2026-11-23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1.jpg"
-thumb: "/assets/stories/2026-11-23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1-640.jpg"
-photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Nvidia_SLI_GTX280.jpg/1920px-Nvidia_SLI_GTX280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Ростислав Александрович Луценко", "licence": "CC BY-SA 4.0", "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Nvidia_SLI_GTX280.jpg", "provider": "Wikimedia Commons", "width": 1932, "height": 1464}
+image: null
+art: null
+thumb: null
+photo_query: ["Nvidia headquarters Santa Clara", "Nvidia Endeavor building", "Nvidia campus"]
+photo_credit: null
 ---
 
 {% raw %}
