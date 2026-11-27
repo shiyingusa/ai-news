@@ -17,6 +17,7 @@ from pathlib import Path
 from typing import TYPE_CHECKING, Dict, List, Optional
 
 from ..storage.manager import safe_output_path
+from .story_layout import community_section, is_community, is_empty_block, split_lead
 
 if TYPE_CHECKING:  # pragma: no cover
     from ..ai.summarizer import DailySummarizer
@@ -535,8 +536,14 @@ def export_stories(
                 "",
             ]
 
-            body: List[str] = ["{% raw %}", '<div class="story-lead" markdown="1">', "", lead.strip(), "", "</div>", ""]
+            body: List[str] = ["{% raw %}", '<div class="story-lead" markdown="1">', "", split_lead(lead, language), "", "</div>", ""]
+            community: List[str] = []
             for block in extra_blocks:
+                if is_empty_block(block.content):
+                    continue
+                if block.id == "community_discussion" or is_community(block.title):
+                    community = community_section(block.content, language)
+                    continue
                 if block.id == "fact_check":
                     body.extend(['<div class="fact-check" markdown="1">', "", f"## {block.title.strip()}", "", _fact_lines(block.content), "", "</div>", ""])
                     continue
@@ -555,6 +562,7 @@ def export_stories(
                 for source in sources:
                     body.append(f"- [{source.title.strip() or source.url}]({source.url})")
                 body.append("")
+            body.extend(community)
             body.append("{% endraw %}")
 
             path = safe_output_path(out_dir, f"{date}-{slug}-{language}.md")

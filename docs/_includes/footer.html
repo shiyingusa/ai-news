@@ -11,6 +11,8 @@
       <h2 class="footer-head">{{ T.sections }}</h2>
       <ul>
         {%- for s in site.data.sections %}
+        {%- assign nav_count = site.stories | where: "lang", L | where: "section", s.id | size -%}
+        {%- if nav_count < 3 -%}{%- continue -%}{%- endif -%}
         <li><a href="{{ P | append: '/' | append: s.slug | append: '/' | relative_url }}">{% if L == "zh" %}{{ s.zh }}{% else %}{{ s.en }}{% endif %}</a></li>
         {%- endfor %}
       </ul>

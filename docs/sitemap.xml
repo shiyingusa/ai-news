@@ -25,6 +25,10 @@ are noindex in head.html, and listing them wasted crawl budget.
     {%- assign tl = p.lang | default: "en" -%}
     {%- assign tc = site.stories | where: "lang", tl | where_exp: "s", "s.topics contains p.topic" | size -%}
     {%- if tc < 3 -%}{%- continue -%}{%- endif -%}
+  {%- elsif p.layout == "section" -%}
+    {%- assign tl = p.lang | default: "en" -%}
+    {%- assign sc = site.stories | where: "lang", tl | where: "section", p.section_page | size -%}
+    {%- if sc < 3 -%}{%- continue -%}{%- endif -%}
   {%- endif %}
   <url><loc>{{ p.url | absolute_url | xml_escape }}</loc></url>
 {%- endfor %}

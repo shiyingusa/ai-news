@@ -6,6 +6,9 @@
 {%- if page.layout == "topic" -%}
   {%- assign topic_count = site.stories | where: "lang", L | where_exp: "s", "s.topics contains page.topic" | size -%}
   {%- if topic_count < 3 -%}{%- assign thin = true -%}{%- endif -%}
+{%- elsif page.layout == "section" -%}
+  {%- assign section_count = site.stories | where: "lang", L | where: "section", page.section_page | size -%}
+  {%- if section_count < 3 -%}{%- assign thin = true -%}{%- endif -%}
 {%- endif -%}
 {%- if page.noindex or thin %}
 <meta name="robots" content="noindex, follow">
