@@ -39,6 +39,7 @@ layout: default
     {%- endif %}
     <div class="story-grid">
       <div class="story-body prose">
+        {%- unless page.kind == "explainer" %}
         <aside class="source-box source-top">
           <h2>{{ T.original_report }}</h2>
           <p><strong>{{ page.source_name | escape }}</strong>{% if src_host and src_host != "" and src_host != page.source_name %} · {{ src_host }}{% endif %}</p>
@@ -52,6 +53,7 @@ layout: default
             {%- endif %}
           </p>
         </aside>
+        {%- endunless %}
 {{ content }}
         {%- if page.topics and page.topics.size > 0 %}
         <ul class="topic-chips" aria-label="{{ T.topics }}">

@@ -8,6 +8,10 @@ layout: default
   <header class="section-head">
     <p class="section-crumb"><a href="{{ P | append: '/topics/' | relative_url }}">{{ T.topics }}</a></p>
     <h1>{{ page.title | escape }}</h1>
+    {%- assign intro = site.data.topic_intros[page.topic] -%}
+    {%- if intro %}
+    <p class="topic-intro">{{ intro[L] | default: intro.en | escape }}{% if intro.link %} <a href="{% if L == 'zh' %}{{ '/zh' | append: intro.link | relative_url }}{% else %}{{ intro.link | relative_url }}{% endif %}">{% if L == "zh" %}阅读解读 →{% else %}Read the explainer →{% endif %}</a>{% endif %}</p>
+    {%- endif %}
     <p>{{ T.stories_on }} {{ page.title | escape }} · {{ stories.size }} {{ T.stories_count }}</p>
   </header>
   <ul class="river">

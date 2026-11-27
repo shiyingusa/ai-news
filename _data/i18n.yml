@@ -39,6 +39,7 @@ en:
     Demonstrated: Demonstrated
     Released: Released
     Available: Available
+    Explainer: Explainer
   radar_score: Radar score
   score_help: How important our model rates this story, from 0 to 10. Click for how the score works.
   related: More in
@@ -115,6 +116,7 @@ zh:
     Demonstrated: 已演示
     Released: 已发布
     Available: 已上市
+    Explainer: 解读
   radar_score: 雷达评分
   score_help: 模型对这条新闻重要性的评分，满分 10 分，点击查看评分规则。
   related: 更多
