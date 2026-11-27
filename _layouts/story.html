@@ -39,8 +39,7 @@ layout: default
     {%- endif %}
     <div class="story-grid">
       <div class="story-body prose">
-{{ content }}
-        <aside class="source-box">
+        <aside class="source-box source-top">
           <h2>{{ T.original_report }}</h2>
           <p><strong>{{ page.source_name | escape }}</strong>{% if src_host and src_host != "" and src_host != page.source_name %} · {{ src_host }}{% endif %}</p>
           {%- if page.via %}
@@ -53,6 +52,7 @@ layout: default
             {%- endif %}
           </p>
         </aside>
+{{ content }}
         {%- if page.topics and page.topics.size > 0 %}
         <ul class="topic-chips" aria-label="{{ T.topics }}">
           {%- for t in page.topics %}
@@ -103,6 +103,26 @@ layout: default
       </aside>
     </div>
   </article>
+
+  {%- if page.topics and page.topics.size > 0 -%}
+  {%- assign t0 = page.topics | first -%}
+  {%- assign related = site.stories | where: "lang", L | where_exp: "s", "s.topics contains t0" | sort: "order" | reverse -%}
+  {%- if related.size > 1 %}
+  <section class="more-section related" aria-labelledby="related-title">
+    <header class="sec-head">
+      <h2 id="related-title"><a href="{{ P | append: '/topics/' | append: t0 | append: '/' | relative_url }}">{% if L == "zh" %}相关报道：{% else %}More on {% endif %}{{ page.tags | first | escape }}</a></h2>
+    </header>
+    <div class="grid-4">
+      {%- assign n = 0 -%}
+      {%- for s in related -%}
+        {%- if s.url == page.url -%}{%- continue -%}{%- endif -%}
+        {%- assign n = n | plus: 1 -%}{%- if n > 4 -%}{%- break -%}{%- endif %}
+      {% include card.html s=s v="card" h=3 %}
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endif -%}
+  {%- endif %}
 
   {%- assign more = site.stories | where: "lang", L | where: "section", page.section | sort: "order" | reverse -%}
   <section class="more-section" aria-labelledby="more-title">

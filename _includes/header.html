@@ -23,6 +23,8 @@
       <ul class="section-nav-list">
         <li><a href="{{ P | append: '/' | relative_url }}"{% if page.layout == "home" %} aria-current="page"{% endif %}>{{ T.today }}</a></li>
         {%- for s in site.data.sections %}
+        {%- assign nav_count = site.stories | where: "lang", L | where: "section", s.id | size -%}
+        {%- if nav_count < 3 -%}{%- continue -%}{%- endif -%}
         <li><a href="{{ P | append: '/' | append: s.slug | append: '/' | relative_url }}" style="--sec: {{ s.color }}"{% if page.section_page == s.id or page.section == s.id %} aria-current="{% if page.section_page %}page{% else %}true{% endif %}"{% endif %}>{% if L == "zh" %}{{ s.zh }}{% else %}{{ s.en }}{% endif %}</a></li>
         {%- endfor %}
       </ul>
