@@ -22,11 +22,11 @@ published_at: "2026-11-23T19:57:18+00:00"
 tags: ["Nvidia", "Jensen Huang", "corporate governance", "AI chips", "executive leadership"]
 topics: ["nvidia", "jensen-huang", "corporate-governance", "ai-chips", "executive-leadership"]
 order: "20261123-2-989"
-image: null
-art: null
-thumb: null
+image: "/assets/stories/2026-11-23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1-share.jpg"
+art: "/assets/stories/2026-11-23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1.jpg"
+thumb: "/assets/stories/2026-11-23/jensen-huang-returns-as-nvidia-ceo-after-resignation-and-trump-push-47b1-640.jpg"
 photo_query: ["Nvidia headquarters Santa Clara", "Nvidia Endeavor building", "Nvidia campus"]
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Nvidiaheadquarters.jpg/1920px-Nvidiaheadquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "Coolcaesar at English Wikipedia", "licence": "CC BY-SA 3.0", "licence_url": "https://creativecommons.org/licenses/by-sa/3.0", "source_url": "https://commons.wikimedia.org/wiki/File:Nvidiaheadquarters.jpg", "provider": "Wikimedia Commons", "width": 3072, "height": 2304}
 ---
 
 {% raw %}

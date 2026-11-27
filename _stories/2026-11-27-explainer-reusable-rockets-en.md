@@ -23,11 +23,11 @@ published_at: null
 tags: ["SpaceX", "Falcon 9", "Reusable rockets", "Starship"]
 topics: ["spacex", "falcon-9", "reusable-rockets", "starship"]
 order: "20261126-2-989"
-image: null
-art: null
-thumb: null
+image: "/assets/stories/2026-11-27/explainer-reusable-rockets-share.jpg"
+art: "/assets/stories/2026-11-27/explainer-reusable-rockets.jpg"
+thumb: "/assets/stories/2026-11-27/explainer-reusable-rockets-640.jpg"
 photo_query: ["Falcon 9 first stage landing", "Falcon 9 booster landing", "Falcon 9 launch"]
-photo_credit: null
+photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Falcon_9_first_stage_at_LZ-1%28two%29.jpg/1920px-Falcon_9_first_stage_at_LZ-1%28two%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "author": "SpaceX Photos", "licence": "CC0", "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en", "source_url": "https://commons.wikimedia.org/wiki/File:Falcon_9_first_stage_at_LZ-1(two).jpg", "provider": "Wikimedia Commons", "width": 3411, "height": 2295}
 ---
 
 {% raw %}
