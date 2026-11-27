@@ -1,0 +1,57 @@
+{
+ "event_id": "banned-nvidia-blackwell-chips-reportedly-found-in-shanghai-data-center-a590",
+ "issue": "2026-11-27",
+ "section": "ai-news",
+ "published_at": "2026-11-27T18:27:02+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Bloomberg reported that two Chinese companies installed Nvidia Blackwell chips at a Shanghai data center tied to Alice Huang, and that a rack serial number traced through a public warranty database to Gigabyte; The Decoder notes that exporting such chips to China without a US license is illegal."
+   ],
+   "unconfirmed": [
+    "Independent confirmation of the installation, the exact chip model (additional reports identify a GB300 rack while the source says Blackwell broadly), how the hardware reached China, who purchased it, whether any US export license was sought, and responses from Nvidia, Gigabyte, or Alice Huang."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据彭博调查（The Decoder 转述），两家中国公司已在上海一座与 Alice Huang 相关、并与 Megaspeed 有关联的数据中心安装了英伟达 Blackwell 芯片；彭博通过公开保修数据库查询机架序列号，追查到台湾厂商技嘉（Gigabyte），并结合监管文件；GB300 机架若未获美国出口许可，不得运往中国。"
+   ],
+   "unconfirmed": [
+    "这些芯片由谁出口、经何种路径进入上海，相关方是否申请或取得美国出口许可，以及技嘉在售出时是否知情，均无公开文件佐证；报道中未见英伟达、技嘉或涉事中国公司的回应，也无监管机构对是否违规作出结论。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Banned Nvidia Blackwell chips reportedly found in Shanghai data center",
+  "zh": "被禁售的英伟达Blackwell芯片据报现身上海数据中心，彭博称"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/banned-nvidia-blackwell-chips-reportedly-found-in-shanghai-data-center-a590/",
+  "zh": "/zh/2026/11/27/banned-nvidia-blackwell-chips-reportedly-found-in-shanghai-data-center-a590/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "verizon-in-talks-to-buy-fiber-operator-fidium-for-6b-ft-reports-e276",
+ "issue": "2026-11-27",
+ "section": "tech-industry",
+ "published_at": "2026-11-27T18:50:02+00:00",
+ "updated": null,
+ "status": "rumored",
+ "status_step": 1,
+ "planned": false,
+ "status_label": "Rumored",
+ "confidence": {
+  "level": "low",
+  "reason": "rumor"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Financial Times",
+   "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Financial Times reported, based on unnamed sources, that Verizon is in talks to buy Fidium, a fiber broadband operator owned by Searchlight Capital and BCI, in a deal framed around Verizon's 50-million-premises expansion target."
+   ],
+   "unconfirmed": [
+    "The ~$6 billion figure, the stage of the negotiations and whether any agreement will be reached; none of Verizon, Fidium, Searchlight or BCI has publicly confirmed the talks, and no filing, timeline or deal terms have been disclosed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "《金融时报》报道称，Verizon 正与 Fidium 的股东 Searchlight Capital 和 BCI 就收购事宜进行谈判，并称这笔交易与其 5000 万美国家庭和企业覆盖目标相关。"
+   ],
+   "unconfirmed": [
+    "约 60 亿美元的价格、交易能否最终达成、具体条款与时间表，这些均仅来自未具名消息源，Verizon 与 Fidium 双方都未公开确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Verizon in talks to buy fiber operator Fidium for ~$6B, FT reports",
+  "zh": "Verizon 据报洽谈以约 60 亿美元收购光纤运营商 Fidium"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/verizon-in-talks-to-buy-fiber-operator-fidium-for-6b-ft-reports-e276/",
+  "zh": "/zh/2026/11/27/verizon-in-talks-to-buy-fiber-operator-fidium-for-6b-ft-reports-e276/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

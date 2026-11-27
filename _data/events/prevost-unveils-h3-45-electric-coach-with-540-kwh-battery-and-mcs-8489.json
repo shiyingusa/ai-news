@@ -1,0 +1,57 @@
+{
+ "event_id": "prevost-unveils-h3-45-electric-coach-with-540-kwh-battery-and-mcs-8489",
+ "issue": "2026-11-27",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T17:23:17+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/27/prevost-h3-45-electric-coach-540-kwh-mcs/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Prevost, the Quebec coach builder owned by Volvo Group, unveiled the H3-45 Electric, its first battery-electric motorcoach, equipped with a 540 kWh Volvo battery, 450 kW (600 hp) from two electric motors, and CCS1 plus MCS charging as standard, Electrek reported."
+   ],
+   "unconfirmed": [
+    "The 250-mile range figure appears in the headline but not in the article text, and no test standard or independent measurement backs it; the report also gives no price, production start date, or delivery timeline, so it is unclear whether the published specs are final production figures or targets for a vehicle not yet in customers' hands."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，沃尔沃集团旗下的魁北克客车制造商 Prevost 发布了其首款纯电动长途客车 H3-45 Electric，搭载 540 kWh 沃尔沃电池，双电机合计输出 450 kW（600 hp），并标配 CCS1 与 MCS 充电接口；该车基于 Prevost 在北美最常见的高速公路客车之一 H3-45 平台，仅更换动力系统。"
+   ],
+   "unconfirmed": [
+    "标题所称 250 英里续航未在报道正文中给出测试标准或工况，也未说明是标称值还是实测值；价格、投产与交付时间、可选配置以及该车目前是样车还是可订购车型，报道均未提及，需等 Prevost 官方规格表或第三方测试确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Prevost unveils H3-45 Electric coach with 540 kWh battery and MCS charging",
+  "zh": "Prevost 发布 H3-45 Electric：540 kWh、600 马力、标配 MCS"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/prevost-unveils-h3-45-electric-coach-with-540-kwh-battery-and-mcs-8489/",
+  "zh": "/zh/2026/11/27/prevost-unveils-h3-45-electric-coach-with-540-kwh-battery-and-mcs-8489/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

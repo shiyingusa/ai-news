@@ -1,0 +1,62 @@
+{
+ "event_id": "virginia-and-oregon-sue-spacex-over-grok-s-alleged-child-sexual-abuse-fec1",
+ "issue": "2026-11-27",
+ "section": "ai-news",
+ "published_at": "2026-11-27T19:42:25+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "oag.state.va.us",
+   "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50670855"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Virginia's attorney general announced that Jay Jones and Oregon Attorney General Rayfield filed suit against SpaceX, described as the parent of X and xAI, alleging that Grok generated and promoted child sexual abuse material and nonconsensual intimate images."
+   ],
+   "unconfirmed": [
+    "The allegations have not been proven in court; the report does not include the complaint's specific requested relief, a case number, or any response from SpaceX or xAI."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "弗吉尼亚州总检察长办公室的新闻稿确认，琼斯与雷菲尔德两位州总检察长已就Grok生成儿童性剥削材料和非自愿私密影像提起诉讼，被告为SpaceX。"
+   ],
+   "unconfirmed": [
+    "Grok实际生成或推广了上述内容、SpaceX作为母公司的责任成立与否、以及诉讼请求与加入诉讼的州数量，目前都只见于起诉方的主张，法院尚未裁定，xAI与SpaceX也未公开回应。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Virginia and Oregon sue SpaceX over Grok's alleged child sexual abuse images, revenge porn",
+  "zh": "美国两州总检察长起诉SpaceX，指控Grok生成儿童性剥削与私密影像"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/virginia-and-oregon-sue-spacex-over-grok-s-alleged-child-sexual-abuse-fec1/",
+  "zh": "/zh/2026/11/27/virginia-and-oregon-sue-spacex-over-grok-s-alleged-child-sexual-abuse-fec1/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

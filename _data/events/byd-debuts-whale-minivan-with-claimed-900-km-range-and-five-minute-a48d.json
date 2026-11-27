@@ -1,0 +1,57 @@
+{
+ "event_id": "byd-debuts-whale-minivan-with-claimed-900-km-range-and-five-minute-a48d",
+ "issue": "2026-11-27",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T18:40:39+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/27/byd-whale-flagship-electric-minivan-debuts-559-miles-range/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "BYD officially unveiled the Whale at the 2026 Guangzhou Auto Show, describing it as the first MPV in its Ocean series and a 5.3-meter vehicle offered as both a battery-electric and a plug-in hybrid, according to CarNewsChina and Autoevolution; BYD's stated range figure is 900 km measured on China's CLTC test cycle, which Electrek converts to roughly 559 miles."
+   ],
+   "unconfirmed": [
+    "the five-minute charging claim, which rests on BYD's own announcement with no published battery size, charger type, or starting charge level; whether the 900 km CLTC figure translates to comparable range under US EPA or European WLTP testing; and price, on-sale date, and availability outside China, none of which the reports provide."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 CarNewsChina 和 autoevolution 报道，比亚迪在 2026 年广州车展上正式发布“Whale（鲸）”MPV。这是比亚迪海洋系列的首款 MPV，车长约 5.3 米，CLTC 工况续航 900 公里，并将提供纯电和插混两种动力版本。"
+   ],
+   "unconfirmed": [
+    "559 英里（900 公里）是 CLTC 工况数据，并非 EPA 或 WLTP 实测值；Electrek 与 autoevolution 分别写作 559 英里和 560 英里，只是同一 900 公里数据的换算取整有差异。“五分钟充电”只是比亚迪方面的说法，报道未说明所需充电桩功率和电量区间，也没有第三方实测。价格、上市时间和交付安排均未公布。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BYD debuts Whale minivan with claimed 900 km range and five-minute charging",
+  "zh": "比亚迪旗舰纯电MPV“鲸”首发，宣称续航559英里、5分钟充电"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/byd-debuts-whale-minivan-with-claimed-900-km-range-and-five-minute-a48d/",
+  "zh": "/zh/2026/11/27/byd-debuts-whale-minivan-with-claimed-900-km-range-and-five-minute-a48d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

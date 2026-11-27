@@ -1,0 +1,57 @@
+{
+ "event_id": "china-s-ai-hardware-push-extends-to-pcb-drill-bits-and-copper-foil-08bd",
+ "issue": "2026-11-27",
+ "section": "chips-compute",
+ "published_at": "2026-11-27T17:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/manufacturing/chinas-ai-hardware-push-is-moving-beyond-gpus-to-the-pcbs-underneath-them-beijing-races-to-corner-the-market-on-copper-foil-and-micro-drill-bits-as-board-complexity-explodes"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tom's Hardware, citing SCMP, reported that more than 20 Chinese PCB manufacturers announced expansion plans in the first half of 2026, and that China's MIIT and NDRC published a five-year plan in September targeting high-frequency, high-speed, multilayer PCBs, copper-clad laminate and low-profile copper foil; Dtech's own interim report states it has entered mass production of drill bits with aspect ratios above 40:1, and HSBC and KGI Securities research is cited for the layer counts and drilling difficulty."
+   ],
+   "unconfirmed": [
+    "the shortage forecasts (24% drill-bit shortfall in 2027, 700 to 1,200 tonnes a month of HVLP4, 36% annual growth in holes per board, a 78-layer Rubin Ultra backplane) are bank estimates, not measured outcomes; Dtech's climb to 235 million bits a month by year-end and Defu's 50,000-tonne capacity plan are company targets, and the report gives no prices, customer qualification results, or independent verification of either firm's output."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Tom's Hardware 援引 SCMP 报道，2026 年上半年有 20 多家中国 PCB 制造商公布重大扩产计划；广东鼎泰高科 2026 年中期业绩称已量产长径比超过 40:1 的钻针；德福科技 9 月出货约 700 吨 HVLP 铜箔；中国工信部和国家发改委 9 月发布了相关五年规划。"
+   ],
+   "unconfirmed": [
+    "2027 年钻针 24% 的供应缺口、2026 和 2027 年 HVLP4 铜箔每月短缺约 700 吨和 1,200 吨、Rubin Ultra 背板 78 层等，均为汇丰、摩根大通或 KGI 的预测；中国厂商扩产能否通过客户认证并如期达产，也尚缺独立验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "China's AI hardware push extends to PCB drill bits and copper foil",
+  "zh": "中国 PCB 供应链扩产钻针与铜箔，应对 AI 服务器需求"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/china-s-ai-hardware-push-extends-to-pcb-drill-bits-and-copper-foil-08bd/",
+  "zh": "/zh/2026/11/27/china-s-ai-hardware-push-extends-to-pcb-drill-bits-and-copper-foil-08bd/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
