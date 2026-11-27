@@ -1,0 +1,57 @@
+{
+ "event_id": "hkust-perovskite-solar-cell-reaches-27-04-via-trans-interface-52bb",
+ "issue": "2026-11-27",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T09:57:52+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/27/hong-kong-researchers-build-27-04-efficient-perovskite-solar-cell-via-trans-interface-engineering/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "HKUST researchers published the work in Nature Photonics as the November 2026 cover article (Volume 20, Issue 11), and both the paper's abstract and the HKUST announcement confirm a certified power conversion efficiency of 26.67%, with the team's best cell reaching 27.04%; the paper also reports that 92% of tested devices held T80 lifetimes of at least 1,400 hours under maximum-power-point tracking and one-sun illumination."
+   ],
+   "unconfirmed": [
+    "The certification body is not named in either the paper abstract or the pv magazine report, the 27.04% figure is the team's own best-cell measurement rather than the certified value, and nothing in the available reporting shows independent replication, module-scale or commercial manufacturing data, or a cost and production timeline — the paper's claim that TIE extends to other multilayer optoelectronic devices also remains untested outside this study."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "香港科技大学团队在《Nature Photonics》发表论文（2026年11月第20卷第11期封面文章），其转界面工程（TIE）制备的钙钛矿电池获得26.67%的认证效率，最佳器件效率为27.04%；在最大功率点跟踪与一个太阳光照条件下，92%的受测器件T80寿命不低于1,400小时（T80指效率降至初始值80%所需时间）。以上数据来自论文本身及HKUST的新闻稿。"
+   ],
+   "unconfirmed": [
+    "认证效率由哪家机构出具，报道未披露；27.04%为实验室最佳器件数据，并非独立认证值；T80结果全部来自实验室加速测试，尚无户外实证或组件级放大数据；论文所称“可扩展至其他多层光电器件”目前仅为作者判断。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "HKUST perovskite solar cell reaches 27.04% via trans-interface engineering",
+  "zh": "港科大用跨界面工程做出27.04%效率钙钛矿电池"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/hkust-perovskite-solar-cell-reaches-27-04-via-trans-interface-52bb/",
+  "zh": "/zh/2026/11/27/hkust-perovskite-solar-cell-reaches-27-04-via-trans-interface-52bb/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

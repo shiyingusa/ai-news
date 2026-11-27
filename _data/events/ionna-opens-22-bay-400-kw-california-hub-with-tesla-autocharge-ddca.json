@@ -1,0 +1,57 @@
+{
+ "event_id": "ionna-opens-22-bay-400-kw-california-hub-with-tesla-autocharge-ddca",
+ "issue": "2026-11-27",
+ "section": "ev-energy",
+ "published_at": "2026-11-26T18:30:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/26/ionna-opens-22-bay-charging-hub-in-california-and-adds-tesla-autocharge/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "electrive reports that IONNA opened a 22-bay site in Westminster, California, with peak power of up to 400 kW, and that automatic charging authentication has been extended to Tesla vehicles, with Stellantis brands to follow in December."
+   ],
+   "unconfirmed": [
+    "which Tesla models and software versions actually support the automatic authentication, the exact December date for Stellantis brands, whether all 22 bays can deliver 400 kW simultaneously, and the site's pricing. These details rest on IONNA's announcement and were not independently tested."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，IONNA 在加州威斯敏斯特开设了含 22 个车位、峰值功率最高 400 kW 的充电站，并将自动充电认证扩展至特斯拉车辆。"
+   ],
+   "unconfirmed": [
+    "具体支持哪些特斯拉车型、需要何种软件版本，以及 Stellantis 品牌 12 月上线的确切日期，目前仅有 IONNA 一方的说法；充电价格、站点实际可用率与独立测试的持续功率均未披露。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "IONNA opens 22-bay, 400 kW California hub with Tesla Autocharge",
+  "zh": "IONNA 加州启用 22 枪充电站，并向特斯拉开放自动充电认证"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/ionna-opens-22-bay-400-kw-california-hub-with-tesla-autocharge-ddca/",
+  "zh": "/zh/2026/11/27/ionna-opens-22-bay-400-kw-california-hub-with-tesla-autocharge-ddca/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

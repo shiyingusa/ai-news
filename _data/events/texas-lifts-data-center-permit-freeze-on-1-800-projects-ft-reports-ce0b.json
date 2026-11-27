@@ -1,0 +1,57 @@
+{
+ "event_id": "texas-lifts-data-center-permit-freeze-on-1-800-projects-ft-reports-ce0b",
+ "issue": "2026-11-27",
+ "section": "chips-compute",
+ "published_at": "2026-11-27T11:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/texas-lifts-freeze-on-1-800-data-center-projects-in-greg-abbott-u-turn-companies-rush-for-permits-before-gina-hinojosas-january-arrival"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tom's Hardware, citing the Financial Times, reported that Governor Greg Abbott's office confirmed the Electric Reliability Council of Texas (ERCOT) had finished gathering information on how data centers affect local communities and that the state has resumed approving data center projects; the August halt covered more than 1,800 projects and 474 GW of power requests, figures IBTimes also reported when the freeze was ordered. ZeroHedge, citing Politico, said the Texas Commission on Environmental Quality had returned to normal permit review in November and that the first permit issued after the freeze appears to have gone to SpaceX's $24 billion Starbase project."
+   ],
+   "unconfirmed": [
+    "No ERCOT or governor's office document is quoted, and the report gives no count of permits approved since the resumption, no timeline for clearing the backlog, and no statement from Governor-elect Gina Hinojosa's office beyond her earlier pledge to rein in construction; the characterization that developers are \"rushing\" to beat her January inauguration rests on FT's reporting, and the SpaceX-first-permit detail rests on a single Politico account relayed by ZeroHedge."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Tom's Hardware 援引《金融时报》报道，得州已恢复审批此前在 8 月被冻结的 1800 多个数据中心项目，受影响的新增用电申请为 474 吉瓦；州长格雷格·阿博特办公室发出新指令，并确认得州电力可靠性委员会（ERCOT）已完成其所需的、关于数据中心如何影响当地社区的信息收集。ZeroHedge 援引得州环境质量委员会（TCEQ）在 11 月恢复正常许可审查后称，解冻后首个获批的许可似乎发给了 SpaceX 位于 Starbase、价值 240 亿美元的项目（原始报道为 Politico）。"
+   ],
+   "unconfirmed": [
+    "恢复审批的具体条款、时间表和适用范围，以及“开发商抢在 1 月新州长 Gina Hinojosa 上任前获批”的说法，均来自《金融时报》的转述，且没有原始监管文件佐证；Hinojosa 承诺限制新数据中心建设也只是其公开表态，具体政策尚不清楚。SpaceX 获得首个许可一事目前仅有 Politico 一家报道。此外，关于是哪家机构在推进解冻，现有来源说法不一致：Tom's Hardware 将恢复审批归因于 ERCOT 完成调查，ZeroHedge 则称 TCEQ 已恢复正常审查；474 吉瓦这一数字来自州政府审计的统计，尚未经过独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Texas lifts data-center permit freeze on 1,800+ projects, FT reports",
+  "zh": "得州解冻 1,800 多个数据中心项目，《金融时报》报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/texas-lifts-data-center-permit-freeze-on-1-800-projects-ft-reports-ce0b/",
+  "zh": "/zh/2026/11/27/texas-lifts-data-center-permit-freeze-on-1-800-projects-ft-reports-ce0b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

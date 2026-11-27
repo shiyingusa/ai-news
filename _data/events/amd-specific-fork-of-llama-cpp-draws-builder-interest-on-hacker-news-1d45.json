@@ -1,0 +1,62 @@
+{
+ "event_id": "amd-specific-fork-of-llama-cpp-draws-builder-interest-on-hacker-news-1d45",
+ "issue": "2026-11-27",
+ "section": "ai-news",
+ "published_at": "2026-11-26T17:11:29+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "devnull.land",
+   "url": "https://devnull.land/amd-specific-llama-cpp"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50657265"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "The report is a Hacker News submission dated 26 November 2026 titled \"AMD-specific fork of llama.cpp\", linking to devnull.land/amd-specific-llama-cpp, and it is presented as an AMD-targeted fork of llama.cpp; the submission itself carries no README, benchmark, version or license text in what was supplied. The comments describe other people's separate AMD-focused forks and tuning work (gfx906 cards, an MI100 ROCm kernel port, an R9700 setup), not the contents of this fork."
+   ],
+   "unconfirmed": [
+    "What this fork changes relative to upstream llama.cpp, which AMD architectures it targets, any measured speedup, its license, and whether it is installable today. The performance figures in the comments — 2400 tok/s prefill and 150 tok/s decode on an R9700, \"1 TB/s\" HBM2 datacenter cards for $200, tripled Qwen 3.8 speeds on an M1 port — are commenters' own claims about their own setups and were not independently checked."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Hacker News 于 2026 年 11 月 26 日出现一篇题为「AMD-specific fork of llama.cpp」的帖子（发布者 julianlam），链接指向 devnull.land 上的介绍页；评论区多位开发者分别表示，自己为 AMD 显卡（gfx906 系列、MI100、R9700 等）维护或使用 llama.cpp 的优化分支。"
+   ],
+   "unconfirmed": [
+    "该 fork 究竟改动了什么、支持哪些显卡与 ROCm 版本、有无可复现的性能数据、以何种许可证发布，现有报道均无法核实——介绍页正文未提供。评论中「32GB、约 1 TB/s 带宽的 gfx906 显卡仅约 200 美元」「R9700 单卡 prefill 2400 tok/s、decode 150 tok/s」等数字，是个人用户对各自项目的说法，并非对该 fork 的独立测试。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "AMD-specific fork of llama.cpp draws builder interest on Hacker News",
+  "zh": "AMD 专用 llama.cpp 分支登上 Hacker News"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/amd-specific-fork-of-llama-cpp-draws-builder-interest-on-hacker-news-1d45/",
+  "zh": "/zh/2026/11/27/amd-specific-fork-of-llama-cpp-draws-builder-interest-on-hacker-news-1d45/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

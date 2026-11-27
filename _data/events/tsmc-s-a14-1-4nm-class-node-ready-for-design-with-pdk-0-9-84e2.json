@@ -1,0 +1,57 @@
+{
+ "event_id": "tsmc-s-a14-1-4nm-class-node-ready-for-design-with-pdk-0-9-84e2",
+ "issue": "2026-11-27",
+ "section": "chips-compute",
+ "published_at": "2026-11-26T13:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "TSMC said at its 2026 Europe OIP Ecosystem Workshop that A14 PDK 0.9 is ready for design-in and that Cadence and Synopsys completed full design-flow certification on an Arm Cortex-A725 core; the claimed 14% speed, 23% power, 50% energy-efficiency, 22% transistor-density and 23% logic-density gains are TSMC's own comparisons against N2P."
+   ],
+   "unconfirmed": [
+    "independent measurements of those gains, actual customer tapeout results or yields, A14 pricing, and whether the H2 2027 risk-production and H2 2028 mass-production schedules hold."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Tom's Hardware 报道，TSMC 在 2026 欧洲 OIP 生态研讨会上宣布 A14 的 0.9 版 PDK 与设计生态可供设计导入，Cadence 与 Synopsys 已在 Arm Cortex-A725 上完成全流程认证，并给出 2027 年下半年风险生产、2028 年下半年量产的日程。"
+   ],
+   "unconfirmed": [
+    "14% 性能提升、23% 功耗下降、50% 能效提升等数字均为 TSMC 对 N2P 的对比承诺，尚无独立测量或量产芯片数据；Siemens EDA 的晶体管级 EM/IR 认证仍在进行，目标 2026 年第四季度，其认证覆盖也少于另外两家。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "TSMC's A14 1.4nm-class node ready for design with PDK 0.9",
+  "zh": "台积电 A14 的 0.9 版 PDK 可供设计导入"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/tsmc-s-a14-1-4nm-class-node-ready-for-design-with-pdk-0-9-84e2/",
+  "zh": "/zh/2026/11/27/tsmc-s-a14-1-4nm-class-node-ready-for-design-with-pdk-0-9-84e2/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

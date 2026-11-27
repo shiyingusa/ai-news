@@ -1,0 +1,57 @@
+{
+ "event_id": "tongwei-signs-846-mw-module-deal-for-romania-s-dama-solar-040a",
+ "issue": "2026-11-27",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T10:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/27/tongwei-signs-846-mw-module-deal-for-romanias-dama-solar-project/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "pv magazine reported that Tongwei and Rezolv Energy signed an 846 MW supply agreement for TNC 3.0 modules, and Tongwei said the first truckload had departed its Nantong plant; the project's 1.36 GWp capacity and Arad County location come from the same report."
+   ],
+   "unconfirmed": [
+    "the roughly 1,800 GWh annual generation figure is a projection for an unbuilt plant, and module pricing, the delivery schedule, and a construction or commissioning date were not disclosed; the description of Dama Solar as one of Europe's largest single-site solar plants rests on the companies' characterization rather than an independent ranking."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据pv magazine报道，通威与Rezolv Energy签署846 MW TNC 3.0组件供应协议，用于罗马尼亚Arad县规划中的1.36 GWp Dama Solar项目；首批组件已从南通发运。"
+   ],
+   "unconfirmed": [
+    "项目投运时间、最终年发电量（报道为约1,800 GWh的预期值）、组件价格，以及846 MW组件能否全部按期交付，均无独立信息或合同细节支持。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tongwei signs 846 MW module deal for Romania's Dama Solar",
+  "zh": "通威签署罗马尼亚Dama Solar 846 MW组件供应协议"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/tongwei-signs-846-mw-module-deal-for-romania-s-dama-solar-040a/",
+  "zh": "/zh/2026/11/27/tongwei-signs-846-mw-module-deal-for-romania-s-dama-solar-040a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

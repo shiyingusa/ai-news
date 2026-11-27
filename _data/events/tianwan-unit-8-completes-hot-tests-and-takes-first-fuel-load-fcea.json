@@ -1,0 +1,57 @@
+{
+ "event_id": "tianwan-unit-8-completes-hot-tests-and-takes-first-fuel-load-fcea",
+ "issue": "2026-11-27",
+ "section": "ev-energy",
+ "published_at": "2026-11-26T14:33:38+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/Tianwan-moving-step-closer-becoming-worlds-biggest-nuclear-power-plant"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "World Nuclear News reports that hot tests are complete for Tianwan unit 8 and that its initial fuel load has been delivered."
+   ],
+   "unconfirmed": [
+    "No start-up date, grid-connection date or commercial operation date is given, and no independent confirmation of the testing results is available; the \"world's largest nuclear power plant\" description rests on the site's expectation that all eight units will eventually operate."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "世界核新闻（World Nuclear News）报道，田湾8号机组已完成热试，首炉核燃料已运抵现场。"
+   ],
+   "unconfirmed": [
+    "8号机组何时首次临界、并网发电和投入商业运行；全厂八台机组的总装机容量；“全部投运后成为全球最大核电站”这一定性判断，报道未给出与其他核电站的容量对比数据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Tianwan unit 8 completes hot tests and takes first fuel load",
+  "zh": "田湾8号机组完成热试并接收首炉核燃料"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/tianwan-unit-8-completes-hot-tests-and-takes-first-fuel-load-fcea/",
+  "zh": "/zh/2026/11/27/tianwan-unit-8-completes-hot-tests-and-takes-first-fuel-load-fcea/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

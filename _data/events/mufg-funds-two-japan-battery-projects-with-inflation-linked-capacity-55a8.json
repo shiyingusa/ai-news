@@ -1,0 +1,57 @@
+{
+ "event_id": "mufg-funds-two-japan-battery-projects-with-inflation-linked-capacity-55a8",
+ "issue": "2026-11-27",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T11:15:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/27/japan-battery-financing-adapts-to-inflation-linked-capacity-contracts/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "HEXA Energy Services and MUFG Bank both said initial loan disbursements have been made for the two projects, and the companies put their combined grid-connection capacity at 90 MW; the projects won contracts in the fiscal 2023 long-term decarbonization auction, and MUFG said the financing addressed the auction's new contract price adjustment mechanism."
+   ],
+   "unconfirmed": [
+    "the loan amount, tenor, per-project megawatt-hour capacity, and the exact formula or caps of the inflation- and interest-linked price adjustment, none of which HEXA disclosed; no independent party has confirmed the financing terms."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "HEXA Energy Services 宣布三菱日联银行已为北海道美呗和熊本两座合计 90 MW 并网容量的储能项目完成首次放款，三菱日联银行确认参与并处理了长期脱碳电力拍卖新引入的合同价格调整机制相关融资安排；两项目在 2023 财年拍卖中中标。"
+   ],
+   "unconfirmed": [
+    "贷款金额、期限和两个项目的兆瓦时容量均由公司以未披露带过；通胀与利率调整对实际融资成本的影响幅度没有独立数据；放款不等于项目已建成并网，投运时间表未见说明。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "MUFG funds two Japan battery projects with inflation-linked capacity contracts",
+  "zh": "三菱日联银行为日本两座90MW储能项目放款，融资条款挂钩通胀调整"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/mufg-funds-two-japan-battery-projects-with-inflation-linked-capacity-55a8/",
+  "zh": "/zh/2026/11/27/mufg-funds-two-japan-battery-projects-with-inflation-linked-capacity-55a8/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

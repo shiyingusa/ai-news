@@ -1,0 +1,57 @@
+{
+ "event_id": "indium-phosphide-supply-stays-tight-as-ai-optical-demand-climbs-99f5",
+ "issue": "2026-11-27",
+ "section": "chips-compute",
+ "published_at": "2026-11-26T16:00:00+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/photonics/inside-the-indium-phosphide-squeeze-and-the-optical-boom-inp-remains-tightly-constrained-as-the-demand-from-ai-puts-the-entire-supply-chain-under-pressure"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Tom's Hardware reports the substrate market shares for Sumitomo Electric, AXT and JX Advanced Metals, China's roughly 70% share of refined indium, and the Chinese export-licensing requirement on AXT's substrate output; it also quotes Lumentum's CEO on fabs running more than 30% below demand and Coherent describing InP capacity as its primary constraint, both company statements."
+   ],
+   "unconfirmed": [
+    "no independent measurement of the size of the shortfall is given — the demand gap rests on the two vendors' own characterisations — and the report offers no timeline for when new InP capacity or newly qualified suppliers will reach volume, nor the detailed terms behind Nvidia's stated $2 billion investment in each company."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Tom's Hardware 的报道确认了 InP 衬底产能集中度（住友电工与 AXT 合计近 80%、JX 约 10%）、AXT 中国产线需出口许可，以及英伟达对 Lumentum 和 Coherent 各 20 亿美元的投资。"
+   ],
+   "unconfirmed": [
+    "短缺的量化规模与持续时间、英伟达投资所附采购承诺和产能权利的具体条款均未披露；Lumentum 的 30% 出货缺口和 Coherent 的“首要约束”说法来自公司高管，未经独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Indium phosphide supply stays tight as AI optical demand climbs",
+  "zh": "磷化铟供应链吃紧，AI 光互连面临材料瓶颈"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/indium-phosphide-supply-stays-tight-as-ai-optical-demand-climbs-99f5/",
+  "zh": "/zh/2026/11/27/indium-phosphide-supply-stays-tight-as-ai-optical-demand-climbs-99f5/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

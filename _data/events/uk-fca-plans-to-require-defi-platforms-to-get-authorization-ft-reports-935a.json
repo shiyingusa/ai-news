@@ -1,0 +1,57 @@
+{
+ "event_id": "uk-fca-plans-to-require-defi-platforms-to-get-authorization-ft-reports-935a",
+ "issue": "2026-11-27",
+ "section": "tech-industry",
+ "published_at": "2026-11-26T13:10:04+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Financial Times",
+   "url": "https://www.ft.com/content/ec820cb6-4983-4ece-8e7b-de116b57525d"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "The Financial Times reported that the FCA says it plans to require DeFi platforms to obtain authorization, and that the regulator gave consumer-protection gaps and the Binance hack as its rationale."
+   ],
+   "unconfirmed": [
+    "The exact scope (which activities and which entities count as the regulated party), the timing of any consultation or final rules, whether the requirement is a firm policy decision or a proposal, and the $6.3 billion loss figure — none of these are detailed in the available account, and no FCA publication or statement was cited directly."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据《金融时报》报道（经 Techmeme 转述），FCA 表示计划要求 DeFi 平台取得授权，并以消费者保护不足和币安被盗事件作为理由。"
+   ],
+   "unconfirmed": [
+    "报道所引的 63 亿美元被盗金额、FCA 与美国和欧盟做法的具体比较，以及规则的适用范围、生效时间和是否已有正式咨询文件，目前都只有这一家媒体的转述，尚无 FCA 官方文件或公开征求意见稿佐证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "UK FCA plans to require DeFi platforms to get authorization, FT reports",
+  "zh": "英国 FCA 拟要求 DeFi 平台取得授权，立场严于美欧，《金融时报》报道"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/uk-fca-plans-to-require-defi-platforms-to-get-authorization-ft-reports-935a/",
+  "zh": "/zh/2026/11/27/uk-fca-plans-to-require-defi-platforms-to-get-authorization-ft-reports-935a/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

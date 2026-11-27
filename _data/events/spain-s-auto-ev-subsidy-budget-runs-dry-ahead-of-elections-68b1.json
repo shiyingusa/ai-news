@@ -1,0 +1,57 @@
+{
+ "event_id": "spain-s-auto-ev-subsidy-budget-runs-dry-ahead-of-elections-68b1",
+ "issue": "2026-11-27",
+ "section": "ev-energy",
+ "published_at": "2026-11-26T11:30:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/26/budget-exhausted-spain-cuts-purchase-subsidies-for-electric-cars/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "electrive reports that the Auto+ budget for private individuals is exhausted and that €350 million was allocated to purchase incentives for electric cars and plug-in hybrids."
+   ],
+   "unconfirmed": [
+    "the report cites no primary government document, so the exact remaining balance, the treatment of pending applications, and the claim that funding will not be restored for the foreseeable future rest on the outlet's reporting rather than an official statement."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "electrive 报道，西班牙 Auto+ 面向私人的补贴额度已耗尽，政府为该计划投入的 3.5 亿欧元在短期内分配完毕，且短期内不会补充。"
+   ],
+   "unconfirmed": [
+    "报道未援引政府原始文件，未说明剩余申请如何处理、单车补贴金额，以及选举后是否推出替代计划。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Spain's Auto+ EV subsidy budget runs dry ahead of elections",
+  "zh": "西班牙电动车补贴预算耗尽，Auto+ 短期内不再追加"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/spain-s-auto-ev-subsidy-budget-runs-dry-ahead-of-elections-68b1/",
+  "zh": "/zh/2026/11/27/spain-s-auto-ev-subsidy-budget-runs-dry-ahead-of-elections-68b1/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

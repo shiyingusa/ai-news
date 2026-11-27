@@ -1,0 +1,57 @@
+{
+ "event_id": "china-s-solar-capacity-reaches-1-33-tw-as-jiangsu-sets-2027-auction-62bb",
+ "issue": "2026-11-27",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T11:06:15+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/27/chinese-pv-industry-brief-china-hits-1-33-tw-of-cumulative-solar-capacity/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "The NEA reported ~1.33 TW cumulative solar capacity at end-October 2026, +16.3% year on year, with 12.86 GW added in October and ~123.69 GW in January–October, per pv magazine. Jiangsu's development and reform commission published the 13 TWh, CNY 0.200–0.391/kWh, 10-year-settlement framework. Trina Solar's board-level plan to inject CNY 1.35 billion into Trina Storage would lift its stake from 60.14% to 68.43%."
+   ],
+   "unconfirmed": [
+    "The Trina capital injection is subject to shareholder approval and has not closed. Longi's and Trina's 2027 related-party transaction figures (CNY 1.186 billion and CNY 152 million) are estimates, not confirmed orders. The Yongjie Aluminum project is not yet running; the Dec. 28 start date and the projected CNY 9 million carbon-tariff and CNY 3 million electricity savings are the NEA's and project partners' expectations. China Huaneng's 400 MW offshore solar project has only begun construction."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "国家能源局数据显示，截至2026年10月底，中国光伏累计装机约1.33太瓦，同比增长16.3%，10月新增12.86吉瓦；江苏省发改委已公布2027年机制电价竞价框架，初始电量为13太瓦时，报价区间为0.200—0.391元/千瓦时，结算期10年。"
+   ],
+   "unconfirmed": [
+    "竞价最终出清价格、可结算电量分配和项目中标结果，以及拍卖的具体时间表；该框架只规定了规则，尚未给出这些结果。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "China's Solar Capacity Reaches 1.33 TW as Jiangsu Sets 2027 Auction Terms",
+  "zh": "中国光伏累计装机达1.33太瓦，江苏公布2027年竞价框架"
+ },
+ "permalinks": {
+  "en": "/2026/11/27/china-s-solar-capacity-reaches-1-33-tw-as-jiangsu-sets-2027-auction-62bb/",
+  "zh": "/zh/2026/11/27/china-s-solar-capacity-reaches-1-33-tw-as-jiangsu-sets-2027-auction-62bb/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
