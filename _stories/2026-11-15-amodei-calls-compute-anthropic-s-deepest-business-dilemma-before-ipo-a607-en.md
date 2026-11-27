@@ -30,7 +30,9 @@ description: "Days before a planned record IPO, Anthropic CEO Dario Amodei descr
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Days before a planned record IPO, Anthropic CEO Dario Amodei described buying compute as the company's "deepest business dilemma," according to The Decoder. The report says Anthropic's commitments total nearly $901 billion and that the IPO is largely meant to serve as a financial buffer, because it is not clear whether future revenue will justify those costs. It provides no IPO valuation, timetable, revenue forecast, or direct transcript of Amodei's remarks.
+Days before a planned record IPO, Anthropic CEO Dario Amodei described buying compute as the company's "deepest business dilemma," according to The Decoder. The report says Anthropic's commitments total nearly $901 billion and that the IPO is largely meant to serve as a financial buffer, because it is not clear whether future revenue will justify those costs.
+
+It provides no IPO valuation, timetable, revenue forecast, or direct transcript of Amodei's remarks.
 
 </div>
 

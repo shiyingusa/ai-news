@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g1e40db95e264eed3bf8e8c00e135d03b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Ford has begun producing lithium iron phosphate (LFP) battery cells at its BlueOval Battery Park Michigan plant and is shipping the first production-grade cells to Kentucky for testing in prototypes of the planned $30,000 Fathom electric pickup. The cells are for prototype validation, not customer vehicles, so the Fathom's final price and launch timing remain unconfirmed. LFP is a lower-cost battery chemistry that Ford plans to use first in the affordable truck.
+Ford has begun producing lithium iron phosphate (LFP) battery cells at its BlueOval Battery Park Michigan plant and is shipping the first production-grade cells to Kentucky for testing in prototypes of the planned $30,000 Fathom electric pickup. The cells are for prototype validation, not customer vehicles, so the Fathom's final price and launch timing remain unconfirmed.
+
+LFP is a lower-cost battery chemistry that Ford plans to use first in the affordable truck.
 
 </div>
 

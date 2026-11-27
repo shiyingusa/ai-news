@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6fa95f884118875b425c9bd78270394e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-第68届Top500榜单在SC26发布，中国深圳国家超算中心的LineShine以HPL FP64 2.198 EFLOPS、42.22 MW的功耗继续排名第一。它采用基于纯CPU的LingKun平台，配备304核、基于Armx9的LX2处理器（共13,789,440核）和LingQi互连，未使用计算加速器。榜单同时录得1993年项目创立以来最少的新入榜系统：仅27台（5.4%），前十名和前十能效榜均与6月相同；文章将这一低迷归因于新增高性能硬件大量流向AI数据中心，Epoch AI估算全球每季度新增AI算力容量约以每年2.5倍的速度增长。最强新机是韩国KISTI的Hanggang，以342.6 PFLOPS排第12；榜单总HPL性能为19.57 EFLOPS，较6月增4.4%，入榜门槛升至2.857 PFLOPS。
+第68届Top500榜单在SC26发布，中国深圳国家超算中心的LineShine以HPL FP64 2.198 EFLOPS、42.22 MW的功耗继续排名第一。它采用基于纯CPU的LingKun平台，配备304核、基于Armx9的LX2处理器（共13,789,440核）和LingQi互连，未使用计算加速器。
+
+榜单同时录得1993年项目创立以来最少的新入榜系统：仅27台（5.4%），前十名和前十能效榜均与6月相同；文章将这一低迷归因于新增高性能硬件大量流向AI数据中心，Epoch AI估算全球每季度新增AI算力容量约以每年2.5倍的速度增长。最强新机是韩国KISTI的Hanggang，以342.6 PFLOPS排第12；榜单总HPL性能为19.57 EFLOPS，较6月增4.4%，入榜门槛升至2.857 PFLOPS。
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g624b7cc54af5f32ef1ed70ffdfc69e58
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Finnish satellite developer ICEYE announced Tuesday an all-cash voluntary tender offer, made through an Italian subsidiary, to buy Italian rocket-maker Avio for more than $2.2 billion, with the stated goal of creating Europe's first vertically integrated end-to-end space company. Avio said its board "has taken note of the notice" and is considering the offer; the company's shareholders are led by the Italian defense conglomerate Leonardo. Avio builds the solid-fueled Vega C launcher, designed to carry up to 3.3 metric tons to low-Earth orbit, which has flown successfully seven times in eight attempts since 2022, following an earlier Vega that went 20-for-22 since its 2012 debut. The transaction is proposed, not agreed: no price per share, timetable, or shareholder acceptance was disclosed.
+Finnish satellite developer ICEYE announced Tuesday an all-cash voluntary tender offer, made through an Italian subsidiary, to buy Italian rocket-maker Avio for more than $2.2 billion, with the stated goal of creating Europe's first vertically integrated end-to-end space company. Avio said its board "has taken note of the notice" and is considering the offer; the company's shareholders are led by the Italian defense conglomerate Leonardo.
+
+Avio builds the solid-fueled Vega C launcher, designed to carry up to 3.3 metric tons to low-Earth orbit, which has flown successfully seven times in eight attempts since 2022, following an earlier Vega that went 20-for-22 since its 2012 debut. The transaction is proposed, not agreed: no price per share, timetable, or shareholder acceptance was disclosed.
 
 </div>
 

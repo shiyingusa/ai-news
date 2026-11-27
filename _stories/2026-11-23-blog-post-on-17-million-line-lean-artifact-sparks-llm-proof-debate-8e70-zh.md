@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8bcd542abf8abc8b60971117f4318976
 {% raw %}
 <div class="story-lead" markdown="1">
 
-一篇博客文章分析了一个约 1700 万行的 Lean 证明工件，Hacker News 的讨论随即集中在 LLM 辅助生成的形式化证明是否可信。评论者的核心担忧是规模：证明越大，潜在错误点越多，而一个反例就足以推翻结论；也有人担心 LLM 写出的说明和代码难以让未参与生成的人理解。讨论中有人称该证明的行数已从 1700 万降到 1300 万，并可能继续下降，但给出的材料没有独立确认这一数字或证明本身是否正确。
+一篇博客文章分析了一个约 1700 万行的 Lean 证明工件，Hacker News 的讨论随即集中在 LLM 辅助生成的形式化证明是否可信。评论者的核心担忧是规模：证明越大，潜在错误点越多，而一个反例就足以推翻结论；也有人担心 LLM 写出的说明和代码难以让未参与生成的人理解。
+
+讨论中有人称该证明的行数已从 1700 万降到 1300 万，并可能继续下降，但给出的材料没有独立确认这一数字或证明本身是否正确。
 
 </div>
 
@@ -56,14 +58,18 @@ photo_credit: {"url": "https://pixabay.com/get/g8bcd542abf8abc8b60971117f4318976
 
 评论者称该证明已降到 1300 万行，并预测可能降至 1100 万行；关注这一行数变化是否发生，以及博客作者是否更新分析。
 
-## 社区讨论
-
-多位评论者把规模视为风险来源：jandrese 认为证明越大，出错点越多，一个反例就能让整个结果崩塌；lukaslalinsky 则说没人会审阅上千万行 LLM 生成的代码，担心其中藏有次要信息。Arch485 提出另一种可能：问题未必是 Lean 的 bug，而是某个被转换的子证明本身有误；adgjlsfhk1 称行数已降至 1300 万。
-
 ## 延伸阅读
 
 - [17 Million Lines Claim to Prove Riemann . We Ran Them. - YouTube](https://www.youtube.com/watch?v=aDl7-MWFLVc)
 - [Alpöge/Claude proof of the Generalized Riemann Hypothesis](https://math.uwaterloo.ca/~mrubinst/alpoge_claude_grh/)
 - [Yes, 17 m lines of Lean is a lot | micjm](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+多位评论者把规模视为风险来源：jandrese 认为证明越大，出错点越多，一个反例就能让整个结果崩塌；lukaslalinsky 则说没人会审阅上千万行 LLM 生成的代码，担心其中藏有次要信息。Arch485 提出另一种可能：问题未必是 Lean 的 bug，而是某个被转换的子证明本身有误；adgjlsfhk1 称行数已降至 1300 万。
+
+</div>
 
 {% endraw %}

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8da812e0e59a768050389b3b0ff0e29f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Hugging Face 现在把语言模型请求转由 OpenRouter 路由，由后者自动选择价格最低或速度最快的服务商。据 The Decoder 报道，面向语言模型的“自带 API 密钥”（BYOK，即开发者用自己的密钥直接对接模型提供商）正在被取消。OpenRouter 称新路由使容量错误减少了 46%，但这一数字出自合作方自述，报道未给出独立测试或统计口径。报道还笼统提到两家公司都面临数十亿美元级的收购，但未说明收购方、金额或时间。
+Hugging Face 现在把语言模型请求转由 OpenRouter 路由，由后者自动选择价格最低或速度最快的服务商。据 The Decoder 报道，面向语言模型的“自带 API 密钥”（BYOK，即开发者用自己的密钥直接对接模型提供商）正在被取消。
+
+OpenRouter 称新路由使容量错误减少了 46%，但这一数字出自合作方自述，报道未给出独立测试或统计口径。报道还笼统提到两家公司都面临数十亿美元级的收购，但未说明收购方、金额或时间。
 
 </div>
 

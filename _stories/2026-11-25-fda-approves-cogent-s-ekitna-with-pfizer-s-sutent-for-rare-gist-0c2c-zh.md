@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g0a14a8aede037caeabe7403e6dd9a659
 {% raw %}
 <div class="story-lead" markdown="1">
 
-美国 FDA 已批准 Cogent Biosciences 的 bezuclastinib（商品名 Ekitna）与辉瑞的 Sutent（sunitinib，舒尼替尼）联合使用，治疗晚期胃肠道间质瘤（GIST）——一种常发生在胃部的罕见消化道肿瘤。STAT 报道称，Cogent 在前一日获得这项批准，Ekitna 将以该品牌名上市。报道摘要未披露定价、上市时间或具体疗效数据。
+美国 FDA 已批准 Cogent Biosciences 的 bezuclastinib（商品名 Ekitna）与辉瑞的 Sutent（sunitinib，舒尼替尼）联合使用，治疗晚期胃肠道间质瘤（GIST）——一种常发生在胃部的罕见消化道肿瘤。STAT 报道称，Cogent 在前一日获得这项批准，Ekitna 将以该品牌名上市。
+
+报道摘要未披露定价、上市时间或具体疗效数据。
 
 </div>
 

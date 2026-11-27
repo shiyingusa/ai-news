@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-In a Q&A with The Pragmatic Engineer, Microsoft CEO Satya Nadella said that as AI code generation becomes cheap, code verification becomes the more important engineering problem, because generating code is no longer the scarce step. The conversation, released as a podcast episode with a transcript on the newsletter's site, also touched on Microsoft's voluntary exit offers and on "decision models," though the excerpt gives no further detail on either. Nadella's remarks are his argument about how software engineering should change, not a product announcement or a measured result.
+In a Q&A with The Pragmatic Engineer, Microsoft CEO Satya Nadella said that as AI code generation becomes cheap, code verification becomes the more important engineering problem, because generating code is no longer the scarce step. The conversation, released as a podcast episode with a transcript on the newsletter's site, also touched on Microsoft's voluntary exit offers and on "decision models," though the excerpt gives no further detail on either.
+
+Nadella's remarks are his argument about how software engineering should change, not a product announcement or a measured result.
 
 </div>
 

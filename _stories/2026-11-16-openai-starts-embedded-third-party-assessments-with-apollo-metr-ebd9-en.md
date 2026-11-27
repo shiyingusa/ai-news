@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g71f44e6a3d0d9a68a200202c26b01530
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI announced the first phase of its "embedded assessments" program, in which outside organizations — Apollo Research, METR, Transluce, and Goodfire — evaluate its models' alignment, safeguards, and monitoring systems from inside the company rather than through one-off external audits. The most specific commitment disclosed is that OpenAI will embed six Apollo Research evaluators to investigate whether its models engage in subversive behavior, such as deliberately deceptive or hidden-goal conduct. OpenAI has not published findings, a schedule for results, or which model versions are in scope, and the source report notes that restrictions on evaluator access and on what they can disclose raise questions about how independent the assessments can be. This is an announced program, not a delivered evaluation result.
+OpenAI announced the first phase of its "embedded assessments" program, in which outside organizations — Apollo Research, METR, Transluce, and Goodfire — evaluate its models' alignment, safeguards, and monitoring systems from inside the company rather than through one-off external audits. The most specific commitment disclosed is that OpenAI will embed six Apollo Research evaluators to investigate whether its models engage in subversive behavior, such as deliberately deceptive or hidden-goal conduct.
+
+OpenAI has not published findings, a schedule for results, or which model versions are in scope, and the source report notes that restrictions on evaluator access and on what they can disclose raise questions about how independent the assessments can be. This is an announced program, not a delivered evaluation result.
 
 </div>
 

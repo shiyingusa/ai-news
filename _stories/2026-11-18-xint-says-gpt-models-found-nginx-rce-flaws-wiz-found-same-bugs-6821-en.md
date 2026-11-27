@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gc7b5dcc9c6d79872eab79e6dcd3c3aa5
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Xint, a DARPA-backed cybersecurity company, says its AI models—GPT 6.1 Sol and GPT-6 Luna—found remote code execution (RCE) vulnerabilities in Nginx, the widely used web server, Forbes reported. Wiz says it separately found the same flaws, giving a second company account that the bugs exist but not verifying that Xint's AI discovered them or how. The report names no CVE identifiers, affected Nginx versions, or patches, so operators cannot yet assess exposure from the account alone.
+Xint, a DARPA-backed cybersecurity company, says its AI models—GPT 6.1 Sol and GPT-6 Luna—found remote code execution (RCE) vulnerabilities in Nginx, the widely used web server, Forbes reported. Wiz says it separately found the same flaws, giving a second company account that the bugs exist but not verifying that Xint's AI discovered them or how.
+
+The report names no CVE identifiers, affected Nginx versions, or patches, so operators cannot yet assess exposure from the account alone.
 
 </div>
 

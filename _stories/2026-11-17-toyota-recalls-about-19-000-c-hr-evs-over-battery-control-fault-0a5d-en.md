@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Toyota is recalling roughly 19,000 C-HR+ electric vehicles worldwide, 1,096 of them in Germany, because of a fault in the battery management system. In the worst case the defect could shut down the electric drivetrain while the car is in motion. The report names the affected model and per-market volume but does not say which model years or build dates are covered, whether the remedy is a software update or a parts swap, or when owners will be notified.
+Toyota is recalling roughly 19,000 C-HR+ electric vehicles worldwide, 1,096 of them in Germany, because of a fault in the battery management system. In the worst case the defect could shut down the electric drivetrain while the car is in motion.
+
+The report names the affected model and per-market volume but does not say which model years or build dates are covered, whether the remedy is a software update or a parts swap, or when owners will be notified.
 
 </div>
 

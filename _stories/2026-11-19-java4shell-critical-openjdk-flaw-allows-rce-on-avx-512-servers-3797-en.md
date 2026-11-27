@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g035d58e886eeb7ec49ac0b875dfb2585
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Calif Research says it has found a critical OpenJDK remote-code-execution flaw, tracked as CVE-2026-114938 and nicknamed Java4Shell, which it rates 9.2 on CVSS 4.0; the report cites vendor scores ranging from 8 to 9.8. The bug is a missing bounds check in a hand-written Base64-decoding optimization: an attacker who sends 64 'A' characters followed by an '=' padding character can overwrite adjacent memory on x86-64 chips with AVX-512 VBMI support, which the report identifies as Intel Ice Lake and AMD Zen 4 server parts. The report says Oracle has fixed the flaw and issued updated Java versions, but bundled Java in Keycloak, Jira, Confluence, Jenkins and PingFederate allowed unauthenticated RCE, while Kafka Broker, Solr, Elasticsearch, Gerrit and Spinnaker were exploitable after authentication. Older CPUs without VBMI are not affected, and the report does not list the specific vulnerable or patched Java versions.
+Calif Research says it has found a critical OpenJDK remote-code-execution flaw, tracked as CVE-2026-114938 and nicknamed Java4Shell, which it rates 9.2 on CVSS 4.0; the report cites vendor scores ranging from 8 to 9.8. The bug is a missing bounds check in a hand-written Base64-decoding optimization: an attacker who sends 64 'A' characters followed by an '=' padding character can overwrite adjacent memory on x86-64 chips with AVX-512 VBMI support, which the report identifies as Intel Ice Lake and AMD Zen 4 server parts.
+
+The report says Oracle has fixed the flaw and issued updated Java versions, but bundled Java in Keycloak, Jira, Confluence, Jenkins and PingFederate allowed unauthenticated RCE, while Kafka Broker, Solr, Elasticsearch, Gerrit and Spinnaker were exploitable after authentication. Older CPUs without VBMI are not affected, and the report does not list the specific vulnerable or patched Java versions.
 
 </div>
 

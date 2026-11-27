@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gc24746e2d91e92ac6f87f3974734fb43
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Council of the EU and the European Parliament reached a provisional agreement on a directive to streamline permitting for renewable energy projects, energy storage, EV charging stations and electricity and gas infrastructure. The deal would let member states treat eligible projects as being of overriding public interest, while allowing them to opt out for security, defence and cultural-heritage reasons, and the proposed rules aim to shorten permitting timelines and accelerate grid connections. It is not yet law: both institutions must formally endorse the text after legal review, and member states would then have 18 months to transpose it into national law.
+The Council of the EU and the European Parliament reached a provisional agreement on a directive to streamline permitting for renewable energy projects, energy storage, EV charging stations and electricity and gas infrastructure. The deal would let member states treat eligible projects as being of overriding public interest, while allowing them to opt out for security, defence and cultural-heritage reasons, and the proposed rules aim to shorten permitting timelines and accelerate grid connections.
+
+It is not yet law: both institutions must formally endorse the text after legal review, and member states would then have 18 months to transpose it into national law.
 
 </div>
 

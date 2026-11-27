@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4f68c677e6245276e9ed8a34d3603fdf
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Kalshi Inc. says the U.S. Commodity Futures Trading Commission (CFTC), the federal regulator for derivatives markets, ordered it to stop trading on "mention markets" — event contracts that pay out based on what President Donald Trump says during public events. Bloomberg's Bobby Allyn reported the company's account on November 17, 2026. The report gives no detail on the order's scope, its legal reasoning, or how many contracts are affected, and it is not clear from the item whether the markets are already closed or whether open positions will be voided or settled. The CFTC's own statement on the action was not included.
+Kalshi Inc. says the U.S. Commodity Futures Trading Commission (CFTC), the federal regulator for derivatives markets, ordered it to stop trading on "mention markets" — event contracts that pay out based on what President Donald Trump says during public events. Bloomberg's Bobby Allyn reported the company's account on November 17, 2026.
+
+The report gives no detail on the order's scope, its legal reasoning, or how many contracts are affected, and it is not clear from the item whether the markets are already closed or whether open positions will be voided or settled. The CFTC's own statement on the action was not included.
 
 </div>
 

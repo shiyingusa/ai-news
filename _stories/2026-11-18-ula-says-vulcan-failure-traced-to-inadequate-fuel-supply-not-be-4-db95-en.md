@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-United Launch Alliance said its initial integrated review of flight data from Sunday's Vulcan launch anomaly points to low booster thrust caused by "inadequate fuel supply from the vehicle to the BE-4 engines, not from the performance of the engines." The statement attributes the problem to how propellant reached the Blue Origin-built BE-4s rather than to the engines themselves, confirming Ars Technica's Tuesday reporting that engine performance was not the culprit. ULA said "work remains to determine cause," so the root cause, any corrective hardware changes, and a return-to-flight schedule are still undetermined.
+United Launch Alliance said its initial integrated review of flight data from Sunday's Vulcan launch anomaly points to low booster thrust caused by "inadequate fuel supply from the vehicle to the BE-4 engines, not from the performance of the engines." The statement attributes the problem to how propellant reached the Blue Origin-built BE-4s rather than to the engines themselves, confirming Ars Technica's Tuesday reporting that engine performance was not the culprit.
+
+ULA said "work remains to determine cause," so the root cause, any corrective hardware changes, and a return-to-flight schedule are still undetermined.
 
 </div>
 

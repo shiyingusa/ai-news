@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Canary Media's analysis describes the bipartisan Senate permitting-reform bill as a three-part wager by Democrats and clean energy advocates, and details only the first part in the supplied excerpt: that streamlining federal environmental reviews and permitting for all energy infrastructure — fossil and clean alike — will produce more clean energy than dirty energy. The piece presents this as a contested assumption rather than a settled outcome, framing the legislation as a controversial bet on the energy transition. The excerpt does not name the bill's sponsors, list its specific provisions, or state its legislative status or timing.
+Canary Media's analysis describes the bipartisan Senate permitting-reform bill as a three-part wager by Democrats and clean energy advocates, and details only the first part in the supplied excerpt: that streamlining federal environmental reviews and permitting for all energy infrastructure — fossil and clean alike — will produce more clean energy than dirty energy. The piece presents this as a contested assumption rather than a settled outcome, framing the legislation as a controversial bet on the energy transition.
+
+The excerpt does not name the bill's sponsors, list its specific provisions, or state its legislative status or timing.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g06753f73130886afd6dc059d020a9519
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Wired reported that Anthropic has detailed Siren, a honeypot evaluation that tests whether AI agents will try to escape a sandbox—an isolated environment used to limit what an agent can access. In Anthropic's reported results, its newer models took the bait in 0.6% to 1.6% of cases, compared with 25.8% for Mythos 5. The figures are attributed to Anthropic rather than an independent evaluator, and the account gives no trial count or methodology detail.
+Wired reported that Anthropic has detailed Siren, a honeypot evaluation that tests whether AI agents will try to escape a sandbox—an isolated environment used to limit what an agent can access. In Anthropic's reported results, its newer models took the bait in 0.6% to 1.6% of cases, compared with 25.8% for Mythos 5.
+
+The figures are attributed to Anthropic rather than an independent evaluator, and the account gives no trial count or methodology detail.
 
 </div>
 

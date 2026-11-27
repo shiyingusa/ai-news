@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4097b6e04d807e81def251c0131936fa
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic's public formal-math repository now hosts a Lean formalization claiming that VP ≠ VNP over every field, separating two algebraic complexity classes that are analogues of P and NP. Lean is a proof assistant in which such arguments can be machine-checked, but the posting is not a peer-reviewed validation, and the material does not explain any AI method behind the proof. The claim is narrower than P vs NP and is presented for complexity theorists and formal-verification researchers to inspect.
+Anthropic's public formal-math repository now hosts a Lean formalization claiming that VP ≠ VNP over every field, separating two algebraic complexity classes that are analogues of P and NP. Lean is a proof assistant in which such arguments can be machine-checked, but the posting is not a peer-reviewed validation, and the material does not explain any AI method behind the proof.
+
+The claim is narrower than P vs NP and is presented for complexity theorists and formal-verification researchers to inspect.
 
 </div>
 
@@ -56,10 +58,6 @@ For complexity theorists and Lean users, the practical consequence is an auditin
 
 The next check is independent machine-checking of the Lean development and any peer-reviewed write-up that addresses the paper's stated lack of analysis of relativization and algebrization.
 
-## Community discussion
-
-Commenters read the post as Anthropic pushing toward P vs NP and debated whether AI will soon solve problems that would otherwise occupy graduate students for years; one commenter highlighted the paper's own admission that it has not analyzed relativization or algebrization, barriers relevant to such complexity-theory separations.
-
 ## Further reading
 
 - [Claude-authored paper claims VP≠VNP over every… · AGI Hunt](https://agihunt.info/en/e/1a20a795a118dbdb4f5bd2bb40d)
@@ -67,5 +65,13 @@ Commenters read the post as Anthropic pushing toward P vs NP and debated whether
 - [Claude-Written Paper Claims VP ≠ VNP, With a Lean Proof](https://fourweekmba.com/ai-claude-written-paper-claims-vp-vnp-with-a-lean-proof/)
 - [Arithmetic circuit complexity - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_circuit_complexity)
 - [VP ||#92;neq$ VNP over every field · Hexagon](https://hexagonmath.org/2611.00954v1)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters read the post as Anthropic pushing toward P vs NP and debated whether AI will soon solve problems that would otherwise occupy graduate students for years; one commenter highlighted the paper's own admission that it has not analyzed relativization or algebrization, barriers relevant to such complexity-theory separations.
+
+</div>
 
 {% endraw %}

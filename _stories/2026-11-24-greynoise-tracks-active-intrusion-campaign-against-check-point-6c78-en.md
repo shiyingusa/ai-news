@@ -31,7 +31,9 @@ photo_credit: {"url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Check
 {% raw %}
 <div class="story-lead" markdown="1">
 
-GreyNoise says it is tracking an active intrusion campaign against Check Point security management servers, putting the administrative control point of customers' security deployments at the center of the warning. The threat-intelligence vendor's post has drawn discussion, with readers focusing on how attackers gained initial access and whether affected organizations had exposed their management servers to the internet. One commenter suggested CVE-2026-16232 as the common link across multiple Check Point customers, but that attribution is not confirmed.
+GreyNoise says it is tracking an active intrusion campaign against Check Point security management servers, putting the administrative control point of customers' security deployments at the center of the warning. The threat-intelligence vendor's post has drawn discussion, with readers focusing on how attackers gained initial access and whether affected organizations had exposed their management servers to the internet.
+
+One commenter suggested CVE-2026-16232 as the common link across multiple Check Point customers, but that attribution is not confirmed.
 
 </div>
 
@@ -56,10 +58,6 @@ For Check Point customers, the management server is the priority exposure: it is
 
 Watch for Check Point's own advisory or confirmation and for independent validation of whether CVE-2026-16232 is the initial access vector; either would give defenders a firmer basis for patching and exposure checks.
 
-## Community discussion
-
-The most useful thread questioned initial access: one reader suggested CVE-2026-16232 was the common link across multiple Check Point customers and asked whether all of them had internet-facing management servers, while others quoted a session-cookie forgery chain that reconstructed the V8 PRNG from Math.random() output. A separate argument held that Math.random() should be secure by default rather than relying on every application to use it correctly.
-
 ## Further reading
 
 - [Critical Check Point Security Management Vulnerabilities Under...](https://labs.beazley.security/advisories/BSL-A1195)
@@ -67,5 +65,13 @@ The most useful thread questioned initial access: one reader suggested CVE-2026-
 - [An Active Intrusion Campaign Against Check Point Security ...](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 - [AI-enabled campaign targets Check Point Security Management ...](https://www.cybersecuritydive.com/news/ai-enabled-campaign-targets-check-point-security-management-servers/875622/)
 - [Check Point Security Management Servers Hacked - SecurityWeek](https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+The most useful thread questioned initial access: one reader suggested CVE-2026-16232 was the common link across multiple Check Point customers and asked whether all of them had internet-facing management servers, while others quoted a session-cookie forgery chain that reconstructed the V8 PRNG from Math.random() output. A separate argument held that Math.random() should be secure by default rather than relying on every application to use it correctly.
+
+</div>
 
 {% endraw %}

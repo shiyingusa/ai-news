@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g7bd32a6c21e8aec7b14e20eaa8a598d5
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI said it is expanding its ChatGPT for Academic Researchers program so that 200,000 researchers worldwide can use its frontier models free of charge. The post presents the change as a broadening of an existing program rather than a new model release, and gives no indication that the models themselves are new. It does not specify which models are covered, how researchers qualify or apply, when access begins, or whether 200,000 is a cap or a target.
+OpenAI said it is expanding its ChatGPT for Academic Researchers program so that 200,000 researchers worldwide can use its frontier models free of charge. The post presents the change as a broadening of an existing program rather than a new model release, and gives no indication that the models themselves are new.
+
+It does not specify which models are covered, how researchers qualify or apply, when access begins, or whether 200,000 is a cap or a target.
 
 </div>
 

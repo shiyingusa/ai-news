@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gec88a17d86a91ad5cc6dae17551fa50e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Hugging Face announced a partnership with OpenRouter intended to make open-weight models — models whose trained weights are published so anyone can download and host them — easier to run. The post, published on Hugging Face's blog, presents the work as a joint effort between the two companies but gives no operational specifics in the material available: no list of supported models, no pricing, no launch date and no description of how the integration works. Both companies sit on the path between a published model and a working endpoint, so the partnership concerns how users get from a downloadable checkpoint to a running service.
+Hugging Face announced a partnership with OpenRouter intended to make open-weight models — models whose trained weights are published so anyone can download and host them — easier to run. The post, published on Hugging Face's blog, presents the work as a joint effort between the two companies but gives no operational specifics in the material available: no list of supported models, no pricing, no launch date and no description of how the integration works.
+
+Both companies sit on the path between a published model and a working endpoint, so the partnership concerns how users get from a downloadable checkpoint to a running service.
 
 </div>
 

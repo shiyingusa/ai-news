@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gbd11359eb0462037dc6e3d0ea82e3a60
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla has applied to the Tuloso-Midway Independent School District for a Texas property-tax limitation under the state's Jobs, Energy, Technology and Innovation (JETI) program for a proposed $3.1 billion polysilicon refinery near Robstown in Nueces County; the Texas Comptroller has published the application. Tesla calls the plant “under consideration for development” and says it would not make the investment in Texas without the agreement, while it assesses other jurisdictions. The plant is designed to make ultra-high-purity polysilicon for single-crystal silicon ingots and N-type high-efficiency solar cells, though the filing does not give production capacity. An EY analysis prepared for Tesla puts construction in 2027–2030, with $1.5 billion for engineering and construction, $1.4 billion for equipment and $183 million for utilities, and employment reaching 515 by 2032 at average total compensation of $130,000.
+Tesla has applied to the Tuloso-Midway Independent School District for a Texas property-tax limitation under the state's Jobs, Energy, Technology and Innovation (JETI) program for a proposed $3.1 billion polysilicon refinery near Robstown in Nueces County; the Texas Comptroller has published the application. Tesla calls the plant “under consideration for development” and says it would not make the investment in Texas without the agreement, while it assesses other jurisdictions.
+
+The plant is designed to make ultra-high-purity polysilicon for single-crystal silicon ingots and N-type high-efficiency solar cells, though the filing does not give production capacity. An EY analysis prepared for Tesla puts construction in 2027–2030, with $1.5 billion for engineering and construction, $1.4 billion for equipment and $183 million for utilities, and employment reaching 515 by 2032 at average total compensation of $130,000.
 
 </div>
 

@@ -30,7 +30,9 @@ description: "The FAA lifted its third-ever nationwide ground stop Friday evenin
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The FAA lifted its third-ever nationwide ground stop Friday evening, clearing domestic flights to take off at 8:35 pm EST after several hours of system instability. Transportation Secretary Sean Duffy attributed the outage to copper-to-fiber wiring work at a single remote facility and said contractor L3Harris may have installed a "faulty router," a cause he framed as likely rather than confirmed. More than a million travelers were affected, airlines canceled flights into the evening—Air Canada scrapped all U.S.-bound flights for the rest of Friday—and Duffy warned that without major system updates there will be "more of these" outages because air traffic control still runs on decades-old analog equipment.
+The FAA lifted its third-ever nationwide ground stop Friday evening, clearing domestic flights to take off at 8:35 pm EST after several hours of system instability. Transportation Secretary Sean Duffy attributed the outage to copper-to-fiber wiring work at a single remote facility and said contractor L3Harris may have installed a "faulty router," a cause he framed as likely rather than confirmed.
+
+More than a million travelers were affected, airlines canceled flights into the evening—Air Canada scrapped all U.S.-bound flights for the rest of Friday—and Duffy warned that without major system updates there will be "more of these" outages because air traffic control still runs on decades-old analog equipment.
 
 </div>
 

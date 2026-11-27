@@ -30,7 +30,9 @@ description: "The Wall Street Journal reported on November 15 that Nvidia AI chi
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Wall Street Journal reported on November 15 that Nvidia AI chips have been reaching Chinese companies through large Southeast Asian data centers that exploited a gap in U.S. sanctions, with those facilities supplying compute to Chinese firms and providing cover for alleged chip smuggling; the investigation frames the arrangement as a multibillion-dollar business built during Jensen Huang's tenure as CEO. The material available here is a Techmeme headline and one-line summary of the Journal piece: it names no countries, operators, chip models or volumes, and carries no response from Nvidia or the data-center companies. These are allegations by a single news organization, not documented findings or an enforcement action.
+The Wall Street Journal reported on November 15 that Nvidia AI chips have been reaching Chinese companies through large Southeast Asian data centers that exploited a gap in U.S. sanctions, with those facilities supplying compute to Chinese firms and providing cover for alleged chip smuggling; the investigation frames the arrangement as a multibillion-dollar business built during Jensen Huang's tenure as CEO. The material available here is a Techmeme headline and one-line summary of the Journal piece: it names no countries, operators, chip models or volumes, and carries no response from Nvidia or the data-center companies.
+
+These are allegations by a single news organization, not documented findings or an enforcement action.
 
 </div>
 

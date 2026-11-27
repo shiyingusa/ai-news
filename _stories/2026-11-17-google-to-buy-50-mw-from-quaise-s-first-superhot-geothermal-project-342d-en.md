@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gff97bb57f13c47eb599dc6bb0fbafc28
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Quaise Energy, a Houston-based geothermal startup, announced Tuesday that Google has agreed to purchase 50 megawatts of carbon-free power from its first commercial project, called Project Obsidian, near Newberry in central Oregon. The deal gives the company a marquee first customer for its superhot geothermal approach, which targets far hotter rock than conventional geothermal plants. The project is still under development: the announcement carried no power-delivery date, no contract price, and no evidence yet that the technology performs at commercial scale.
+Quaise Energy, a Houston-based geothermal startup, announced Tuesday that Google has agreed to purchase 50 megawatts of carbon-free power from its first commercial project, called Project Obsidian, near Newberry in central Oregon. The deal gives the company a marquee first customer for its superhot geothermal approach, which targets far hotter rock than conventional geothermal plants.
+
+The project is still under development: the announcement carried no power-delivery date, no contract price, and no evidence yet that the technology performs at commercial scale.
 
 </div>
 

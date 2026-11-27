@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g47030052cdb46936216f5189808b09e8
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A public GitHub repository, lsernau/grh-lean, presents a community-built, much shorter version of Anthropic's GRH Lean formal verification, according to the Hacker News submission that brought it attention. Commenters said the compact proof cuts the artifact from roughly 17 million lines to about 76,000 — a 99.56% reduction — and praised its separation of "known math" from "new math" plus human-readable documentation, though another commenter referred to a "300kloc" proof, leaving the exact size unclear. Whether the compact repository compiles, and whether it proves the same statements as the original, has not been independently confirmed.
+A public GitHub repository, lsernau/grh-lean, presents a community-built, much shorter version of Anthropic's GRH Lean formal verification, according to the Hacker News submission that brought it attention. Commenters said the compact proof cuts the artifact from roughly 17 million lines to about 76,000 — a 99.56% reduction — and praised its separation of "known math" from "new math" plus human-readable documentation, though another commenter referred to a "300kloc" proof, leaving the exact size unclear.
+
+Whether the compact repository compiles, and whether it proves the same statements as the original, has not been independently confirmed.
 
 </div>
 
@@ -56,8 +58,12 @@ The reduction matters only if mathematicians can actually audit the compact arti
 
 Watch the Lean Zulip thread linked in the Hacker News discussion for maintainers' assessment of whether the compact proof compiles cleanly and matches the original's statements.
 
-## Community discussion
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
 
 Commenters split on what the reduction demonstrates: one argued it shows Anthropic can apply compute and stronger internal models to compress proofs in days, while another, unfamiliar with Lean, asked how realistically a human could read and verify code at this scale. A third highlighted the repository's documentation and its "known math" versus "new math" split as aids to digesting the proof.
+
+</div>
 
 {% endraw %}

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-孟加拉国首台核电机组鲁普尔1号已接入国家电网，并首次向电网供电。世界核新闻（World Nuclear News）报道了这一进展，但未给出机组容量、并网具体时间或商业运行安排。对孟加拉国而言，这是核电首次进入其电力系统。
+孟加拉国首台核电机组鲁普尔1号已接入国家电网，并首次向电网供电。世界核新闻（World Nuclear News）报道了这一进展，但未给出机组容量、并网具体时间或商业运行安排。
+
+对孟加拉国而言，这是核电首次进入其电力系统。
 
 </div>
 

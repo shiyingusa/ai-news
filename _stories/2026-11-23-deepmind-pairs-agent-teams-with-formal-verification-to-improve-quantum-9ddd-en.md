@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g65e8fa77c4a19e36dbd85f0f6b112f9a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google DeepMind published a research blog post describing the use of agent teams — multiple AI agents working together — combined with formal verification to improve quantum algorithms for fusion and chemistry. Formal verification here means checking a candidate algorithm against a machine-readable specification so its correctness is proved rather than merely benchmarked. The post frames the work around two application areas, fusion and chemistry, but the available description does not state which algorithms were changed, how much they improved, or whether the results have been peer-reviewed or released as code.
+Google DeepMind published a research blog post describing the use of agent teams — multiple AI agents working together — combined with formal verification to improve quantum algorithms for fusion and chemistry. Formal verification here means checking a candidate algorithm against a machine-readable specification so its correctness is proved rather than merely benchmarked.
+
+The post frames the work around two application areas, fusion and chemistry, but the available description does not state which algorithms were changed, how much they improved, or whether the results have been peer-reviewed or released as code.
 
 </div>
 

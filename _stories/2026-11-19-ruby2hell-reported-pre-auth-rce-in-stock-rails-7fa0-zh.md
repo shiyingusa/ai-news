@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g5fbfb36ee17d6bb86e2877b1f88ee414
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Veria Labs 的博客文章声称，未修改的 Ruby on Rails 应用存在一个预认证远程代码执行漏洞；评论者 tptacek 分析称，根源在于 Windows-1252 编码下把 ß 转成大写会变成“SS”、字符串长度加一，而缓冲区余量检查按单字符进行，可能在末尾留下一个字节的越界写。若利用链成立，攻击者无需登录即可在受影响服务上执行代码；但公开讨论中评论者仍在追问如何把单字节溢出扩展成完整 RCE，完整利用过程尚未在讨论中展示。评论者还指出，该问题与另一条正在讨论的 Ruby 安全公告重叠，后者涵盖另外六个漏洞，因此其独立影响范围仍需确认。
+Veria Labs 的博客文章声称，未修改的 Ruby on Rails 应用存在一个预认证远程代码执行漏洞；评论者 tptacek 分析称，根源在于 Windows-1252 编码下把 ß 转成大写会变成“SS”、字符串长度加一，而缓冲区余量检查按单字符进行，可能在末尾留下一个字节的越界写。若利用链成立，攻击者无需登录即可在受影响服务上执行代码；但公开讨论中评论者仍在追问如何把单字节溢出扩展成完整 RCE，完整利用过程尚未在讨论中展示。
+
+评论者还指出，该问题与另一条正在讨论的 Ruby 安全公告重叠，后者涵盖另外六个漏洞，因此其独立影响范围仍需确认。
 
 </div>
 
@@ -56,10 +58,6 @@ Ruby 官方于 2026 年 11 月 18 日发布安全公告，称在 Ruby 的正则�
 
 Rails 安全团队是否发布官方公告、CVE 编号或补丁版本，以及是否有独立研究者复现完整利用链。
 
-## 社区讨论
-
-有评论者认为，近期 RCE 报告增多，部分原因是 AI 降低了挖掘单字节溢出利用链的成本；但也有人强调，从单字节溢出到 RCE 仍需额外链条，实际可行性待验证。另有评论者指出，该问题与另一条涵盖六个漏洞的 Ruby 公告重叠，可能并非全新问题。
-
 ## 本事件的相关报道
 
 - 2026-11-18 · ruby-lang.org: [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
@@ -71,5 +69,13 @@ Rails 安全团队是否发布官方公告、CVE 编号或补丁版本，以及�
 - [Security advisories: multiple vulnerabilities in Regexp and ...](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
 - [ruby2ßhell: Critical One-Byte Heap Overflow in Ruby Could ...](https://cybersecuritynews.com/ruby2shell-rce/)
 - [ruby2ßhell: CVE-2026-132825 Ruby Heap Overflow RCE](https://orca.security/resources/blog/ruby2shell-ruby-heap-overflow-rce/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+有评论者认为，近期 RCE 报告增多，部分原因是 AI 降低了挖掘单字节溢出利用链的成本；但也有人强调，从单字节溢出到 RCE 仍需额外链条，实际可行性待验证。另有评论者指出，该问题与另一条涵盖六个漏洞的 Ruby 公告重叠，可能并非全新问题。
+
+</div>
 
 {% endraw %}

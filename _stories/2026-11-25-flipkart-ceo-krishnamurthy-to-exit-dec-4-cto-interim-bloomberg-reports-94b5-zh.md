@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb6fe8ebd24657d3738e2a1a27eb96e3b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-沃尔玛旗下的 Flipkart 表示，首席执行官 Kalyan Krishnamurthy 计划于12月4日离任，公司首席技术官（CTO）将出任临时 CEO。据彭博社报道，Krishnamurthy 是将 Flipkart 打造成印度第一大在线零售商的“关键设计师”之一。公告只给出了离任日期和临时接任安排，没有说明永久 CEO 的人选，也没有交代此次人事变动与公司战略或上市计划的关系。
+沃尔玛旗下的 Flipkart 表示，首席执行官 Kalyan Krishnamurthy 计划于12月4日离任，公司首席技术官（CTO）将出任临时 CEO。据彭博社报道，Krishnamurthy 是将 Flipkart 打造成印度第一大在线零售商的“关键设计师”之一。
+
+公告只给出了离任日期和临时接任安排，没有说明永久 CEO 的人选，也没有交代此次人事变动与公司战略或上市计划的关系。
 
 </div>
 

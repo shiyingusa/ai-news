@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6caf1941f8ecd62dd372f86b94080e77
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google DeepMind released a paper and GitHub repository describing AlphaProof Code, a framework it says produced a complete formal proof that an Arm-compiled AArch64 (64-bit Arm) binary of Signal's libsignal library, plus minimal scaffolding, matches a revised specification. The work used Lean, generating about 1.2 million lines of proofs for the cryptographic protocol and 5.3 million lines to show each binary instruction matched formal models of AArch64, CPU and Linux process behavior; agents flagged 1% of the codebase for human review. The result covers libsignal's cryptographic engine as compiled for Arm, not the Signal app as a whole, and the article reports no independent validation of the proof.
+Google DeepMind released a paper and GitHub repository describing AlphaProof Code, a framework it says produced a complete formal proof that an Arm-compiled AArch64 (64-bit Arm) binary of Signal's libsignal library, plus minimal scaffolding, matches a revised specification. The work used Lean, generating about 1.2 million lines of proofs for the cryptographic protocol and 5.3 million lines to show each binary instruction matched formal models of AArch64, CPU and Linux process behavior; agents flagged 1% of the codebase for human review.
+
+The result covers libsignal's cryptographic engine as compiled for Arm, not the Signal app as a whole, and the article reports no independent validation of the proof.
 
 </div>
 

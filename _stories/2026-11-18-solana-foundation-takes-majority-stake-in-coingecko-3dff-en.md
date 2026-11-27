@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gd3d2fe7d63947bd2437be64aad8bce6a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Solana Foundation has taken a majority interest in CoinGecko, one of the crypto ecosystem's most widely used price-tracking platforms, according to a CoinDesk report. CoinGecko reports 18 million registered users, which makes control of the site a lever over how token prices and market data are presented to a large retail audience. The report gives no deal value, no size for the stake beyond "majority," and no indication of whether CoinGecko's pricing methodology, token listings or editorial policies will change.
+The Solana Foundation has taken a majority interest in CoinGecko, one of the crypto ecosystem's most widely used price-tracking platforms, according to a CoinDesk report. CoinGecko reports 18 million registered users, which makes control of the site a lever over how token prices and market data are presented to a large retail audience.
+
+The report gives no deal value, no size for the stake beyond "majority," and no indication of whether CoinGecko's pricing methodology, token listings or editorial policies will change.
 
 </div>
 

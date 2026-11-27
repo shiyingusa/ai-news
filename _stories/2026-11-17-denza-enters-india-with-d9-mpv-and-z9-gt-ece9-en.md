@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-BYD's premium brand Denza has entered the Indian market, launching the D9 MPV and Z9 GT shooting brake as its first two models there. The move follows Denza's start of operations in Europe earlier this year. The report did not disclose prices, specifications, or whether either model will be locally produced in India.
+BYD's premium brand Denza has entered the Indian market, launching the D9 MPV and Z9 GT shooting brake as its first two models there. The move follows Denza's start of operations in Europe earlier this year.
+
+The report did not disclose prices, specifications, or whether either model will be locally produced in India.
 
 </div>
 

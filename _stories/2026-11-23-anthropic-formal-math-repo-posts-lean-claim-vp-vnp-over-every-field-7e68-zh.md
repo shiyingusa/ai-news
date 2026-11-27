@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4097b6e04d807e81def251c0131936fa
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic 的 formal-math 仓库公开了一份 Lean 形式化，声称证明代数复杂度类 VP 与 VNP 不相等，且该结论对所有域成立；代码位于 GitHub，提交 11b6c7e3c927d…，可通过仓库查看。Lean 是用于机器检查证明的证明助手，因此这份材料把论证变成了可编译、可审阅的代码，而非仅靠文字陈述。需要保留的限制是：条目本身没有说明该证明是否经过独立审阅，也没有交代 Claude 或 AI 在推导中的具体作用；目前能确认的是公开仓库与形式化声明，而非已被同行评审确认的定理。
+Anthropic 的 formal-math 仓库公开了一份 Lean 形式化，声称证明代数复杂度类 VP 与 VNP 不相等，且该结论对所有域成立；代码位于 GitHub，提交 11b6c7e3c927d…，可通过仓库查看。Lean 是用于机器检查证明的证明助手，因此这份材料把论证变成了可编译、可审阅的代码，而非仅靠文字陈述。
+
+需要保留的限制是：条目本身没有说明该证明是否经过独立审阅，也没有交代 Claude 或 AI 在推导中的具体作用；目前能确认的是公开仓库与形式化声明，而非已被同行评审确认的定理。
 
 </div>
 
@@ -56,10 +58,6 @@ VP 与 VNP 是 Leslie Valiant 在 1979 年提出的代数复杂度类，用算�
 
 后续可检查该 Lean 项目能否通过独立构建与审阅，以及作者是否补充论文自述中尚未分析的相对化（relativization）与代数化（algebrization）问题。
 
-## 社区讨论
-
-评论者把这项工作解读为 Anthropic 在 P vs NP 方向上的阶段性推进，并争论 AI 是否会让研究生可做的问题迅速减少；也有人引用论文自述指出尚未分析相对化与代数化，另有用户推荐用 slim 工具浏览 Lean 源码。
-
 ## 延伸阅读
 
 - [Claude-authored paper claims VP≠VNP over every… · AGI Hunt](https://agihunt.info/en/e/1a20a795a118dbdb4f5bd2bb40d)
@@ -67,5 +65,13 @@ VP 与 VNP 是 Leslie Valiant 在 1979 年提出的代数复杂度类，用算�
 - [Claude-Written Paper Claims VP ≠ VNP, With a Lean Proof](https://fourweekmba.com/ai-claude-written-paper-claims-vp-vnp-with-a-lean-proof/)
 - [Arithmetic circuit complexity - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_circuit_complexity)
 - [VP ||#92;neq$ VNP over every field · Hexagon](https://hexagonmath.org/2611.00954v1)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+评论者把这项工作解读为 Anthropic 在 P vs NP 方向上的阶段性推进，并争论 AI 是否会让研究生可做的问题迅速减少；也有人引用论文自述指出尚未分析相对化与代数化，另有用户推荐用 slim 工具浏览 Lean 源码。
+
+</div>
 
 {% endraw %}

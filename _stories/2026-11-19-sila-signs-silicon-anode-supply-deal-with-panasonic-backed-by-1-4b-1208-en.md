@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gdec2c0c39125b9343f7fa62f2d26241a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Sila has signed a long-term offtake agreement to supply Panasonic Energy with silicon-carbon anode material for lithium-ion batteries, a deal Sila says could be worth more than $1 billion over time. Neither the total volume nor the price Panasonic will pay was disclosed; CEO Gene Berdichevsky said Panasonic committed to buying tens of thousands of tons, which he said would let Sila scale to at least 10 times its current production. Sila's Moses Lake, Washington factory opened in September 2025 and is already operating, and part of the financing behind its output is a $1.4 billion conditional loan commitment from the Defense Department, framed by the company as a response to a "significant technology sovereignty challenge." Sila says its anode weighs a fifth as much as the graphite used in conventional anodes and takes half the volume, which would let batteries store more energy per kilogram and recharge faster — figures that remain the company's own.
+Sila has signed a long-term offtake agreement to supply Panasonic Energy with silicon-carbon anode material for lithium-ion batteries, a deal Sila says could be worth more than $1 billion over time. Neither the total volume nor the price Panasonic will pay was disclosed; CEO Gene Berdichevsky said Panasonic committed to buying tens of thousands of tons, which he said would let Sila scale to at least 10 times its current production.
+
+Sila's Moses Lake, Washington factory opened in September 2025 and is already operating, and part of the financing behind its output is a $1.4 billion conditional loan commitment from the Defense Department, framed by the company as a response to a "significant technology sovereignty challenge." Sila says its anode weighs a fifth as much as the graphite used in conventional anodes and takes half the volume, which would let batteries store more energy per kilogram and recharge faster — figures that remain the company's own.
 
 </div>
 

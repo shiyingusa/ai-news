@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4bb2479af7c19672b444103888c48d66
 {% raw %}
 <div class="story-lead" markdown="1">
 
-FAW-Volkswagen, Volkswagen's main Chinese joint venture, has opened pre-orders in China for the ID. Aura L5, a mid-size electric sedan built on the company's CMP platform. The car is quoted at 580 km of range on the CLTC cycle, China's light-vehicle test standard, which typically yields higher figures than Europe's WLTP or the US EPA cycle. electrive reports the model is expected to launch in 2026; pricing, trim levels and a precise launch or delivery date were not disclosed, so buyers can currently reserve a car whose final specification and cost are not yet public.
+FAW-Volkswagen, Volkswagen's main Chinese joint venture, has opened pre-orders in China for the ID. Aura L5, a mid-size electric sedan built on the company's CMP platform.
+
+The car is quoted at 580 km of range on the CLTC cycle, China's light-vehicle test standard, which typically yields higher figures than Europe's WLTP or the US EPA cycle. electrive reports the model is expected to launch in 2026; pricing, trim levels and a precise launch or delivery date were not disclosed, so buyers can currently reserve a car whose final specification and cost are not yet public.
 
 </div>
 

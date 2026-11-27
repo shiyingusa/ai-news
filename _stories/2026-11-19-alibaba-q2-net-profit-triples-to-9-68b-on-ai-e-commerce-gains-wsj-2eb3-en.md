@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Alibaba reported fiscal second-quarter revenue of about $40.7B, up 10% year over year and above analyst estimates, with net profit roughly tripling to about $9.68B against an estimate of about $3.6B, the Wall Street Journal reported. The company attributed the improvement to better profitability in its AI and e-commerce businesses. Alibaba is also preparing a Hong Kong listing for its chip unit, T-Head. The report did not break out segment-level AI revenue or specify the size or timing of the T-Head listing.
+Alibaba reported fiscal second-quarter revenue of about $40.7B, up 10% year over year and above analyst estimates, with net profit roughly tripling to about $9.68B against an estimate of about $3.6B, the Wall Street Journal reported. The company attributed the improvement to better profitability in its AI and e-commerce businesses.
+
+Alibaba is also preparing a Hong Kong listing for its chip unit, T-Head. The report did not break out segment-level AI revenue or specify the size or timing of the T-Head listing.
 
 </div>
 

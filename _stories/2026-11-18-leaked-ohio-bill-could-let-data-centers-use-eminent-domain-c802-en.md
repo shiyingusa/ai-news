@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g334537cb7183086145edf42f8e9f4642
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A leaked draft Ohio bill would expand the state's eminent-domain eligibility list to include an agency holding a certificate of environmental compatibility and public need from the power siting board for an electric transmission line and associated facilities or a gas pipeline, according to WCPO Cincinnati's reporting. The draft could also allow data centers to be classified as public utilities, which legal experts have warned could let a transmission developer condemn land for a data center or a facility that powers one. No bill number, sponsor, formal introduction, or legislative schedule has been reported.
+A leaked draft Ohio bill would expand the state's eminent-domain eligibility list to include an agency holding a certificate of environmental compatibility and public need from the power siting board for an electric transmission line and associated facilities or a gas pipeline, according to WCPO Cincinnati's reporting. The draft could also allow data centers to be classified as public utilities, which legal experts have warned could let a transmission developer condemn land for a data center or a facility that powers one.
+
+No bill number, sponsor, formal introduction, or legislative schedule has been reported.
 
 </div>
 

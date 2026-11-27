@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g755e9b3402705d84d80fb1984c0804b2
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla has unveiled Powercore, a US-made solid-state medium-voltage transformer that also performs the inverter and breaker functions in a single unit. Tesla rates it at 7.4 MW (9 MVA) continuous at 34.5 kV, with grid-forming capability supporting up to 10 MVA of peak power — grid-forming meaning it can establish and hold voltage and frequency on a grid rather than merely following an existing one. Tesla says the unit is scheduled to begin operating in 2027, the same year Heron Power — the startup founded by former Tesla top engineer Drew Baglino — plans to start volume production of its competing solid-state transformer, the Heron Link. The announcement covered no pricing, customers, or shipped units.
+Tesla has unveiled Powercore, a US-made solid-state medium-voltage transformer that also performs the inverter and breaker functions in a single unit. Tesla rates it at 7.4 MW (9 MVA) continuous at 34.5 kV, with grid-forming capability supporting up to 10 MVA of peak power — grid-forming meaning it can establish and hold voltage and frequency on a grid rather than merely following an existing one.
+
+Tesla says the unit is scheduled to begin operating in 2027, the same year Heron Power — the startup founded by former Tesla top engineer Drew Baglino — plans to start volume production of its competing solid-state transformer, the Heron Link. The announcement covered no pricing, customers, or shipped units.
 
 </div>
 

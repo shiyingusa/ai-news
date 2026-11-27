@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The US Senate voted 62-33 last week to pass the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), attached as an amendment to H.R. 2347, a House-passed tax bill whose text senators agreed 69-27 on Nov. 18 to replace. The bill would set new deadlines on federal energy permitting and, under Section 1402, let sponsors of 46 listed project types — including solar, onshore wind, storage, nuclear, fossil fuel and transmission — sue agencies over a permit denied in bad faith or delayed more than 60 days past a deadline as part of a pattern of disparate treatment, with damages of 50% to 100% of reasonably expected construction costs. Section 1401 would bar agencies from revoking or materially amending permits in effect on or after Nov. 6, 2026, subject to six exceptions, and cap NEPA challenges at 150 days instead of six years. None of this is law yet: the House must act on the Senate amendment before the current Congress ends in early January.
+The US Senate voted 62-33 last week to pass the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), attached as an amendment to H.R. 2347, a House-passed tax bill whose text senators agreed 69-27 on Nov. 18 to replace. The bill would set new deadlines on federal energy permitting and, under Section 1402, let sponsors of 46 listed project types — including solar, onshore wind, storage, nuclear, fossil fuel and transmission — sue agencies over a permit denied in bad faith or delayed more than 60 days past a deadline as part of a pattern of disparate treatment, with damages of 50% to 100% of reasonably expected construction costs.
+
+Section 1401 would bar agencies from revoking or materially amending permits in effect on or after Nov. 6, 2026, subject to six exceptions, and cap NEPA challenges at 150 days instead of six years. None of this is law yet: the House must act on the Senate amendment before the current Congress ends in early January.
 
 </div>
 

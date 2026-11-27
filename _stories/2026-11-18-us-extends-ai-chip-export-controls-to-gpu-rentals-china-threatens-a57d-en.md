@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Trump administration on Nov. 17 extended its existing export controls on high-end AI accelerators — including, but not limited to, Nvidia's Blackwell lineup — so that renting such chips in large quantities to any country on the US D:5 list (nations embargoed from arms sales) now requires a license. The same update adds license requirements for selling the chips to Indonesia, Malaysia, Singapore, Thailand and Brazil, which the Commerce Department suspects are being used to route Blackwell cards to China. China's Ministry of Commerce responded that it "will take countermeasures to firmly safeguard national sovereignty, security, and development interests," without specifying what those would be. The move lands two days before President Trump is scheduled to meet President Xi Jinping in Shenzhen on Thursday, Nov. 19, during the APEC summit.
+The Trump administration on Nov. 17 extended its existing export controls on high-end AI accelerators — including, but not limited to, Nvidia's Blackwell lineup — so that renting such chips in large quantities to any country on the US D:5 list (nations embargoed from arms sales) now requires a license. The same update adds license requirements for selling the chips to Indonesia, Malaysia, Singapore, Thailand and Brazil, which the Commerce Department suspects are being used to route Blackwell cards to China.
+
+China's Ministry of Commerce responded that it "will take countermeasures to firmly safeguard national sovereignty, security, and development interests," without specifying what those would be. The move lands two days before President Trump is scheduled to meet President Xi Jinping in Shenzhen on Thursday, Nov. 19, during the APEC summit.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gc720560f44dc876c9c2cc3cc1f7dddce
 {% raw %}
 <div class="story-lead" markdown="1">
 
-由前 Salesforce 联席 CEO Bret Taylor 联合创办的企业客服 AI 公司 Sierra 周一宣布，已完成 17.5 亿美元 F 轮融资。据 TechCrunch 报道，本轮融资使其估值在六个月内翻倍至 300 亿美元；而 Sierra 的公告本身只确认了融资规模，未提及估值数字。报道把这轮融资归因于企业在客户体验（CX）场景中的 AI 需求上升，但没有披露客户数量、收入规模或投资方名单。
+由前 Salesforce 联席 CEO Bret Taylor 联合创办的企业客服 AI 公司 Sierra 周一宣布，已完成 17.5 亿美元 F 轮融资。据 TechCrunch 报道，本轮融资使其估值在六个月内翻倍至 300 亿美元；而 Sierra 的公告本身只确认了融资规模，未提及估值数字。
+
+报道把这轮融资归因于企业在客户体验（CX）场景中的 AI 需求上升，但没有披露客户数量、收入规模或投资方名单。
 
 </div>
 

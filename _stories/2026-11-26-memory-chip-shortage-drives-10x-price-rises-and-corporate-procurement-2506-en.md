@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A global memory chip shortage has pushed companies around the world to set up procurement "war rooms" to secure supply, and some chip prices have risen as much as tenfold over the past year, the Wall Street Journal reported. Those component costs are feeding through into higher prices for electronics, the paper said. The report cites Blackmagic Design among the companies affected but gives few further specifics on which chip types, vendors or regions are hardest hit.
+A global memory chip shortage has pushed companies around the world to set up procurement "war rooms" to secure supply, and some chip prices have risen as much as tenfold over the past year, the Wall Street Journal reported. Those component costs are feeding through into higher prices for electronics, the paper said.
+
+The report cites Blackmagic Design among the companies affected but gives few further specifics on which chip types, vendors or regions are hardest hit.
 
 </div>
 

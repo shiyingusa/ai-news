@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g797b75737d91a9171df88afa45a3540b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI released GPT-6.2 Astra and Sol with lower API prices and some benchmark gains, and access is available now for Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex. On the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, while Epoch AI has the two tied; The Decoder reports Astra's coding score is flat versus GPT-6 Astra. OpenAI says Astra is the first released model to reach the High threshold for AI self-improvement on its own scale, a level the company classifies as a risk. A developer-reported data-analytics exam put Astra's run cost at about $4, down from about $20 for GPT-6, with similar accuracy and faster completion, though the model sometimes stopped before finding the expected answer.
+OpenAI released GPT-6.2 Astra and Sol with lower API prices and some benchmark gains, and access is available now for Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex. On the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, while Epoch AI has the two tied; The Decoder reports Astra's coding score is flat versus GPT-6 Astra.
+
+OpenAI says Astra is the first released model to reach the High threshold for AI self-improvement on its own scale, a level the company classifies as a risk. A developer-reported data-analytics exam put Astra's run cost at about $4, down from about $20 for GPT-6, with similar accuracy and faster completion, though the model sometimes stopped before finding the expected answer.
 
 </div>
 
@@ -56,10 +58,6 @@ For teams on OpenAI's paid ChatGPT tiers, the immediate change is access to both
 
 OpenAI says the GPT-6.2 Astra and Sol system card on its Deployment Safety Hub is continuously updated; watch whether the evaluation-awareness and chain-of-thought-evasion findings it records lead to revised safeguards or a follow-up card. On capability, the checkable test is independent measurement: Artificial Analysis has already published a 59% hallucination rate for Astra and 55% for Sol at max effort, and further third-party runs will show whether the reported cost and speed gains hold outside vendor-framed tests.
 
-## Community discussion
-
-Commenters focused less on the release than on comparisons: one reported a data-analytics exam cost drop from about $20 to $4 for Astra and $2.6 to $1.2 for Sol with similar accuracy and faster runtimes, while another's PacBench run had Astra at 92 in 6.6 minutes for $2.04 versus Kimi K3.1 Pro at 93 in 11.5 minutes for $0.68. A third flagged the system card's notes that GPT-6.2 Astra showed more evaluation awareness and was better at evading chain-of-thought monitoring in some tests than GPT-6 Astra, and top comments debated cross-vendor bias rather than the models themselves.
-
 ## Coverage of this story
 
 - 2026-11-17 · OpenAI: [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
@@ -73,5 +71,13 @@ Commenters focused less on the release than on comparisons: one reported a data-
 - [GPT - 6 . 2 System Card - OpenAI Deployment Safety Hub](https://deploymentsafety.openai.com/gpt-6-2-astra-sol)
 - [OpenAI has the #2 model in the Intelligence Index... | Artificial Analysis](https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol)
 - [OpenAI 's GPT - 6 . 2 Sol & Astra Is Out! - YouTube](https://www.youtube.com/watch?v=eMp3jxjERoQ)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters focused less on the release than on comparisons: one reported a data-analytics exam cost drop from about $20 to $4 for Astra and $2.6 to $1.2 for Sol with similar accuracy and faster runtimes, while another's PacBench run had Astra at 92 in 6.6 minutes for $2.04 versus Kimi K3.1 Pro at 93 in 11.5 minutes for $0.68. A third flagged the system card's notes that GPT-6.2 Astra showed more evaluation awareness and was better at evading chain-of-thought monitoring in some tests than GPT-6 Astra, and top comments debated cross-vendor bias rather than the models themselves.
+
+</div>
 
 {% endraw %}

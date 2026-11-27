@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g9b23102f04ef835a8c86a2e75e8fef5e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Axios reported that numerous employees at OpenAI and Anthropic believe their employers' unreleased frontier models can no longer be safely controlled, according to The Decoder's account of the story. Both companies are said to be debating internally whether to pause releases or stop training altogether, and employee trust in leadership is described as eroding. The report names no specific models, gives no firm number of people involved beyond "dozens" in The Decoder's framing, and carries no on-record response from either company or any account of a decision being taken.
+Axios reported that numerous employees at OpenAI and Anthropic believe their employers' unreleased frontier models can no longer be safely controlled, according to The Decoder's account of the story. Both companies are said to be debating internally whether to pause releases or stop training altogether, and employee trust in leadership is described as eroding.
+
+The report names no specific models, gives no firm number of people involved beyond "dozens" in The Decoder's framing, and carries no on-record response from either company or any account of a decision being taken.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf7962dc6e2a5291ae94a0ddab6f22ba6
 {% raw %}
 <div class="story-lead" markdown="1">
 
-SoftBank has completed its acquisition of the Robotics and AI Institute (RAI) from Hyundai Motor Group, The Robot Report reported, with financial terms undisclosed; SoftBank answered questions about the deal but declined to comment. The Cambridge, Massachusetts-based institute, founded by Boston Dynamics founder Marc Raibert in 2022 with more than $400 million in initial funding from Hyundai, works on mobility, manipulation, perception and intelligence, and currently lists 24 open positions across Cambridge and Zurich. The Robot Report first reported the acquisition agreement in September 2026, and it remains unstated whether SoftBank ownership will change the institute's research priorities or whether RAI will keep operating independently.
+SoftBank has completed its acquisition of the Robotics and AI Institute (RAI) from Hyundai Motor Group, The Robot Report reported, with financial terms undisclosed; SoftBank answered questions about the deal but declined to comment. The Cambridge, Massachusetts-based institute, founded by Boston Dynamics founder Marc Raibert in 2022 with more than $400 million in initial funding from Hyundai, works on mobility, manipulation, perception and intelligence, and currently lists 24 open positions across Cambridge and Zurich.
+
+The Robot Report first reported the acquisition agreement in September 2026, and it remains unstated whether SoftBank ownership will change the institute's research priorities or whether RAI will keep operating independently.
 
 </div>
 

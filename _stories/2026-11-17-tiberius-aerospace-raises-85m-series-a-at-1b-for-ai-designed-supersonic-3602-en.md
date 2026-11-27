@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb55a8f98bb19f8fa2473340b3982b6c7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tiberius Aerospace, a "defense-as-a-service" startup that uses AI to design long-range supersonic artillery munitions, has raised an $85M Series A at a valuation above $1B, according to a Wired report by Isabella Ward summarized by Techmeme. The company is led by Chad Steelberg and Andy Baynes, Google and Apple alumni whom Wired describes as applying experience from running software companies and designing the iPhone to manufacturing lethal munitions. The report does not name the investors, describe the AI models or design pipeline, or give a timeline for test firings or production, so the funding and valuation figures rest on the company's own account rather than an independent filing or audit.
+Tiberius Aerospace, a "defense-as-a-service" startup that uses AI to design long-range supersonic artillery munitions, has raised an $85M Series A at a valuation above $1B, according to a Wired report by Isabella Ward summarized by Techmeme. The company is led by Chad Steelberg and Andy Baynes, Google and Apple alumni whom Wired describes as applying experience from running software companies and designing the iPhone to manufacturing lethal munitions.
+
+The report does not name the investors, describe the AI models or design pipeline, or give a timeline for test firings or production, so the funding and valuation figures rest on the company's own account rather than an independent filing or audit.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf2df7e86b3565993ea3cf92d9f9cfdf4
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Noeri, a five-month-old startup co-founded by two Stanford AI experts, has raised $110 million in a funding round led by Menlo Ventures, Bloomberg reported. Noeri is developing software that reviews clients' AI models and tools and suggests improvements. The report did not disclose the company's valuation, customers, product benchmarks, pricing, or launch timing.
+Noeri, a five-month-old startup co-founded by two Stanford AI experts, has raised $110 million in a funding round led by Menlo Ventures, Bloomberg reported. Noeri is developing software that reviews clients' AI models and tools and suggests improvements.
+
+The report did not disclose the company's valuation, customers, product benchmarks, pricing, or launch timing.
 
 </div>
 

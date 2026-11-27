@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g80e983ca5cc1ad044b17d11b3f00c196
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla has nearly doubled the size of its Miami robotaxi service area to 59 square miles, added Downtown Miami to the coverage zone, and begun running rides 24 hours a day, according to a report by Not a Tesla App. The change means riders within the enlarged zone can now request a driverless Tesla at any hour, where previously coverage was smaller and time-limited. The figures and the 24/7 schedule come from the outlet's reporting rather than a published Tesla statement, and no trip volumes, fleet size, or safety data were disclosed. Tesla's robotaxi service remains a limited-market offering confined to geofenced areas rather than a generally available product.
+Tesla has nearly doubled the size of its Miami robotaxi service area to 59 square miles, added Downtown Miami to the coverage zone, and begun running rides 24 hours a day, according to a report by Not a Tesla App. The change means riders within the enlarged zone can now request a driverless Tesla at any hour, where previously coverage was smaller and time-limited.
+
+The figures and the 24/7 schedule come from the outlet's reporting rather than a published Tesla statement, and no trip volumes, fleet size, or safety data were disclosed. Tesla's robotaxi service remains a limited-market offering confined to geofenced areas rather than a generally available product.
 
 </div>
 

@@ -30,7 +30,9 @@ description: "Italy's data protection agency said on Saturday it had fined Meta 
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Italy's data protection agency said on Saturday it had fined Meta Platforms €805 million (about $887 million) after finding the company accessed Android users' photos and videos without obtaining their consent or informing them. The decision, reported by Reuters, is a national enforcement action and the report gives no detail on the technical mechanism, the number of users affected, or whether Meta intends to appeal. The agency's stated objection is framed around consent and notification rather than around any specific Android permission bypass, so the scope of the finding remains unclear from the available account.
+Italy's data protection agency said on Saturday it had fined Meta Platforms €805 million (about $887 million) after finding the company accessed Android users' photos and videos without obtaining their consent or informing them. The decision, reported by Reuters, is a national enforcement action and the report gives no detail on the technical mechanism, the number of users affected, or whether Meta intends to appeal.
+
+The agency's stated objection is framed around consent and notification rather than around any specific Android permission bypass, so the scope of the finding remains unclear from the available account.
 
 </div>
 
@@ -42,14 +44,18 @@ Italy's data protection agency announced the penalty on Nov. 14 after finding th
 
 The exposure is currently confined to one country's regulator: the Reuters excerpt does not say whether the finding applies to all Android users in Italy or a narrower group, nor whether Meta will contest it, and those two unknowns determine whether the €805 million figure holds or becomes a template for other EU authorities. For developers, the case turns on disclosure practice — the agency's objection as reported is that users were not told about the access or asked for consent — rather than on whether Android's own permission prompts appeared.
 
-## Community Discussion
-
-Hacker News commenters focused on the gaps in the reporting: one asked how photos could be accessed without a consent prompt and said the article lacked detail, while another argued that users must grant permission on their device and can revoke it in settings, and questioned what exactly Italy was protecting. Others doubted that large tech fines are ever actually paid, and one pointed readers to enforcementtracker.com as a running tally of EU enforcement decisions.
-
 ## Further reading
 
 - [Italy fines Meta $887 million over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
 - [Italy Fines Meta Nearly $1 Billion Over Company Accessing ...](https://www.yahoo.com/news/world/articles/italy-fines-meta-nearly-1-140421554.html?fr=sycsrp_catchall)
 - [Italy fines Meta €805 million over Android data access | The ...](https://www.straitstimes.com/world/europe/italy-fines-meta-1-14-billion-over-android-users-data-access)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Hacker News commenters focused on the gaps in the reporting: one asked how photos could be accessed without a consent prompt and said the article lacked detail, while another argued that users must grant permission on their device and can revoke it in settings, and questioned what exactly Italy was protecting. Others doubted that large tech fines are ever actually paid, and one pointed readers to enforcementtracker.com as a running tally of EU enforcement decisions.
+
+</div>
 
 {% endraw %}

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf197094dd7ec7811ecc8e63b920a2339
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic 发布名为 Claude Ship 的新产品，让 Claude 能审查、修复并批准 pull request（PR，即代码合并请求）。伴随该产品推出的两个新代理——PR Steward 和 Claude Approvals——于发布当天进入 beta：据 The Verge 报道，PR Steward 会在 CI 检查失败、合并冲突，以及来自 Code Review、其他审查工具或团队成员的评审意见出现时介入处理。ZDNET 称该 beta 面向 Claude Team 与 Enterprise 套餐用户，针对 GitHub 上的 pull request，并按团队既定策略执行批准。代码审查本身并非新能力：Anthropic 的 Code Review 功能于今年 3 月公布、10 月正式可用，此次新增的是自动修复与批准环节。
+Anthropic 发布名为 Claude Ship 的新产品，让 Claude 能审查、修复并批准 pull request（PR，即代码合并请求）。伴随该产品推出的两个新代理——PR Steward 和 Claude Approvals——于发布当天进入 beta：据 The Verge 报道，PR Steward 会在 CI 检查失败、合并冲突，以及来自 Code Review、其他审查工具或团队成员的评审意见出现时介入处理。
+
+ZDNET 称该 beta 面向 Claude Team 与 Enterprise 套餐用户，针对 GitHub 上的 pull request，并按团队既定策略执行批准。代码审查本身并非新能力：Anthropic 的 Code Review 功能于今年 3 月公布、10 月正式可用，此次新增的是自动修复与批准环节。
 
 </div>
 

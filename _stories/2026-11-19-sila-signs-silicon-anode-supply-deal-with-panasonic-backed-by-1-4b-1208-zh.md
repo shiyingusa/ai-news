@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gdec2c0c39125b9343f7fa62f2d26241a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Sila 与松下能源（Panasonic Energy）签署长期协议，向后者供应硅碳负极材料；Sila 称协议价值随时间可能超过 10 亿美元，但未公布具体采购量和价格。松下承诺购买“数万吨”材料，Sila 联合创始人兼 CEO Gene Berdichevsky 表示，这笔订单将帮助公司把产量扩大到当前水平的至少 10 倍。Sila 位于华盛顿州 Moses Lake 的工厂于 2025 年 9 月投产并已在运行，其扩产资金的重要部分来自美国国防部一项 14 亿美元的有条件贷款承诺，Sila 称该贷款用于应对“重大的技术主权挑战”。这是 Sila 的首个大众市场订单；此前美国已有 24M、ESS Tech 等估值达十亿美元级的电池公司破产关停。
+Sila 与松下能源（Panasonic Energy）签署长期协议，向后者供应硅碳负极材料；Sila 称协议价值随时间可能超过 10 亿美元，但未公布具体采购量和价格。松下承诺购买“数万吨”材料，Sila 联合创始人兼 CEO Gene Berdichevsky 表示，这笔订单将帮助公司把产量扩大到当前水平的至少 10 倍。
+
+Sila 位于华盛顿州 Moses Lake 的工厂于 2025 年 9 月投产并已在运行，其扩产资金的重要部分来自美国国防部一项 14 亿美元的有条件贷款承诺，Sila 称该贷款用于应对“重大的技术主权挑战”。这是 Sila 的首个大众市场订单；此前美国已有 24M、ESS Tech 等估值达十亿美元级的电池公司破产关停。
 
 </div>
 

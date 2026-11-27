@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge1fabcf1b28faa88e9efdc4d47ba1844
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Australia-based Myriota, which sells low-cost, low-power satellite connectivity for industrial IoT devices, raised roughly $40 million in a first close of its Series C round, the Wall Street Journal's Rhiannon Hoyle reported. The company said the money will go toward hiring staff and scaling its satellite constellation and operations. The report gives no investor names, no valuation, and no total target for the round, so the $40 million is a partial close rather than a completed raise; sensors in the field connect directly to Myriota's satellites rather than to terrestrial networks.
+Australia-based Myriota, which sells low-cost, low-power satellite connectivity for industrial IoT devices, raised roughly $40 million in a first close of its Series C round, the Wall Street Journal's Rhiannon Hoyle reported. The company said the money will go toward hiring staff and scaling its satellite constellation and operations.
+
+The report gives no investor names, no valuation, and no total target for the round, so the $40 million is a partial close rather than a completed raise; sensors in the field connect directly to Myriota's satellites rather than to terrestrial networks.
 
 </div>
 

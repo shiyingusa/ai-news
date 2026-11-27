@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g39fd932f287b2016732ff74e994a518c
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Microsoft Research, UC Berkeley, and Microsoft Security have introduced TokenEconomizer, an open-source plugin that learns from an agent's completed sessions in a repository and adjusts future sessions without changing the agent or its underlying model. It uses one-line repository notes called micro-skills, removes tools that history suggests are unused while retaining core command and file-editing tools, and intervenes when a judge model decides an agent is stuck in a failure loop. In the authors' evaluation across 277 real bug-fixing tasks and multiple coding agents, it reduced costs by 18.4–30.9%, with costs falling in every repository tested and task success rates remaining broadly stable. The supplied post does not name the specific agents or models tested or provide installation and general-availability details.
+Microsoft Research, UC Berkeley, and Microsoft Security have introduced TokenEconomizer, an open-source plugin that learns from an agent's completed sessions in a repository and adjusts future sessions without changing the agent or its underlying model. It uses one-line repository notes called micro-skills, removes tools that history suggests are unused while retaining core command and file-editing tools, and intervenes when a judge model decides an agent is stuck in a failure loop.
+
+In the authors' evaluation across 277 real bug-fixing tasks and multiple coding agents, it reduced costs by 18.4–30.9%, with costs falling in every repository tested and task success rates remaining broadly stable. The supplied post does not name the specific agents or models tested or provide installation and general-availability details.
 
 </div>
 

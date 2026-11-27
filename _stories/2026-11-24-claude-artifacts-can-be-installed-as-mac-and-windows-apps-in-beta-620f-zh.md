@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf4217ebc1cd649ec6f7386aa27bc5e7d
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic 在 Claude 官方资源页宣布，以 beta 形式推出“Install as app”（安装为应用）功能，把用户日常使用的 Claude artifacts（在对话中生成的可交互页面或小工具）安装成 Mac 和 Windows 上的独立桌面应用，并接入系统通知。公告称这些应用还能获得“可选的完整电脑访问权限”，从而在用户电脑上做更多事情。公告没有说明适用的订阅套餐、地区范围、是否额外收费，也没有公布 beta 转正的日期；目前这是 Anthropic 自家发布的功能说明，尚无独立测试。
+Anthropic 在 Claude 官方资源页宣布，以 beta 形式推出“Install as app”（安装为应用）功能，把用户日常使用的 Claude artifacts（在对话中生成的可交互页面或小工具）安装成 Mac 和 Windows 上的独立桌面应用，并接入系统通知。公告称这些应用还能获得“可选的完整电脑访问权限”，从而在用户电脑上做更多事情。
+
+公告没有说明适用的订阅套餐、地区范围、是否额外收费，也没有公布 beta 转正的日期；目前这是 Anthropic 自家发布的功能说明，尚无独立测试。
 
 </div>
 

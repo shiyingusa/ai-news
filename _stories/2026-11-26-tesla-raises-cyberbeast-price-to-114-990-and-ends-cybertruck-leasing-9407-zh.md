@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-特斯拉将 Cybertruck 的三电机顶配版本 Cyberbeast 售价上调至 114,990 美元，同时停止提供 Cybertruck 的租赁方案。据特斯拉垂直媒体 Not a Tesla App 报道，新订单的交付时间已排到 2027 年 6 月。该报道以「再次涨价」描述此次调整，说明这是 Cyberbeast 价格的新一轮上调，但未给出调价前的具体价格、涨幅或生效日期，也未提及特斯拉的公开说明。
+特斯拉将 Cybertruck 的三电机顶配版本 Cyberbeast 售价上调至 114,990 美元，同时停止提供 Cybertruck 的租赁方案。据特斯拉垂直媒体 Not a Tesla App 报道，新订单的交付时间已排到 2027 年 6 月。
+
+该报道以「再次涨价」描述此次调整，说明这是 Cyberbeast 价格的新一轮上调，但未给出调价前的具体价格、涨幅或生效日期，也未提及特斯拉的公开说明。
 
 </div>
 

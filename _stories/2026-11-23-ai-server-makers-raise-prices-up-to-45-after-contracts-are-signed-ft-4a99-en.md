@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gcb674e5932ed25660a2ead97b9a1ec87
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Trading and financial-services firms buying data-center servers are reportedly being billed up to 45% more than the prices agreed months earlier, with memory-heavy CPU nodes doubling or tripling in cost while GPU servers rose 20–30%, according to the Financial Times. The FT attributes the increases to the DRAM shortage and cites unnamed people describing the gap between the initial quote and the final invoice, one calling a 25, 30 or 45 percent increase "disconcerting." Those buyers are reportedly absorbing the cost rather than walking away — "we've never said no," one person said, because "the compute is valuable to us" — and none of the companies the FT asked would confirm or deny whether their contracts contain clauses against price volatility. The report points to an existing test case: in June, XTX Finland Oy sued a Dell Irish subsidiary after Dell sought $62–70 million on top of an agreed $549 million for 1,680 servers, a dispute that is still ongoing.
+Trading and financial-services firms buying data-center servers are reportedly being billed up to 45% more than the prices agreed months earlier, with memory-heavy CPU nodes doubling or tripling in cost while GPU servers rose 20–30%, according to the Financial Times. The FT attributes the increases to the DRAM shortage and cites unnamed people describing the gap between the initial quote and the final invoice, one calling a 25, 30 or 45 percent increase "disconcerting."
+
+Those buyers are reportedly absorbing the cost rather than walking away — "we've never said no," one person said, because "the compute is valuable to us" — and none of the companies the FT asked would confirm or deny whether their contracts contain clauses against price volatility. The report points to an existing test case: in June, XTX Finland Oy sued a Dell Irish subsidiary after Dell sought $62–70 million on top of an agreed $549 million for 1,680 servers, a dispute that is still ongoing.
 
 </div>
 

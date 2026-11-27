@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf4217ebc1cd649ec6f7386aa27bc5e7d
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic is rolling out a beta feature called “Install as app” that turns Claude artifacts—interactive outputs generated in Claude chats, such as small apps or visualizations—into desktop apps on Mac and Windows. The installed artifacts can show notifications and, if the user enables it, get full computer access. The available report does not specify which artifact types are supported, how many users can try the beta, or what safeguards govern the computer-access option.
+Anthropic is rolling out a beta feature called “Install as app” that turns Claude artifacts—interactive outputs generated in Claude chats, such as small apps or visualizations—into desktop apps on Mac and Windows. The installed artifacts can show notifications and, if the user enables it, get full computer access.
+
+The available report does not specify which artifact types are supported, how many users can try the beta, or what safeguards govern the computer-access option.
 
 </div>
 

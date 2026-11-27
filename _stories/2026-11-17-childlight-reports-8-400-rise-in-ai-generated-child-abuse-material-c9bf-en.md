@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf0fd5648bc7a5b9fd66b7775c0b6055f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Childlight Institute in Edinburgh reports that reports of AI-generated child sexual abuse material rose from about 4,700 in 2023 to more than 400,000 in 2025, an increase of over 8,400 percent. Abusers are using "nudify" apps — consumer image tools that generate undressed bodies from ordinary photos — for blackmail, according to the report. Childlight CEO Paul Stanfield called on governments to classify the problem as a preventable public health emergency. The figures come from the institute's own report and have not been independently verified.
+The Childlight Institute in Edinburgh reports that reports of AI-generated child sexual abuse material rose from about 4,700 in 2023 to more than 400,000 in 2025, an increase of over 8,400 percent. Abusers are using "nudify" apps — consumer image tools that generate undressed bodies from ordinary photos — for blackmail, according to the report.
+
+Childlight CEO Paul Stanfield called on governments to classify the problem as a preventable public health emergency. The figures come from the institute's own report and have not been independently verified.
 
 </div>
 

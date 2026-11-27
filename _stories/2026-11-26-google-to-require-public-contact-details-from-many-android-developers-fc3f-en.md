@@ -31,7 +31,11 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google has announced that, starting next year, many independent Android developers will have to publish a phone number and address publicly on Google Play. The change is meant to bring the store in line with the EU's Digital Services Act (DSA), a law that requires online platforms to identify the businesses that sell on them. Developers have until February 1st, 2027 to declare whether they qualify as a "trader" under UK and European law — broadly, whether they earn revenue from their apps, especially regularly or at high volume. Google says the contact details will be shown to users worldwide, not just in the EU. The Verge's report is based on Google's developer support documentation and does not include the full list of exemptions, which the excerpt cuts off.
+Google has announced that, starting next year, many independent Android developers will have to publish a phone number and address publicly on Google Play. The change is meant to bring the store in line with the EU's Digital Services Act (DSA), a law that requires online platforms to identify the businesses that sell on them.
+
+Developers have until February 1st, 2027 to declare whether they qualify as a "trader" under UK and European law — broadly, whether they earn revenue from their apps, especially regularly or at high volume. Google says the contact details will be shown to users worldwide, not just in the EU.
+
+The Verge's report is based on Google's developer support documentation and does not include the full list of exemptions, which the excerpt cuts off.
 
 </div>
 

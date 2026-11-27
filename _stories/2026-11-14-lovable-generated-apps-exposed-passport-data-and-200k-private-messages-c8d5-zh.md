@@ -31,7 +31,9 @@ description: "安全研究称，大量由 AI 应用生成器 Lovable 生成的�
 {% raw %}
 <div class="story-lead" markdown="1">
 
-安全研究称，大量由 AI 应用生成器 Lovable 生成的网站通过随前端公开的只读 API 密钥，以及 Supabase（常用后端数据库服务）的宽松默认配置，暴露了护照信息和超过 20 万条私信等敏感数据。问题影响使用这类工具的开发者：即使没有主动编写攻击代码，默认设置也可能让数据库可被公开读取；根因部分在平台配置，而非模型能力。现有材料未给出受影响应用的确切数量，也未说明 Lovable 或 Supabase 是否已作出回应。
+安全研究称，大量由 AI 应用生成器 Lovable 生成的网站通过随前端公开的只读 API 密钥，以及 Supabase（常用后端数据库服务）的宽松默认配置，暴露了护照信息和超过 20 万条私信等敏感数据。问题影响使用这类工具的开发者：即使没有主动编写攻击代码，默认设置也可能让数据库可被公开读取；根因部分在平台配置，而非模型能力。
+
+现有材料未给出受影响应用的确切数量，也未说明 Lovable 或 Supabase 是否已作出回应。
 
 </div>
 
@@ -43,13 +45,17 @@ Lovable 是一个用自然语言生成 Web 应用的 AI 构建器，常把后端
 
 对用 Lovable 搭配 Supabase 搭建应用的开发者来说，关键结论是：前端打包的 anon key 按设计就是公开的，因此数据是否可被读取，取决于数据库的行级安全（RLS）策略，而不取决于这把 key 本身是否被发现。Supabase 社区讨论也指出，在默认设置下，匿名用户很容易直接探测 API（服务端仍要求携带有效 JWT），所以上线前应逐表确认 RLS 已启用，并把可读范围收窄到必要字段和行，而不能只靠把 key 从代码里藏起来。
 
-## 社区讨论
-
-评论区的核心分歧在于这算不算“入侵”：有读者认为数据既然随只读密钥公开，问题在发布方而非读取者；也有人认为 Supabase 长期宽松的默认配置应承担部分责任，且 AI 生成应用让普通用户更难判断风险。
-
 ## 延伸阅读
 
 - [Connect to Supabase - Lovable Documentation](https://docs.lovable.dev/integrations/supabase)
 - [Option to disable anon key access to database · supabase ...](https://github.com/orgs/supabase/discussions/4547)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+评论区的核心分歧在于这算不算“入侵”：有读者认为数据既然随只读密钥公开，问题在发布方而非读取者；也有人认为 Supabase 长期宽松的默认配置应承担部分责任，且 AI 生成应用让普通用户更难判断风险。
+
+</div>
 
 {% endraw %}

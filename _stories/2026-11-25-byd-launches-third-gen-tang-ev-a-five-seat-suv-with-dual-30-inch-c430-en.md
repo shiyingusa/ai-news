@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-BYD launched the third-generation Tang, a five-seat flagship electric SUV, in China with a starting price below $30,000. The cabin's headline feature is a pair of screens each measuring more than 30 inches. Electrek's report gives no range, battery capacity, charging figures, trim breakdown or indication of whether the model will be sold outside China. The launch price is the figure BYD is quoting for the Chinese market, not a global one.
+BYD launched the third-generation Tang, a five-seat flagship electric SUV, in China with a starting price below $30,000. The cabin's headline feature is a pair of screens each measuring more than 30 inches.
+
+Electrek's report gives no range, battery capacity, charging figures, trim breakdown or indication of whether the model will be sold outside China. The launch price is the figure BYD is quoting for the Chinese market, not a global one.
 
 </div>
 

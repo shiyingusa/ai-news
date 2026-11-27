@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g5fbfb36ee17d6bb86e2877b1f88ee414
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A public write-up dubbed Ruby2ßhell claims a pre-authentication remote code execution vulnerability in stock Ruby on Rails, tied to a single-byte overflow in ß case conversion. Commenters discussing the post describe a Windows-1252 path: ß has no uppercase form in that encoding, so upcasing expands it to "SS" and adds a byte, potentially overrunning a buffer whose headroom check assumes case conversion preserves length. The claim is a blog-level disclosure, not an official Rails advisory, and commenters note that an existing Ruby advisory already covers six other vulnerabilities.
+A public write-up dubbed Ruby2ßhell claims a pre-authentication remote code execution vulnerability in stock Ruby on Rails, tied to a single-byte overflow in ß case conversion. Commenters discussing the post describe a Windows-1252 path: ß has no uppercase form in that encoding, so upcasing expands it to "SS" and adds a byte, potentially overrunning a buffer whose headroom check assumes case conversion preserves length.
+
+The claim is a blog-level disclosure, not an official Rails advisory, and commenters note that an existing Ruby advisory already covers six other vulnerabilities.
 
 </div>
 
@@ -56,10 +58,6 @@ Rails teams should inventory endpoints that upcase or downcase user-supplied str
 
 Watch for an official Ruby on Rails security advisory or CVE assignment that confirms affected versions, reproduces the pre-authentication path, and names a patched release.
 
-## Community discussion
-
-Commenters are divided on novelty and exploitability: one argues that AI-assisted research is turning single-byte overflows into full RCE reports, while another says the issue is already covered by an existing Ruby advisory that lists six other vulnerabilities. Another commenter calls a one-byte overflow to RCE "definitely achievable" but "tough," and a further reply notes that codepoints such as ffi can expand to three codepoints.
-
 ## Coverage of this story
 
 - 2026-11-18 · ruby-lang.org: [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
@@ -71,5 +69,13 @@ Commenters are divided on novelty and exploitability: one argues that AI-assiste
 - [ruby2ßhell: Critical One-Byte Heap Overflow in Ruby Could ...](https://cybersecuritynews.com/ruby2shell-rce/)
 - [Ruby2ßhell: Pre-authentication RCE on stock Rails | Hacker News](https://news.ycombinator.com/item?id=50556287)
 - [ruby2ßhell: CVE-2026-132825 Ruby Heap Overflow RCE](https://orca.security/resources/blog/ruby2shell-ruby-heap-overflow-rce/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters are divided on novelty and exploitability: one argues that AI-assisted research is turning single-byte overflows into full RCE reports, while another says the issue is already covered by an existing Ruby advisory that lists six other vulnerabilities. Another commenter calls a one-byte overflow to RCE "definitely achievable" but "tough," and a further reply notes that codepoints such as ffi can expand to three codepoints.
+
+</div>
 
 {% endraw %}

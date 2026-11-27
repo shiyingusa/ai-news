@@ -52,10 +52,6 @@ Public recursive DNS resolvers such as Quad9 and Cloudflare's 1.1.1.1 answer dom
 
 For French users, the practical cost is loss of a resolver they may have deliberately chosen for its malware filtering; for other public DNS operators, the precedent is that a court can attach per-day non-compliance penalties to a global resolver's refusal to block, which is what Quad9 faces in broadcaster beIN Sports' request for up to €580,000 a day in a Paris court. It also cuts against the stated purpose of such orders: ICANN's Security and Stability Advisory Committee argued in its May 2025 SAC127 report that blocking through recursive resolvers is effective only to the extent users stay on the resolver where the blocking is implemented, so mandates push traffic toward unblocked or foreign resolvers rather than removing access to the content.
 
-## Community discussion
-
-Quad9's CTO said its position had "100% support" so far at IETF 127 and described "general dread" about DNS policy, while another commenter argued that a neutral Internet is unrealistic now that everyone is online. Others pressed Cloudflare to commit to withdrawing from affected countries if it loses its appeal; these are commenter opinions, not evidence of consensus.
-
 ## Further reading
 
 - [Quad9 plans France withdrawal over beIN site-blocking orders](https://disputeindex.com/cases/quad9-france-bein-dns-blocking-withdrawal)
@@ -63,5 +59,13 @@ Quad9's CTO said its position had "100% support" so far at IETF 127 and describe
 - [Farewell, France | Quad9](https://quad9.net/news/blog/au-revoir-france/)
 - [DNS Resolver Quad 9 Rejects French Piracy Blocks ... * TorrentFreak](https://torrentfreak.com/dns-resolver-quad9-rejects-french-piracy-blocks-weighs-exit-as-bein-seeks-up-to-e580k-a-day/)
 - [sac127_ dns _ blocking _revisited](https://itp.cdn.icann.org/en/files/security-and-stability-advisory-committee-ssac-reports/sac127-dns-blocking-revisited-16-05-2025-en.pdf)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Quad9's CTO said its position had "100% support" so far at IETF 127 and described "general dread" about DNS policy, while another commenter argued that a neutral Internet is unrealistic now that everyone is online. Others pressed Cloudflare to commit to withdrawing from affected countries if it loses its appeal; these are commenter opinions, not evidence of consensus.
+
+</div>
 
 {% endraw %}

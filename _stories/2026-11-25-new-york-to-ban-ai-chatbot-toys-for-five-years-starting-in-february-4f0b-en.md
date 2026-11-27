@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ga3fd45fb8e62d59590d0b2a2bfa009bc
 {% raw %}
 <div class="story-lead" markdown="1">
 
-New York Gov. Kathy Hochul signed a bill that prohibits the manufacture, exchange, distribution and sale of toys powered by AI chatbots in the state for five years, with the ban set to start in February. The report ties the measure to new Common Sense Media research that it says reveals safety failures, including children's exposure to inappropriate content and risks to emotional development. California Gov. Gavin Newsom signed a four-year ban in September, so New York is not the first state to pass one. The report did not detail penalties, definitions, or enforcement.
+New York Gov. Kathy Hochul signed a bill that prohibits the manufacture, exchange, distribution and sale of toys powered by AI chatbots in the state for five years, with the ban set to start in February. The report ties the measure to new Common Sense Media research that it says reveals safety failures, including children's exposure to inappropriate content and risks to emotional development.
+
+California Gov. Gavin Newsom signed a four-year ban in September, so New York is not the first state to pass one. The report did not detail penalties, definitions, or enforcement.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf0f775833c53b1b85cc69ebbe12a8f4b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Meta said on Tuesday that it had modified Instagram's recommendation systems specifically for India to show less sexual and violent content, after New Delhi called for tighter content checks. The change affects the posts and short videos Instagram recommends beyond the accounts a user follows, though Meta's statement as reported by Reuters gave no figures on how much such content was reduced or how the tuning was measured. The disclosure makes India a country-specific exception in how Instagram's recommendations are calibrated.
+Meta said on Tuesday that it had modified Instagram's recommendation systems specifically for India to show less sexual and violent content, after New Delhi called for tighter content checks. The change affects the posts and short videos Instagram recommends beyond the accounts a user follows, though Meta's statement as reported by Reuters gave no figures on how much such content was reduced or how the tuning was measured.
+
+The disclosure makes India a country-specific exception in how Instagram's recommendations are calibrated.
 
 </div>
 

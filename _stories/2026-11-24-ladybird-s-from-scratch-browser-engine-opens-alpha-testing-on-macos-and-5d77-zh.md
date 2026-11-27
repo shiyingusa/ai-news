@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g9a2461178ca6b273a6d0eb12517e5eea
 {% raw %}
 <div class="story-lead" markdown="1">
 
-开发者 Andreas Kling 于周一宣布，采用从零编写引擎的独立浏览器 Ladybird 已在 macOS 和 Linux 上进入 alpha 测试阶段，此前项目已开发四年多。当前主流浏览器基本依赖三个引擎——Gecko（Firefox）、Blink（Chrome）和 WebKit（Safari），Ladybird 因此成为多年来首个带着全新引擎面世的项目。alpha 属于早期测试版本，Windows 版本要等到项目的“后期阶段”才会推出。
+开发者 Andreas Kling 于周一宣布，采用从零编写引擎的独立浏览器 Ladybird 已在 macOS 和 Linux 上进入 alpha 测试阶段，此前项目已开发四年多。当前主流浏览器基本依赖三个引擎——Gecko（Firefox）、Blink（Chrome）和 WebKit（Safari），Ladybird 因此成为多年来首个带着全新引擎面世的项目。
+
+alpha 属于早期测试版本，Windows 版本要等到项目的“后期阶段”才会推出。
 
 </div>
 

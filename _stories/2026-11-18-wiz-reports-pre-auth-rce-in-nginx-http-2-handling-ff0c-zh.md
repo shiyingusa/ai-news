@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g49aeda4f6dcfa7f3853bb91f3073980a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-安全公司 Wiz 在一篇研究博客中描述了 nginx HTTP/2 处理环节中的免认证远程代码执行（pre-auth RCE，即攻击者无需登录凭据即可在目标服务器上执行代码）漏洞。据 Forbes 报道，获 DARPA 支持的网络安全公司 Xint 称其借助 GPT 6.1 Sol 与 GPT-6 Luna 发现了 nginx 中的 RCE 漏洞，Wiz 则表示自己也独立发现了同一批缺陷。该研究目前只是厂商研究博客，并非 F5/nginx 的官方安全公告，也没有证据显示漏洞已被在野利用。Hacker News 上的讨论指出，相关修复已在一周前提交进开源代码库，并在提交信息中注明由 Xint.io 报告。
+安全公司 Wiz 在一篇研究博客中描述了 nginx HTTP/2 处理环节中的免认证远程代码执行（pre-auth RCE，即攻击者无需登录凭据即可在目标服务器上执行代码）漏洞。据 Forbes 报道，获 DARPA 支持的网络安全公司 Xint 称其借助 GPT 6.1 Sol 与 GPT-6 Luna 发现了 nginx 中的 RCE 漏洞，Wiz 则表示自己也独立发现了同一批缺陷。
+
+该研究目前只是厂商研究博客，并非 F5/nginx 的官方安全公告，也没有证据显示漏洞已被在野利用。Hacker News 上的讨论指出，相关修复已在一周前提交进开源代码库，并在提交信息中注明由 Xint.io 报告。
 
 </div>
 
@@ -56,10 +58,6 @@ nginx 是部署最广泛的 Web 服务器与反向代理之一，运行受影响
 
 关注 F5/nginx 是否就这批漏洞发布官方安全公告、分配 CVE 编号，以及修复何时进入稳定发行版与官方镜像。
 
-## 社区讨论
-
-Hacker News 上最集中的质疑是披露时序：一位评论者称漏洞一周前就已在开源仓库修复，提交信息甚至写明“Reported by Xint.io”，认为熟悉该团队的攻击者本可利用这段空窗期，而既然关闭 HTTP/2 就能缓解，相关方至少应发布临时关闭建议。也有读者表达了对 AI 大规模挖洞后小型站点无力清理的担忧，另有人反映官方 alpine 镜像的 sha-256 摘要有异常。这些均为个人观点与经验，不构成对漏洞影响范围的证实。
-
 ## 本事件的相关报道
 
 - 2026-11-18 · wiz.io: [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
@@ -72,5 +70,13 @@ Hacker News 上最集中的质疑是披露时序：一位评论者称漏洞一�
 - [NGINX 2 Root by Xint — From nginx visitor to root of the server host](https://nginx2root.com/)
 - [NGINX HTTP/2 Flaws Could Allow Memory Corruption and Remote ...](https://cybersecuritynews.com/nginx-http-2-vulnerabilities/)
 - [nginx Advisories Jump to 26 From 2 as AI Finds Critical RCEs](https://fourweekmba.com/ai-nginx-advisories-jump-to-26-from-2-as-ai-finds-critical-rces/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+Hacker News 上最集中的质疑是披露时序：一位评论者称漏洞一周前就已在开源仓库修复，提交信息甚至写明“Reported by Xint.io”，认为熟悉该团队的攻击者本可利用这段空窗期，而既然关闭 HTTP/2 就能缓解，相关方至少应发布临时关闭建议。也有读者表达了对 AI 大规模挖洞后小型站点无力清理的担忧，另有人反映官方 alpine 镜像的 sha-256 摘要有异常。这些均为个人观点与经验，不构成对漏洞影响范围的证实。
+
+</div>
 
 {% endraw %}

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g7adb3069bc5412c134b7cb85412aa7ad
 {% raw %}
 <div class="story-lead" markdown="1">
 
-electrive's Martin Westerhoff has driven the new Mercedes-Benz GLA 350 4MATIC electric, a compact all-wheel-drive SUV built around an 800-volt architecture, an 85-kWh battery and a two-speed transmission — a combination the review says delivers high efficiency and short charging stops. Everyday-practicality items include a large front luggage compartment (a "frunk"), a two-tonne towing capacity and Mercedes' new MB.OS operating system. The review presents these as technical benchmarks for the crowded compact electric SUV segment, but it is a first-drive impression: no price, launch date, independent consumption figure or measured charging curve is given.
+electrive's Martin Westerhoff has driven the new Mercedes-Benz GLA 350 4MATIC electric, a compact all-wheel-drive SUV built around an 800-volt architecture, an 85-kWh battery and a two-speed transmission — a combination the review says delivers high efficiency and short charging stops. Everyday-practicality items include a large front luggage compartment (a "frunk"), a two-tonne towing capacity and Mercedes' new MB.OS operating system.
+
+The review presents these as technical benchmarks for the crowded compact electric SUV segment, but it is a first-drive impression: no price, launch date, independent consumption figure or measured charging curve is given.
 
 </div>
 

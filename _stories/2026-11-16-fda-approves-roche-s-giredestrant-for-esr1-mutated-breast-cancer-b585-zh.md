@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g7c9ff30008eeae556c0c971ac5db47d7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-美国 FDA 周一批准了罗氏的 giredestrant（商品名 Wilserdly），用于携带 ESR1 突变的 HR 阳性、HER2 阴性晚期乳腺癌患者。该药是一种口服选择性雌激素受体降解剂（SERD），针对肿瘤对标准治疗产生耐药的情况；STAT 报道称 evERA 试验显示它延长了肿瘤进展前的时间。罗氏表示该药可能成为公司史上最畅销产品，但这一商业预测尚未得到独立验证，摘录也未披露定价和上市日期。
+美国 FDA 周一批准了罗氏的 giredestrant（商品名 Wilserdly），用于携带 ESR1 突变的 HR 阳性、HER2 阴性晚期乳腺癌患者。该药是一种口服选择性雌激素受体降解剂（SERD），针对肿瘤对标准治疗产生耐药的情况；STAT 报道称 evERA 试验显示它延长了肿瘤进展前的时间。
+
+罗氏表示该药可能成为公司史上最畅销产品，但这一商业预测尚未得到独立验证，摘录也未披露定价和上市日期。
 
 </div>
 

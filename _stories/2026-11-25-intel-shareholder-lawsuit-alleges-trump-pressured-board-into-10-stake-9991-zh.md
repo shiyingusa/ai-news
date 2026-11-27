@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Intel 股东 Richard Paisner 提起的诉讼中，Wired 查阅的解封文件显示，原告方指控特朗普政府把释放 89 亿美元《芯片与科学法案》（CHIPS Act）资金与获得 Intel 10% 股权挂钩，并对董事会施压。文件中的内部记录称，美国商务部律师 David Shapiro 曾告诉 Intel 首席财务官，不要“错误地认为这是一场谈判”，并称若董事会拒绝，“后果将难以预料”。诉状还称，Intel 董事会最终“在总统威胁的阴影下”接受了这一安排；这些均为诉讼指控，尚未经法院认定，报道也未包含 Intel 或白宫的反驳。特朗普本人曾对《华尔街日报》复述，他向 Intel CEO 陈立武提出“美国应该获得 Intel 10% 的股份”，陈立武回应“我会考虑”。
+Intel 股东 Richard Paisner 提起的诉讼中，Wired 查阅的解封文件显示，原告方指控特朗普政府把释放 89 亿美元《芯片与科学法案》（CHIPS Act）资金与获得 Intel 10% 股权挂钩，并对董事会施压。文件中的内部记录称，美国商务部律师 David Shapiro 曾告诉 Intel 首席财务官，不要“错误地认为这是一场谈判”，并称若董事会拒绝，“后果将难以预料”。
+
+诉状还称，Intel 董事会最终“在总统威胁的阴影下”接受了这一安排；这些均为诉讼指控，尚未经法院认定，报道也未包含 Intel 或白宫的反驳。特朗普本人曾对《华尔街日报》复述，他向 Intel CEO 陈立武提出“美国应该获得 Intel 10% 的股份”，陈立武回应“我会考虑”。
 
 </div>
 

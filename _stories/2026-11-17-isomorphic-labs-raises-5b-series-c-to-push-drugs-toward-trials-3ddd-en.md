@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g769a6a24d5afb17f81e9285ec24efa8b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Isomorphic Labs, the AI drug-discovery company spun out of Google's DeepMind and now part of Alphabet, raised $5 billion in a Series C round, six months after a $2.1 billion round. The company, led by Demis Hassabis, plans to use the capital to push its drug pipeline toward clinical trials; it has no approved drugs yet. The report did not identify investors, a valuation, specific drug candidates, or trial start dates.
+Isomorphic Labs, the AI drug-discovery company spun out of Google's DeepMind and now part of Alphabet, raised $5 billion in a Series C round, six months after a $2.1 billion round. The company, led by Demis Hassabis, plans to use the capital to push its drug pipeline toward clinical trials; it has no approved drugs yet.
+
+The report did not identify investors, a valuation, specific drug candidates, or trial start dates.
 
 </div>
 

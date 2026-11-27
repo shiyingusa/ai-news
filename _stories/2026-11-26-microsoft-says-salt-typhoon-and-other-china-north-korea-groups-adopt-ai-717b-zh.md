@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge6b5a1a88a26288ba228bf34c157f7ef
 {% raw %}
 <div class="story-lead" markdown="1">
 
-微软在一份新报告中称，中国和朝鲜的国家支持黑客组织——包括“盐台风”（Salt Typhoon）——已将 AI 渗透测试工具 ARTEX 纳入其攻击工具库，《The Record》记者 Jonathan Greig 报道。报道将这些组织描述为“在攻击中使用一款强大的 AI 黑客工具”，但没有说明 ARTEX 的功能、开发者、所针对的具体目标或受影响范围。该归因目前仅出自微软一方，报道中未见独立安全厂商或政府机构的印证。
+微软在一份新报告中称，中国和朝鲜的国家支持黑客组织——包括“盐台风”（Salt Typhoon）——已将 AI 渗透测试工具 ARTEX 纳入其攻击工具库，《The Record》记者 Jonathan Greig 报道。报道将这些组织描述为“在攻击中使用一款强大的 AI 黑客工具”，但没有说明 ARTEX 的功能、开发者、所针对的具体目标或受影响范围。
+
+该归因目前仅出自微软一方，报道中未见独立安全厂商或政府机构的印证。
 
 </div>
 

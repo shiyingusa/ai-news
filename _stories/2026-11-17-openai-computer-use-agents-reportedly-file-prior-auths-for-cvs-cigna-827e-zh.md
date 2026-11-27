@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb58d24c0f342059b723e23f0fc16c8ae
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 The Decoder 报道，OpenAI 希望让 GPT-6 Astra 和 GPT-6 Luna 通过能像人一样点击、填表的 computer-use 代理接管美国医疗行政流程：代理操作现有诊所软件和保险门户，其中 Luna 处理事前授权（prior authorization，保险公司在治疗前批准覆盖的流程）每单约 8.5 美分。报道称 CVS Health 和 Cigna Healthcare 已开始部署这项技术。产品名称、单价和客户部署目前均只有这一篇简短报道支撑，尚未看到 OpenAI、CVS Health 或 Cigna 的公开声明确认。
+据 The Decoder 报道，OpenAI 希望让 GPT-6 Astra 和 GPT-6 Luna 通过能像人一样点击、填表的 computer-use 代理接管美国医疗行政流程：代理操作现有诊所软件和保险门户，其中 Luna 处理事前授权（prior authorization，保险公司在治疗前批准覆盖的流程）每单约 8.5 美分。报道称 CVS Health 和 Cigna Healthcare 已开始部署这项技术。
+
+产品名称、单价和客户部署目前均只有这一篇简短报道支撑，尚未看到 OpenAI、CVS Health 或 Cigna 的公开声明确认。
 
 </div>
 

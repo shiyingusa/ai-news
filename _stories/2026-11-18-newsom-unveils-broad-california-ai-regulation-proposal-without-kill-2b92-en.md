@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-California Governor Gavin Newsom on Wednesday unveiled a proposal that would give the state broad authority to regulate the AI industry and impose strict safety measures. The proposal stops short of requiring the development of kill switches, according to Politico's report. It is a proposal, not enacted law, and the available account does not specify its scope, enforcement mechanism or legislative timeline.
+California Governor Gavin Newsom on Wednesday unveiled a proposal that would give the state broad authority to regulate the AI industry and impose strict safety measures. The proposal stops short of requiring the development of kill switches, according to Politico's report.
+
+It is a proposal, not enacted law, and the available account does not specify its scope, enforcement mechanism or legislative timeline.
 
 </div>
 

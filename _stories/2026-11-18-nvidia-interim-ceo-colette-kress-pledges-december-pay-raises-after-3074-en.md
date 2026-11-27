@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Nvidia held its first all-hands meeting since co-founder Jensen Huang resigned as CEO, and interim chief executive Colette Kress used it to promise staff higher pay and more equity, according to Wired. The increases are scheduled for December, well ahead of Nvidia's normal raise cycle; Kress said compensation and clearer word from the board were the most common topics in questions submitted before the meeting. The reassurance follows a letter from a director-level employee to the board and top executives warning that failing to reinstate Huang could cost the company "irreplaceable talent," and comes after the board said on the prior day's earnings call that it did not intend to bring Huang back. Huang has said he would be "honored" to return as CEO if the board asked, and reports describe a pro-Huang faction among directors.
+Nvidia held its first all-hands meeting since co-founder Jensen Huang resigned as CEO, and interim chief executive Colette Kress used it to promise staff higher pay and more equity, according to Wired. The increases are scheduled for December, well ahead of Nvidia's normal raise cycle; Kress said compensation and clearer word from the board were the most common topics in questions submitted before the meeting.
+
+The reassurance follows a letter from a director-level employee to the board and top executives warning that failing to reinstate Huang could cost the company "irreplaceable talent," and comes after the board said on the prior day's earnings call that it did not intend to bring Huang back. Huang has said he would be "honored" to return as CEO if the board asked, and reports describe a pro-Huang faction among directors.
 
 </div>
 

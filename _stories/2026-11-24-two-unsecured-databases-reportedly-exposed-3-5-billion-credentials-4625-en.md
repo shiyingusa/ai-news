@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb488e1f56b2c1c5c65193f316b084dc3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-WIRED reports that a pair of unsecured databases exposed 3.5 billion usernames, passwords and documents belonging to hundreds of millions of people — data the outlet says could let attackers "own" a victim's digital life. "Unsecured" means the databases were left reachable without authentication, rather than being broken into. The report does not name the companies operating the databases, describe how the data was found or by whom, or say whether the exposed records have since been secured or taken offline. The figure of 3.5 billion comes from the reporting itself; no independent verification or sample of the records has been published.
+WIRED reports that a pair of unsecured databases exposed 3.5 billion usernames, passwords and documents belonging to hundreds of millions of people — data the outlet says could let attackers "own" a victim's digital life. "Unsecured" means the databases were left reachable without authentication, rather than being broken into.
+
+The report does not name the companies operating the databases, describe how the data was found or by whom, or say whether the exposed records have since been secured or taken offline. The figure of 3.5 billion comes from the reporting itself; no independent verification or sample of the records has been published.
 
 </div>
 

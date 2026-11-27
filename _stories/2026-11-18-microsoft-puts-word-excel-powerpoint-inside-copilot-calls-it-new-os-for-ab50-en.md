@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g07824aa19fadf9f20a1dd27ee32d4c5e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-At its Ignite keynote, Microsoft announced general availability of Word, Excel, and PowerPoint inside Copilot, with CEO Satya Nadella calling Copilot "the new OS for work." Copilot users can create documents, spreadsheets, and presentations directly in Copilot, and the files remain editable in the corresponding Office apps. Microsoft describes the shift as an inversion of the old model: agents drive the work, Office apps become plug-in components, and an organizational knowledge layer supplies context from email, meetings, calendars, chats, and files. Pricing, licensing, and regional availability were not specified.
+At its Ignite keynote, Microsoft announced general availability of Word, Excel, and PowerPoint inside Copilot, with CEO Satya Nadella calling Copilot "the new OS for work." Copilot users can create documents, spreadsheets, and presentations directly in Copilot, and the files remain editable in the corresponding Office apps.
+
+Microsoft describes the shift as an inversion of the old model: agents drive the work, Office apps become plug-in components, and an organizational knowledge layer supplies context from email, meetings, calendars, chats, and files. Pricing, licensing, and regional availability were not specified.
 
 </div>
 

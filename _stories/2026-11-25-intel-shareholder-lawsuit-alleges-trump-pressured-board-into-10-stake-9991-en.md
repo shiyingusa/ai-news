@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Unsealed documents in an Intel shareholder lawsuit, viewed by Wired, allegedly show the Trump administration pressuring Intel's board to accept a 10% U.S. government stake in exchange for releasing CHIPS Act funds. The suit, filed earlier this year by shareholder Richard Paisner, calls the arrangement unlawful; Intel was waiting on $8.9 billion when Commerce Department lawyer David Shapiro told its CFO not to make the "mistake of thinking that this is a negotiation" and that rejecting the offer would have "consequences that [he] cannot predict," according to internal notes cited in the documents. The complaint alleges the board "caved to the government's extortion" and says its legal advice was conflicted by outside counsel's pro bono promises to the president, which the report puts at up to $100 million in free services. The allegations have not been proven in court, and the report does not say whether Intel or the government has responded.
+Unsealed documents in an Intel shareholder lawsuit, viewed by Wired, allegedly show the Trump administration pressuring Intel's board to accept a 10% U.S. government stake in exchange for releasing CHIPS Act funds. The suit, filed earlier this year by shareholder Richard Paisner, calls the arrangement unlawful; Intel was waiting on $8.9 billion when Commerce Department lawyer David Shapiro told its CFO not to make the "mistake of thinking that this is a negotiation" and that rejecting the offer would have "consequences that [he] cannot predict," according to internal notes cited in the documents.
+
+The complaint alleges the board "caved to the government's extortion" and says its legal advice was conflicted by outside counsel's pro bono promises to the president, which the report puts at up to $100 million in free services. The allegations have not been proven in court, and the report does not say whether Intel or the government has responded.
 
 </div>
 

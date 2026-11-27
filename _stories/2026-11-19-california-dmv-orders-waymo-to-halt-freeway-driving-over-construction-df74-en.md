@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ga678280e2b593ee47cdb1c8f04f046c8
 {% raw %}
 <div class="story-lead" markdown="1">
 
-California's DMV ordered Waymo to stop driving its robotaxis on the state's highways immediately, and the company is now keeping the fleet to surface streets until it can convince the regulator that the vehicles no longer "pose an imminent hazard to public safety." The trigger was the software's tendency to drive into construction zones at speed; the San Francisco Business Times first reported the order. It is a repeat problem: Waymo told NHTSA that six Phoenix robotaxis failed to recognize ramp-closure signs in April, and seven cars entered lanes with active construction in California in May, after which Waymo recalled about 3,800 highway-capable robotaxis in June and stayed off freeways until late July. A July software update was meant to improve recognition of freeway construction zones, prioritize them over other hazards, and reduce speed when the car thinks it may be inside one.
+California's DMV ordered Waymo to stop driving its robotaxis on the state's highways immediately, and the company is now keeping the fleet to surface streets until it can convince the regulator that the vehicles no longer "pose an imminent hazard to public safety." The trigger was the software's tendency to drive into construction zones at speed; the San Francisco Business Times first reported the order.
+
+It is a repeat problem: Waymo told NHTSA that six Phoenix robotaxis failed to recognize ramp-closure signs in April, and seven cars entered lanes with active construction in California in May, after which Waymo recalled about 3,800 highway-capable robotaxis in June and stayed off freeways until late July. A July software update was meant to improve recognition of freeway construction zones, prioritize them over other hazards, and reduce speed when the car thinks it may be inside one.
 
 </div>
 

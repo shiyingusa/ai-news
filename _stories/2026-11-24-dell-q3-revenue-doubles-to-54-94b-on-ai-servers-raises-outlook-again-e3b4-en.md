@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g5bcbadb54afa28356b083645bac52580
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Dell reported third-quarter revenue of $54.94 billion, up 103% from a year earlier and above the $49.32 billion analysts had estimated, Reuters reported. The company also raised its full-year revenue and profit forecasts for the third time this year, after what it described as record quarterly results driven by surging demand for AI servers. The numbers suggest data-center spending on AI hardware is still accelerating rather than flattening. The report, as summarized, gives no split between AI server revenue and Dell's other infrastructure and PC businesses, and no figures for the new guidance ranges.
+Dell reported third-quarter revenue of $54.94 billion, up 103% from a year earlier and above the $49.32 billion analysts had estimated, Reuters reported. The company also raised its full-year revenue and profit forecasts for the third time this year, after what it described as record quarterly results driven by surging demand for AI servers.
+
+The numbers suggest data-center spending on AI hardware is still accelerating rather than flattening. The report, as summarized, gives no split between AI server revenue and Dell's other infrastructure and PC businesses, and no figures for the new guidance ranges.
 
 </div>
 

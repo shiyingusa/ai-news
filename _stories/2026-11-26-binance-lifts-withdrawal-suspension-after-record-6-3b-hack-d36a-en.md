@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Binance said on Thursday that its recovery work is complete and that it has fully lifted the withdrawal suspension it imposed after a record $6.3 billion was stolen in a hack last month, Reuters reported. The step restores normal withdrawal access for customers of the exchange, which had blocked withdrawals while it worked through the aftermath of the theft. The report gives no figure for how much of the stolen funds was recovered, no account of whether customer balances were made whole, and no detail on what security changes were made.
+Binance said on Thursday that its recovery work is complete and that it has fully lifted the withdrawal suspension it imposed after a record $6.3 billion was stolen in a hack last month, Reuters reported. The step restores normal withdrawal access for customers of the exchange, which had blocked withdrawals while it worked through the aftermath of the theft.
+
+The report gives no figure for how much of the stolen funds was recovered, no account of whether customer balances were made whole, and no detail on what security changes were made.
 
 </div>
 

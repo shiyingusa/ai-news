@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The US Commerce Department issued an interim rule that requires firms to obtain export licenses for AI chips when the hardware may provide compute to China or other restricted countries, extending controls beyond physical shipments to remote access. Bloomberg reported that the rule specifically targets remote access to some AI chips and servers from Singapore, Malaysia, Thailand, Indonesia and Brazil. The available source excerpts do not specify the rule's effective date, the license criteria, or whether a public comment period applies.
+The US Commerce Department issued an interim rule that requires firms to obtain export licenses for AI chips when the hardware may provide compute to China or other restricted countries, extending controls beyond physical shipments to remote access. Bloomberg reported that the rule specifically targets remote access to some AI chips and servers from Singapore, Malaysia, Thailand, Indonesia and Brazil.
+
+The available source excerpts do not specify the rule's effective date, the license criteria, or whether a public comment period applies.
 
 </div>
 

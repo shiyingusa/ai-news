@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gc5cf336d1ab1bd93469b06736f8fa232
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tencent's Hy4 Flash is a low-cost, fast model that early users are trying through OpenRouter, a service that routes requests to multiple model providers, with mixed task-level results. In a Plotly data-analytics benchmark cited by commenter chriddyp, it beat GPT-6 Luna on the cheap-and-accurate end and cost $0.13 to answer 43 questions, versus about $20 for high-end frontier models. Commenters also describe its pricing as cheaper than DeepSeek 1017 and GPT-6 Luna, but one user reports more translation errors than DeepSeek 4.1 Flash 1017. These figures and comparisons come from users, not an independent evaluation or a Tencent specification.
+Tencent's Hy4 Flash is a low-cost, fast model that early users are trying through OpenRouter, a service that routes requests to multiple model providers, with mixed task-level results. In a Plotly data-analytics benchmark cited by commenter chriddyp, it beat GPT-6 Luna on the cheap-and-accurate end and cost $0.13 to answer 43 questions, versus about $20 for high-end frontier models.
+
+Commenters also describe its pricing as cheaper than DeepSeek 1017 and GPT-6 Luna, but one user reports more translation errors than DeepSeek 4.1 Flash 1017. These figures and comparisons come from users, not an independent evaluation or a Tencent specification.
 
 </div>
 
@@ -56,13 +58,17 @@ For developers running high-volume analytics or other narrow tasks, the reported
 
 Whether Tencent releases Hy4 Flash's weights: commenter chriddyp says that would make it and regular Hy4 the only open models on the analytics exam he runs.
 
-## Community discussion
-
-The most detailed positive report is chriddyp's Plotly benchmark, which claims strong cheap-and-accurate performance; edtechdev's translation errors and ddxv's price comparison frame the debate as task-specific quality versus cost. Another commenter reports using Hy4 Flash through OpenRouter in place of DeepSeek Flash with good results, but these are individual experiences, not a consensus.
-
 ## Further reading
 
 - [Tencent Hy 4 flash Benchmark Results for Data Analysis](https://plotly.com/blog/hy4-flash-plotly-data-analytics-bench/)
 - [tencent / Hy 4 - flash · Hugging Face](https://huggingface.co/tencent/Hy4-flash)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+The most detailed positive report is chriddyp's Plotly benchmark, which claims strong cheap-and-accurate performance; edtechdev's translation errors and ddxv's price comparison frame the debate as task-specific quality versus cost. Another commenter reports using Hy4 Flash through OpenRouter in place of DeepSeek Flash with good results, but these are individual experiences, not a consensus.
+
+</div>
 
 {% endraw %}

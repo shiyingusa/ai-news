@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-美国联邦地区法官洛伦·阿里汗（Loren AliKhan）发布初步禁令，阻止联邦通信委员会（FCC）提前审查ABC的广播牌照，并驳回FCC要求撤销ABC第一修正案诉讼的请求。ABC指控FCC因其播出内容而对其展开报复性行动，法官在裁定中认为ABC“很可能在报复指控上胜诉”。ABC的牌照原定2028年才续期，但FCC此前在4月要求该台提前提交牌照申请。这项裁定目前只是初步禁令，并非对案件实体的最终判决。
+美国联邦地区法官洛伦·阿里汗（Loren AliKhan）发布初步禁令，阻止联邦通信委员会（FCC）提前审查ABC的广播牌照，并驳回FCC要求撤销ABC第一修正案诉讼的请求。ABC指控FCC因其播出内容而对其展开报复性行动，法官在裁定中认为ABC“很可能在报复指控上胜诉”。
+
+ABC的牌照原定2028年才续期，但FCC此前在4月要求该台提前提交牌照申请。这项裁定目前只是初步禁令，并非对案件实体的最终判决。
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gecd88b4a78bde43bdc81e8926b0c582c
 {% raw %}
 <div class="story-lead" markdown="1">
 
-沃尔玛正在推出一项已投入实际运行的 Agent Gateway 服务，允许 Meta 的 AI 代理 Muse 通过沃尔玛的 Sparky 助手替用户寻找并购买黑色星期五商品。沃尔玛表示，Agent Gateway 能让 AI 代理找到相关商品，又不必共享用户的购买历史。Muse 的购买行为通过“Agent Profiles”完成，该功能在用户的沃尔玛账户内为代理活动提供独立空间，用户可设置消费上限、逐笔批准购买，并查看 Muse 买下的所有商品记录。沃尔玛称这是其上月宣布的 Agent Gateway 的首次实际部署，目前正在逐步铺开，报道未说明复盖多少用户或何时全面开放。
+沃尔玛正在推出一项已投入实际运行的 Agent Gateway 服务，允许 Meta 的 AI 代理 Muse 通过沃尔玛的 Sparky 助手替用户寻找并购买黑色星期五商品。沃尔玛表示，Agent Gateway 能让 AI 代理找到相关商品，又不必共享用户的购买历史。
+
+Muse 的购买行为通过“Agent Profiles”完成，该功能在用户的沃尔玛账户内为代理活动提供独立空间，用户可设置消费上限、逐笔批准购买，并查看 Muse 买下的所有商品记录。沃尔玛称这是其上月宣布的 Agent Gateway 的首次实际部署，目前正在逐步铺开，报道未说明复盖多少用户或何时全面开放。
 
 </div>
 

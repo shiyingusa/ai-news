@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g7fcc9e23dd465fbec57ddd8da14c38eb
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 Politico 报道，Meta 已向英国成年人推出个人 AI 代理 Muse，用于协助处理日常任务。报道称，Meta 是首家在英国推出 AI 代理的大型科技公司；英国监管机构此前已就这类代理发出警告，并将密切关注此次上线。报道未说明 Muse 的具体功能、收费方式，以及是否覆盖英国所有成年人。
+据 Politico 报道，Meta 已向英国成年人推出个人 AI 代理 Muse，用于协助处理日常任务。报道称，Meta 是首家在英国推出 AI 代理的大型科技公司；英国监管机构此前已就这类代理发出警告，并将密切关注此次上线。
+
+报道未说明 Muse 的具体功能、收费方式，以及是否覆盖英国所有成年人。
 
 </div>
 

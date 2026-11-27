@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g26e6c7b78083a14e2ad28adc258c2ecb
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Helus Pharma said Monday that its psychedelic drug candidate HLP003 significantly reduced depression scores in a Phase 3 trial, but the study also recorded a number of serious adverse events, which the company has not detailed publicly. Patients stayed on their standard antidepressants and received one dose of HLP003 on day one and a second three weeks later. At six weeks, the treatment group's score on the MADRS depression scale fell 19.5 points versus 11.9 points for placebo; at 12 weeks the reductions were 16.9 and 9.9 points, and the company says all differences between groups were statistically significant. The figures come from a company announcement, not a peer-reviewed paper or a regulator's review, so the size, cause and frequency of the serious adverse events remain unknown.
+Helus Pharma said Monday that its psychedelic drug candidate HLP003 significantly reduced depression scores in a Phase 3 trial, but the study also recorded a number of serious adverse events, which the company has not detailed publicly. Patients stayed on their standard antidepressants and received one dose of HLP003 on day one and a second three weeks later.
+
+At six weeks, the treatment group's score on the MADRS depression scale fell 19.5 points versus 11.9 points for placebo; at 12 weeks the reductions were 16.9 and 9.9 points, and the company says all differences between groups were statistically significant. The figures come from a company announcement, not a peer-reviewed paper or a regulator's review, so the size, cause and frequency of the serious adverse events remain unknown.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g5742ff3a01a0edf2aa7896a2bc86d503
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 ServeTheHome 报道，Lambda 披露其一个生产集群已部署共封装光学（co-packaged optics，CPO，即把光引擎与交换芯片封装在同一基板上，替代可插拔光模块），GPU 规模超过 1 万块，NVIDIA 同时被列为该部署的相关方，报道称这是业界首个公开披露的 CPO 生产集群。报道的表述重点是「首个披露」，即此前没有运营商公开承认在量产环境中使用 CPO，而不是说这是首台可用的 CPO 设备。该报道未给出交换平台型号、端口速率、功耗对比或故障率等技术数据，也没有第三方测试或 NVIDIA、Lambda 之外的独立核实。
+据 ServeTheHome 报道，Lambda 披露其一个生产集群已部署共封装光学（co-packaged optics，CPO，即把光引擎与交换芯片封装在同一基板上，替代可插拔光模块），GPU 规模超过 1 万块，NVIDIA 同时被列为该部署的相关方，报道称这是业界首个公开披露的 CPO 生产集群。报道的表述重点是「首个披露」，即此前没有运营商公开承认在量产环境中使用 CPO，而不是说这是首台可用的 CPO 设备。
+
+该报道未给出交换平台型号、端口速率、功耗对比或故障率等技术数据，也没有第三方测试或 NVIDIA、Lambda 之外的独立核实。
 
 </div>
 

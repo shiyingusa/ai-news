@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8b88624586942f02f7d70560cba7c58c
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI says its frontier models improved power, performance, and area (PPA — the three trade-offs that define a chip design's efficiency) by up to 14% on AMD's flagship GPU IP, working alongside AMD engineers over less than five months. OpenAI characterizes that as roughly a year's worth of typical optimization progress, and says AMD has already folded some of the model-suggested changes into a design it sent to manufacturing. The result is a vendor-reported figure from OpenAI's own blog post rather than an independent measurement, and the post does not specify which GPU, which design stage, or how the baseline was set. The Decoder notes Anthropic is also applying AI models to chip work, targeting cost and performance per dollar.
+OpenAI says its frontier models improved power, performance, and area (PPA — the three trade-offs that define a chip design's efficiency) by up to 14% on AMD's flagship GPU IP, working alongside AMD engineers over less than five months. OpenAI characterizes that as roughly a year's worth of typical optimization progress, and says AMD has already folded some of the model-suggested changes into a design it sent to manufacturing.
+
+The result is a vendor-reported figure from OpenAI's own blog post rather than an independent measurement, and the post does not specify which GPU, which design stage, or how the baseline was set. The Decoder notes Anthropic is also applying AI models to chip work, targeting cost and performance per dollar.
 
 </div>
 

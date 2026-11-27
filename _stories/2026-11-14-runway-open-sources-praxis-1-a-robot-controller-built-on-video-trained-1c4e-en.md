@@ -29,7 +29,9 @@ description: "Runway released Praxis-1, a robotics model published with open wei
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Runway released Praxis-1, a robotics model published with open weights and source code under the Apache 2.0 license, which the company says adapts knowledge learned from video training into robot control. According to the report, Praxis-1 leads the World Action Model category on Nvidia's RoboLab-120 benchmark. The stated limitation is that the model cannot yet plan complex action sequences on its own, so it acts as a controller rather than an autonomous task planner. The Decoder's coverage is brief and the benchmark placement is attributed to the release rather than described as an independent evaluation.
+Runway released Praxis-1, a robotics model published with open weights and source code under the Apache 2.0 license, which the company says adapts knowledge learned from video training into robot control. According to the report, Praxis-1 leads the World Action Model category on Nvidia's RoboLab-120 benchmark.
+
+The stated limitation is that the model cannot yet plan complex action sequences on its own, so it acts as a controller rather than an autonomous task planner. The Decoder's coverage is brief and the benchmark placement is attributed to the release rather than described as an independent evaluation.
 
 </div>
 

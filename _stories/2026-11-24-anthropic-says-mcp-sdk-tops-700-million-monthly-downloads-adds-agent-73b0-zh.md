@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4e61d8d4b097236d149097b7a908b1e3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic 表示，其 MCP（Model Context Protocol，模型上下文协议，一套让 AI 模型连接外部工具与数据源的接口标准）的 SDK 月下载量已超过 7 亿次，此时距该协议发布约两年。公司同时为该协议扩展了新功能，包括后台任务、向用户提出后续问题以及文件上传，目的是让 Claude 更独立地完成任务。这些下载数字与功能描述均出自 Anthropic 自身的说法，由 The Decoder 报道，报道未给出具体版本号、各功能的开放时间或可用范围，也没有第三方对这些数字的核验。
+Anthropic 表示，其 MCP（Model Context Protocol，模型上下文协议，一套让 AI 模型连接外部工具与数据源的接口标准）的 SDK 月下载量已超过 7 亿次，此时距该协议发布约两年。公司同时为该协议扩展了新功能，包括后台任务、向用户提出后续问题以及文件上传，目的是让 Claude 更独立地完成任务。
+
+这些下载数字与功能描述均出自 Anthropic 自身的说法，由 The Decoder 报道，报道未给出具体版本号、各功能的开放时间或可用范围，也没有第三方对这些数字的核验。
 
 </div>
 

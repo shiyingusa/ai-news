@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g2b7f8ce38c058b3b6d880bbeed954572
 {% raw %}
 <div class="story-lead" markdown="1">
 
-ReportURI said Tuesday it identified 178 websites — including CNN, Zoom, the BBC and Salesforce — that served visitors malicious JavaScript delivered from Optimizely's content delivery domain, cdn.optimizely.com. The code carried a valid certificate for that domain and had been inserted into the portion of each customer's Optimizely snippet, the personalized JavaScript that runs on every page a customer serves. The payloads swapped cryptocurrency wallet addresses in visitors' browsers, skimmed payment card data, stole cookies and screenshots, and served iOS exploit kits named Coruna and DarkSword to iPhones and iPads. Optimizely has not publicly described how the code was written into customer snippets; the researchers' figures come from their own scanning, not from the company.
+ReportURI said Tuesday it identified 178 websites — including CNN, Zoom, the BBC and Salesforce — that served visitors malicious JavaScript delivered from Optimizely's content delivery domain, cdn.optimizely.com. The code carried a valid certificate for that domain and had been inserted into the portion of each customer's Optimizely snippet, the personalized JavaScript that runs on every page a customer serves.
+
+The payloads swapped cryptocurrency wallet addresses in visitors' browsers, skimmed payment card data, stole cookies and screenshots, and served iOS exploit kits named Coruna and DarkSword to iPhones and iPads. Optimizely has not publicly described how the code was written into customer snippets; the researchers' figures come from their own scanning, not from the company.
 
 </div>
 

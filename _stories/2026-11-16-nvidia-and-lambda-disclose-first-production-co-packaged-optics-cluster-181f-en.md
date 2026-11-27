@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g5742ff3a01a0edf2aa7896a2bc86d503
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NVIDIA and Lambda disclosed what the report calls the first production co-packaged optics (CPO) cluster, with Lambda saying it has CPO deployed in a cluster of more than 10,000 GPUs. The report does not specify which NVIDIA switch or GPU models are used, the optical port speeds, or when the deployment became operational. The claim rests on Lambda's disclosure; no independent measurement or third-party verification is included.
+NVIDIA and Lambda disclosed what the report calls the first production co-packaged optics (CPO) cluster, with Lambda saying it has CPO deployed in a cluster of more than 10,000 GPUs. The report does not specify which NVIDIA switch or GPU models are used, the optical port speeds, or when the deployment became operational.
+
+The claim rests on Lambda's disclosure; no independent measurement or third-party verification is included.
 
 </div>
 

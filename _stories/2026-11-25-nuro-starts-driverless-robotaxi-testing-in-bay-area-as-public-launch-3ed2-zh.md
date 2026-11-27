@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g2d14126927c00a6961dc0a96e5d189a3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 Electrek 报道，Nuro 已在旧金山湾区四个半岛和南湾城市启动无安全员的 Lucid Gravity 机器人出租车公共道路测试，Lucid 已为该项目交付超过 100 辆 Gravity SUV。面向公众的 Uber 叫车服务原定 2026 年推出，现预计推迟到 2027 年第一季度。当前阶段是测试而非商业运营；报道未披露具体城市、监管许可状态或远程监控安排。
+据 Electrek 报道，Nuro 已在旧金山湾区四个半岛和南湾城市启动无安全员的 Lucid Gravity 机器人出租车公共道路测试，Lucid 已为该项目交付超过 100 辆 Gravity SUV。面向公众的 Uber 叫车服务原定 2026 年推出，现预计推迟到 2027 年第一季度。
+
+当前阶段是测试而非商业运营；报道未披露具体城市、监管许可状态或远程监控安排。
 
 </div>
 

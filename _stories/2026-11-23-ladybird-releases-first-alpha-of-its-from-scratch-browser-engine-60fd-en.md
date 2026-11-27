@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g26b80ec4dac2aa9e750c4633ed621739
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Ladybird project released its first alpha on 23 November 2026, so macOS and Linux users can now install the browser without compiling it themselves. The engine implements its own HTML parsing, CSS, layout, JavaScript and WebAssembly, borrowing external components only for text shaping (HarfBuzz), 2D graphics (Skia), video (ffmpeg) and SQLite, and it runs separate tabs in separate processes. The project warns that some sites will not work and that it makes "no promises about security today", inviting security researchers to attack it and users to file crash and broken-site reports from inside the browser. One early tester reported that most sites he tried rendered correctly, including ffmpeg compiled to WebAssembly and a Pyodide Python REPL, though Datasette Lite failed on a missing `navigator.serviceWorker.startMessages` function.
+The Ladybird project released its first alpha on 23 November 2026, so macOS and Linux users can now install the browser without compiling it themselves. The engine implements its own HTML parsing, CSS, layout, JavaScript and WebAssembly, borrowing external components only for text shaping (HarfBuzz), 2D graphics (Skia), video (ffmpeg) and SQLite, and it runs separate tabs in separate processes.
+
+The project warns that some sites will not work and that it makes "no promises about security today", inviting security researchers to attack it and users to file crash and broken-site reports from inside the browser. One early tester reported that most sites he tried rendered correctly, including ffmpeg compiled to WebAssembly and a Pyodide Python REPL, though Datasette Lite failed on a missing `navigator.serviceWorker.startMessages` function.
 
 </div>
 

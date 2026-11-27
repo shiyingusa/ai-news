@@ -29,7 +29,9 @@ description: "Canada has announced just over $634 million to expand electric-veh
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Canada has announced just over $634 million to expand electric-vehicle charging infrastructure and grid capacity, with the charging funding intended to roughly double the more than 50,000 chargers supported through existing federal programs. The government is pairing that with a national electricity strategy that targets more than $50 billion to double Canada's grid capacity by 2050. The item describes announced investment and targets, not completed construction or measured charger counts; it does not give a timeline for the charging expansion or specify how the money will be split.
+Canada has announced just over $634 million to expand electric-vehicle charging infrastructure and grid capacity, with the charging funding intended to roughly double the more than 50,000 chargers supported through existing federal programs. The government is pairing that with a national electricity strategy that targets more than $50 billion to double Canada's grid capacity by 2050.
+
+The item describes announced investment and targets, not completed construction or measured charger counts; it does not give a timeline for the charging expansion or specify how the money will be split.
 
 </div>
 

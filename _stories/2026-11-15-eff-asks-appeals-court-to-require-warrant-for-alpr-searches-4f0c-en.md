@@ -30,7 +30,9 @@ description: "EFF has filed a brief asking an appeals court to hold that searchi
 {% raw %}
 <div class="story-lead" markdown="1">
 
-EFF has filed a brief asking an appeals court to hold that searching a networked license-plate reader (ALPR) system is a Fourth Amendment search, which would require a warrant. EFF argues that the “vast, interconnected network” of ALPR cameras continuously tracks drivers around the country. The filing is advocacy, not a court ruling, and no court has yet decided whether such searches require a warrant.
+EFF has filed a brief asking an appeals court to hold that searching a networked license-plate reader (ALPR) system is a Fourth Amendment search, which would require a warrant. EFF argues that the “vast, interconnected network” of ALPR cameras continuously tracks drivers around the country.
+
+The filing is advocacy, not a court ruling, and no court has yet decided whether such searches require a warrant.
 
 </div>
 
@@ -55,13 +57,17 @@ A ruling in EFF’s favor would require law enforcement to obtain a warrant befo
 
 Watch for the appeals court’s decision on whether to require a warrant for ALPR database searches. The item gives no case name, argument date, or expected ruling date.
 
-## Community discussion
-
-Commenters broadly supported EFF’s argument, with several saying ALPR systems should retain only plates tied to active warrants. One commenter cited New Hampshire’s law, which bars bulk collection, limits capture to plates, and requires deletion of non-hit images within three minutes.
-
 ## Further reading
 
 - [ALPR in the Courts - DeFlockILM](https://deflockilm.org/alpr-cameras-in-the-courts/)
 - [Hearing Thursday: EFF Urges Appeals Court to... | PressReleasePoint](https://www.pressreleasepoint.com/hearing-thursday-eff-urges-appeals-court-curb-police-access-alpr-databases)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters broadly supported EFF’s argument, with several saying ALPR systems should retain only plates tied to active warrants. One commenter cited New Hampshire’s law, which bars bulk collection, limits capture to plates, and requires deletion of non-hit images within three minutes.
+
+</div>
 
 {% endraw %}

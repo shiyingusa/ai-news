@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 The Decoder 报道，OpenAI 首次允许四家独立审计机构直接接触其未发布模型、源代码和训练数据，已知机构包括 Apollo Research 和 METR。这些“嵌入式”审查旨在发现隐藏的不当行为和安全缺口。报道同时指出，OpenAI 可以删改或延迟审计报告，因此这项监督的实际独立性仍待观察。由于报道未引用 OpenAI 的原始公告，四家机构的具体身份和审计范围也尚未完全公开。
+据 The Decoder 报道，OpenAI 首次允许四家独立审计机构直接接触其未发布模型、源代码和训练数据，已知机构包括 Apollo Research 和 METR。这些“嵌入式”审查旨在发现隐藏的不当行为和安全缺口。
+
+报道同时指出，OpenAI 可以删改或延迟审计报告，因此这项监督的实际独立性仍待观察。由于报道未引用 OpenAI 的原始公告，四家机构的具体身份和审计范围也尚未完全公开。
 
 </div>
 

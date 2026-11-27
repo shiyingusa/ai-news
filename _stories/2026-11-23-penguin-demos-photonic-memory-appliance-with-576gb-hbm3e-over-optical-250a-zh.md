@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6bfe2d1092857576dd1009aa756611a1
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Penguin Solutions 在 SC26 超算展上展出了 MemoryAI Photonic Appliance——一台通过光纤链路挂在主机之外的 AI 内存扩展设备：最高 576GB HBM3E 加 16TB DDR5，整机聚合带宽目标 7.2 TB/s（双向各约 3.6 TB/s），走 CXL.mem 3.1 协议、最远 30 米。它基于 Marvell 的 Photonic Fabric 架构，用 8 个 Photonic Fabric 内存模块（PFMM），每模块含 72GB HBM3E 缓存和一个 16 发 16 收、每通道 224 Gbps 的光互连中介层；主机侧可选 PCIe 6.0/CXL 3.1 的光子网卡（PF-NIC，单口最高 2 Tbps、延迟低于 350ns，不含 PCIe/CXL 开销），或把光子 chiplet 直接集成进 XPU（最高 14.4 Tbps、延迟低于 200ns）。Penguin 称应用无需修改即可透明访问外部内存，但客户样品要到 2027 年下半年，且目前没有任何实测性能数据。一个关键限制是：Nvidia 与 AMD 的数据中心 GPU 普遍不支持通用 CXL.mem 主机接口，因此这套方案现阶段只能服务支持 CXL.mem 的 CPU、定制 XPU 或集成 Marvell 光子 chiplet 的加速器。
+Penguin Solutions 在 SC26 超算展上展出了 MemoryAI Photonic Appliance——一台通过光纤链路挂在主机之外的 AI 内存扩展设备：最高 576GB HBM3E 加 16TB DDR5，整机聚合带宽目标 7.2 TB/s（双向各约 3.6 TB/s），走 CXL.mem 3.1 协议、最远 30 米。它基于 Marvell 的 Photonic Fabric 架构，用 8 个 Photonic Fabric 内存模块（PFMM），每模块含 72GB HBM3E 缓存和一个 16 发 16 收、每通道 224 Gbps 的光互连中介层；主机侧可选 PCIe 6.0/CXL 3.1 的光子网卡（PF-NIC，单口最高 2 Tbps、延迟低于 350ns，不含 PCIe/CXL 开销），或把光子 chiplet 直接集成进 XPU（最高 14.4 Tbps、延迟低于 200ns）。
+
+Penguin 称应用无需修改即可透明访问外部内存，但客户样品要到 2027 年下半年，且目前没有任何实测性能数据。一个关键限制是：Nvidia 与 AMD 的数据中心 GPU 普遍不支持通用 CXL.mem 主机接口，因此这套方案现阶段只能服务支持 CXL.mem 的 CPU、定制 XPU 或集成 Marvell 光子 chiplet 的加速器。
 
 </div>
 

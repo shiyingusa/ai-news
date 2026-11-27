@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g7fcc9e23dd465fbec57ddd8da14c38eb
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Meta has rolled out its personal AI agent Muse to adults in the UK, with Politico describing it as the first AI agent from a Big Tech company to launch in the country. The agent is pitched at helping with everyday tasks, but the report does not say which tasks it handles, what it costs, or which platforms it runs on. UK watchdogs have warned about AI agents, and Politico reports that regulators will be watching the Muse rollout closely.
+Meta has rolled out its personal AI agent Muse to adults in the UK, with Politico describing it as the first AI agent from a Big Tech company to launch in the country. The agent is pitched at helping with everyday tasks, but the report does not say which tasks it handles, what it costs, or which platforms it runs on.
+
+UK watchdogs have warned about AI agents, and Politico reports that regulators will be watching the Muse rollout closely.
 
 </div>
 

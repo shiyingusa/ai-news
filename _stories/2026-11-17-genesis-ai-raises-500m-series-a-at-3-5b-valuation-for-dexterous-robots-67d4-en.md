@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g0e502b43897bd4e2723493b4b0b6b9bb
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Paris-based Genesis AI said it has raised a $500 million Series A at a $3.5 billion valuation, as reported by the Wall Street Journal, to build a general-purpose robot with greater dexterity for warehouses and homes. CEO Zhou Xian said the company is "working to build the world's best general-purpose robot," and the funding announcement describes its approach to training dexterous robots as novel. The available account names no investors, gives no technical benchmarks, and reports no deployments or units shipped, so the dexterity and general-purpose claims are stated ambitions rather than demonstrated or measured results.
+Paris-based Genesis AI said it has raised a $500 million Series A at a $3.5 billion valuation, as reported by the Wall Street Journal, to build a general-purpose robot with greater dexterity for warehouses and homes. CEO Zhou Xian said the company is "working to build the world's best general-purpose robot," and the funding announcement describes its approach to training dexterous robots as novel.
+
+The available account names no investors, gives no technical benchmarks, and reports no deployments or units shipped, so the dexterity and general-purpose claims are stated ambitions rather than demonstrated or measured results.
 
 </div>
 

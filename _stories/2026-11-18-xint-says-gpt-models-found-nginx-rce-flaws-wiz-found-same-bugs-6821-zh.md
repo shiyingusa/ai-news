@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gc7b5dcc9c6d79872eab79e6dcd3c3aa5
 {% raw %}
 <div class="story-lead" markdown="1">
 
-受DARPA（美国国防高级研究计划局）资助的网络安全公司Xint向《福布斯》表示，其AI系统借助GPT 6.1 Sol和GPT-6 Luna两个模型，在广泛使用的Web服务器Nginx中发现了远程代码执行漏洞（RCE，指攻击者可远程在服务器上运行任意代码），并称该AI还在找出其他类型的缺陷。另一家安全公司Wiz称，它独立发现了同一批Nginx漏洞。报道未给出CVE编号、受影响版本、触发条件或修复方案，两家公司的说法均来自其自身，尚无第三方复核。
+受DARPA（美国国防高级研究计划局）资助的网络安全公司Xint向《福布斯》表示，其AI系统借助GPT 6.1 Sol和GPT-6 Luna两个模型，在广泛使用的Web服务器Nginx中发现了远程代码执行漏洞（RCE，指攻击者可远程在服务器上运行任意代码），并称该AI还在找出其他类型的缺陷。另一家安全公司Wiz称，它独立发现了同一批Nginx漏洞。
+
+报道未给出CVE编号、受影响版本、触发条件或修复方案，两家公司的说法均来自其自身，尚无第三方复核。
 
 </div>
 

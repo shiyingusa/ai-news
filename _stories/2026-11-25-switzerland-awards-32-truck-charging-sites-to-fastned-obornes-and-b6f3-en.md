@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g588e8b57e4eea5a7c49aa01cdc840e82
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Switzerland's Federal Roads Office (FEDRO) has awarded the 32 locations it tendered in January 2026 for truck charging along national roads to three companies, split into lots: Lot 1 to Fastned, Lot 2 to Obornes and Lot 3 to Milence. Together the sites are to host 82 charging stations for heavy-duty electric trucks. The report gives no charging capacity, construction start, completion date or pricing for the stations, so the network exists so far only as an award rather than working infrastructure.
+Switzerland's Federal Roads Office (FEDRO) has awarded the 32 locations it tendered in January 2026 for truck charging along national roads to three companies, split into lots: Lot 1 to Fastned, Lot 2 to Obornes and Lot 3 to Milence. Together the sites are to host 82 charging stations for heavy-duty electric trucks.
+
+The report gives no charging capacity, construction start, completion date or pricing for the stations, so the network exists so far only as an award rather than working infrastructure.
 
 </div>
 

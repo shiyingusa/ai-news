@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g41cdbb19ebc9297694af72d3e3a80846
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Jordan's Ministry of Energy and Mineral Resources said at the inaugural Jordan-EU Investment Conference last week that it will invite private investors early next year to build a 200 MW solar plant and a 100 MW/400 MWh battery energy storage system (BESS). Both would run on a build-own-operate model, with state-owned National Electric Power Company buying the solar output and acting as beneficiary of the storage project. The ministry puts the solar plant at roughly $100 million to $130 million of investment, with an initial prequalification request expected in February 2027, and the BESS at $70 million to $90 million, with prequalification expected in March 2027. Project locations have not been announced, and the two projects sit inside a wider package that also includes a 100 MW wind project, a 450 MW pumped-storage hydropower plant, shared infrastructure for green hydrogen and green ammonia, and natural gas projects.
+Jordan's Ministry of Energy and Mineral Resources said at the inaugural Jordan-EU Investment Conference last week that it will invite private investors early next year to build a 200 MW solar plant and a 100 MW/400 MWh battery energy storage system (BESS). Both would run on a build-own-operate model, with state-owned National Electric Power Company buying the solar output and acting as beneficiary of the storage project.
+
+The ministry puts the solar plant at roughly $100 million to $130 million of investment, with an initial prequalification request expected in February 2027, and the BESS at $70 million to $90 million, with prequalification expected in March 2027. Project locations have not been announced, and the two projects sit inside a wider package that also includes a 100 MW wind project, a 450 MW pumped-storage hydropower plant, shared infrastructure for green hydrogen and green ammonia, and natural gas projects.
 
 </div>
 

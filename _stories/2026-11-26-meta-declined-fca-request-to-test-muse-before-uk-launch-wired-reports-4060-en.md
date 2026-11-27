@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g37f56b44b313bdaa8c82cce08859192b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Meta declined a UK Financial Conduct Authority (FCA) request to jointly test its personal agent Muse before launching it in the UK on Tuesday, WIRED reported. The FCA warned that AI agents could become “another force of attack,” according to the report. The account does not detail the testing the regulator sought, Meta’s reasons for refusing, or any specific vulnerability in Muse.
+Meta declined a UK Financial Conduct Authority (FCA) request to jointly test its personal agent Muse before launching it in the UK on Tuesday, WIRED reported. The FCA warned that AI agents could become “another force of attack,” according to the report.
+
+The account does not detail the testing the regulator sought, Meta’s reasons for refusing, or any specific vulnerability in Muse.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g2ad067e13f1f0137bbfe0185f20d9eaa
 {% raw %}
 <div class="story-lead" markdown="1">
 
-For mathematicians and theoretical computer scientists, Scott Aaronson argues that a recent wave of AI-assisted work has solved dozens of long-open problems, a shift he frames as a major moment for the field. The post points to a paper titled "The matrix multiplication exponent is nine fourths" and discusses LLMs and the Lean proof assistant. The evidence is commentary and linked papers, not a released system; independent verification of the Lean proofs remains the key caveat.
+For mathematicians and theoretical computer scientists, Scott Aaronson argues that a recent wave of AI-assisted work has solved dozens of long-open problems, a shift he frames as a major moment for the field. The post points to a paper titled "The matrix multiplication exponent is nine fourths" and discusses LLMs and the Lean proof assistant.
+
+The evidence is commentary and linked papers, not a released system; independent verification of the Lean proofs remains the key caveat.
 
 </div>
 
@@ -56,10 +58,6 @@ For working mathematicians, the constraint moves from producing an argument to c
 
 Independent verification of the Lean proofs and peer review of the claimed results, including the matrix multiplication exponent paper.
 
-## Community discussion
-
-Commenters debated whether the progress owes more to LLMs or to years of work on Lean and MathLib plus compute, and some argued that discrepancies between Lean and informal proofs are a substantive concern rather than a triviality. Others hoped the impact stays confined to verifiable math tasks.
-
 ## Further reading
 
 - [Computational complexity of matrix multiplication - Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_matrix_multiplication)
@@ -68,5 +66,13 @@ Commenters debated whether the progress owes more to LLMs or to years of work on
 - [2026-11-23 — GPT-6.2 Astra produces machine-verifiable Lean proof of Smoktunowicz's gap theorem](https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/)
 - [2026-11-23 — Blog post on 17-million-line Lean artifact sparks LLM proof debate](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
 - [OpenAI Math Repository Formalizes About 42% in Lean [ 2026 ]](https://tech-insider.org/openai-math-papers-lean-verification-42-percent-2026/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters debated whether the progress owes more to LLMs or to years of work on Lean and MathLib plus compute, and some argued that discrepancies between Lean and informal proofs are a substantive concern rather than a triviality. Others hoped the impact stays confined to verifiable math tasks.
+
+</div>
 
 {% endraw %}

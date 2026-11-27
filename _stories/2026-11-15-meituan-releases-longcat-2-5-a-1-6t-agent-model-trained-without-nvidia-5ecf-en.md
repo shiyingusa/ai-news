@@ -30,7 +30,9 @@ description: "Meituan has published the weights of LongCat-2.5, a 1.6-trillion-p
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Meituan has published the weights of LongCat-2.5, a 1.6-trillion-parameter model built for agent tasks, and says it was trained entirely on Chinese hardware with no Nvidia GPUs involved. Meituan reports a score of 88.4 on Terminal Bench, a benchmark for command-line agent work, placing it just behind Claude Opus 5. The published sample deployment runs on 194 Huawei Ascend chips, according to The Decoder's report, which does not give the exact Opus 5 score, the size or duration of the training run, or the license terms attached to the weights.
+Meituan has published the weights of LongCat-2.5, a 1.6-trillion-parameter model built for agent tasks, and says it was trained entirely on Chinese hardware with no Nvidia GPUs involved. Meituan reports a score of 88.4 on Terminal Bench, a benchmark for command-line agent work, placing it just behind Claude Opus 5.
+
+The published sample deployment runs on 194 Huawei Ascend chips, according to The Decoder's report, which does not give the exact Opus 5 score, the size or duration of the training run, or the license terms attached to the weights.
 
 </div>
 

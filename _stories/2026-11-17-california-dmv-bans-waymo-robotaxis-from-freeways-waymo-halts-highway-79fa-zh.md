@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-加州机动车管理局（DMV）11月17日下令，无限期禁止Waymo的无人驾驶出租车在加州高速公路上行驶，理由是认定其高速运营对公共安全构成“迫在眉睫的危险”（imminent hazard to public safety）。触发这一决定的是网上广泛传播的一段视频：一辆Waymo未能向公路巡警让行，并试图通过警方设置的封锁线。Waymo随后暂停了全国范围的高速公路运营；加州的限制将持续，直到公司能证明自己已采取“有效的纠正措施”解决相关缺陷。
+加州机动车管理局（DMV）11月17日下令，无限期禁止Waymo的无人驾驶出租车在加州高速公路上行驶，理由是认定其高速运营对公共安全构成“迫在眉睫的危险”（imminent hazard to public safety）。触发这一决定的是网上广泛传播的一段视频：一辆Waymo未能向公路巡警让行，并试图通过警方设置的封锁线。
+
+Waymo随后暂停了全国范围的高速公路运营；加州的限制将持续，直到公司能证明自己已采取“有效的纠正措施”解决相关缺陷。
 
 </div>
 

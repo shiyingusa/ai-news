@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Nvidia has privately warned its customers that pending US legislation on Chinese companies remotely accessing its AI chips could expose those buyers to US legal action, according to CNBC, which cites unnamed sources. The warning concerns the proposed Remote Access Security Act, a bill aimed at Chinese firms reaching Nvidia chips remotely — for example through overseas data centres or cloud access — rather than buying them directly. The legislation is still a proposal, not enacted law, so no legal exposure exists yet; the report describes Nvidia's interpretation of the bill as conveyed to customers, not a government enforcement position. CNBC does not say whether the warning was written or verbal, which customers received it, or what specific conduct or penalties Nvidia flagged.
+Nvidia has privately warned its customers that pending US legislation on Chinese companies remotely accessing its AI chips could expose those buyers to US legal action, according to CNBC, which cites unnamed sources. The warning concerns the proposed Remote Access Security Act, a bill aimed at Chinese firms reaching Nvidia chips remotely — for example through overseas data centres or cloud access — rather than buying them directly.
+
+The legislation is still a proposal, not enacted law, so no legal exposure exists yet; the report describes Nvidia's interpretation of the bill as conveyed to customers, not a government enforcement position. CNBC does not say whether the warning was written or verbal, which customers received it, or what specific conduct or penalties Nvidia flagged.
 
 </div>
 

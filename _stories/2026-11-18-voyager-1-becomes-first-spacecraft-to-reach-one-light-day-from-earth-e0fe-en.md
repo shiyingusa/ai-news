@@ -31,7 +31,11 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NASA's Voyager 1 became the first human-made object to reach one light-day from Earth on Nov. 18 at 5:16 a.m. EST, at a distance of about 16.1 billion miles (26 billion kilometers) — the distance light travels in 24 hours. Because radio waves travel at light speed, commands sent through NASA's Deep Space Network now take a full 24 hours to arrive and another 24 hours for a reply, so a command-and-response cycle lasts two days. Voyager project scientist Linda Spilker called it "a very special moment" and confirmed the spacecraft is the first to cross that threshold. The probe is moving at roughly 38,000 mph (61,155 kph) through interstellar space and remains within the Sun's gravitational influence, so it has not left the solar system despite crossing the heliopause in 2012.
+NASA's Voyager 1 became the first human-made object to reach one light-day from Earth on Nov. 18 at 5:16 a.m. EST, at a distance of about 16.1 billion miles (26 billion kilometers) — the distance light travels in 24 hours.
+
+Because radio waves travel at light speed, commands sent through NASA's Deep Space Network now take a full 24 hours to arrive and another 24 hours for a reply, so a command-and-response cycle lasts two days. Voyager project scientist Linda Spilker called it "a very special moment" and confirmed the spacecraft is the first to cross that threshold.
+
+The probe is moving at roughly 38,000 mph (61,155 kph) through interstellar space and remains within the Sun's gravitational influence, so it has not left the solar system despite crossing the heliopause in 2012.
 
 </div>
 

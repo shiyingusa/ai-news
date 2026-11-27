@@ -32,7 +32,9 @@ description: "GGML, the open-source C tensor library that sits underneath llama.
 <p class="correction-note"><strong>Correction, Nov 15, 2026:</strong> An earlier version of this summary said no release notes were available, which contradicted the background section, and attributed a memory-offloading feature for MoE models to this release based only on user comments. The summary now reflects the published release notes and labels user reports as such.</p>
 <div class="story-lead" markdown="1">
 
-GGML, the open-source C tensor library that sits underneath llama.cpp and many other local-inference tools, has tagged version 1.0.0, its first 1.x release, on GitHub. Release coverage and a SourceForge mirror of the release notes describe the tag as the project's move to formal semantic versioning, with deprecated public APIs and legacy DIAG_MASK operators removed and FP8 support and configurable YaRN truncation added; we could not confirm those notes against the GitHub release page itself. Users in the discussion describe steady gains rather than a single leap, with one reporting 5 to 10 percent speed improvements from monthly upgrades.
+GGML, the open-source C tensor library that sits underneath llama.cpp and many other local-inference tools, has tagged version 1.0.0, its first 1.x release, on GitHub. Release coverage and a SourceForge mirror of the release notes describe the tag as the project's move to formal semantic versioning, with deprecated public APIs and legacy DIAG_MASK operators removed and FP8 support and configurable YaRN truncation added; we could not confirm those notes against the GitHub release page itself.
+
+Users in the discussion describe steady gains rather than a single leap, with one reporting 5 to 10 percent speed improvements from monthly upgrades.
 
 </div>
 
@@ -44,15 +46,19 @@ GGML is the C tensor library that supplies the low-level math kernels and hardwa
 
 Users report that for builders whose mixture-of-experts model slightly exceeds VRAM, keeping less-used experts in host memory (a feature they discuss alongside this release, not one the release notes list) means the model loads and runs instead of failing — but the payoff is conditional: it depends on expert weights sitting in pinned host memory (Windows pinning limits can stop the cache from activating), on PCIe bandwidth, and on having enough cache slots to avoid thrashing, and an independent test on a PCIe 3.0 system found it roughly tied with the merged cache. Because ggml reaches hardware through dedicated backends, users on non-CUDA cards, such as Vulkan-only AMD GPUs, remain covered by the same release.
 
-## Community discussion
-
-Commenters frame the project as the quiet infrastructure of local AI: one user reports that a 50K-token prompt benchmark improved from 4:22 to 3:59 after upgrading, attributing much of the gain to faster prefill with the remainder in token generation, while another praises that GGML-based software remains usable on an older AMD card limited to Vulkan. A third user highlights the practical memory behavior for MoE models that slightly exceed GPU capacity, describing expert offloading to host memory as a load-saving fallback rather than a guarantee of speed.
-
 ## Further reading
 
 - [ggml - Browse /v1.0.0 at SourceForge.net](https://sourceforge.net/projects/ggml.mirror/files/v1.0.0/)
 - [ggml-org Releases llama.cpp v1.0.0 and ggml v1.0.0 with ...](https://af.net/realtime/ggml-org-releases-llama-cpp-v1-0-0-and-ggml-v1-0-0-with-strict-semantic-versioning/)
 - [llama . cpp Just Made Huge MoE Models 4× Faster - YouTube](https://www.youtube.com/watch?v=ohp15NcKDhA)
 - [llama . cpp v 1 . 0 . 0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters frame the project as the quiet infrastructure of local AI: one user reports that a 50K-token prompt benchmark improved from 4:22 to 3:59 after upgrading, attributing much of the gain to faster prefill with the remainder in token generation, while another praises that GGML-based software remains usable on an older AMD card limited to Vulkan. A third user highlights the practical memory behavior for MoE models that slightly exceed GPU capacity, describing expert offloading to host memory as a load-saving fallback rather than a guarantee of speed.
+
+</div>
 
 {% endraw %}

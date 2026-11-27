@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g2b7f8ce38c058b3b6d880bbeed954572
 {% raw %}
 <div class="story-lead" markdown="1">
 
-安全研究机构 ReportURI 称，网站个性化平台 Optimizely 下发的、带有有效数字签名的 JavaScript 被篡改，使 178 个使用该平台的网站——包括 CNN、Zoom、BBC 和 Salesforce——向访客投递多用途恶意代码。该脚本从 cdn.optimizely.com 加载，攻击者把恶意内容写进客户自定义代码所在的部分；它会替换加密货币钱包地址、窃取支付卡数据、Cookie 和截图，并针对 iPhone/iPad 投递名为 Coruna 和 DarkSword 的漏洞利用套件。上述发现来自 ReportURI 的单方调查，报道正文的计数是 178 个，标题则称“数百个”。
+安全研究机构 ReportURI 称，网站个性化平台 Optimizely 下发的、带有有效数字签名的 JavaScript 被篡改，使 178 个使用该平台的网站——包括 CNN、Zoom、BBC 和 Salesforce——向访客投递多用途恶意代码。该脚本从 cdn.optimizely.com 加载，攻击者把恶意内容写进客户自定义代码所在的部分；它会替换加密货币钱包地址、窃取支付卡数据、Cookie 和截图，并针对 iPhone/iPad 投递名为 Coruna 和 DarkSword 的漏洞利用套件。
+
+上述发现来自 ReportURI 的单方调查，报道正文的计数是 178 个，标题则称“数百个”。
 
 </div>
 

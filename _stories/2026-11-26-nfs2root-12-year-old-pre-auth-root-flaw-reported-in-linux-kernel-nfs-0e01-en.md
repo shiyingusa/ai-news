@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g11c9e2a4bd8e7d61bc05d3f08adb0336
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A writeup published on opensec.in under the name "nfs2root" (CVE-2026-99362) describes a pre-authentication remote root vulnerability in the Linux kernel's NFS server that the author says went unnoticed for 12 years. If accurate, an attacker who can reach an exposed NFS service could gain root-level access without first authenticating. As of the discussion around the report, no proof-of-concept code had been posted and the flaw had not been independently reproduced, so the severity rests on the author's account rather than a public exploit. Commenters reading the report believe it concerns NFS 4.1 and 4.2 rather than all NFS versions, which would narrow the set of affected servers.
+A writeup published on opensec.in under the name "nfs2root" (CVE-2026-99362) describes a pre-authentication remote root vulnerability in the Linux kernel's NFS server that the author says went unnoticed for 12 years. If accurate, an attacker who can reach an exposed NFS service could gain root-level access without first authenticating.
+
+As of the discussion around the report, no proof-of-concept code had been posted and the flaw had not been independently reproduced, so the severity rests on the author's account rather than a public exploit. Commenters reading the report believe it concerns NFS 4.1 and 4.2 rather than all NFS versions, which would narrow the set of affected servers.
 
 </div>
 
@@ -56,10 +58,6 @@ Operators running kernel NFS servers that answer NFS 4.1 or 4.2 should treat int
 
 Watch for kernel updates or distribution advisories referencing CVE-2026-99362, and for a public proof-of-concept or independent reproduction, which would settle the open questions about affected versions and reachability.
 
-## Community discussion
-
-Commenters focused on mitigation rather than the flaw's mechanics: one reported running NFSv4 behind spiped, another proposed the version-disable workaround above and checked which clients actually used 4.1 or 4.2 first, and a third pointed out that no proof-of-concept had been published — an assessment of the disclosure, not evidence the bug is harmless. A side thread argued the episode shows AI-assisted code review finding long-lived bugs that human review missed.
-
 ## Further reading
 
 - [CVE-2026-99362 - Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2026-99362)
@@ -67,5 +65,13 @@ Commenters focused on mitigation rather than the flaw's mechanics: one reported 
 - [CVE-2026-99362 - Vulnerability Details - OpenCVE](https://app.opencve.io/cve/CVE-2026-99362)
 - [NFS2ROOT ( CVE - 2026 - 99362 ): pre-auth root in Linux nfsd | OpenSec](https://opensec.in/blog/nfs2root-cve-2026-99362)
 - [Nfs2root: A 12-year-old pre-auth remote root in the... | Hacker News](https://news.ycombinator.com/item?id=50647161)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters focused on mitigation rather than the flaw's mechanics: one reported running NFSv4 behind spiped, another proposed the version-disable workaround above and checked which clients actually used 4.1 or 4.2 first, and a third pointed out that no proof-of-concept had been published — an assessment of the disclosure, not evidence the bug is harmless. A side thread argued the episode shows AI-assisted code review finding long-lived bugs that human review missed.
+
+</div>
 
 {% endraw %}

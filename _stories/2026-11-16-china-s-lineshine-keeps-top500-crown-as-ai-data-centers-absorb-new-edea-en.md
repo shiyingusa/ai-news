@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6fa95f884118875b425c9bd78270394e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-China's LineShine remains the world's fastest supercomputer on the 68th Top500 list, published at SC26 in Chicago, sustaining 2.198 FP64 exaflops on the High Performance Linpack benchmark at 42.22 MW. The machine at the National Supercomputer Center in Shenzhen is CPU-only, built on the homegrown LingKun platform with 304-core Arm-based LX2 processors at 1.55 GHz (13,789,440 cores total) and a proprietary LingQi interconnect. Neither the top 10 nor the 10 most energy-efficient systems changed position since June, and only 27 machines (5.4%) are new entries — the fewest since the ranking began in 1993 — which the Top500 authors attribute to new hardware going to AI data centers rather than traditional supercomputers. Aggregate HPL performance rose 4.4% to 19.57 exaflops, while the entry threshold climbed 7.3% to 2.857 petaflops.
+China's LineShine remains the world's fastest supercomputer on the 68th Top500 list, published at SC26 in Chicago, sustaining 2.198 FP64 exaflops on the High Performance Linpack benchmark at 42.22 MW. The machine at the National Supercomputer Center in Shenzhen is CPU-only, built on the homegrown LingKun platform with 304-core Arm-based LX2 processors at 1.55 GHz (13,789,440 cores total) and a proprietary LingQi interconnect.
+
+Neither the top 10 nor the 10 most energy-efficient systems changed position since June, and only 27 machines (5.4%) are new entries — the fewest since the ranking began in 1993 — which the Top500 authors attribute to new hardware going to AI data centers rather than traditional supercomputers. Aggregate HPL performance rose 4.4% to 19.57 exaflops, while the entry threshold climbed 7.3% to 2.857 petaflops.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g1b21ec993ee43da0a9373c7c157fa53c
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Xpeng reported third-quarter 2026 revenue of approximately €3.1 billion, up 19.1% from the same period a year earlier, according to its quarterly results as reported by electrive. The company said the technology partnership with Volkswagen contributed to growth once again, alongside its own vehicle business. Xpeng remains loss-making for the quarter; the report does not give a net loss figure, delivery numbers or a timeline for reaching profitability.
+Xpeng reported third-quarter 2026 revenue of approximately €3.1 billion, up 19.1% from the same period a year earlier, according to its quarterly results as reported by electrive. The company said the technology partnership with Volkswagen contributed to growth once again, alongside its own vehicle business.
+
+Xpeng remains loss-making for the quarter; the report does not give a net loss figure, delivery numbers or a timeline for reaching profitability.
 
 </div>
 

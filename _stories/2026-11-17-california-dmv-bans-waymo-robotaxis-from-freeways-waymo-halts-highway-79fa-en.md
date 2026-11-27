@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The California Department of Motor Vehicles barred Waymo's robotaxis from operating on state freeways, determining that the company's highway operations pose "an imminent hazard to public safety," according to a San Francisco Business Times report aggregated by Techmeme. The restriction is indefinite and stays in place until Waymo can show it has taken "effective corrective actions" to fix the cited deficiencies. The trigger was a viral video in which a Waymo vehicle failed to yield to highway patrol; Electrek described the footage as a Waymo attempting to pass a police blockade. Waymo responded by pulling its vehicles from highways nationwide, not just in California, so freeway routes are suspended in every market where it had been running them.
+The California Department of Motor Vehicles barred Waymo's robotaxis from operating on state freeways, determining that the company's highway operations pose "an imminent hazard to public safety," according to a San Francisco Business Times report aggregated by Techmeme. The restriction is indefinite and stays in place until Waymo can show it has taken "effective corrective actions" to fix the cited deficiencies.
+
+The trigger was a viral video in which a Waymo vehicle failed to yield to highway patrol; Electrek described the footage as a Waymo attempting to pass a police blockade. Waymo responded by pulling its vehicles from highways nationwide, not just in California, so freeway routes are suspended in every market where it had been running them.
 
 </div>
 

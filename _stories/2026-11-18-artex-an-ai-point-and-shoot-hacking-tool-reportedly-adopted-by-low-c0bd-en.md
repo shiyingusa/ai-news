@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-WIRED reports that Artex, an AI-driven penetration-testing tool, lets people with little technical background scan target systems for vulnerabilities and carry out attacks by feeding prompts to a chatbot. The magazine describes it as one of a set of "point-and-shoot" hacking tools that inexperienced criminals are reportedly adopting. The account does not name the underlying AI model or the tool's makers, give a release date or price, or measure how reliably the attacks succeed.
+WIRED reports that Artex, an AI-driven penetration-testing tool, lets people with little technical background scan target systems for vulnerabilities and carry out attacks by feeding prompts to a chatbot. The magazine describes it as one of a set of "point-and-shoot" hacking tools that inexperienced criminals are reportedly adopting.
+
+The account does not name the underlying AI model or the tool's makers, give a release date or price, or measure how reliably the attacks succeed.
 
 </div>
 

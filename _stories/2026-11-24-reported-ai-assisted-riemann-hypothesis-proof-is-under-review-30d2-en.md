@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-News reports last week said a mathematician used AI to help produce a proof of the Riemann hypothesis, the mid-1800s conjecture about the distribution of prime numbers that pure mathematicians rank among the most important open problems in the field. Ars Technica's account, published November 24, names neither the mathematician nor the AI system, links no preprint, and does not say how much of the argument the model generated versus the person. The article states that mathematicians are still digesting the proof, which means the hypothesis stays formally unproven until specialists check the argument.
+News reports last week said a mathematician used AI to help produce a proof of the Riemann hypothesis, the mid-1800s conjecture about the distribution of prime numbers that pure mathematicians rank among the most important open problems in the field. Ars Technica's account, published November 24, names neither the mathematician nor the AI system, links no preprint, and does not say how much of the argument the model generated versus the person.
+
+The article states that mathematicians are still digesting the proof, which means the hypothesis stays formally unproven until specialists check the argument.
 
 </div>
 

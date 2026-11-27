@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-United Launch Alliance confirmed on Nov. 17 that its Nov. 15 return-to-flight Vulcan Centaur launch, carrying 40 Amazon Leo internet satellites, failed: the vehicle "experienced low booster performance" just after liftoff, so stage separation happened too low and too slow to reach orbit, and telemetry and the mission were lost about 10 minutes into flight. ULA said the Centaur V upper stage and the solid rocket boosters performed nominally, including the redesigned booster nozzles that had shed on two earlier flights, but the upper stage could not recover from the booster shortfall. The company has not identified the specific fault in the first-stage booster, which is powered by two Blue Origin BE-4 engines; Ars Technica, citing unnamed sources, reports the investigation is complex and that the failure may not ultimately trace to the BE-4. Vulcan has now flown five times since debuting in January 2024, with problems on three of those missions, and all 40 satellites were lost.
+United Launch Alliance confirmed on Nov. 17 that its Nov. 15 return-to-flight Vulcan Centaur launch, carrying 40 Amazon Leo internet satellites, failed: the vehicle "experienced low booster performance" just after liftoff, so stage separation happened too low and too slow to reach orbit, and telemetry and the mission were lost about 10 minutes into flight. ULA said the Centaur V upper stage and the solid rocket boosters performed nominally, including the redesigned booster nozzles that had shed on two earlier flights, but the upper stage could not recover from the booster shortfall.
+
+The company has not identified the specific fault in the first-stage booster, which is powered by two Blue Origin BE-4 engines; Ars Technica, citing unnamed sources, reports the investigation is complex and that the failure may not ultimately trace to the BE-4. Vulcan has now flown five times since debuting in January 2024, with problems on three of those missions, and all 40 satellites were lost.
 
 </div>
 

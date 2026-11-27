@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g47d5709a4a78d62769dff550b95fc03f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI is switching ChatGPT's chat tab to a new default model, GPT-6.2 Sol, and rolling it out worldwide. The company says the model handles complex, multi-part everyday instructions correctly 78.1 percent of the time and scores 71.7 percent on its internal image-understanding test, up from 47.4 percent for the model it replaces. OpenAI also claims the model adheres to its safety policies more consistently. All of these figures come from OpenAI's own testing; the report gives no methodology, no date for full rollout, and no word on API access or whether users can still select the previous default.
+OpenAI is switching ChatGPT's chat tab to a new default model, GPT-6.2 Sol, and rolling it out worldwide. The company says the model handles complex, multi-part everyday instructions correctly 78.1 percent of the time and scores 71.7 percent on its internal image-understanding test, up from 47.4 percent for the model it replaces.
+
+OpenAI also claims the model adheres to its safety policies more consistently. All of these figures come from OpenAI's own testing; the report gives no methodology, no date for full rollout, and no word on API access or whether users can still select the previous default.
 
 </div>
 

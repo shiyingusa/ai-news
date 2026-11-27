@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Lucid cut its cash burn by 30% in the third quarter of 2026 compared with the previous quarter, according to electrive. Saudi Arabia’s Public Investment Fund (PIF) is adding $1.75 billion in financing to the electric-vehicle maker. The report does not give the investment’s terms, structure, or disbursement schedule, or say how much runway the new money provides.
+Lucid cut its cash burn by 30% in the third quarter of 2026 compared with the previous quarter, according to electrive. Saudi Arabia’s Public Investment Fund (PIF) is adding $1.75 billion in financing to the electric-vehicle maker.
+
+The report does not give the investment’s terms, structure, or disbursement schedule, or say how much runway the new money provides.
 
 </div>
 

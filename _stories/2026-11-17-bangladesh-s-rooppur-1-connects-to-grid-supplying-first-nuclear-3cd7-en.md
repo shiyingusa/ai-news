@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Rooppur 1, Bangladesh's first nuclear power unit, has been connected to the national grid and supplied its first electricity, according to World Nuclear News. The report establishes that the unit is now feeding power into the country's network, a step distinct from full commercial operation. The brief trade-press account gives no capacity figure, construction cost, fuel-loading date or schedule for commercial operation, so the size of the addition to Bangladesh's generation mix is not yet documented in the supplied material.
+Rooppur 1, Bangladesh's first nuclear power unit, has been connected to the national grid and supplied its first electricity, according to World Nuclear News. The report establishes that the unit is now feeding power into the country's network, a step distinct from full commercial operation.
+
+The brief trade-press account gives no capacity figure, construction cost, fuel-loading date or schedule for commercial operation, so the size of the addition to Bangladesh's generation mix is not yet documented in the supplied material.
 
 </div>
 

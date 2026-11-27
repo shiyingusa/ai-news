@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gec19706d414ff82c6c093db33c75c394
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Financial Times reported, citing unnamed sources, that SpaceX and Tesla are negotiating an all-stock merger valued at $3.5 trillion, a combination that would be the largest merger on record if completed. The talks are being overseen by two special committees—board groups meant to handle conflicts—of five directors described as "disinterested," all of whom have ties to Elon Musk, according to the report. The all-stock structure would pay shareholders in shares rather than cash. The report gives no timeline or regulatory-review details, and the account rests on unnamed sources rather than company confirmation.
+The Financial Times reported, citing unnamed sources, that SpaceX and Tesla are negotiating an all-stock merger valued at $3.5 trillion, a combination that would be the largest merger on record if completed. The talks are being overseen by two special committees—board groups meant to handle conflicts—of five directors described as "disinterested," all of whom have ties to Elon Musk, according to the report.
+
+The all-stock structure would pay shareholders in shares rather than cash. The report gives no timeline or regulatory-review details, and the account rests on unnamed sources rather than company confirmation.
 
 </div>
 

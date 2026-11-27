@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g294ac28901c67a9d5c056981a0298874
 {% raw %}
 <div class="story-lead" markdown="1">
 
-一篇安全分析报告称，uBlock Origin 存在通用 XSS（universal XSS，即攻击者可借一个网站影响其他站点的脚本执行）漏洞，问题出在其由网页内容驱动的元素选择器（element picker）上。评论区读者指出，仍在使用旧版的用户应升级到 uBlock Origin 1.75.4 或 uBO Lite 2026.1110.1816 及以上版本，但这些版本号来自社区评论，所给材料中没有官方公告加以确认。讨论还涉及扩展程序把界面注入网页 DOM 所带来的隐私风险，以及安装广告拦截器后可能反而成为网站识别用户的一种指纹信号。
+一篇安全分析报告称，uBlock Origin 存在通用 XSS（universal XSS，即攻击者可借一个网站影响其他站点的脚本执行）漏洞，问题出在其由网页内容驱动的元素选择器（element picker）上。评论区读者指出，仍在使用旧版的用户应升级到 uBlock Origin 1.75.4 或 uBO Lite 2026.1110.1816 及以上版本，但这些版本号来自社区评论，所给材料中没有官方公告加以确认。
+
+讨论还涉及扩展程序把界面注入网页 DOM 所带来的隐私风险，以及安装广告拦截器后可能反而成为网站识别用户的一种指纹信号。
 
 </div>
 
@@ -56,10 +58,6 @@ uBlock Origin 的元素选择器通常由用户右键点击页面元素调出，
 
 关注 uBlock Origin 维护者是否发布正式安全公告，明确受影响版本范围，并确认修复已进入各扩展商店的稳定版本。
 
-## 社区讨论
-
-有评论者质疑，扩展程序为实现元素选择、密码管理器建议等功能而把界面放进网页 DOM，可能把用户拥有哪些账户等信息暴露给网站；也有人担心安装广告拦截器后暴露的 UUID 会成为稳定的追踪标识。另有读者提出，把创建规则的界面放在浏览器界面层而不是网页 DOM 中，或许能从结构上避免这类问题。
-
 ## 延伸阅读
 
 - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
@@ -68,5 +66,13 @@ uBlock Origin 的元素选择器通常由用户右键点击页面元素调出，
 - [Universal XSS from website-driven element picker](https://github.com/gorhill/uBlock/security/advisories/GHSA-cmqw-9r2w-6wv2)
 - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 - [Universal XSS in uBlock Origin from website-driven element picker](https://techbytes.app/posts/universal-xss-in-ublock-origin-from-website-driven-element-picker/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+有评论者质疑，扩展程序为实现元素选择、密码管理器建议等功能而把界面放进网页 DOM，可能把用户拥有哪些账户等信息暴露给网站；也有人担心安装广告拦截器后暴露的 UUID 会成为稳定的追踪标识。另有读者提出，把创建规则的界面放在浏览器界面层而不是网页 DOM 中，或许能从结构上避免这类问题。
+
+</div>
 
 {% endraw %}

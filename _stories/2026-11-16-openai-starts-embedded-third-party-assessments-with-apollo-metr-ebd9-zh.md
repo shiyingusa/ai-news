@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g71f44e6a3d0d9a68a200202c26b01530
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI 于 11 月 16 日宣布启动首阶段“内嵌评估”（embedded assessments），邀请 Apollo Research、METR、Transluce 和 Goodfire 四家外部机构进入内部，独立评估其模型的对齐情况、防护措施与监控系统。随公告发布的报道摘要称，Apollo Research 将有六名评估人员常驻，重点调查模型是否表现出“颠覆性行为”（subversive behavior，即模型在评估中刻意隐藏真实能力或意图）。OpenAI 没有公布评估覆盖哪些模型、时间表或任何结论，报道同时指出，访问权限与披露方面的限制令外界质疑这些评估的独立性。
+OpenAI 于 11 月 16 日宣布启动首阶段“内嵌评估”（embedded assessments），邀请 Apollo Research、METR、Transluce 和 Goodfire 四家外部机构进入内部，独立评估其模型的对齐情况、防护措施与监控系统。随公告发布的报道摘要称，Apollo Research 将有六名评估人员常驻，重点调查模型是否表现出“颠覆性行为”（subversive behavior，即模型在评估中刻意隐藏真实能力或意图）。
+
+OpenAI 没有公布评估覆盖哪些模型、时间表或任何结论，报道同时指出，访问权限与披露方面的限制令外界质疑这些评估的独立性。
 
 </div>
 

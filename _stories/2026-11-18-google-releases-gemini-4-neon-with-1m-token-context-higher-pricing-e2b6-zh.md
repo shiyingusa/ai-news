@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-谷歌发布新一代前沿模型 Gemini 4 Neon，面向复杂软件工程、知识工作和科学工作流，支持文本、图像、视频、音频和 PDF 输入，上下文窗口为 100 万 token。该模型已通过 API、Antigravity 和 Gemini 应用上线，定价为每百万输入 token 3 美元、每百万输出 token 15 美元，高于此前几款 Gemini 4 模型。The Decoder 称这是谷歌一个月内发布的第四款新 Gemini 模型。谷歌对能力的描述是“快速完成端到端任务”，但公布的博客摘要中没有给出基准测试分数或与竞品的对比数据。
+谷歌发布新一代前沿模型 Gemini 4 Neon，面向复杂软件工程、知识工作和科学工作流，支持文本、图像、视频、音频和 PDF 输入，上下文窗口为 100 万 token。该模型已通过 API、Antigravity 和 Gemini 应用上线，定价为每百万输入 token 3 美元、每百万输出 token 15 美元，高于此前几款 Gemini 4 模型。
+
+The Decoder 称这是谷歌一个月内发布的第四款新 Gemini 模型。谷歌对能力的描述是“快速完成端到端任务”，但公布的博客摘要中没有给出基准测试分数或与竞品的对比数据。
 
 </div>
 
@@ -56,14 +58,18 @@ Gemini 4 是谷歌当前的一代模型系列，按 The Decoder 的说法，Neon
 
 值得关注 Artificial Analysis 等独立评测平台把 Neon 与 Carbon 放在同一量表上的结果，尤其是 CritPt 这类研究级推理评测中的得分变化，以判断“总分更高、特定前沿任务更弱”的定位是否成立。
 
-## 社区讨论
-
-Hacker News 上最集中的抱怨是命名混乱：评论者称业界同时存在 Sol、Astra、Neon、Carbon、Opus、Fable、Mythos、Haiku 等名字，普通用户很难把它们对应到具体用途，希望厂商尽快固定一套命名。另有人认为 Neon 综合分虽高，但 Carbon 仍被定位为长时程模型，在 CritPt 类研究型评测上得分反而更低；也有人表示实际使用中谷歌模型仍不如 Opus 5.5“像同事”，这些均为个人主观体验。
-
 ## 本事件的相关报道
 
 - 2026-11-18 · The Decoder: [Google ships Gemini 4 Neon, its fourth new Gemini model in a month](https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/)
 - 2026-11-18 · Google: [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 - 2026-11-18 · Google DeepMind: [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+Hacker News 上最集中的抱怨是命名混乱：评论者称业界同时存在 Sol、Astra、Neon、Carbon、Opus、Fable、Mythos、Haiku 等名字，普通用户很难把它们对应到具体用途，希望厂商尽快固定一套命名。另有人认为 Neon 综合分虽高，但 Carbon 仍被定位为长时程模型，在 CritPt 类研究型评测上得分反而更低；也有人表示实际使用中谷歌模型仍不如 Opus 5.5“像同事”，这些均为个人主观体验。
+
+</div>
 
 {% endraw %}

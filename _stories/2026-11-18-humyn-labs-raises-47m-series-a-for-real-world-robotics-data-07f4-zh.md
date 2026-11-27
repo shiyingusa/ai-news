@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gbc4e76c678fdf7e701c192cace789d67
 {% raw %}
 <div class="story-lead" markdown="1">
 
-物理 AI 数据公司 Humyn Labs 于11月18日宣布完成4700万美元 A 轮融资，其中2600万美元为 Accel 领投的股权融资，Prosus Ventures、Jump Trading、Dallas Venture Capital 等参投；另外2100万美元为 Lighthouse Canton 领投、Trifecta Capital 参与的风险债。公司同时称，运营六个月年化收入已超过5000万美元。Humyn Labs 用自研采集设备记录人完成具体工种的视、听、触、动四类数据，再经其数据引擎转成带来源标注、可直接训练的数据集，采集网络覆盖20多个国家，主要在拉美、东南亚、南亚和东亚。本轮资金将用于在巴西、韩国、印度搭建“部署就绪”基础设施，改进采集硬件与数据加工引擎，并在旧金山、伦敦、首尔设立团队。
+物理 AI 数据公司 Humyn Labs 于11月18日宣布完成4700万美元 A 轮融资，其中2600万美元为 Accel 领投的股权融资，Prosus Ventures、Jump Trading、Dallas Venture Capital 等参投；另外2100万美元为 Lighthouse Canton 领投、Trifecta Capital 参与的风险债。公司同时称，运营六个月年化收入已超过5000万美元。
+
+Humyn Labs 用自研采集设备记录人完成具体工种的视、听、触、动四类数据，再经其数据引擎转成带来源标注、可直接训练的数据集，采集网络覆盖20多个国家，主要在拉美、东南亚、南亚和东亚。本轮资金将用于在巴西、韩国、印度搭建“部署就绪”基础设施，改进采集硬件与数据加工引擎，并在旧金山、伦敦、首尔设立团队。
 
 </div>
 

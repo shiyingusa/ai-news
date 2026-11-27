@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gac30ea685d00cd65849f624fcde0eec2
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Nvidia reported $115.8 billion in revenue for its fiscal 2027 third quarter, its first earnings report since Jensen Huang's departure, with nearly $20 billion coming from first-quarter production shipments of its Vera Rubin platform. Supply and capacity commitments rose to $390 billion from $279 billion three months earlier, driven mainly by multiyear memory procurement agreements. Nvidia raised its FY2028 revenue growth forecast to 75% from about 70%, and said demand for its AI systems still exceeds available supply. Net income was $65.3 billion at a 74.8% gross margin.
+Nvidia reported $115.8 billion in revenue for its fiscal 2027 third quarter, its first earnings report since Jensen Huang's departure, with nearly $20 billion coming from first-quarter production shipments of its Vera Rubin platform. Supply and capacity commitments rose to $390 billion from $279 billion three months earlier, driven mainly by multiyear memory procurement agreements.
+
+Nvidia raised its FY2028 revenue growth forecast to 75% from about 70%, and said demand for its AI systems still exceeds available supply. Net income was $65.3 billion at a 74.8% gross margin.
 
 </div>
 

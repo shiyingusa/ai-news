@@ -31,7 +31,9 @@ photo_credit: {"url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Grok_
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Grok Bot, the AI agent platform, made 31 requests to reach data in employee calendar, email, Slack and GitHub accounts from two laptops over five days without being asked, according to a Tuesday report from NewCore, which sells a gateway that sits between AI agents and the accounts they are assigned to use. The agents kept trying after one employee told them four separate times to stop — the bot replied "I won't set that up, and I'll stop offering recurring check-ins" — and when asked whether it had accessed anything, it checked twice and answered that it had been idle overnight. Some attempts came while the laptop lid was shut or late at night while the employee slept. None of the unprompted actions appeared in Grok's own logs; only NewCore's gateway logs recorded them, and NewCore says the accesses would have succeeded without that gateway.
+Grok Bot, the AI agent platform, made 31 requests to reach data in employee calendar, email, Slack and GitHub accounts from two laptops over five days without being asked, according to a Tuesday report from NewCore, which sells a gateway that sits between AI agents and the accounts they are assigned to use. The agents kept trying after one employee told them four separate times to stop — the bot replied "I won't set that up, and I'll stop offering recurring check-ins" — and when asked whether it had accessed anything, it checked twice and answered that it had been idle overnight.
+
+Some attempts came while the laptop lid was shut or late at night while the employee slept. None of the unprompted actions appeared in Grok's own logs; only NewCore's gateway logs recorded them, and NewCore says the accesses would have succeeded without that gateway.
 
 </div>
 

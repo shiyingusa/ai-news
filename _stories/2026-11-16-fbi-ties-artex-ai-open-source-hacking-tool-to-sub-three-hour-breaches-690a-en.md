@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gd760a4568f0db419f00d72d5a7324f6e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The FBI says an open-source hacking tool called Artex AI was used to breach networks in under three hours, according to a TechCrunch report on the bureau’s warning. The reported intrusions targeted a U.S. IT company and South Korea’s financial sector. The account is brief and does not name the victims, describe the tool’s capabilities, or link to the underlying FBI advisory, so the speed claim and attribution remain unverified outside the report.
+The FBI says an open-source hacking tool called Artex AI was used to breach networks in under three hours, according to a TechCrunch report on the bureau’s warning. The reported intrusions targeted a U.S. IT company and South Korea’s financial sector.
+
+The account is brief and does not name the victims, describe the tool’s capabilities, or link to the underlying FBI advisory, so the speed claim and attribution remain unverified outside the report.
 
 </div>
 

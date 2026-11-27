@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g734998239fdb3e364f59db824bdebaed
 {% raw %}
 <div class="story-lead" markdown="1">
 
-MIT researchers have demonstrated a flapping-wing microrobot that weighs less than a paperclip and carries its own sensors and microcontroller, flying a complex trajectory and landing on a sunflower outside the lab's motion-capture volume, according to a paper published in Science Robotics. The 244-milligram electronics package combines an inertial measurement unit, an optical-flow sensor and a time-of-flight sensor, and the team reports positional errors of only a few centimeters. The robot still receives power from offboard, so untethered outdoor flight and uses such as pollination remain future goals rather than demonstrated capabilities.
+MIT researchers have demonstrated a flapping-wing microrobot that weighs less than a paperclip and carries its own sensors and microcontroller, flying a complex trajectory and landing on a sunflower outside the lab's motion-capture volume, according to a paper published in Science Robotics. The 244-milligram electronics package combines an inertial measurement unit, an optical-flow sensor and a time-of-flight sensor, and the team reports positional errors of only a few centimeters.
+
+The robot still receives power from offboard, so untethered outdoor flight and uses such as pollination remain future goals rather than demonstrated capabilities.
 
 </div>
 

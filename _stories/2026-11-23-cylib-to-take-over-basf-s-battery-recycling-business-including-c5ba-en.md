@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g28638d68080eeae9821bbcf296b19bbd
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Aachen-based battery recycling startup Cylib is acquiring BASF's battery recycling business, a deal that covers two sites in Schwarzheide (Brandenburg) and BASF's North American recycling operations. The report describes a signed agreement, with Cylib co-CEOs Gideon Schwich and Lilian Schwich pictured at the signing alongside BASF battery materials president Daniel Schönfelder and senior vice president Lydie Derebreu. The report does not give a purchase price, the recycling capacity involved, or the conditions and timing for closing.
+Aachen-based battery recycling startup Cylib is acquiring BASF's battery recycling business, a deal that covers two sites in Schwarzheide (Brandenburg) and BASF's North American recycling operations. The report describes a signed agreement, with Cylib co-CEOs Gideon Schwich and Lilian Schwich pictured at the signing alongside BASF battery materials president Daniel Schönfelder and senior vice president Lydie Derebreu.
+
+The report does not give a purchase price, the recycling capacity involved, or the conditions and timing for closing.
 
 </div>
 

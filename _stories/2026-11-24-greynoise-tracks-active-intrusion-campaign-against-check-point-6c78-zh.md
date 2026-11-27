@@ -31,7 +31,9 @@ photo_credit: {"url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Check
 {% raw %}
 <div class="story-lead" markdown="1">
 
-GreyNoise 发布博客称，一场针对 Check Point 安全管理服务器（Security Management Server，企业用来集中下发策略、查看日志的管理组件）的入侵活动正在进行，这一说法在安全社区引发较多讨论。现有可见信息中的技术细节很有限：讨论主要集中在攻击者如何取得初始访问权限上，有评论者推测入口是 CVE-2026-16232，并追问受影响的机构是否都把管理服务器直接暴露在互联网上。可见报道没有给出受影响的版本、修复版本、受影响组织数量或攻击者归属。
+GreyNoise 发布博客称，一场针对 Check Point 安全管理服务器（Security Management Server，企业用来集中下发策略、查看日志的管理组件）的入侵活动正在进行，这一说法在安全社区引发较多讨论。现有可见信息中的技术细节很有限：讨论主要集中在攻击者如何取得初始访问权限上，有评论者推测入口是 CVE-2026-16232，并追问受影响的机构是否都把管理服务器直接暴露在互联网上。
+
+可见报道没有给出受影响的版本、修复版本、受影响组织数量或攻击者归属。
 
 </div>
 
@@ -56,10 +58,6 @@ GreyNoise 发布博客称，一场针对 Check Point 安全管理服务器（Sec
 
 关注 Check Point 是否就此事发布安全公告，明确受影响的版本范围与需要升级到的修复版本。
 
-## 社区讨论
-
-有评论者指出，报告并未说清攻击者的初始访问方式，并推测 CVE-2026-16232 可能是入口，同时质疑这些机构是否都让管理服务器可从公网访问。另有评论引用了另一则关于 HFS 服务器会话 cookie 的分析，其中攻击者通过连续登录采集 JavaScript Math.random() 的输出、重建 V8 引擎伪随机数生成器的内部状态，从而伪造管理员会话；该评论者据此主张应从根本上修复不安全的随机数生成器，而不是逐个修补误用它的应用。
-
 ## 延伸阅读
 
 - [Critical Check Point Security Management Vulnerabilities Under...](https://labs.beazley.security/advisories/BSL-A1195)
@@ -68,5 +66,13 @@ GreyNoise 发布博客称，一场针对 Check Point 安全管理服务器（Sec
 - [An Active Intrusion Campaign Against Check Point Security ...](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 - [AI-enabled campaign targets Check Point Security Management ...](https://www.cybersecuritydive.com/news/ai-enabled-campaign-targets-check-point-security-management-servers/875622/)
 - [Check Point Security Management Servers Hacked - SecurityWeek](https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+有评论者指出，报告并未说清攻击者的初始访问方式，并推测 CVE-2026-16232 可能是入口，同时质疑这些机构是否都让管理服务器可从公网访问。另有评论引用了另一则关于 HFS 服务器会话 cookie 的分析，其中攻击者通过连续登录采集 JavaScript Math.random() 的输出、重建 V8 引擎伪随机数生成器的内部状态，从而伪造管理员会话；该评论者据此主张应从根本上修复不安全的随机数生成器，而不是逐个修补误用它的应用。
+
+</div>
 
 {% endraw %}

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge3b3eb3a7944384a8a3ab9062def5a2d
 {% raw %}
 <div class="story-lead" markdown="1">
 
-AWS 于周一发布 Strands Decider v2，这是一组五个“决策模型”（decision models，即针对智能体中的选择、路由一类判断任务调优的模型），全部基于 Google 的 Gemma 4 构建，参数规模从 2B 到 31B，采用 Apache 2.0 许可。据 The New Stack 记者 Frederic Lardinois 报道，此次发布距离 Strands Labs 的上一次发布仅七周。报道只给出了模型家族的数量、底座、参数区间和许可证，没有披露各尺寸的基准成绩、训练数据，也未说明这些模型在 AWS 自家产品中如何分发或托管。
+AWS 于周一发布 Strands Decider v2，这是一组五个“决策模型”（decision models，即针对智能体中的选择、路由一类判断任务调优的模型），全部基于 Google 的 Gemma 4 构建，参数规模从 2B 到 31B，采用 Apache 2.0 许可。据 The New Stack 记者 Frederic Lardinois 报道，此次发布距离 Strands Labs 的上一次发布仅七周。
+
+报道只给出了模型家族的数量、底座、参数区间和许可证，没有披露各尺寸的基准成绩、训练数据，也未说明这些模型在 AWS 自家产品中如何分发或托管。
 
 </div>
 

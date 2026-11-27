@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g28638d68080eeae9821bbcf296b19bbd
 {% raw %}
 <div class="story-lead" markdown="1">
 
-总部位于亚琛的电池回收初创公司 Cylib 将接手巴斯夫的电池回收业务，交易范围包括位于勃兰登堡州施瓦茨海德（Schwarzheide）的两处设施，以及巴斯夫的北美电池回收业务。报道配图说明双方已举行合同签署仪式，出席者包括巴斯夫电池材料业务总裁 Daniel Schönfelder 与 Cylib 两位联合首席执行官 Gideon Schwich、Lilian Schwich。对一个相对年轻的初创公司而言，这是一次体量不小的并购；但报道未披露交易金额、交割条件与时间表，也未说明这些设施的产能规模以及收购后的产能变化。
+总部位于亚琛的电池回收初创公司 Cylib 将接手巴斯夫的电池回收业务，交易范围包括位于勃兰登堡州施瓦茨海德（Schwarzheide）的两处设施，以及巴斯夫的北美电池回收业务。报道配图说明双方已举行合同签署仪式，出席者包括巴斯夫电池材料业务总裁 Daniel Schönfelder 与 Cylib 两位联合首席执行官 Gideon Schwich、Lilian Schwich。
+
+对一个相对年轻的初创公司而言，这是一次体量不小的并购；但报道未披露交易金额、交割条件与时间表，也未说明这些设施的产能规模以及收购后的产能变化。
 
 </div>
 

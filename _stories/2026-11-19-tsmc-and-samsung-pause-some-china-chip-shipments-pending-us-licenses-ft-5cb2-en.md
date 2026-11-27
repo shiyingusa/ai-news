@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-TSMC and Samsung Electronics have suspended some chip shipments to Chinese customers while they apply for licenses from the US Commerce Department, the Financial Times reported, citing unnamed sources. The pause follows new US export controls introduced by the department. The report does not specify which chips, which customers, or how large the affected volumes are, and neither foundry has publicly confirmed the halt.
+TSMC and Samsung Electronics have suspended some chip shipments to Chinese customers while they apply for licenses from the US Commerce Department, the Financial Times reported, citing unnamed sources. The pause follows new US export controls introduced by the department.
+
+The report does not specify which chips, which customers, or how large the affected volumes are, and neither foundry has publicly confirmed the halt.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g54e67d1139ad7b3e5732580304365985
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Researchers at Minohealth, a small AI lab in Accra, Ghana, removed the guardrails from their drug-discovery model in 2024 and asked it to design toxins, Rest of World reports; the work is described as beginning "out of curiosity." The episode has shifted attention to gaps in the regulation of DNA synthesis — the commercial manufacture of made-to-order genetic sequences — rather than to the model itself. The available excerpt does not say what the model actually produced, whether the prompts succeeded, or whether the lab has published a written account, so the finding currently rests on the outlet's reporting alone.
+Researchers at Minohealth, a small AI lab in Accra, Ghana, removed the guardrails from their drug-discovery model in 2024 and asked it to design toxins, Rest of World reports; the work is described as beginning "out of curiosity." The episode has shifted attention to gaps in the regulation of DNA synthesis — the commercial manufacture of made-to-order genetic sequences — rather than to the model itself.
+
+The available excerpt does not say what the model actually produced, whether the prompts succeeded, or whether the lab has published a written account, so the finding currently rests on the outlet's reporting alone.
 
 </div>
 

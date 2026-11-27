@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-New Harvard research, reported by Wired's Molly Taft, finds that the 403 U.S. data centers operating between May 2024 and April 2025 consumed as much electricity over the year as the entire state of Michigan. The count deliberately excludes facilities that run their own off-grid gas plants, so the total is a floor rather than a full accounting of data-center power demand. The item is a short re-report of the Wired story rather than the study itself: no total in terawatt-hours, per-facility breakdown, or methodology is given in the source, and the findings have not been independently checked.
+New Harvard research, reported by Wired's Molly Taft, finds that the 403 U.S. data centers operating between May 2024 and April 2025 consumed as much electricity over the year as the entire state of Michigan. The count deliberately excludes facilities that run their own off-grid gas plants, so the total is a floor rather than a full accounting of data-center power demand.
+
+The item is a short re-report of the Wired story rather than the study itself: no total in terawatt-hours, per-facility breakdown, or methodology is given in the source, and the findings have not been independently checked.
 
 </div>
 

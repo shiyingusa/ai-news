@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Intel announced it will acquire Classiq, a quantum software company whose hardware-agnostic platform lets engineers design, synthesize, optimize, simulate and execute quantum algorithms at a higher level than Intel's own Quantum SDK. Intel says the deal, expected to close in the first half of 2027, would give it a complete stack from silicon spin-qubit chips and cryogenic control electronics to high-level software, and that it plans to make quantum processors using specialized 18A-Q and 18A-CC process variants. No purchase price was disclosed, and Intel acknowledges commercial success will take time; the acquisition has not closed.
+Intel announced it will acquire Classiq, a quantum software company whose hardware-agnostic platform lets engineers design, synthesize, optimize, simulate and execute quantum algorithms at a higher level than Intel's own Quantum SDK. Intel says the deal, expected to close in the first half of 2027, would give it a complete stack from silicon spin-qubit chips and cryogenic control electronics to high-level software, and that it plans to make quantum processors using specialized 18A-Q and 18A-CC process variants.
+
+No purchase price was disclosed, and Intel acknowledges commercial success will take time; the acquisition has not closed.
 
 </div>
 

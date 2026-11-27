@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g0a14a8aede037caeabe7403e6dd9a659
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The FDA has approved Cogent Biosciences' drug bezuclastinib, which will be marketed as Ekitna, for use in combination with Pfizer's older cancer drug Sutent (sunitinib) in advanced gastrointestinal stromal tumors (GIST) — tumors that arise in the digestive tract, most often in the stomach. Cogent won the clearance on November 24, according to STAT, which points to the FDA's own approval notice. The report does not give the trial results behind the decision, the approved dosing, the price, or when the combination will reach patients.
+The FDA has approved Cogent Biosciences' drug bezuclastinib, which will be marketed as Ekitna, for use in combination with Pfizer's older cancer drug Sutent (sunitinib) in advanced gastrointestinal stromal tumors (GIST) — tumors that arise in the digestive tract, most often in the stomach. Cogent won the clearance on November 24, according to STAT, which points to the FDA's own approval notice.
+
+The report does not give the trial results behind the decision, the approved dosing, the price, or when the combination will reach patients.
 
 </div>
 

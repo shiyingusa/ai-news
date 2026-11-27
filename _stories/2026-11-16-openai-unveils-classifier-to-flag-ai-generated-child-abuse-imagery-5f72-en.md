@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g7cb2edd6f676c8509190ca844fc8bafa
 {% raw %}
 <div class="story-lead" markdown="1">
 
-At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of children, including flagging whether an image was AI-generated. The company said it will give vetted organizations free access to the tool, publish additional guidance for developers on detecting this type of content, and help train law enforcement on using AI in investigations. OpenAI did not disclose detection rates, a general availability date, or the criteria organizations must meet to be approved. The announcement describes a program being stood up rather than a tool the public or most developers can use today.
+At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of children, including flagging whether an image was AI-generated. The company said it will give vetted organizations free access to the tool, publish additional guidance for developers on detecting this type of content, and help train law enforcement on using AI in investigations.
+
+OpenAI did not disclose detection rates, a general availability date, or the criteria organizations must meet to be approved. The announcement describes a program being stood up rather than a tool the public or most developers can use today.
 
 </div>
 

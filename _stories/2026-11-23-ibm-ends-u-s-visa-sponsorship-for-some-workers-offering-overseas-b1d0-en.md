@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-IBM has told some of its U.S.-based immigrant employees that it is ending visa and green-card sponsorship, and is offering relocation to another country as an alternative to losing their jobs — an option that can come with a steep pay cut, Rest of World reported. The report, published Nov. 23, says IBM made the decision earlier in the month but does not specify how many employees are affected, which IBM business units or U.S. offices are covered, or how large the pay reductions are. No public statement from IBM on the scope of the change was cited, so the numbers behind it remain unverified.
+IBM has told some of its U.S.-based immigrant employees that it is ending visa and green-card sponsorship, and is offering relocation to another country as an alternative to losing their jobs — an option that can come with a steep pay cut, Rest of World reported. The report, published Nov. 23, says IBM made the decision earlier in the month but does not specify how many employees are affected, which IBM business units or U.S. offices are covered, or how large the pay reductions are.
+
+No public statement from IBM on the scope of the change was cited, so the numbers behind it remain unverified.
 
 </div>
 

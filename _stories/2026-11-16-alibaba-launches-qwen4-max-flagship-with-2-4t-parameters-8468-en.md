@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g18c9d70763f0b955152c9690da618c09
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Alibaba has launched Qwen4-Max, a flagship model with 2.4 trillion total parameters that activates 71 billion per token, using a hybrid architecture that Alibaba says sharply cuts costs on long contexts. It lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source. The supplied material does not give API pricing, context-window size or a date for the open-source releases.
+Alibaba has launched Qwen4-Max, a flagship model with 2.4 trillion total parameters that activates 71 billion per token, using a hybrid architecture that Alibaba says sharply cuts costs on long contexts. It lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source.
+
+The supplied material does not give API pricing, context-window size or a date for the open-source releases.
 
 </div>
 
@@ -56,10 +58,6 @@ For builders choosing a frontier API, Qwen4-Max adds a 2.4T-parameter option pos
 
 Alibaba has promised smaller open-source Qwen4 models but not dated them; watch for the license, parameter sizes and independent benchmark results.
 
-## Community discussion
-
-Commenters focused on the cost-quality trade-off: one, citing Artificial Analysis, put Qwen4-Max at a score of 43 and average cost of $3.27, against 46 and $0.36 for GPT-6.1 Sol at medium reasoning. Another tester exercised four reasoning settings including a new "none" option, while a builder cited speed as the weakness of the prior Qwen 3.8 model, at about 30 tokens per second versus roughly 80 for Opus.
-
 ## Coverage of this story
 
 - 2026-11-16 · qwen.ai: [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
@@ -68,5 +66,13 @@ Commenters focused on the cost-quality trade-off: one, citing Artificial Analysi
 ## Further reading
 
 - [Alibaba's New Qwen 4 - Max Fails To Overtake Moonshot's Kimi...](https://wccftech.com/alibabas-new-qwen4-max-fails-to-overtake-moonshots-kimi-k3-1-pro-retaining-the-same-parameter-count-with-a-lower-price-and-revamped-native-vision-moe-architecture/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters focused on the cost-quality trade-off: one, citing Artificial Analysis, put Qwen4-Max at a score of 43 and average cost of $3.27, against 46 and $0.36 for GPT-6.1 Sol at medium reasoning. Another tester exercised four reasoning settings including a new "none" option, while a builder cited speed as the weakness of the prior Qwen 3.8 model, at about 30 tokens per second versus roughly 80 for Opus.
+
+</div>
 
 {% endraw %}

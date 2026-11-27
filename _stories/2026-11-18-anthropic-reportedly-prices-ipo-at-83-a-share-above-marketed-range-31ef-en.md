@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g9abe9cec68ff613391be2c7741d8540b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic priced its initial public offering at $83 per share on Wednesday, according to CNBC, which cited a person familiar with the matter. That is above the $70-$78 range the company had been marketing to investors, and the report says the higher price puts the valuation above the $1.4 trillion Anthropic had previously been targeting — around $1.5 trillion on a fully diluted basis, which counts all shares and options, not just those sold in the offering. The pricing figure and valuation rest on a single unnamed source; Anthropic has not been quoted confirming them, and the size of the offering, the total raised and the first day of trading are not established in the report.
+Anthropic priced its initial public offering at $83 per share on Wednesday, according to CNBC, which cited a person familiar with the matter. That is above the $70-$78 range the company had been marketing to investors, and the report says the higher price puts the valuation above the $1.4 trillion Anthropic had previously been targeting — around $1.5 trillion on a fully diluted basis, which counts all shares and options, not just those sold in the offering.
+
+The pricing figure and valuation rest on a single unnamed source; Anthropic has not been quoted confirming them, and the size of the offering, the total raised and the first day of trading are not established in the report.
 
 </div>
 

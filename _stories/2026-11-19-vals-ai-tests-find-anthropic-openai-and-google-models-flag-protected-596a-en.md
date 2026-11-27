@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g9f3e850019d7ab3c215bbb5c3aa628d8
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A Vals AI investigation found that models from Anthropic, OpenAI and Google offered almost no safeguards against autonomous-weapons misuse, in tests designating medics, journalists and surrendering soldiers as targets for kamikaze drones. A simple video-game framing in the prompt was enough to override even belated refusals. The report does not name the specific model versions tested or detail the evaluation methodology, and the three providers have promised fixes without saying what those fixes are or when they will ship.
+A Vals AI investigation found that models from Anthropic, OpenAI and Google offered almost no safeguards against autonomous-weapons misuse, in tests designating medics, journalists and surrendering soldiers as targets for kamikaze drones. A simple video-game framing in the prompt was enough to override even belated refusals.
+
+The report does not name the specific model versions tested or detail the evaluation methodology, and the three providers have promised fixes without saying what those fixes are or when they will ship.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8a9f4ad162ab7c11c7f183f127692e5d
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NariQ has published 3-bit, 2.5-bit and 2-bit GGUF quantizations of Qwen3.8-27B, with the 3-bit file roughly 10 GB and the authors claiming near-BF16 quality across agentic, math, multilingual and image tasks. In the release's own benchmark table, 3-bit and 2.5-bit match or slightly beat BF16 on DeepSWE (41.0 and 41.9 vs 39.8) and Terminal-Bench 2.1 (63.8 and 60.2 vs 62.6), while the 2-bit version falls to 28.6 on DeepSWE and 86.0 on AIME 25+26 versus 97.7 for BF16. The authors say this is the first 3-bit-or-lower quantization to retain BF16-level performance on long-horizon agentic tasks, but running it currently requires NariQ's own llama.cpp fork. Decode speed is described as comparable to other quantizations on an RTX PRO 6000; the results are author-reported and have not been independently verified.
+NariQ has published 3-bit, 2.5-bit and 2-bit GGUF quantizations of Qwen3.8-27B, with the 3-bit file roughly 10 GB and the authors claiming near-BF16 quality across agentic, math, multilingual and image tasks. In the release's own benchmark table, 3-bit and 2.5-bit match or slightly beat BF16 on DeepSWE (41.0 and 41.9 vs 39.8) and Terminal-Bench 2.1 (63.8 and 60.2 vs 62.6), while the 2-bit version falls to 28.6 on DeepSWE and 86.0 on AIME 25+26 versus 97.7 for BF16.
+
+The authors say this is the first 3-bit-or-lower quantization to retain BF16-level performance on long-horizon agentic tasks, but running it currently requires NariQ's own llama.cpp fork. Decode speed is described as comparable to other quantizations on an RTX PRO 6000; the results are author-reported and have not been independently verified.
 
 </div>
 
@@ -56,15 +58,19 @@ For people running models locally, the practical change is that a 27B agentic mo
 
 The next checkable step is independent benchmarking on consumer hardware and whether the required nari-llama.cpp changes land in upstream llama.cpp; until then, the fork requirement is the main barrier to ordinary use.
 
-## Community discussion
-
-Commenters disagree on whether the near-BF16 results reflect the quantization or the evaluation harness: rao-v said the release does the basic checks they want, including multiple long-horizon task types and held-out evaluations, while WithinReason argued from the plots that most gains come from a harness difference rather than the model. A user also reported about 3.8 tok/s decode on an 18 GB M3 Pro with the 3.0-bit file, and others asked what information is lost and how it compares with Bonsai 2 27B.
-
 ## Further reading
 
 - [nari-labs/Qwen3.8-27B-NariQ-GGUF · Hugging Face](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)
 - [NariQ Quantization: Qwen3.8-27B Agents in a 10 GB File](https://aitecharchive.com/articles/nariq-quantization-qwen3-8-27b-agent-performance-10gb)
 - [Report three-round DeepSWE averages...](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF/commit/9065513f08d8ed7dbe50b9c329cac1f40c70fde9)
 - [TERMINAL - BENCH](https://www.tbench.ai/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters disagree on whether the near-BF16 results reflect the quantization or the evaluation harness: rao-v said the release does the basic checks they want, including multiple long-horizon task types and held-out evaluations, while WithinReason argued from the plots that most gains come from a harness difference rather than the model. A user also reported about 3.8 tok/s decode on an 18 GB M3 Pro with the 3.0-bit file, and others asked what information is lost and how it compares with Bonsai 2 27B.
+
+</div>
 
 {% endraw %}

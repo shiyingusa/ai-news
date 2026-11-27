@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4860807ca80e879454baf41e3deb257b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Mercedes-Benz says it is getting ready to start rolling out Drive Assist Pro, its "collaborative" partially assisted driving system, to customers whose cars run the new MB.OS operating system in the US and Germany. Ars Technica drove the system at a Mercedes-hosted event in San Francisco and, in its headline assessment, found it handled complex traffic well; the publication had previously ridden along with an earlier demo. Drive Assist Pro is a Level 2 system, meaning it controls steering, acceleration and braking together while the human driver remains responsible for situational awareness and any consequences of losing it. The source gives no launch date, pricing, or list of which MB.OS models get the feature first.
+Mercedes-Benz says it is getting ready to start rolling out Drive Assist Pro, its "collaborative" partially assisted driving system, to customers whose cars run the new MB.OS operating system in the US and Germany. Ars Technica drove the system at a Mercedes-hosted event in San Francisco and, in its headline assessment, found it handled complex traffic well; the publication had previously ridden along with an earlier demo.
+
+Drive Assist Pro is a Level 2 system, meaning it controls steering, acceleration and braking together while the human driver remains responsible for situational awareness and any consequences of losing it. The source gives no launch date, pricing, or list of which MB.OS models get the feature first.
 
 </div>
 

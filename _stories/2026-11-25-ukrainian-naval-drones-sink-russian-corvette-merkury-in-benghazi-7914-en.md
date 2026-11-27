@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gd6d3c7e60ddd5486092227e5e252c96e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-At least two Ukrainian explosive naval drones struck the Russian missile corvette Merkury while it was docked in the Libyan port of Benghazi on November 22, sinking it, according to the Associated Press. Ukraine's Security Service said seven drone boats were used, launched from a mother ship, and President Volodymyr Zelenskyy released video that he said showed the drones approaching and detonating against the burning corvette and against a Russian dry cargo ship, MV Angara, which the drones also struck. Zelenskyy said a Ka-27 combat helicopter aboard the Merkury was destroyed and that the Angara was carrying weapons. The operation, reported alongside strikes reaching from the North African coast to the Gulf of Finland, extends Ukrainian drone attacks on Russian shipping far beyond the Black Sea.
+At least two Ukrainian explosive naval drones struck the Russian missile corvette Merkury while it was docked in the Libyan port of Benghazi on November 22, sinking it, according to the Associated Press. Ukraine's Security Service said seven drone boats were used, launched from a mother ship, and President Volodymyr Zelenskyy released video that he said showed the drones approaching and detonating against the burning corvette and against a Russian dry cargo ship, MV Angara, which the drones also struck.
+
+Zelenskyy said a Ka-27 combat helicopter aboard the Merkury was destroyed and that the Angara was carrying weapons. The operation, reported alongside strikes reaching from the North African coast to the Gulf of Finland, extends Ukrainian drone attacks on Russian shipping far beyond the Black Sea.
 
 </div>
 

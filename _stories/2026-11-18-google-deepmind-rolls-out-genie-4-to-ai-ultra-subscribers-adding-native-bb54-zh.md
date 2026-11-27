@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge16470c0da08dfeb086a5370200280a6
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google DeepMind 宣布，Genie 4 面向符合条件的 Google AI Ultra 订阅者推出，并称这是其迄今最逼真的世界模型（world model，能生成并预测环境如何变化的模型）。用户可通过文本实时修改生成的互动 3D 世界，且该版本首次原生加入声音；配套的社区画廊允许用户分享和二次创作（remix）他人的世界。谷歌同时更新 Project Genie，加入用于搭建世界的智能体、新的 Genie 3 功能和一个社区画廊。目前公开信息未说明独立价格、API 或完整支持地区清单。
+Google DeepMind 宣布，Genie 4 面向符合条件的 Google AI Ultra 订阅者推出，并称这是其迄今最逼真的世界模型（world model，能生成并预测环境如何变化的模型）。用户可通过文本实时修改生成的互动 3D 世界，且该版本首次原生加入声音；配套的社区画廊允许用户分享和二次创作（remix）他人的世界。
+
+谷歌同时更新 Project Genie，加入用于搭建世界的智能体、新的 Genie 3 功能和一个社区画廊。目前公开信息未说明独立价格、API 或完整支持地区清单。
 
 </div>
 
@@ -56,14 +58,18 @@ Google DeepMind 宣布，Genie 4 面向符合条件的 Google AI Ultra 订阅者
 
 接下来可以关注谷歌是否公布 Genie 4 的支持地区与账户类型清单，以及是否开放 API 或独立定价；第三方对原生声音和实时编辑的独立测试也值得留意。
 
-## 社区讨论
-
-Hacker News 评论中，有人抱怨资格与定价不透明：其 Workspace 账户无法开通 Ultra，英国账户的 Ultra 页面仍只显示 Genie 3。另有评论讨论这类世界模型能否成为游戏引擎、质疑其盈利模式，并对技术的社会后果表示不安。
-
 ## 本事件的相关报道
 
 - 2026-11-18 · Google DeepMind: [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/)
 - 2026-11-18 · Google: [Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 - 2026-11-18 · The Decoder: [Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing](https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+Hacker News 评论中，有人抱怨资格与定价不透明：其 Workspace 账户无法开通 Ultra，英国账户的 Ultra 页面仍只显示 Genie 3。另有评论讨论这类世界模型能否成为游戏引擎、质疑其盈利模式，并对技术的社会后果表示不安。
+
+</div>
 
 {% endraw %}

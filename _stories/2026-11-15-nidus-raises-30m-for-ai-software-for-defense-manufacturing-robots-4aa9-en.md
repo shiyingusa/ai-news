@@ -30,7 +30,9 @@ description: "Nidus, a startup building AI-powered technology for manufacturing 
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Nidus, a startup building AI-powered technology for manufacturing robots used by US defense industrial companies, has raised $30 million across a pre-seed and a seed round, with Kleiner Perkins and Costanoa among its backers. The company says it reached "seven figures" in bookings with defense industrial customers in just four months. The report does not name customers, disclose how much of the $30 million came from each round, or specify whether those bookings are paid orders or softer commitments, and no deployment or performance figures were provided.
+Nidus, a startup building AI-powered technology for manufacturing robots used by US defense industrial companies, has raised $30 million across a pre-seed and a seed round, with Kleiner Perkins and Costanoa among its backers. The company says it reached "seven figures" in bookings with defense industrial customers in just four months.
+
+The report does not name customers, disclose how much of the $30 million came from each round, or specify whether those bookings are paid orders or softer commitments, and no deployment or performance figures were provided.
 
 </div>
 

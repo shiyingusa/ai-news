@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g16368496c2918f02134f91a1946178d3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-PrismML 发布了 Ternary Bonsai 2.5 27B，这是一个 27B 参数、采用三值量化（权重只取三种取值，从而大幅压缩模型体积与显存占用）的模型；公告页没有给出训练细节、许可证或官方基准数据。Hacker News 用户报告称，Q2 GGUF 版本在 24GB 内存的 Mac Mini M5 Pro 上生成速度约 22–25 tokens/s、提示处理约 223 tokens/s，128k 上下文可完整放入内存。另一位用户通过 Unsloth Studio 试用，速度与 MacBook 上的 Inkling 2 mini Q4 相近（约 300 tokens/s 预填充、30 tokens/s 生成），并称其智能体调用表现“可用”。有评论者称该模型在 SWE-bench verified 上与 2026 年 2 月发布的 Opus 4.6 得分相当，但这只是个人判断，目前没有官方或独立评测支持。
+PrismML 发布了 Ternary Bonsai 2.5 27B，这是一个 27B 参数、采用三值量化（权重只取三种取值，从而大幅压缩模型体积与显存占用）的模型；公告页没有给出训练细节、许可证或官方基准数据。Hacker News 用户报告称，Q2 GGUF 版本在 24GB 内存的 Mac Mini M5 Pro 上生成速度约 22–25 tokens/s、提示处理约 223 tokens/s，128k 上下文可完整放入内存。
+
+另一位用户通过 Unsloth Studio 试用，速度与 MacBook 上的 Inkling 2 mini Q4 相近（约 300 tokens/s 预填充、30 tokens/s 生成），并称其智能体调用表现“可用”。有评论者称该模型在 SWE-bench verified 上与 2026 年 2 月发布的 Opus 4.6 得分相当，但这只是个人判断，目前没有官方或独立评测支持。
 
 </div>
 
@@ -56,10 +58,6 @@ PrismML 发布了 Ternary Bonsai 2.5 27B，这是一个 27B 参数、采用三�
 
 值得关注的是独立第三方能否复现其 SWE-bench verified 成绩，以及与同等规模 Q1/Q2 量化模型（如 Qwen 系列）的直接速度与质量对比。
 
-## 社区讨论
-
-多位用户报告了在 Mac 上的实测吞吐，并认为其智能体调用质量超出预期；一位评论者则怀疑这一成绩有多少来自“刷榜”、基准本身的变化，或小模型追赶前沿的普遍滞后，并直言 SWE-bench verified 代表性有限。另有用户希望看到与同参数量级量化模型的直接对比，而不是与前沿闭源模型比较。
-
 ## 延伸阅读
 
 - [PrismML — Introducing Ternary Bonsai 2 . 5 27 B : Powering Agentic...](https://prismml.com/news/bonsai-2-5-27b)
@@ -68,5 +66,13 @@ PrismML 发布了 Ternary Bonsai 2.5 27B，这是一个 27B 参数、采用三�
 - [Claude Opus 4.6 vs Ternary Bonsai 2 27B: Benchmarks & Cost](https://benchlm.ai/compare/claude-opus-4-6-vs-ternary-bonsai-2-27b)
 - [Ternary Bonsai 2 27B Benchmarks & Context (November 2026)](https://benchlm.ai/models/ternary-bonsai-2-27b)
 - [Claude Opus 4.6 vs Ternary Bonsai 2 27B - anotherwrapper.com](https://anotherwrapper.com/tools/llm-pricing/claude-opus-4-6/ternary-bonsai-2-27b)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+多位用户报告了在 Mac 上的实测吞吐，并认为其智能体调用质量超出预期；一位评论者则怀疑这一成绩有多少来自“刷榜”、基准本身的变化，或小模型追赶前沿的普遍滞后，并直言 SWE-bench verified 代表性有限。另有用户希望看到与同参数量级量化模型的直接对比，而不是与前沿闭源模型比较。
+
+</div>
 
 {% endraw %}

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company in a project it calls Project Exponential, according to The Decoder. Cath Burnet, KPMG's UK head of audit, said the agents sometimes asked "better questions" than the human audit team, a claim KPMG has not backed with independent metrics. The UK Financial Reporting Council (FRC) warned that because agents can analyze far more data than traditional sampling, they may surface findings that could be used as a sales pitch for consulting work and threaten auditor independence.
+KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company in a project it calls Project Exponential, according to The Decoder. Cath Burnet, KPMG's UK head of audit, said the agents sometimes asked "better questions" than the human audit team, a claim KPMG has not backed with independent metrics.
+
+The UK Financial Reporting Council (FRC) warned that because agents can analyze far more data than traditional sampling, they may surface findings that could be used as a sales pitch for consulting work and threaten auditor independence.
 
 </div>
 

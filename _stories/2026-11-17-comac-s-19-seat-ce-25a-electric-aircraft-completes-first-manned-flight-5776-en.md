@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6e8b0193b7e7ae3f3eb93a5ee3bdb314
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Comac's CE-25A, a 19-seat electric aircraft, completed its first manned flight on Saturday, according to electrive. The aircraft is a joint development by the Chinese planemaker, battery manufacturer CATL, Shanghai Jiao Tong University and other partners. The report gives no figures for flight duration, altitude, speed, battery capacity or range, and no certification or service-entry timeline is mentioned.
+Comac's CE-25A, a 19-seat electric aircraft, completed its first manned flight on Saturday, according to electrive. The aircraft is a joint development by the Chinese planemaker, battery manufacturer CATL, Shanghai Jiao Tong University and other partners.
+
+The report gives no figures for flight duration, altitude, speed, battery capacity or range, and no certification or service-entry timeline is mentioned.
 
 </div>
 

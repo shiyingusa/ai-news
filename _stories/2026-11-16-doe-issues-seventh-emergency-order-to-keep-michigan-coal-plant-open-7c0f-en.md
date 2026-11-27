@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The US Department of Energy has issued a seventh emergency order forcing Michigan's J.H. Campbell coal plant to keep running, 534 days after its planned retirement, according to Electrek. Electrek reports the orders have cost ratepayers $303 million so far and contributed to rising electricity prices. The outlet's headline says the latest order came even after a court found the practice illegal, but the source excerpt supplied here gives no details of that ruling — which court, when, or what it held.
+The US Department of Energy has issued a seventh emergency order forcing Michigan's J.H. Campbell coal plant to keep running, 534 days after its planned retirement, according to Electrek. Electrek reports the orders have cost ratepayers $303 million so far and contributed to rising electricity prices.
+
+The outlet's headline says the latest order came even after a court found the practice illegal, but the source excerpt supplied here gives no details of that ruling — which court, when, or what it held.
 
 </div>
 

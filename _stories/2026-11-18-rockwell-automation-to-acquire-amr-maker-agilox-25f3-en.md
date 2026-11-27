@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g59d6e9e5e8e4ed0e1a430449a7b12469
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Rockwell Automation has signed a definitive agreement to acquire AGILOX, an Austrian developer of autonomous mobile robots (AMRs — self-driving warehouse robots that move pallets and other loads). Rockwell said the deal will more than double the size of its AMR business and complement its existing OTTO Motors line; financial terms were not disclosed. AGILOX will join Rockwell's Intelligent Devices operating segment, and the deal is expected to close in the second quarter of Rockwell's fiscal 2027, subject to regulatory approval. AGILOX says it has deployed more than 2,500 AMRs since it was founded in 2017, has over 250 employees, and operates in Europe, North America and China, serving automotive, third-party logistics, food and beverage, and pharmaceutical customers.
+Rockwell Automation has signed a definitive agreement to acquire AGILOX, an Austrian developer of autonomous mobile robots (AMRs — self-driving warehouse robots that move pallets and other loads). Rockwell said the deal will more than double the size of its AMR business and complement its existing OTTO Motors line; financial terms were not disclosed.
+
+AGILOX will join Rockwell's Intelligent Devices operating segment, and the deal is expected to close in the second quarter of Rockwell's fiscal 2027, subject to regulatory approval. AGILOX says it has deployed more than 2,500 AMRs since it was founded in 2017, has over 250 employees, and operates in Europe, North America and China, serving automotive, third-party logistics, food and beverage, and pharmaceutical customers.
 
 </div>
 

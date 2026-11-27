@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Uber Eats customers in Spring, Texas, a Houston suburb, can now receive food orders by Zipline drone, according to TechCrunch's Kirsten Korosec. TechCrunch describes it as the first commercial launch under the Uber–Zipline arrangement, with dozens of additional cities planned to follow. The two companies have set a target of one million drone deliveries per day by the end of 2029 — a stated goal, not a demonstrated volume. The report does not specify delivery fees, service hours, the size of the coverage zone, or how many orders have actually been flown.
+Uber Eats customers in Spring, Texas, a Houston suburb, can now receive food orders by Zipline drone, according to TechCrunch's Kirsten Korosec. TechCrunch describes it as the first commercial launch under the Uber–Zipline arrangement, with dozens of additional cities planned to follow.
+
+The two companies have set a target of one million drone deliveries per day by the end of 2029 — a stated goal, not a demonstrated volume. The report does not specify delivery fees, service hours, the size of the coverage zone, or how many orders have actually been flown.
 
 </div>
 

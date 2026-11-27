@@ -31,7 +31,11 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Muhammad Zeeshan Ali, a former Pakistan armed forces pilot flying as a payload specialist, entered China's Tiangong space station on Nov. 25, 2026, becoming the first foreign astronaut to visit the outpost. He launched with commander Tang Hongbo and flight engineer Wu Yi aboard Shenzhou-24 on a Long March 2F rocket on Nov. 24 at 7:18 p.m. EST (0018 GMT Nov. 25) and docked a little over six hours later, according to the China Manned Space Agency (CMSA). Ali's seat comes from a space-cooperation agreement China and Pakistan signed in Islamabad in February 2025; he will spend about a week aboard running joint Chinese-Pakistani experiments before returning with two Shenzhou-23 crewmates, while Tang and Wu stay for the usual six-month stint. The third Shenzhou-23 astronaut, Zhu Yangzhu, remains aboard and is set to become the first Chinese astronaut to live a full year in low Earth orbit.
+Muhammad Zeeshan Ali, a former Pakistan armed forces pilot flying as a payload specialist, entered China's Tiangong space station on Nov. 25, 2026, becoming the first foreign astronaut to visit the outpost. He launched with commander Tang Hongbo and flight engineer Wu Yi aboard Shenzhou-24 on a Long March 2F rocket on Nov. 24 at 7:18 p.m.
+
+EST (0018 GMT Nov. 25) and docked a little over six hours later, according to the China Manned Space Agency (CMSA). Ali's seat comes from a space-cooperation agreement China and Pakistan signed in Islamabad in February 2025; he will spend about a week aboard running joint Chinese-Pakistani experiments before returning with two Shenzhou-23 crewmates, while Tang and Wu stay for the usual six-month stint.
+
+The third Shenzhou-23 astronaut, Zhu Yangzhu, remains aboard and is set to become the first Chinese astronaut to live a full year in low Earth orbit.
 
 </div>
 

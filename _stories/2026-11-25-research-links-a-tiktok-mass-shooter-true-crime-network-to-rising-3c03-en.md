@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-WIRED reported on November 25 that research shared with the magazine shows a network of young people fixated on mass shooters — described as a nihilistic "true crime community" — is using TikTok and AI to spread its message, and that attacks linked to the group are increasing sharply. According to WIRED's account, the network recruits and radicalizes through short-form video and uses AI tools to produce and distribute its material. The report does not name the researchers behind the findings, give a count of linked attacks or a time frame for the increase, or describe how TikTok has responded. The underlying research has not been published, so the claim rests on WIRED's description of work it was shown rather than on an accessible study or independent verification.
+WIRED reported on November 25 that research shared with the magazine shows a network of young people fixated on mass shooters — described as a nihilistic "true crime community" — is using TikTok and AI to spread its message, and that attacks linked to the group are increasing sharply. According to WIRED's account, the network recruits and radicalizes through short-form video and uses AI tools to produce and distribute its material.
+
+The report does not name the researchers behind the findings, give a count of linked attacks or a time frame for the increase, or describe how TikTok has responded. The underlying research has not been published, so the claim rests on WIRED's description of work it was shown rather than on an accessible study or independent verification.
 
 </div>
 

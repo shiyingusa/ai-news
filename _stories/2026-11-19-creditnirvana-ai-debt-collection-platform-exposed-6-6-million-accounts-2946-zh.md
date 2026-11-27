@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gfa1f3981615dfb7c8a65a0bdf8159e8f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据《连线》（Wired）记者 Lily Hay Newman 报道，AI 讨债服务平台 CreditNirvana 存在两处严重漏洞，攻击者一旦利用，就能读取大量敏感信息，包括电子邮件、短信和信用报告。受影响的规模为 660 万个账户和 31.5 万段通话录音。报道没有说明这些漏洞是如何被发现的、是否已修复，也没有说明是否已被实际利用。
+据《连线》（Wired）记者 Lily Hay Newman 报道，AI 讨债服务平台 CreditNirvana 存在两处严重漏洞，攻击者一旦利用，就能读取大量敏感信息，包括电子邮件、短信和信用报告。受影响的规模为 660 万个账户和 31.5 万段通话录音。
+
+报道没有说明这些漏洞是如何被发现的、是否已修复，也没有说明是否已被实际利用。
 
 </div>
 

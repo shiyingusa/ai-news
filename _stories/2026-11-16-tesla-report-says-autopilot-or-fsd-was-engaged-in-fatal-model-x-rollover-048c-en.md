@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla's own report to federal regulators says Autopilot or "Full Self-Driving" was engaged when a Model X veered off Golden Gate Parkway in Naples, Florida, hit a traffic signal pole and overturned in September, killing a 50-year-old woman riding as a passenger, Electrek reports. Tesla flagged the crash itself through its telematics and says it has the car's event data recorder and video. The public was told only that a car "veered off the road." Electrek frames the case as the latest in its investigation into fatal Tesla crashes it says are hidden in the company's NHTSA data; the source does not say whether NHTSA has opened a defect investigation or what, if anything, Tesla attributes the crash to.
+Tesla's own report to federal regulators says Autopilot or "Full Self-Driving" was engaged when a Model X veered off Golden Gate Parkway in Naples, Florida, hit a traffic signal pole and overturned in September, killing a 50-year-old woman riding as a passenger, Electrek reports. Tesla flagged the crash itself through its telematics and says it has the car's event data recorder and video.
+
+The public was told only that a car "veered off the road." Electrek frames the case as the latest in its investigation into fatal Tesla crashes it says are hidden in the company's NHTSA data; the source does not say whether NHTSA has opened a defect investigation or what, if anything, Tesla attributes the crash to.
 
 </div>
 

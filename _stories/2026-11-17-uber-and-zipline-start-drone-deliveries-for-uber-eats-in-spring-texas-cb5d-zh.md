@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Uber 与 Zipline 已在得克萨斯州休斯敦郊区 Spring 推出无人机外卖配送，当地 Uber Eats 用户现在可以收到由 Zipline 无人机送来的餐食。TechCrunch 称这是双方首个商业落地服务，并报道计划扩展到数十个城市。两家公司还提出到 2029 年底实现每天 100 万次无人机配送的目标，但这是未来计划，不是当前已达到的规模。
+Uber 与 Zipline 已在得克萨斯州休斯敦郊区 Spring 推出无人机外卖配送，当地 Uber Eats 用户现在可以收到由 Zipline 无人机送来的餐食。TechCrunch 称这是双方首个商业落地服务，并报道计划扩展到数十个城市。
+
+两家公司还提出到 2029 年底实现每天 100 万次无人机配送的目标，但这是未来计划，不是当前已达到的规模。
 
 </div>
 

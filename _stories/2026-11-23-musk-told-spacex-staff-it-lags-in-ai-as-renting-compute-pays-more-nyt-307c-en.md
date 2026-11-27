@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Elon Musk told SpaceX employees that the company is falling behind in AI and that renting out computing capacity from its data centers to outside customers — including Anthropic — is more lucrative than using that capacity to improve SpaceX's own products, the New York Times reported on November 23, citing unnamed sources. According to the report, the rentals are making it harder for SpaceX's own AI effort, which must compete for the same compute it sells. Neither SpaceX nor Anthropic has publicly confirmed the remarks or the customer relationship, and the report provides no figures for rental revenue, contracted capacity, or which other buyers are involved.
+Elon Musk told SpaceX employees that the company is falling behind in AI and that renting out computing capacity from its data centers to outside customers — including Anthropic — is more lucrative than using that capacity to improve SpaceX's own products, the New York Times reported on November 23, citing unnamed sources. According to the report, the rentals are making it harder for SpaceX's own AI effort, which must compete for the same compute it sells.
+
+Neither SpaceX nor Anthropic has publicly confirmed the remarks or the customer relationship, and the report provides no figures for rental revenue, contracted capacity, or which other buyers are involved.
 
 </div>
 

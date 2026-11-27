@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6bfe2d1092857576dd1009aa756611a1
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Penguin Solutions demonstrated a MemoryAI Photonic Appliance at SC26 that adds up to 576 GB of HBM3E and 16 TB of DDR5 to AI systems over optical CXL.mem 3.1 links, targeting the memory-capacity limit of AI accelerators. The box is built from eight of Marvell's Photonic Fabric Memory Modules — each with 72 GB of HBM3E cache and a photonic interposer with 16 transmit and 16 receive channels — for an aggregate bidirectional bandwidth target of 7.2 TB/s, or about 3.6 TB/s in each direction. It supports HBM Direct, HBM-plus-DDR5 cached, and DDR5 Direct modes, and can connect hosts up to 30 meters away. Customer samples are not expected until the second half of 2027, and the appliance delivers full benefit only to hosts that support CXL.mem or integrate Marvell's photonic chiplet, since Nvidia and AMD data-center GPUs generally lack a general-purpose CXL.mem host interface.
+Penguin Solutions demonstrated a MemoryAI Photonic Appliance at SC26 that adds up to 576 GB of HBM3E and 16 TB of DDR5 to AI systems over optical CXL.mem 3.1 links, targeting the memory-capacity limit of AI accelerators. The box is built from eight of Marvell's Photonic Fabric Memory Modules — each with 72 GB of HBM3E cache and a photonic interposer with 16 transmit and 16 receive channels — for an aggregate bidirectional bandwidth target of 7.2 TB/s, or about 3.6 TB/s in each direction.
+
+It supports HBM Direct, HBM-plus-DDR5 cached, and DDR5 Direct modes, and can connect hosts up to 30 meters away. Customer samples are not expected until the second half of 2027, and the appliance delivers full benefit only to hosts that support CXL.mem or integrate Marvell's photonic chiplet, since Nvidia and AMD data-center GPUs generally lack a general-purpose CXL.mem host interface.
 
 </div>
 

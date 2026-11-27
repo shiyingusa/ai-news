@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g18c9d70763f0b955152c9690da618c09
 {% raw %}
 <div class="story-lead" markdown="1">
 
-阿里巴巴发布旗舰模型 Qwen4-Max，总参数 2.4 万亿，每个 token 仅激活 710 亿，采用混合架构以大幅削减长上下文成本。据 The Decoder 报道，Qwen4-Max 在 Artificial Analysis 智能指数上仅次于 Kimi K3.1 Pro，阿里还计划将更小的 Qwen4 系列开源。社区用户已引用 Artificial Analysis 数据称其得分 43、平均每次任务成本 3.27 美元，并实测了 none、low、high、xhigh 四档推理强度。速度与性价比仍是讨论焦点：有开发者表示此前 Qwen 3.8 输出约 30 tokens/秒，约为 Opus（近 80 tokens/秒）的一半。
+阿里巴巴发布旗舰模型 Qwen4-Max，总参数 2.4 万亿，每个 token 仅激活 710 亿，采用混合架构以大幅削减长上下文成本。据 The Decoder 报道，Qwen4-Max 在 Artificial Analysis 智能指数上仅次于 Kimi K3.1 Pro，阿里还计划将更小的 Qwen4 系列开源。
+
+社区用户已引用 Artificial Analysis 数据称其得分 43、平均每次任务成本 3.27 美元，并实测了 none、low、high、xhigh 四档推理强度。速度与性价比仍是讨论焦点：有开发者表示此前 Qwen 3.8 输出约 30 tokens/秒，约为 Opus（近 80 tokens/秒）的一半。
 
 </div>
 
@@ -56,10 +58,6 @@ Qwen4-Max 属于稀疏混合专家（MoE）模型：虽然总参数达 2.4 万�
 
 阿里承诺开源的小尺寸 Qwen4 模型何时放出、包含哪些规格与许可证；以及 Artificial Analysis 等第三方在统一口径下对 Qwen4-Max 成本与延迟的复核结果。
 
-## 社区讨论
-
-Hacker News 的讨论集中在性价比与速度：maplet 引用 Artificial Analysis 数据称 Qwen4-Max 得 43 分、平均成本 3.27 美元，而 GPT-6.1 Sol（medium）为 46 分、0.36 美元；seizethecheese 则表示 Qwen 3.8 质量不错，却因约 30 tokens/秒的速度拖累了他们自建 opencode 对战系统的评分。Simon Willison 还按 none、low、high、xhigh 四档推理强度做了“鹈鹕”测试，并与 Qwen3.8 Max 的结果对照。
-
 ## 本事件的相关报道
 
 - 2026-11-16 · qwen.ai: [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
@@ -69,5 +67,13 @@ Hacker News 的讨论集中在性价比与速度：maplet 引用 Artificial Anal
 
 - [Alibaba's New Qwen 4 - Max Fails To Overtake Moonshot's Kimi...](https://wccftech.com/alibabas-new-qwen4-max-fails-to-overtake-moonshots-kimi-k3-1-pro-retaining-the-same-parameter-count-with-a-lower-price-and-revamped-native-vision-moe-architecture/)
 - [Qwen 4 - Max Is 3x Cheaper Than Opus 5.5, But Worth It? - YouTube](https://www.youtube.com/watch?v=WCRk2TQfvCs)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+Hacker News 的讨论集中在性价比与速度：maplet 引用 Artificial Analysis 数据称 Qwen4-Max 得 43 分、平均成本 3.27 美元，而 GPT-6.1 Sol（medium）为 46 分、0.36 美元；seizethecheese 则表示 Qwen 3.8 质量不错，却因约 30 tokens/秒的速度拖累了他们自建 opencode 对战系统的评分。Simon Willison 还按 none、low、high、xhigh 四档推理强度做了“鹈鹕”测试，并与 Qwen3.8 Max 的结果对照。
+
+</div>
 
 {% endraw %}

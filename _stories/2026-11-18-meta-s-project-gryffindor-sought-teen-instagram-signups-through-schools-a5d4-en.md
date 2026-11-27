@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NPR reported that internal Meta documents describe a 2024 initiative, internally called "Project Gryffindor," aimed at recruiting new teen Instagram users through schools — including school directories, banners and "school blast" notifications. The documents surfaced as part of a group of child-safety lawsuits against Meta, and include a November 2023 internal presentation stating that a school program would "give teens a new reason to join / find more value in IG" and "fuel organic and unattributed acquisition" of users. The reporting indicates Meta's publicly framed effort to make Instagram safer for schools grew out of work whose internal goals also covered "acquisition," "friending" and "invites." The material available does not specify which of these tactics actually launched, how many schools took part, or Meta's response to the report.
+NPR reported that internal Meta documents describe a 2024 initiative, internally called "Project Gryffindor," aimed at recruiting new teen Instagram users through schools — including school directories, banners and "school blast" notifications. The documents surfaced as part of a group of child-safety lawsuits against Meta, and include a November 2023 internal presentation stating that a school program would "give teens a new reason to join / find more value in IG" and "fuel organic and unattributed acquisition" of users.
+
+The reporting indicates Meta's publicly framed effort to make Instagram safer for schools grew out of work whose internal goals also covered "acquisition," "friending" and "invites." The material available does not specify which of these tactics actually launched, how many schools took part, or Meta's response to the report.
 
 </div>
 

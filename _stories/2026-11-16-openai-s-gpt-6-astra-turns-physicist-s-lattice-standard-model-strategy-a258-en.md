@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g5585778f526c7f8dd99cd1479423f80a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI physicist Nathaniel Craig says he used GPT-6 Astra to turn his own strategy for defining the full Standard Model on a computational lattice — a formulation problem he describes as having stumped particle physicists for more than 25 years — into a working proof. According to The Decoder's report, the model took Craig's strategy and produced the proof; Craig says a lot of work remains before realistic simulations are possible. The account is a thin secondary report: it links no paper, proof text, code, or independent check, and does not say how much of the derivation came from the model versus from Craig's strategy.
+OpenAI physicist Nathaniel Craig says he used GPT-6 Astra to turn his own strategy for defining the full Standard Model on a computational lattice — a formulation problem he describes as having stumped particle physicists for more than 25 years — into a working proof. According to The Decoder's report, the model took Craig's strategy and produced the proof; Craig says a lot of work remains before realistic simulations are possible.
+
+The account is a thin secondary report: it links no paper, proof text, code, or independent check, and does not say how much of the derivation came from the model versus from Craig's strategy.
 
 </div>
 

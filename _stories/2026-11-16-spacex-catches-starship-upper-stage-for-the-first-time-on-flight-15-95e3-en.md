@@ -31,7 +31,11 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-SpaceX's Starship Flight 15 lifted off from Pad 2 at Starbase, Texas, at 5:47 p.m. EST on Nov. 13, 2026, and for the first time the launch tower caught the Ship upper stage after it spent 22 hours in orbit and re-entered, according to Space.com's photo recap of the mission. Hot-stage separation occurred at T+2:21 minutes at roughly 40 miles (65 km) altitude, with the Super Heavy booster's 33 Raptor 3 engines generating more than 18 million pounds of thrust at liftoff. The booster did not come back as intended: a low-fuel alarm caused it to autonomously divert to an offshore splashdown, where it exploded, instead of attempting a catch at the tower. Space.com's launch viewing site was about four miles from the pad.
+SpaceX's Starship Flight 15 lifted off from Pad 2 at Starbase, Texas, at 5:47 p.m. EST on Nov. 13, 2026, and for the first time the launch tower caught the Ship upper stage after it spent 22 hours in orbit and re-entered, according to Space.com's photo recap of the mission.
+
+Hot-stage separation occurred at T+2:21 minutes at roughly 40 miles (65 km) altitude, with the Super Heavy booster's 33 Raptor 3 engines generating more than 18 million pounds of thrust at liftoff. The booster did not come back as intended: a low-fuel alarm caused it to autonomously divert to an offshore splashdown, where it exploded, instead of attempting a catch at the tower.
+
+Space.com's launch viewing site was about four miles from the pad.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google is extending "Personal Intelligence" in Search's AI Mode — the personalization layer that lets the assistant draw on a user's own context — to Google Drive, Google Wallet and the Gemini app, TechCrunch reported. The point, per the report, is to exploit the data users already keep inside Google's ecosystem, so AI Mode answers can reflect documents and payment or pass information rather than only public web content. The report does not say how the data is accessed, which countries or account types get the capability first, or what privacy controls let users disconnect a source. It therefore establishes the direction of the rollout but not the scope of availability.
+Google is extending "Personal Intelligence" in Search's AI Mode — the personalization layer that lets the assistant draw on a user's own context — to Google Drive, Google Wallet and the Gemini app, TechCrunch reported. The point, per the report, is to exploit the data users already keep inside Google's ecosystem, so AI Mode answers can reflect documents and payment or pass information rather than only public web content.
+
+The report does not say how the data is accessed, which countries or account types get the capability first, or what privacy controls let users disconnect a source. It therefore establishes the direction of the rollout but not the scope of availability.
 
 </div>
 

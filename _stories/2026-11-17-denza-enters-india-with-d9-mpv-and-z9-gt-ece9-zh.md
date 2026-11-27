@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-比亚迪集团旗下的高端品牌腾势（Denza）已进入印度市场，首发车型为 D9 MPV 与 Z9 GT 猎装车（shooting brake，指兼具轿车操控与旅行车尾厢造型的车身形式）。据 electrive 报道，这是腾势继今年早些时候在欧洲启动运营之后，拓展的又一个海外市场，两款车同步在印度上市。报道未披露定价、配置参数、交付时间，也未说明是否涉及本地组装或生产。
+比亚迪集团旗下的高端品牌腾势（Denza）已进入印度市场，首发车型为 D9 MPV 与 Z9 GT 猎装车（shooting brake，指兼具轿车操控与旅行车尾厢造型的车身形式）。据 electrive 报道，这是腾势继今年早些时候在欧洲启动运营之后，拓展的又一个海外市场，两款车同步在印度上市。
+
+报道未披露定价、配置参数、交付时间，也未说明是否涉及本地组装或生产。
 
 </div>
 

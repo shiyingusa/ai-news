@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Ars Technica hosted a live discussion in which Joseph Jarnecki of the Royal United Services Institute (RUSI, a UK defense think tank) argued that public cloud data centers have become military targets because armed forces now run battlefield management systems, HR and resource management on commercial compute — and that under international targeting principles, military use can turn civilian infrastructure into a military objective. He added that cheap kamikaze drones can impose disproportionate economic cost and widespread cloud disruption on such facilities. The conversation follows what Ars describes as the first-ever military attack on Amazon data centers in the Middle East this year, and an unprecedented exchange of drone strikes on data centers between Russia and Ukraine. Jarnecki's conclusion that the attacks will continue is an analyst's assessment offered in the discussion, not a measured forecast, and the recap gives no independent count of strikes or damage assessments.
+Ars Technica hosted a live discussion in which Joseph Jarnecki of the Royal United Services Institute (RUSI, a UK defense think tank) argued that public cloud data centers have become military targets because armed forces now run battlefield management systems, HR and resource management on commercial compute — and that under international targeting principles, military use can turn civilian infrastructure into a military objective. He added that cheap kamikaze drones can impose disproportionate economic cost and widespread cloud disruption on such facilities.
+
+The conversation follows what Ars describes as the first-ever military attack on Amazon data centers in the Middle East this year, and an unprecedented exchange of drone strikes on data centers between Russia and Ukraine. Jarnecki's conclusion that the attacks will continue is an analyst's assessment offered in the discussion, not a measured forecast, and the recap gives no independent count of strikes or damage assessments.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g471bc68681c746727c88e96b01cbdae7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Decoder 报道，OpenAI 的 GPT-6.2 Astra 独立给出了 Smoktunowicz 间隙定理（gap theorem）的 Lean 形式化证明，且该证明可由机器逐步核验；Lean 是交互式定理证明器，证明写成代码后能由机器检查，不依赖审稿人的信任，据 Vals AI 称这是同类任务中的首次。报道称，由于 Lean 的数学库 Mathlib 缺少关键基础，模型没有沿用现成路径，而是自行选择了证明策略。在形式化数学基准 Autoform-Hard 上，Astra 以 56 题解出 49 题位居榜首。这些说法目前来自 The Decoder 的二手报道与 Vals AI 的表述，材料中没有 OpenAI 的原始公告、证明文件或独立数学家的复核结果。
+The Decoder 报道，OpenAI 的 GPT-6.2 Astra 独立给出了 Smoktunowicz 间隙定理（gap theorem）的 Lean 形式化证明，且该证明可由机器逐步核验；Lean 是交互式定理证明器，证明写成代码后能由机器检查，不依赖审稿人的信任，据 Vals AI 称这是同类任务中的首次。报道称，由于 Lean 的数学库 Mathlib 缺少关键基础，模型没有沿用现成路径，而是自行选择了证明策略。
+
+在形式化数学基准 Autoform-Hard 上，Astra 以 56 题解出 49 题位居榜首。这些说法目前来自 The Decoder 的二手报道与 Vals AI 的表述，材料中没有 OpenAI 的原始公告、证明文件或独立数学家的复核结果。
 
 </div>
 

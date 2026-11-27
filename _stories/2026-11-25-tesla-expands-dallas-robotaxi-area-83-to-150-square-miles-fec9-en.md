@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla has expanded its Dallas robotaxi service area by 83% to roughly 150 square miles, adding the suburbs of Carrollton, Addison and Richardson, according to Not a Tesla App. The report does not say when the new boundary took effect, how many vehicles operate in the enlarged zone, or whether rides there are open to all users or gated by a waitlist. The expansion comes from a Tesla-focused outlet rather than a company announcement, so the new map should be treated as reported rather than company-confirmed. No safety, utilization or wait-time figures for the Dallas operation were included.
+Tesla has expanded its Dallas robotaxi service area by 83% to roughly 150 square miles, adding the suburbs of Carrollton, Addison and Richardson, according to Not a Tesla App. The report does not say when the new boundary took effect, how many vehicles operate in the enlarged zone, or whether rides there are open to all users or gated by a waitlist.
+
+The expansion comes from a Tesla-focused outlet rather than a company announcement, so the new map should be treated as reported rather than company-confirmed. No safety, utilization or wait-time figures for the Dallas operation were included.
 
 </div>
 

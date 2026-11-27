@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6c320e4b07d1edda182f9328e9d817f4
 {% raw %}
 <div class="story-lead" markdown="1">
 
-India's nuclear regulator has granted Nuclear Power Corporation of India permission for the First Approach to Criticality at unit 8 of the Rajasthan Atomic Power Project — the staged procedure of bringing a reactor to its first self-sustaining chain reaction. World Nuclear News reported the approval alongside the return to service of Kaiga unit 1, which had been shut for a refurbishment outage it described as record-breaking. Neither the date of first criticality for Rajasthan 8 nor the length of the Kaiga outage was given in the report.
+India's nuclear regulator has granted Nuclear Power Corporation of India permission for the First Approach to Criticality at unit 8 of the Rajasthan Atomic Power Project — the staged procedure of bringing a reactor to its first self-sustaining chain reaction. World Nuclear News reported the approval alongside the return to service of Kaiga unit 1, which had been shut for a refurbishment outage it described as record-breaking.
+
+Neither the date of first criticality for Rajasthan 8 nor the length of the Kaiga outage was given in the report.
 
 </div>
 

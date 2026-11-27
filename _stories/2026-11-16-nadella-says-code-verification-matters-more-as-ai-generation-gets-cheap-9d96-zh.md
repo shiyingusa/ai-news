@@ -31,7 +31,11 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-《The Pragmatic Engineer》作者 Gergely Orosz 发布了一期与微软 CEO 萨提亚·纳德拉的对谈，主题是当 AI 写代码变得廉价之后，软件工程的重心如何转移。纳德拉的核心论点是：代码生成的成本下降，会推高代码验证的价值，同时让“决策模型”——即团队如何判断该做什么、该信什么——变得更重要。访谈还涉及微软内部的自愿离职（voluntary exit）方案。节目已在 YouTube、Apple 与 Spotify 上线，页面顶部提供逐字稿、底部提供时间戳。需要说明的是，目前可核实的仅是这期访谈的存在与议题，纳德拉的具体论述细节需以逐字稿为准。
+《The Pragmatic Engineer》作者 Gergely Orosz 发布了一期与微软 CEO 萨提亚·纳德拉的对谈，主题是当 AI 写代码变得廉价之后，软件工程的重心如何转移。纳德拉的核心论点是：代码生成的成本下降，会推高代码验证的价值，同时让“决策模型”——即团队如何判断该做什么、该信什么——变得更重要。
+
+访谈还涉及微软内部的自愿离职（voluntary exit）方案。节目已在 YouTube、Apple 与 Spotify 上线，页面顶部提供逐字稿、底部提供时间戳。
+
+需要说明的是，目前可核实的仅是这期访谈的存在与议题，纳德拉的具体论述细节需以逐字稿为准。
 
 </div>
 

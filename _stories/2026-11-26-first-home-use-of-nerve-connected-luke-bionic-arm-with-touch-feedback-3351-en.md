@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g1a93086fd5de0ccba7a75ee72b18eb4d
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Avi Davidson, a 33-year-old trauma therapist, has become the first participant in a University of Utah clinical trial to take an experimental LUKE bionic arm home and use it independently. The arm is connected to three nerves in his upper forearm through electrode arrays—100 needles per nerve—plus 24 muscle electrodes, giving him control of hand and wrist movements and pressure feedback that lets him handle grapes, eggs and a loved one's hand. Davidson is the ninth person to receive the implant but the first to use it outside the lab; the trial is testing day-to-day usefulness, not the FDA-approved LUKE arm itself. Participants do not keep the device and undergo surgery to implant and remove it.
+Avi Davidson, a 33-year-old trauma therapist, has become the first participant in a University of Utah clinical trial to take an experimental LUKE bionic arm home and use it independently. The arm is connected to three nerves in his upper forearm through electrode arrays—100 needles per nerve—plus 24 muscle electrodes, giving him control of hand and wrist movements and pressure feedback that lets him handle grapes, eggs and a loved one's hand.
+
+Davidson is the ninth person to receive the implant but the first to use it outside the lab; the trial is testing day-to-day usefulness, not the FDA-approved LUKE arm itself. Participants do not keep the device and undergo surgery to implant and remove it.
 
 </div>
 

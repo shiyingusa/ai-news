@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb848e16f5f7feae4a78bb79ec6e9e863
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A Dutch court has ordered ten BYD subsidiaries, in interim proceedings, to stop building and selling the Ti7 in the EU, ruling that the model looks too similar to the JLR Defender. The order covers the company's EU operations rather than a single market, meaning the model cannot be produced or sold there while the case continues. The main trial on the design claim is still pending, so the injunction is provisional rather than a final finding of infringement. No court document or filing was published with the report, and the ruling's duration and any appeal by BYD were not stated.
+A Dutch court has ordered ten BYD subsidiaries, in interim proceedings, to stop building and selling the Ti7 in the EU, ruling that the model looks too similar to the JLR Defender. The order covers the company's EU operations rather than a single market, meaning the model cannot be produced or sold there while the case continues.
+
+The main trial on the design claim is still pending, so the injunction is provisional rather than a final finding of infringement. No court document or filing was published with the report, and the ruling's duration and any appeal by BYD were not stated.
 
 </div>
 

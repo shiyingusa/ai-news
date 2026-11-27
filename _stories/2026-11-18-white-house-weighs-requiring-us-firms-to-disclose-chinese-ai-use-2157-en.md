@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Trump administration is considering requiring US companies to publicly disclose on their websites when they use Chinese AI models, Reuters reported, citing unnamed sources. According to the report, the goal is to discourage companies from adopting Chinese models rather than to ban them outright. No draft rule, responsible agency, timetable, definition of which models count as "Chinese," or penalty for non-compliance has been reported, and the measure has not been formally announced.
+The Trump administration is considering requiring US companies to publicly disclose on their websites when they use Chinese AI models, Reuters reported, citing unnamed sources. According to the report, the goal is to discourage companies from adopting Chinese models rather than to ban them outright.
+
+No draft rule, responsible agency, timetable, definition of which models count as "Chinese," or penalty for non-compliance has been reported, and the measure has not been formally announced.
 
 </div>
 

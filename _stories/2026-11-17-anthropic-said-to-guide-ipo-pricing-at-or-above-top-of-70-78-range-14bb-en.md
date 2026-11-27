@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic is telling prospective investors in its initial public offering that it expects to price shares at the high end of its $70–$78 marketed range or above, according to Bloomberg, which cited unnamed sources. The report gives no valuation, share count or pricing date. In a separate Bloomberg report on the same day, an SEC filing indicates that Amazon and Google will hold nearly 15% and 14% of Anthropic's outstanding capital stock respectively after the IPO and a private placement — about 28% combined. That stake figure comes from the filing itself, while the pricing guidance rests only on people familiar with the marketing process.
+Anthropic is telling prospective investors in its initial public offering that it expects to price shares at the high end of its $70–$78 marketed range or above, according to Bloomberg, which cited unnamed sources. The report gives no valuation, share count or pricing date.
+
+In a separate Bloomberg report on the same day, an SEC filing indicates that Amazon and Google will hold nearly 15% and 14% of Anthropic's outstanding capital stock respectively after the IPO and a private placement — about 28% combined. That stake figure comes from the filing itself, while the pricing guidance rests only on people familiar with the marketing process.
 
 </div>
 

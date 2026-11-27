@@ -31,7 +31,9 @@ description: "Security research on Lovable, an AI app builder, found that many a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Security research on Lovable, an AI app builder, found that many apps it generated exposed sensitive user data—including passport details and more than 200,000 private messages—through publicly shipped read-only API keys and permissive Supabase defaults. The issue affects people using those generated apps, not a failure of the underlying model, and centers on Supabase, the hosted database and authentication service many such apps rely on. The write-up's author confirmed the post on Hacker News, but the available account does not specify how many apps were affected or whether the exposed data has been secured.
+Security research on Lovable, an AI app builder, found that many apps it generated exposed sensitive user data—including passport details and more than 200,000 private messages—through publicly shipped read-only API keys and permissive Supabase defaults. The issue affects people using those generated apps, not a failure of the underlying model, and centers on Supabase, the hosted database and authentication service many such apps rely on.
+
+The write-up's author confirmed the post on Hacker News, but the available account does not specify how many apps were affected or whether the exposed data has been secured.
 
 </div>
 
@@ -43,13 +45,17 @@ Lovable is an AI app builder that generates full web applications and can connec
 
 Builders who shipped Lovable apps on stock Supabase settings should assume the public anon key bundled in their client code can read more than intended: a Supabase maintainer discussion notes that under default settings it is "quite easy" for anonymous users to probe an API, with the caveat that requests still need a valid JWT. The practical remediation is to enable row-level security and restrict the anon role's access rather than relying on the key being labeled read-only.
 
-## Community discussion
-
-Commenters debated whether the exposure should be called a breach: one argued that reading data made public by a shipped read-only API key is not hacking and that the publication itself is the leak, while another blamed Supabase's permissive defaults and said an October 30 fix may not cover existing projects. Others described AI-generated apps as easy, numerous targets whose users often do not understand the risk, and called for deny-by-default databases, least-privilege APIs, and automated authentication tests.
-
 ## Further reading
 
 - [Connect to Supabase - Lovable Documentation](https://docs.lovable.dev/integrations/supabase)
 - [Option to disable anon key access to database · supabase ...](https://github.com/orgs/supabase/discussions/4547)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters debated whether the exposure should be called a breach: one argued that reading data made public by a shipped read-only API key is not hacking and that the publication itself is the leak, while another blamed Supabase's permissive defaults and said an October 30 fix may not cover existing projects. Others described AI-generated apps as easy, numerous targets whose users often do not understand the risk, and called for deny-by-default databases, least-privilege APIs, and automated authentication tests.
+
+</div>
 
 {% endraw %}

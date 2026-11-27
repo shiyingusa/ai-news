@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gec3fa986100ecc658e161f15910578f3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A team at MIT, the Whitehead Institute and Charité–Universitätsmedizin Berlin has published in Science (Oct. 29) a single-cell transcriptome atlas covering an entire adult vertebrate: the transparent fish Danionella cerebrum, which is about 1 centimeter long. They profiled more than 600,000 cells from the brain, spinal cord, eyes, internal organs, fins, head and trunk using single-cell RNA sequencing, then paired those profiles with spatial methods to map cell types and gene activity back to their locations in tissue. The atlas is meant as a molecular reference — which cell types exist, which genes distinguish them, and where they sit — and is publicly browsable through an interactive site called DigiFish. The paper also uses the map to trace how the fish regrows telencephalon neurons after injury, from early wound and immune response through neural stem-cell activity to maturing new neurons.
+A team at MIT, the Whitehead Institute and Charité–Universitätsmedizin Berlin has published in Science (Oct. 29) a single-cell transcriptome atlas covering an entire adult vertebrate: the transparent fish Danionella cerebrum, which is about 1 centimeter long. They profiled more than 600,000 cells from the brain, spinal cord, eyes, internal organs, fins, head and trunk using single-cell RNA sequencing, then paired those profiles with spatial methods to map cell types and gene activity back to their locations in tissue.
+
+The atlas is meant as a molecular reference — which cell types exist, which genes distinguish them, and where they sit — and is publicly browsable through an interactive site called DigiFish. The paper also uses the map to trace how the fish regrows telencephalon neurons after injury, from early wound and immune response through neural stem-cell activity to maturing new neurons.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g9055f3db338c2535fd8f22fd8c8db2c7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The European Union will limit imports of hybrid cars from China to 191,780 units over a 200-day period starting in December, electrive reported, and the same regulation restricts hybrid imports from other countries as well. A quota is a volume cap rather than a duty: it fixes how many cars may enter, not what they cost, and the report does not say whether shipments above the ceiling are refused or charged differently. The report gives no breakdown of how the 191,780 units are shared among manufacturers, no figure for the restrictions applied to non-Chinese suppliers, and no statement of what happens when the 200 days expire. It also does not name the legal instrument behind the measure or describe the approval process that made it official.
+The European Union will limit imports of hybrid cars from China to 191,780 units over a 200-day period starting in December, electrive reported, and the same regulation restricts hybrid imports from other countries as well. A quota is a volume cap rather than a duty: it fixes how many cars may enter, not what they cost, and the report does not say whether shipments above the ceiling are refused or charged differently.
+
+The report gives no breakdown of how the 191,780 units are shared among manufacturers, no figure for the restrictions applied to non-Chinese suppliers, and no statement of what happens when the 200 days expire. It also does not name the legal instrument behind the measure or describe the approval process that made it official.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb6d3aefa84b3adb6cdbe556e8b8ea485
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Harvard researchers have reportedly concluded that AI coding agents have moved the main developer bottleneck away from writing code and toward reviewing it, according to secondary coverage of the work. The account gives no details of the underlying study — its methodology, sample size, which models or repositories it examined, or whether it has been peer reviewed — so the strength of the finding cannot be judged from what is available. Practitioner discussion on Hacker News broadly matches the description: several commenters say agents now generate more merge-request code than before, and that reviewing it, including having agents review each other's output, has become the bulk of their working day.
+Harvard researchers have reportedly concluded that AI coding agents have moved the main developer bottleneck away from writing code and toward reviewing it, according to secondary coverage of the work. The account gives no details of the underlying study — its methodology, sample size, which models or repositories it examined, or whether it has been peer reviewed — so the strength of the finding cannot be judged from what is available.
+
+Practitioner discussion on Hacker News broadly matches the description: several commenters say agents now generate more merge-request code than before, and that reviewing it, including having agents review each other's output, has become the bulk of their working day.
 
 </div>
 
@@ -52,14 +54,18 @@ The finding traces to a Harvard working paper by economists Fiona Chen and James
 
 For teams adopting coding agents, the constraint on throughput becomes review capacity rather than code production: one reviewer in the discussion, who reviews full time for a team, says agent-assisted merge requests carry more code and often reach for overdesigned solutions where a simpler one would do, which raises the cost of each review. That argues for capping agent-generated change size and requiring tests before review, rather than assuming faster code generation alone speeds delivery.
 
-## Community discussion
-
-A developer with 25 years of experience says agents now write code roughly as well as they do, and find issues in code better still, so agents reviewing each other's work produces acceptable quality. Others are less positive: a full-time reviewer reports receiving larger, overengineered merge requests from agents, another says reviewing AI-written code all day is unenjoyable, and one commenter argues university research on AI is dated relative to what practitioners encountered months earlier. These are individual opinions, not evidence of consensus.
-
 ## Further reading
 
 - [Harvard study of 718 firms finds AI coding agents ' output... | Pondero](https://pondero.ai/news/2026-10-12-harvard-jellyfish-code-review-bottleneck/)
 - [AI Coding Agents and the Code Review Bottleneck ( 2026 Data)](https://dromeas.ai/blog/ai-coding-agents-code-review-bottleneck)
 - [AI Coding Agents Add Code ; Review Is the Bottleneck · SW Architect](https://www.swarchitect.net/en/ai-coding-agents-review-bottleneck-2026-10/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+A developer with 25 years of experience says agents now write code roughly as well as they do, and find issues in code better still, so agents reviewing each other's work produces acceptable quality. Others are less positive: a full-time reviewer reports receiving larger, overengineered merge requests from agents, another says reviewing AI-written code all day is unenjoyable, and one commenter argues university research on AI is dated relative to what practitioners encountered months earlier. These are individual opinions, not evidence of consensus.
+
+</div>
 
 {% endraw %}

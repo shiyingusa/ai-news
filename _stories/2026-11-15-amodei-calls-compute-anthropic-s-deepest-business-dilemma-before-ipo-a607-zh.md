@@ -30,7 +30,9 @@ description: "距可能成为史上最大规模 IPO 仅剩数天，Anthropic CEO
 {% raw %}
 <div class="story-lead" markdown="1">
 
-距可能成为史上最大规模 IPO 仅剩数天，Anthropic CEO Dario Amodei 称购买算力是公司面临的“最深的商业难题”（deepest business dilemma），公司相关承诺总额已接近 9010 亿美元，而未来收入能否覆盖这些成本仍远不明朗。据 The Decoder 报道，此次 IPO 在很大程度上被定位为对冲这一不确定性的资金缓冲。Amodei 还表示“明年会发生什么存在巨大的不确定性”。需要说明的是，这是一篇简短转述报道，未点名原始采访或发言场合，也未披露这近 9010 亿美元承诺的构成、期限，以及 IPO 的具体估值与日期。
+距可能成为史上最大规模 IPO 仅剩数天，Anthropic CEO Dario Amodei 称购买算力是公司面临的“最深的商业难题”（deepest business dilemma），公司相关承诺总额已接近 9010 亿美元，而未来收入能否覆盖这些成本仍远不明朗。据 The Decoder 报道，此次 IPO 在很大程度上被定位为对冲这一不确定性的资金缓冲。
+
+Amodei 还表示“明年会发生什么存在巨大的不确定性”。需要说明的是，这是一篇简短转述报道，未点名原始采访或发言场合，也未披露这近 9010 亿美元承诺的构成、期限，以及 IPO 的具体估值与日期。
 
 </div>
 

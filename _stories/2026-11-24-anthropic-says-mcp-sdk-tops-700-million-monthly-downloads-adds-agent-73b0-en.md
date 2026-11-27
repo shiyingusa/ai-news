@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4e61d8d4b097236d149097b7a908b1e3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic says its SDK for the Model Context Protocol (MCP, an open standard for connecting AI models to external tools and data) now exceeds 700 million monthly downloads, roughly two years after the protocol launched. The company is also expanding the protocol with features aimed at more autonomous agents: background tasks, the ability to ask users follow-up questions, and file uploads — capabilities the report describes as intended to let Claude work more independently. The download figure is Anthropic's own and is not reported as independently measured, and the report does not specify which specification or SDK version ships the new features or whether they are generally available to developers yet.
+Anthropic says its SDK for the Model Context Protocol (MCP, an open standard for connecting AI models to external tools and data) now exceeds 700 million monthly downloads, roughly two years after the protocol launched. The company is also expanding the protocol with features aimed at more autonomous agents: background tasks, the ability to ask users follow-up questions, and file uploads — capabilities the report describes as intended to let Claude work more independently.
+
+The download figure is Anthropic's own and is not reported as independently measured, and the report does not specify which specification or SDK version ships the new features or whether they are generally available to developers yet.
 
 </div>
 

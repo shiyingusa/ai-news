@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The US District Court for the District of Maryland ruled in favor of the Consumer Product Safety Commission (CPSC) in Amazon's lawsuit against the agency, holding that Amazon is a distributor of the goods sold on its marketplace rather than merely a logistics provider. As a result, Amazon must carry out recalls for more than 400,000 "Fulfilled by Amazon" third-party products the agency says pose a "substantial product hazard," including faulty carbon monoxide detectors and hair dryers without electrocution protection. Amazon had sued the CPSC in March 2025 to overturn the recall order. The decision comes from a federal district court, so Amazon can still appeal.
+The US District Court for the District of Maryland ruled in favor of the Consumer Product Safety Commission (CPSC) in Amazon's lawsuit against the agency, holding that Amazon is a distributor of the goods sold on its marketplace rather than merely a logistics provider. As a result, Amazon must carry out recalls for more than 400,000 "Fulfilled by Amazon" third-party products the agency says pose a "substantial product hazard," including faulty carbon monoxide detectors and hair dryers without electrocution protection.
+
+Amazon had sued the CPSC in March 2025 to overturn the recall order. The decision comes from a federal district court, so Amazon can still appeal.
 
 </div>
 

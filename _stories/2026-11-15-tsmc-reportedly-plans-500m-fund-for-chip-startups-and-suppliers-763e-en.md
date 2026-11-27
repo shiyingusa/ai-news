@@ -30,7 +30,9 @@ description: "Taiwan Semiconductor Manufacturing Co. plans to create a $500 mill
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Taiwan Semiconductor Manufacturing Co. plans to create a $500 million venture fund to invest in promising chip startups, suppliers and other upstream partners, Nikkei Asia reported in an interview-based story. The fund is framed by TSMC as a way to back what one quoted executive called "the future's Nvidia" — that is, to hold stakes in the companies that could become the next major chip designer or equipment maker. The report gives no timeline for the fund's launch, no indication of whether it has been formally approved by TSMC's board, and no detail on investment size per company or the fund's structure. The $500 million figure is small next to TSMC's capital spending on fabs, so this reads as an ecosystem and relationship-building vehicle rather than a capacity commitment.
+Taiwan Semiconductor Manufacturing Co. plans to create a $500 million venture fund to invest in promising chip startups, suppliers and other upstream partners, Nikkei Asia reported in an interview-based story. The fund is framed by TSMC as a way to back what one quoted executive called "the future's Nvidia" — that is, to hold stakes in the companies that could become the next major chip designer or equipment maker.
+
+The report gives no timeline for the fund's launch, no indication of whether it has been formally approved by TSMC's board, and no detail on investment size per company or the fund's structure. The $500 million figure is small next to TSMC's capital spending on fabs, so this reads as an ecosystem and relationship-building vehicle rather than a capacity commitment.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 Electrek 11 月 16 日报道，特斯拉提交给美国联邦监管机构的报告显示，9 月加州埃尔多拉多山一辆 Model Y 在 Autopilot 或“Full Self-Driving”启用状态下以 74 英里/小时（约 119 公里/小时）行驶，随后冲出公园道路、撞树并起火，车内四人中三人死亡。当地此前的报道只称这是一起单车起火事故，未提及驾驶辅助系统。Electrek 称，这是其调查 NHTSA 数据中“被隐藏”的致命事故的最新一例；报道未提到新的监管行动、召回或裁决。
+据 Electrek 11 月 16 日报道，特斯拉提交给美国联邦监管机构的报告显示，9 月加州埃尔多拉多山一辆 Model Y 在 Autopilot 或“Full Self-Driving”启用状态下以 74 英里/小时（约 119 公里/小时）行驶，随后冲出公园道路、撞树并起火，车内四人中三人死亡。当地此前的报道只称这是一起单车起火事故，未提及驾驶辅助系统。
+
+Electrek 称，这是其调查 NHTSA 数据中“被隐藏”的致命事故的最新一例；报道未提到新的监管行动、召回或裁决。
 
 </div>
 

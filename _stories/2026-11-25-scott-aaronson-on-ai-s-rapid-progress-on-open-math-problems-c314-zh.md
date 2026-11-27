@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g2ad067e13f1f0137bbfe0185f20d9eaa
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Scott Aaronson 在博客中称，过去一周出现了一波由 AI 辅助解决的开放数学与理论计算机科学问题，其中一些证明借助 Lean 证明助手完成形式化验证；他把这一刻描述为类似“奇点”的开端。该文是评论而非模型或论文发布，具体解决了哪些问题、AI 贡献有多大，仍取决于他引用的工作。文章还链接了一篇声称矩阵乘法指数可达 9/4 的论文，但该结果与 AI 的关系未在现有信息中说明。
+Scott Aaronson 在博客中称，过去一周出现了一波由 AI 辅助解决的开放数学与理论计算机科学问题，其中一些证明借助 Lean 证明助手完成形式化验证；他把这一刻描述为类似“奇点”的开端。该文是评论而非模型或论文发布，具体解决了哪些问题、AI 贡献有多大，仍取决于他引用的工作。
+
+文章还链接了一篇声称矩阵乘法指数可达 9/4 的论文，但该结果与 AI 的关系未在现有信息中说明。
 
 </div>
 
@@ -56,10 +58,6 @@ Lean 是一个交互式定理证明器：证明写成代码后由内核逐步检
 
 后续可关注这些证明能否通过独立复核和同行评审，尤其是 Lean 形式化证明与通俗证明之间是否存在实质差异；相关论文的正式发表将是关键检验。
 
-## 社区讨论
-
-评论区围绕两点争论：一是没有 LLM、仅靠 Lean/MathLib 和算力是否也能取得同样进展；二是 Lean 证明与通俗证明之间的细微出入是否应被认真对待，而不是被当作无关紧要的细节。
-
 ## 延伸阅读
 
 - [Computational complexity of matrix multiplication - Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_matrix_multiplication)
@@ -68,5 +66,13 @@ Lean 是一个交互式定理证明器：证明写成代码后由内核逐步检
 - [2026-11-23 — GPT-6.2 Astra produces machine-verifiable Lean proof of Smoktunowicz's gap theorem](https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/)
 - [2026-11-23 — Blog post on 17-million-line Lean artifact sparks LLM proof debate](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
 - [OpenAI Math Repository Formalizes About 42% in Lean [ 2026 ]](https://tech-insider.org/openai-math-papers-lean-verification-42-percent-2026/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+评论区围绕两点争论：一是没有 LLM、仅靠 Lean/MathLib 和算力是否也能取得同样进展；二是 Lean 证明与通俗证明之间的细微出入是否应被认真对待，而不是被当作无关紧要的细节。
+
+</div>
 
 {% endraw %}

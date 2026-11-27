@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Hyundai has shown the production version of the Neira, a three-row, seven-seat electric SUV, for the first time. The vehicle is scheduled to launch in Indonesia on November 20, according to Electrek. The report did not include battery size, range, power output, price or plans for markets outside Indonesia, so the Neira's specifications and positioning remain undisclosed.
+Hyundai has shown the production version of the Neira, a three-row, seven-seat electric SUV, for the first time. The vehicle is scheduled to launch in Indonesia on November 20, according to Electrek.
+
+The report did not include battery size, range, power output, price or plans for markets outside Indonesia, so the Neira's specifications and positioning remain undisclosed.
 
 </div>
 

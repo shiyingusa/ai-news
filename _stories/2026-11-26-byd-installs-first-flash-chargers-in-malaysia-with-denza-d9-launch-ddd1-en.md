@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g39b23503499b7937af427697bc4b2c74
 {% raw %}
 <div class="story-lead" markdown="1">
 
-BYD has installed its first Flash Chargers in Malaysia, timing the deployment with the launch of the Denza D9 equipped with its second-generation Blade battery. The chargers are described as megawatt-class, and BYD says access will soon be extended to all EV brands. The report did not specify how many chargers were installed, where they are located, when open access will begin, or what charging rates have been independently measured.
+BYD has installed its first Flash Chargers in Malaysia, timing the deployment with the launch of the Denza D9 equipped with its second-generation Blade battery. The chargers are described as megawatt-class, and BYD says access will soon be extended to all EV brands.
+
+The report did not specify how many chargers were installed, where they are located, when open access will begin, or what charging rates have been independently measured.
 
 </div>
 

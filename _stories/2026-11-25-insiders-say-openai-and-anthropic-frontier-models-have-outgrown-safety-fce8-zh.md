@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g9b23102f04ef835a8c86a2e75e8fef5e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 Axios 报道，OpenAI 和 Anthropic 的多名员工认为，两家公司自家尚未发布的前沿模型已无法被安全地控制。两家公司内部正在讨论是否暂停发布，甚至是否停止训练，同时员工对管理层的信任正在削弱。The Decoder 转述的这篇报道没有给出具体模型名称、涉及人数、时间表或内部评估文件，两家公司也未公开回应。
+据 Axios 报道，OpenAI 和 Anthropic 的多名员工认为，两家公司自家尚未发布的前沿模型已无法被安全地控制。两家公司内部正在讨论是否暂停发布，甚至是否停止训练，同时员工对管理层的信任正在削弱。
+
+The Decoder 转述的这篇报道没有给出具体模型名称、涉及人数、时间表或内部评估文件，两家公司也未公开回应。
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gdb224c70d5dd74c5dc7aee05c916a706
 {% raw %}
 <div class="story-lead" markdown="1">
 
-欧洲航天局（ESA）2024年10月发射的Hera探测器首次近距离拍摄到NASA DART任务2022年撞击Dimorphos（小行星Didymos的卫星）后留下的撞击坑：受撞面被压扁成横跨这颗小行星整个宽度的体育场大小撞击坑，Dimorphos还在轨道上剧烈翻滚，周围出现数百颗此前未知的几米级碎石。ESA团队11月25日在柏林自然历史博物馆公布这些图像和分析，并称未受撞区域的巨石分布与DART在2022年拍摄时几乎一样。DART当年已证明动能撞击能显著改变Dimorphos绕Didymos的轨道；Hera接下来的任务是逼近到约13公里，并释放两颗立方星来测量Dimorphos的质量和内部结构。
+欧洲航天局（ESA）2024年10月发射的Hera探测器首次近距离拍摄到NASA DART任务2022年撞击Dimorphos（小行星Didymos的卫星）后留下的撞击坑：受撞面被压扁成横跨这颗小行星整个宽度的体育场大小撞击坑，Dimorphos还在轨道上剧烈翻滚，周围出现数百颗此前未知的几米级碎石。ESA团队11月25日在柏林自然历史博物馆公布这些图像和分析，并称未受撞区域的巨石分布与DART在2022年拍摄时几乎一样。
+
+DART当年已证明动能撞击能显著改变Dimorphos绕Didymos的轨道；Hera接下来的任务是逼近到约13公里，并释放两颗立方星来测量Dimorphos的质量和内部结构。
 
 </div>
 

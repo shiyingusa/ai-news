@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8de09b75690d91884d42be6f45688061
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The FDA on Monday approved BridgeBio's Welgemda (ribitol), the first drug cleared to treat limb-girdle muscular dystrophy — a broad collection of progressive muscle conditions that the report notes has long drawn little attention from physicians and drug developers. The approval is narrow: it covers only patients with the LGMD 2i/R9 subtype, which BridgeBio estimates affects 2,000 to 3,000 people in the U.S. and another 4,000 to 5,000 in Europe. BridgeBio said it will charge insurers $75,446.58 for a 28-day supply, putting the annual price just under $1 million. The report does not include the trial data behind the approval.
+The FDA on Monday approved BridgeBio's Welgemda (ribitol), the first drug cleared to treat limb-girdle muscular dystrophy — a broad collection of progressive muscle conditions that the report notes has long drawn little attention from physicians and drug developers. The approval is narrow: it covers only patients with the LGMD 2i/R9 subtype, which BridgeBio estimates affects 2,000 to 3,000 people in the U.S. and another 4,000 to 5,000 in Europe.
+
+BridgeBio said it will charge insurers $75,446.58 for a 28-day supply, putting the annual price just under $1 million. The report does not include the trial data behind the approval.
 
 </div>
 

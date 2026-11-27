@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8b88624586942f02f7d70560cba7c58c
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI 表示，其前沿模型在与 AMD 的合作中，把 AMD 旗舰 GPU IP 的功耗、性能与面积（PPA）指标最多改善了 14%，耗时不到五个月；OpenAI 称这大致相当于一年的优化进度。部分改动已被 AMD 纳入一款送交制造的设计。上述数字来自 OpenAI 的自述，目前没有独立基准或第三方验证，也未披露具体 GPU 型号、制程节点，以及 14% 是平均值还是最佳结果。
+OpenAI 表示，其前沿模型在与 AMD 的合作中，把 AMD 旗舰 GPU IP 的功耗、性能与面积（PPA）指标最多改善了 14%，耗时不到五个月；OpenAI 称这大致相当于一年的优化进度。部分改动已被 AMD 纳入一款送交制造的设计。
+
+上述数字来自 OpenAI 的自述，目前没有独立基准或第三方验证，也未披露具体 GPU 型号、制程节点，以及 14% 是平均值还是最佳结果。
 
 </div>
 

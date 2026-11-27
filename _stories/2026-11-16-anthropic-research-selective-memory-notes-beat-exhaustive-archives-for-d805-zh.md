@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g890fea8df3b02edca43bc85d9a4fadc8
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic 的一项研究考察 Claude 如何跨会话保留知识，结论是：经过筛选的少量记忆笔记明显优于穷举式存档。据 The Decoder 报道，在《宝可梦 红》测试中，较新的 Claude Fable 5 只保留少量策略文件，进展就达到保留 400 多个文件的旧版 Sonnet 3.7 的四倍。研究还提出一个名为 "Dreaming" 的流程，可回溯性地修正错误的记忆。由于这是二手报道，论文原文、具体评测方法和产品化计划均未披露。
+Anthropic 的一项研究考察 Claude 如何跨会话保留知识，结论是：经过筛选的少量记忆笔记明显优于穷举式存档。据 The Decoder 报道，在《宝可梦 红》测试中，较新的 Claude Fable 5 只保留少量策略文件，进展就达到保留 400 多个文件的旧版 Sonnet 3.7 的四倍。
+
+研究还提出一个名为 "Dreaming" 的流程，可回溯性地修正错误的记忆。由于这是二手报道，论文原文、具体评测方法和产品化计划均未披露。
 
 </div>
 

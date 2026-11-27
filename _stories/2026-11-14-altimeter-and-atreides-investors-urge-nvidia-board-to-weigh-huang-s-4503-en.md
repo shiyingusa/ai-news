@@ -29,7 +29,9 @@ description: "Brad Gerstner of Altimeter and Gavin Baker of Atreides, two invest
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Brad Gerstner of Altimeter and Gavin Baker of Atreides, two investors holding a combined $2.13 billion in Nvidia stock, reportedly sent a letter asking Nvidia's board of directors to weigh all options for the company's future leadership, including what they describe as "the potential return of Jensen Huang." CNBC's Katie Tarasov reported the letter; the account, relayed by Techmeme, does not quote the letter in full or describe the reasoning behind the succession proposal. The report describes a shareholder request, not a board decision — no board response, formal proposal, or timeline has been disclosed, and no primary filing or copy of the letter was cited.
+Brad Gerstner of Altimeter and Gavin Baker of Atreides, two investors holding a combined $2.13 billion in Nvidia stock, reportedly sent a letter asking Nvidia's board of directors to weigh all options for the company's future leadership, including what they describe as "the potential return of Jensen Huang." CNBC's Katie Tarasov reported the letter; the account, relayed by Techmeme, does not quote the letter in full or describe the reasoning behind the succession proposal.
+
+The report describes a shareholder request, not a board decision — no board response, formal proposal, or timeline has been disclosed, and no primary filing or copy of the letter was cited.
 
 </div>
 

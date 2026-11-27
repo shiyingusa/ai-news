@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g00f0f45bae644afd31ce7b07ee6f0c88
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Model ML has raised $250 million for AI agents aimed at investment banking and consulting work, according to TechCrunch. The company says its agents track the full context of a live deal and automatically update financial models and presentations when new developments change the analysis — the repetitive editing work that currently consumes junior bankers' hours. The report gives no investor names, valuation, customer count, pricing or independent testing of the agents, so the capability rests on the company's own description rather than demonstrated results.
+Model ML has raised $250 million for AI agents aimed at investment banking and consulting work, according to TechCrunch. The company says its agents track the full context of a live deal and automatically update financial models and presentations when new developments change the analysis — the repetitive editing work that currently consumes junior bankers' hours.
+
+The report gives no investor names, valuation, customer count, pricing or independent testing of the agents, so the capability rests on the company's own description rather than demonstrated results.
 
 </div>
 

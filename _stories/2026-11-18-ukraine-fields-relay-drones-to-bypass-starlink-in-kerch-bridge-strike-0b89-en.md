@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Ukraine's military used its own airborne communications network — drones carrying mesh radios that act as relay nodes — to guide missile and strike-drone attacks on the Kerch Strait Bridge on the nights of November 15 and 16, avoiding the military-grade Starlink satellite service, the Financial Times reported. According to an Institute for the Study of War update cited in accounts of the strike, the attacks collapsed one of the two steel arches supporting the bridge's roadway for automobile traffic; Russian sources claimed several hundred Ukrainian drones first overwhelmed air defenses, clearing the way for remote-controlled missile strikes that included Ukraine's homegrown Flamingo cruise missile. The relay method adapts a Russian battlefield technique for supporting long-range drone and missile strikes on Ukrainian cities. The reporting does not say how many relay drones were used, what radio range or latency the network has, or independently confirm that no Starlink link was used for guidance.
+Ukraine's military used its own airborne communications network — drones carrying mesh radios that act as relay nodes — to guide missile and strike-drone attacks on the Kerch Strait Bridge on the nights of November 15 and 16, avoiding the military-grade Starlink satellite service, the Financial Times reported. According to an Institute for the Study of War update cited in accounts of the strike, the attacks collapsed one of the two steel arches supporting the bridge's roadway for automobile traffic; Russian sources claimed several hundred Ukrainian drones first overwhelmed air defenses, clearing the way for remote-controlled missile strikes that included Ukraine's homegrown Flamingo cruise missile.
+
+The relay method adapts a Russian battlefield technique for supporting long-range drone and missile strikes on Ukrainian cities. The reporting does not say how many relay drones were used, what radio range or latency the network has, or independently confirm that no Starlink link was used for guidance.
 
 </div>
 

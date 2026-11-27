@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g0929b2185b6d560a856505846154800f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 The Decoder 报道，Google DeepMind 正让 AI 智能体自主运行部分面向下一代 Gemini 模型的实验，并控制一部分相关算力。研究负责人 Koray Kavukcuoglu 表示，该实验室距离递归自我改进（AI 系统持续改进自身能力并加速下一轮改进）仍很远。为便于监督，DeepMind 刻意不训练智能体的内部思维链（模型给出答案前的中间推理文本），使其可被审查；Kavukcuoglu 还说，衡量通用人工智能（AGI）应看日常用户信任，而不是基准分数。
+据 The Decoder 报道，Google DeepMind 正让 AI 智能体自主运行部分面向下一代 Gemini 模型的实验，并控制一部分相关算力。研究负责人 Koray Kavukcuoglu 表示，该实验室距离递归自我改进（AI 系统持续改进自身能力并加速下一轮改进）仍很远。
+
+为便于监督，DeepMind 刻意不训练智能体的内部思维链（模型给出答案前的中间推理文本），使其可被审查；Kavukcuoglu 还说，衡量通用人工智能（AGI）应看日常用户信任，而不是基准分数。
 
 </div>
 

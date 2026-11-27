@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gd5012ed06ec0118202e430ab5cd24b1f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-vLLM v0.34.0 is out, publishing CUDA 13.0, ROCm 10.0, CPU and XPU wheels plus matching Docker images. The headline default change is the extensible KV cache: on CUDA and ROCm, vLLM now sizes the cache from memory actually free after CUDA graph capture and warmup, with `gpu_memory_utilization` defaulting to 1.0 — the release cites MiniMax-M3 on H200 growing from 433k to 672k cached tokens, while warning that per-token decode latency can rise 6–18% on some H200 models at concurrency 128. Model Runner V1 is removed, so setting `VLLM_USE_V2_MODEL_RUNNER=0` now fails at startup, and the default `--block-size` moves from 16 to 64. The release also adds 10 model integrations, including Mistral Large 4 (1T total / 52B active parameters, FP8 and NVFP4), and reports speedups such as up to 1.95× decode for Step5 on 4×GB200 and 1.6× output throughput for GLM-5.3-Flash.
+vLLM v0.34.0 is out, publishing CUDA 13.0, ROCm 10.0, CPU and XPU wheels plus matching Docker images. The headline default change is the extensible KV cache: on CUDA and ROCm, vLLM now sizes the cache from memory actually free after CUDA graph capture and warmup, with `gpu_memory_utilization` defaulting to 1.0 — the release cites MiniMax-M3 on H200 growing from 433k to 672k cached tokens, while warning that per-token decode latency can rise 6–18% on some H200 models at concurrency 128.
+
+Model Runner V1 is removed, so setting `VLLM_USE_V2_MODEL_RUNNER=0` now fails at startup, and the default `--block-size` moves from 16 to 64. The release also adds 10 model integrations, including Mistral Large 4 (1T total / 52B active parameters, FP8 and NVFP4), and reports speedups such as up to 1.95× decode for Step5 on 4×GB200 and 1.6× output throughput for GLM-5.3-Flash.
 
 </div>
 

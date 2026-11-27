@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g30b02215d4dcdf185f240b3760f24bea
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic 在 IPO 路演中告诉投资者，Claude Mythos Preview 在“几乎无人工干预”下，约三天完成了让一个 Anthropic 模型在 AMD MI355X 上以可用性能运行提示处理（prompt processing）所需的软件工作，并移植或编写了近 100% 的 GPU 内核；而过去这类工作据称需要 6 到 12 个月、数十名工程师。该数字仅覆盖一个模型和提示处理，且来自公司自述，尚无独立基准。Anthropic 今年首次使用 AMD GPU，并已签下最高 2 吉瓦的 AMD Instinct GPU 协议，其招股书称能“以过去一小部分时间”接入新芯片平台。
+Anthropic 在 IPO 路演中告诉投资者，Claude Mythos Preview 在“几乎无人工干预”下，约三天完成了让一个 Anthropic 模型在 AMD MI355X 上以可用性能运行提示处理（prompt processing）所需的软件工作，并移植或编写了近 100% 的 GPU 内核；而过去这类工作据称需要 6 到 12 个月、数十名工程师。该数字仅覆盖一个模型和提示处理，且来自公司自述，尚无独立基准。
+
+Anthropic 今年首次使用 AMD GPU，并已签下最高 2 吉瓦的 AMD Instinct GPU 协议，其招股书称能“以过去一小部分时间”接入新芯片平台。
 
 </div>
 

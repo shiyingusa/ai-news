@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g24a8064e02d183b7643415726bbffbff
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 SiliconANGLE 报道，LanceDB 宣布完成 5750 万美元 B 轮融资，由 Bessemer 与 Innovation Endeavors 领投。该公司基于开源数据格式 Lance 构建“多模态湖仓”，定位是让图像、视频、文本等混合数据在 AI 模型训练中更高效地存储与读取。目前公开信息仅覆盖融资金额、领投方与产品定位，跟投方、估值、具体版本与客户案例均未披露。
+据 SiliconANGLE 报道，LanceDB 宣布完成 5750 万美元 B 轮融资，由 Bessemer 与 Innovation Endeavors 领投。该公司基于开源数据格式 Lance 构建“多模态湖仓”，定位是让图像、视频、文本等混合数据在 AI 模型训练中更高效地存储与读取。
+
+目前公开信息仅覆盖融资金额、领投方与产品定位，跟投方、估值、具体版本与客户案例均未披露。
 
 </div>
 

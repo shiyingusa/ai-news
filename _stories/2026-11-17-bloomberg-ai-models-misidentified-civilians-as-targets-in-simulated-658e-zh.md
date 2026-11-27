@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Techmeme 转述的彭博社报道称，在一项模拟测试中，Anthropic、Google、xAI、DeepSeek 和 OpenAI 的先进 AI 模型会定期把平民、救护车和一所学校识别为军事目标。报道将结果限定在模拟场景；现有摘录未说明测试规模、评分标准和各模型的具体错误率。对考虑用通用模型辅助军事目标识别或情报分析的机构来说，现有证据支持把平民与民用设施误判列为独立验收项，而不能只依赖实验室的通用安全评测。
+Techmeme 转述的彭博社报道称，在一项模拟测试中，Anthropic、Google、xAI、DeepSeek 和 OpenAI 的先进 AI 模型会定期把平民、救护车和一所学校识别为军事目标。报道将结果限定在模拟场景；现有摘录未说明测试规模、评分标准和各模型的具体错误率。
+
+对考虑用通用模型辅助军事目标识别或情报分析的机构来说，现有证据支持把平民与民用设施误判列为独立验收项，而不能只依赖实验室的通用安全评测。
 
 </div>
 

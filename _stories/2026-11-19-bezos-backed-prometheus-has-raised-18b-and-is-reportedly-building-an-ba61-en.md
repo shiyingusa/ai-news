@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g220964c82991818b4195bb783837b716
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Fast Company's investigation into Prometheus, Jeff Bezos' AI startup, reports that the company has raised $18 billion, employs about 250 people and, according to unnamed sources, is building an end-to-end agentic AI engineering system—software intended to plan and carry out engineering work with limited human direction. The report says Prometheus is recruiting from aerospace, biotech, defense and other fields, based on a review of the backgrounds of 130 employees. Public details remain limited: the account does not include a product name, capabilities, customers or release date, so the engineering-system claim rests on unnamed sources rather than a demonstrated or shipped tool.
+Fast Company's investigation into Prometheus, Jeff Bezos' AI startup, reports that the company has raised $18 billion, employs about 250 people and, according to unnamed sources, is building an end-to-end agentic AI engineering system—software intended to plan and carry out engineering work with limited human direction. The report says Prometheus is recruiting from aerospace, biotech, defense and other fields, based on a review of the backgrounds of 130 employees.
+
+Public details remain limited: the account does not include a product name, capabilities, customers or release date, so the engineering-system claim rests on unnamed sources rather than a demonstrated or shipped tool.
 
 </div>
 

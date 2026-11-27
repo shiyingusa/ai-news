@@ -30,7 +30,9 @@ description: "The FBI and the Justice Department said they disrupted a North Kor
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The FBI and the Justice Department said they disrupted a North Korean social-engineering campaign they named FaceStealer, seizing cloud infrastructure that contained 900 videos of targeted victims. According to the FBI, the operation used AI deepfakes, stolen contact lists and personal data, and fake Zoom or Teams meetings to get victims to install malware, then harvested browser sessions and build-system (CI/CD) credentials. The FBI attributes about $400 million in stolen cryptocurrency to the campaign; Tom's Hardware ties it to the Binance heist and describes that hack as taking over $5 billion, most of it frozen or recovered, without reconciling that figure with the FBI's campaign total. The FBI also says the group repeatedly tried to compromise open-source software, mainly JavaScript/npm modules and Rust crates.
+The FBI and the Justice Department said they disrupted a North Korean social-engineering campaign they named FaceStealer, seizing cloud infrastructure that contained 900 videos of targeted victims. According to the FBI, the operation used AI deepfakes, stolen contact lists and personal data, and fake Zoom or Teams meetings to get victims to install malware, then harvested browser sessions and build-system (CI/CD) credentials.
+
+The FBI attributes about $400 million in stolen cryptocurrency to the campaign; Tom's Hardware ties it to the Binance heist and describes that hack as taking over $5 billion, most of it frozen or recovered, without reconciling that figure with the FBI's campaign total. The FBI also says the group repeatedly tried to compromise open-source software, mainly JavaScript/npm modules and Rust crates.
 
 </div>
 

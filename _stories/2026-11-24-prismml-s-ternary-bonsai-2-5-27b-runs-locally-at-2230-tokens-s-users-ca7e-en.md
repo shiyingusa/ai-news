@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g16368496c2918f02134f91a1946178d3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-PrismML's Ternary Bonsai 2.5 27B — a 27-billion-parameter model with ternary-quantized weights, meaning most values are compressed to -1, 0 or +1 — is being run locally by Hacker News users, who report roughly 22–30 tokens/s generation and enough memory headroom for 128k context on a 24GB Apple Silicon Mac using a Q2 GGUF build (a heavily compressed file format for local runners such as llama.cpp). One commenter says agentic tool calls have been "solid" and rates it above a Q4 build of a smaller model, while another claims it matches Opus 4.6 on SWE-bench Verified, a software-engineering benchmark. Those benchmark claims and the model's evaluation methodology are not backed by any primary source here: the release page provided no specification, licence, pricing or independent test results.
+PrismML's Ternary Bonsai 2.5 27B — a 27-billion-parameter model with ternary-quantized weights, meaning most values are compressed to -1, 0 or +1 — is being run locally by Hacker News users, who report roughly 22–30 tokens/s generation and enough memory headroom for 128k context on a 24GB Apple Silicon Mac using a Q2 GGUF build (a heavily compressed file format for local runners such as llama.cpp). One commenter says agentic tool calls have been "solid" and rates it above a Q4 build of a smaller model, while another claims it matches Opus 4.6 on SWE-bench Verified, a software-engineering benchmark.
+
+Those benchmark claims and the model's evaluation methodology are not backed by any primary source here: the release page provided no specification, licence, pricing or independent test results.
 
 </div>
 
@@ -56,10 +58,6 @@ If the reported numbers hold, a 27B model that fits comfortably in 24GB of unifi
 
 Watch for independent SWE-bench Verified runs and head-to-head tests against comparably small Qwen models, and for any PrismML documentation of hardware acceleration for ternary weights beyond FPGAs.
 
-## Community discussion
-
-Commenters report ~22–25 tokens/s on a Mac Mini M5 Pro with 24GB RAM (222.9 tok/s prompt processing, 2.12s to first token) and ~30 tokens/s generation through Unsloth Studio on a MacBook, with one saying the agentic calls beat a Q4 build of a smaller model. Others push back on the benchmark framing: one asks whether the SWE-bench result reflects real capability, benchmark drift or tuning to the test, another wants direct comparisons with equivalently sized models, and a third asks whether ternary weights have any hardware acceleration outside FPGAs.
-
 ## Further reading
 
 - [PrismML — Introducing Ternary Bonsai 2 . 5 27 B : Powering Agentic...](https://prismml.com/news/bonsai-2-5-27b)
@@ -67,5 +65,13 @@ Commenters report ~22–25 tokens/s on a Mac Mini M5 Pro with 24GB RAM (222.9 to
 - [Claude Opus 4.6 vs Ternary Bonsai 2 27B: Benchmarks & Cost](https://benchlm.ai/compare/claude-opus-4-6-vs-ternary-bonsai-2-27b)
 - [Ternary Bonsai 2 27B Benchmarks & Context (November 2026)](https://benchlm.ai/models/ternary-bonsai-2-27b)
 - [Claude Opus 4.6 vs Ternary Bonsai 2 27B - anotherwrapper.com](https://anotherwrapper.com/tools/llm-pricing/claude-opus-4-6/ternary-bonsai-2-27b)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters report ~22–25 tokens/s on a Mac Mini M5 Pro with 24GB RAM (222.9 tok/s prompt processing, 2.12s to first token) and ~30 tokens/s generation through Unsloth Studio on a MacBook, with one saying the agentic calls beat a Q4 build of a smaller model. Others push back on the benchmark framing: one asks whether the SWE-bench result reflects real capability, benchmark drift or tuning to the test, another wants direct comparisons with equivalently sized models, and a third asks whether ternary weights have any hardware acceleration outside FPGAs.
+
+</div>
 
 {% endraw %}

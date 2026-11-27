@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The Washington Post reported, citing unnamed sources, that Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia's board to reinstate Jensen Huang as chief executive. The Cold War-era law, as the report describes it, gives presidents extraordinary power to intervene in the economy. The account, relayed by Techmeme, gives no indication that any action was taken, carries no on-record confirmation from the Pentagon or Nvidia, and leaves out the legal mechanism contemplated, any timing, and the circumstances behind Huang's status at the company.
+The Washington Post reported, citing unnamed sources, that Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia's board to reinstate Jensen Huang as chief executive. The Cold War-era law, as the report describes it, gives presidents extraordinary power to intervene in the economy.
+
+The account, relayed by Techmeme, gives no indication that any action was taken, carries no on-record confirmation from the Pentagon or Nvidia, and leaves out the legal mechanism contemplated, any timing, and the circumstances behind Huang's status at the company.
 
 </div>
 

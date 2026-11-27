@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g9a2461178ca6b273a6d0eb12517e5eea
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Ladybird, an independent browser built on an engine written from scratch, is now available in alpha for macOS and Linux, developer Andreas Kling announced. The release comes after more than four years of development and makes Ladybird the first browser in years to ship an entirely new engine, rather than relying on the three that dominate today: Gecko (Mozilla Firefox), Blink (Google Chrome and its derivatives) and WebKit (Safari). The build is an early alpha aimed at testing rather than daily use, and there is no Windows version yet — The Verge reports Kling says one is planned for the "later stages" of the project.
+Ladybird, an independent browser built on an engine written from scratch, is now available in alpha for macOS and Linux, developer Andreas Kling announced. The release comes after more than four years of development and makes Ladybird the first browser in years to ship an entirely new engine, rather than relying on the three that dominate today: Gecko (Mozilla Firefox), Blink (Google Chrome and its derivatives) and WebKit (Safari).
+
+The build is an early alpha aimed at testing rather than daily use, and there is no Windows version yet — The Verge reports Kling says one is planned for the "later stages" of the project.
 
 </div>
 

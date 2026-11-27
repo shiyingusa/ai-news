@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Microsoft has declared an internal “Code Red” overhaul of its engineering response practices after a November 12 outage cut access to Exchange Online, Teams and Outlook for users worldwide, according to internal memos reviewed by Reuters that Microsoft has not published. In those memos, Microsoft 365 Core President Jason Henderson called the disruption the most customer-impacting outage in Exchange Online’s history and wrote that an urgent production fix in a recent incident took five to six days to reach worldwide saturation, against a one-hour target for the most urgent security fixes. Microsoft’s November 20 post-incident report attributed the downtime to an undetected Windows scalability defect introduced in July that caused lock contention in gateway processes; a Teams traffic failover then added load while maintenance had left nearly 14 percent of gateway server capacity offline.
+Microsoft has declared an internal “Code Red” overhaul of its engineering response practices after a November 12 outage cut access to Exchange Online, Teams and Outlook for users worldwide, according to internal memos reviewed by Reuters that Microsoft has not published. In those memos, Microsoft 365 Core President Jason Henderson called the disruption the most customer-impacting outage in Exchange Online’s history and wrote that an urgent production fix in a recent incident took five to six days to reach worldwide saturation, against a one-hour target for the most urgent security fixes.
+
+Microsoft’s November 20 post-incident report attributed the downtime to an undetected Windows scalability defect introduced in July that caused lock contention in gateway processes; a Teams traffic failover then added load while maintenance had left nearly 14 percent of gateway server capacity offline.
 
 </div>
 
@@ -56,10 +58,6 @@ For Microsoft 365 customers, the report shows that a Teams traffic failover can 
 
 Watch for Microsoft to publish the engineering changes behind the internal “Code Red” and for any update to its November 20 post-incident report.
 
-## Community discussion
-
-Hacker News commenters debated whether staffing cuts contributed: one claimed Microsoft has shed roughly 45% of its 2022-era staff and said it is too easy to blame the outage on cuts but unrealistic to shrink that fast without losing something. Others argued the incident points to missing resilience practices such as gradual rollouts, chaos testing, or scale modeling.
-
 ## Coverage of this story
 
 - 2026-11-24 · Reuters: [Microsoft declares 'Code Red' after historic outage, internal memos show](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/)
@@ -70,5 +68,13 @@ Hacker News commenters debated whether staffing cuts contributed: one claimed Mi
 - [EXCLUSIVE: Microsoft declares 'Code Red' after historic ...](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/)
 - [Exclusive-Microsoft Declares 'Code Red' After Historic Outage ...](https://money.usnews.com/investing/news/articles/2026-11-24/exclusive-microsoft-declares-code-red-after-historic-outage-internal-memos-show)
 - [Microsoft Declares ‘Code Red’ After Historic 365 Outage](https://tech.yahoo.com/ai/copilot/articles/microsoft-declares-code-red-historic-183009480.html)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Hacker News commenters debated whether staffing cuts contributed: one claimed Microsoft has shed roughly 45% of its 2022-era staff and said it is too easy to blame the outage on cuts but unrealistic to shrink that fast without losing something. Others argued the incident points to missing resilience practices such as gradual rollouts, chaos testing, or scale modeling.
+
+</div>
 
 {% endraw %}

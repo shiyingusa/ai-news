@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf8abedfbef7ac8b85b385eb20eeb4893
 {% raw %}
 <div class="story-lead" markdown="1">
 
-US curbs on chip access, measures against distilling US models' outputs, and shrinking access to Nvidia hardware abroad are slowing China's leading AI labs, according to an unnamed report cited by The Decoder, with DeepSeek, Moonshot AI and Alibaba named as the most pressured. DeepSeek researchers estimate internally that they are up to nine months behind US models and that the gap is widening, the report says. The account names no specific models, benchmarks or measurement date behind the nine-month figure, and offers no documentation from the companies, chip suppliers or US regulators.
+US curbs on chip access, measures against distilling US models' outputs, and shrinking access to Nvidia hardware abroad are slowing China's leading AI labs, according to an unnamed report cited by The Decoder, with DeepSeek, Moonshot AI and Alibaba named as the most pressured. DeepSeek researchers estimate internally that they are up to nine months behind US models and that the gap is widening, the report says.
+
+The account names no specific models, benchmarks or measurement date behind the nine-month figure, and offers no documentation from the companies, chip suppliers or US regulators.
 
 </div>
 

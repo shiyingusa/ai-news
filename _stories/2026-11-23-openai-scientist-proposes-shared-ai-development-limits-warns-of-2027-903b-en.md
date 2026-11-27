@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI chief scientist Jakub Pachocki posted a proposal on November 22 for AI companies to adopt common limits on advanced model development, using a cross-company metric such as perplexity — a next-token prediction score where lower is better — as an initial threshold, and to commit not to cross it until stronger monitoring exists. He disclosed internal figures showing GPT-3.5 at about 0.99 log perplexity and GPT-4 at about 0.91, with new cybersecurity and math capabilities appearing below 0.8 and breakthroughs on some open math problems around 0.76; he expects 0.68–0.7 could bring more transformative but unspecified abilities. Pachocki warned that pretraining could advance rapidly as early as 2027 while alignment and behavior monitoring lag, and proposed shared evaluation, transparency and red-team standards before deployment. OpenAI CEO Sam Altman endorsed the article, but no lab has announced adoption and the proposal sets no binding rules.
+OpenAI chief scientist Jakub Pachocki posted a proposal on November 22 for AI companies to adopt common limits on advanced model development, using a cross-company metric such as perplexity — a next-token prediction score where lower is better — as an initial threshold, and to commit not to cross it until stronger monitoring exists. He disclosed internal figures showing GPT-3.5 at about 0.99 log perplexity and GPT-4 at about 0.91, with new cybersecurity and math capabilities appearing below 0.8 and breakthroughs on some open math problems around 0.76; he expects 0.68–0.7 could bring more transformative but unspecified abilities.
+
+Pachocki warned that pretraining could advance rapidly as early as 2027 while alignment and behavior monitoring lag, and proposed shared evaluation, transparency and red-team standards before deployment. OpenAI CEO Sam Altman endorsed the article, but no lab has announced adoption and the proposal sets no binding rules.
 
 </div>
 

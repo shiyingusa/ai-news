@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4807420fc1a59190e6cf0172bc266ccf
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The US Department of Justice is seeking forfeiture of more than $1 billion in cryptocurrency that hackers linked to North Korea stole from Binance Holdings, according to a court filing reported by Bloomberg on Monday. The filing is a legal request, not a final ruling or a confirmed recovery of the funds. The report does not say whether the cryptocurrency has been seized, where it is held, or when a court will act.
+The US Department of Justice is seeking forfeiture of more than $1 billion in cryptocurrency that hackers linked to North Korea stole from Binance Holdings, according to a court filing reported by Bloomberg on Monday. The filing is a legal request, not a final ruling or a confirmed recovery of the funds.
+
+The report does not say whether the cryptocurrency has been seized, where it is held, or when a court will act.
 
 </div>
 

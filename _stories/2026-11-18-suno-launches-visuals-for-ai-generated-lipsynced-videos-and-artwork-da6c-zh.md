@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Suno 上线名为 Visuals 的图像与视频生成功能，可将 Suno 生成的歌曲转成自动跟随歌词对口型的 AI 视频片段，也能按文字提示生成可用作缩略图和专辑封面的图片。该功能已在网页版、iOS 和 Android 上线，入口是 Create 模式下的新 Visuals 标签页；网页端还可在曲库中对某首歌打开三点菜单进入。这是 Suno 从 AI 音乐向生成式图像、视频扩张的一步，但现有报道未披露生成时长、分辨率、免费额度或额外收费等具体限制。
+Suno 上线名为 Visuals 的图像与视频生成功能，可将 Suno 生成的歌曲转成自动跟随歌词对口型的 AI 视频片段，也能按文字提示生成可用作缩略图和专辑封面的图片。该功能已在网页版、iOS 和 Android 上线，入口是 Create 模式下的新 Visuals 标签页；网页端还可在曲库中对某首歌打开三点菜单进入。
+
+这是 Suno 从 AI 音乐向生成式图像、视频扩张的一步，但现有报道未披露生成时长、分辨率、免费额度或额外收费等具体限制。
 
 </div>
 

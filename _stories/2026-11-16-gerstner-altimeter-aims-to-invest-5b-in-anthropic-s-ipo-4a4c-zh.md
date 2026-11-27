@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g03d0e072726668e62a4fce54fcc1f534
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Altimeter Capital 创始人 Brad Gerstner 周一在 CNBC 的《Halftime Report》节目中表示，公司计划在 Anthropic 的 IPO 中投资 50 亿美元。他称这一规模是他迄今最大一笔 IPO 投资的 5 倍，并把 Anthropic 形容为“长期的核心复利资产”（a cornerstone compounder for a long time）。这是投资方在电视采访中表述的意向，而非已完成交易：目前没有披露认购价格、发行时间表，也没有 Anthropic 方面的确认。该表态也间接确认 Anthropic 正在推进上市，但来源未给出任何估值或时间细节。
+Altimeter Capital 创始人 Brad Gerstner 周一在 CNBC 的《Halftime Report》节目中表示，公司计划在 Anthropic 的 IPO 中投资 50 亿美元。他称这一规模是他迄今最大一笔 IPO 投资的 5 倍，并把 Anthropic 形容为“长期的核心复利资产”（a cornerstone compounder for a long time）。
+
+这是投资方在电视采访中表述的意向，而非已完成交易：目前没有披露认购价格、发行时间表，也没有 Anthropic 方面的确认。该表态也间接确认 Anthropic 正在推进上市，但来源未给出任何估值或时间细节。
 
 </div>
 

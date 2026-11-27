@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g72a86dd404c30c9eb75415a89c554429
 {% raw %}
 <div class="story-lead" markdown="1">
 
-CG Oncology said Monday that cretostimogene, an immunotherapy infused directly into the bladder, reduced the risk of tumor recurrence by 68% compared with current medical practice in a randomized Phase 3 trial of 367 patients with intermediate-risk bladder cancer. The treatment is built from a common cold virus engineered to target cells carrying a specific mutation found in bladder tumors; delivered by catheter, it enters those cells, replicates rapidly and ruptures them. The figures are topline results announced by the company, not peer-reviewed data, and the available report does not give absolute recurrence rates, a statistical significance measure, or safety results. Intermediate-risk bladder cancer is a localized form that is usually removed surgically and then monitored every three months, with repeat procedures if the cancer returns.
+CG Oncology said Monday that cretostimogene, an immunotherapy infused directly into the bladder, reduced the risk of tumor recurrence by 68% compared with current medical practice in a randomized Phase 3 trial of 367 patients with intermediate-risk bladder cancer. The treatment is built from a common cold virus engineered to target cells carrying a specific mutation found in bladder tumors; delivered by catheter, it enters those cells, replicates rapidly and ruptures them.
+
+The figures are topline results announced by the company, not peer-reviewed data, and the available report does not give absolute recurrence rates, a statistical significance measure, or safety results. Intermediate-risk bladder cancer is a localized form that is usually removed surgically and then monitored every three months, with repeat procedures if the cancer returns.
 
 </div>
 

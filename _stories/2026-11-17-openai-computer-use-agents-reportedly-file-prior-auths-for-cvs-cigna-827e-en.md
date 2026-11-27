@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb58d24c0f342059b723e23f0fc16c8ae
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI is positioning two upcoming models, GPT-6 Astra and GPT-6 Luna, as computer-use agents that automate US healthcare administration by operating existing clinic software and insurance portals the way a human clerk would, according to The Decoder. The report says Luna handles prior authorizations — the insurer approvals required before certain treatments or prescriptions are covered — at roughly 8.5 cents per task, and that CVS Health and Cigna Healthcare are already deploying the technology. The account gives no launch date, contract size, task volume or detail on which workflows are live, and cites no on-the-record confirmation from OpenAI, CVS or Cigna.
+OpenAI is positioning two upcoming models, GPT-6 Astra and GPT-6 Luna, as computer-use agents that automate US healthcare administration by operating existing clinic software and insurance portals the way a human clerk would, according to The Decoder. The report says Luna handles prior authorizations — the insurer approvals required before certain treatments or prescriptions are covered — at roughly 8.5 cents per task, and that CVS Health and Cigna Healthcare are already deploying the technology.
+
+The account gives no launch date, contract size, task volume or detail on which workflows are live, and cites no on-the-record confirmation from OpenAI, CVS or Cigna.
 
 </div>
 

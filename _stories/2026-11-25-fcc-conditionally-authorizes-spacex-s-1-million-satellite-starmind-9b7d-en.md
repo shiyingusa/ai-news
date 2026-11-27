@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g0e360dcc5dad820a67839937f197750b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The US Federal Communications Commission said on Wednesday it had granted SpaceX conditional authorization to deploy up to 1 million "Starmind" satellites designed to operate as orbital AI data centers — the first approval the agency has given for a full AI satellite constellation, according to The Verge. The conditions require SpaceX to have at least one satellite in orbit by 2033 and to reach the 1-million mark by 2040; the FCC also deferred SpaceX's request to dispose of satellites above 600 km in "graveyard" orbits rather than de-orbiting them. If fully built out, the constellation would raise the number of satellites in orbit roughly 50-fold; about 11,000 Starlink craft currently fly, and humanity has launched roughly 28,000 satellites since 1957. SpaceX's own target, per Space.com, is to launch the first Starmind satellite in the third quarter of 2027 on Starship.
+The US Federal Communications Commission said on Wednesday it had granted SpaceX conditional authorization to deploy up to 1 million "Starmind" satellites designed to operate as orbital AI data centers — the first approval the agency has given for a full AI satellite constellation, according to The Verge. The conditions require SpaceX to have at least one satellite in orbit by 2033 and to reach the 1-million mark by 2040; the FCC also deferred SpaceX's request to dispose of satellites above 600 km in "graveyard" orbits rather than de-orbiting them.
+
+If fully built out, the constellation would raise the number of satellites in orbit roughly 50-fold; about 11,000 Starlink craft currently fly, and humanity has launched roughly 28,000 satellites since 1957. SpaceX's own target, per Space.com, is to launch the first Starmind satellite in the third quarter of 2027 on Starship.
 
 </div>
 

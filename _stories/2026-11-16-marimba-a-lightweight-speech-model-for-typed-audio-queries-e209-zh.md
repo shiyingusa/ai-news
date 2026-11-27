@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g462a1570afc2de752e4e73a98d4e5a98
 {% raw %}
 <div class="story-lead" markdown="1">
 
-一篇新论文发布了 Marimba：每个 8 秒音频窗口只运行一次冻结的 Qwen3-ASR-0.6B 编码器，就能用文本问题查询是/否、选项或评分，并返回校准后的概率；词项查询为零样本，先对解码器的贪心假设和 4 条 beam 搜索假设打分，再做 Platt 校准。作者报告，在相同的 1,000 个公开问题上，它在 9 项测试中的 6 项追平或超过 30B-A3B 的 Qwen3-Omni，但在 Speech Commands 上仍然落后。语言识别在 300 条 FLEURS 片段上达到 100%，说话人变化检测在 AMI 和 VoxConverse 上的 AUROC 为 0.966–0.980，说话人计数优于 pyannote 3.1。局限也很明确：轮次结束检测在 Smart Turn 自有测试集上的 AUROC 为 0.930，低于 Smart Turn v3.2 的 0.982，而且该读出层在训练时使用过 Smart Turn 数据；在 CochlScene 场景分类上，所有预测头都只达到随机水平。
+一篇新论文发布了 Marimba：每个 8 秒音频窗口只运行一次冻结的 Qwen3-ASR-0.6B 编码器，就能用文本问题查询是/否、选项或评分，并返回校准后的概率；词项查询为零样本，先对解码器的贪心假设和 4 条 beam 搜索假设打分，再做 Platt 校准。作者报告，在相同的 1,000 个公开问题上，它在 9 项测试中的 6 项追平或超过 30B-A3B 的 Qwen3-Omni，但在 Speech Commands 上仍然落后。
+
+语言识别在 300 条 FLEURS 片段上达到 100%，说话人变化检测在 AMI 和 VoxConverse 上的 AUROC 为 0.966–0.980，说话人计数优于 pyannote 3.1。局限也很明确：轮次结束检测在 Smart Turn 自有测试集上的 AUROC 为 0.930，低于 Smart Turn v3.2 的 0.982，而且该读出层在训练时使用过 Smart Turn 数据；在 CochlScene 场景分类上，所有预测头都只达到随机水平。
 
 </div>
 

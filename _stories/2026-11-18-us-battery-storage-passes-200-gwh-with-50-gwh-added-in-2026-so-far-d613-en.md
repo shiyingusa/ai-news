@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The United States has installed more than 200 gigawatt-hours (GWh) of battery storage, according to Electrek, which reports that nearly 50 GWh of that total came online in the first nine months of 2026 alone. That means roughly a quarter of the country's cumulative grid-scale storage capacity was added in nine months of this year, based on the outlet's figures. The report is a tally of installed capacity, not a new product or policy change, and the report does not name the data provider behind the 200 GWh total, list individual projects, or break the capacity down by state or region — the location detail its headline promises is not in the excerpt. GWh measures energy capacity — how much electricity a battery can store and discharge over time — as opposed to the megawatt (MW) power rating that describes how fast it can deliver that energy.
+The United States has installed more than 200 gigawatt-hours (GWh) of battery storage, according to Electrek, which reports that nearly 50 GWh of that total came online in the first nine months of 2026 alone. That means roughly a quarter of the country's cumulative grid-scale storage capacity was added in nine months of this year, based on the outlet's figures.
+
+The report is a tally of installed capacity, not a new product or policy change, and the report does not name the data provider behind the 200 GWh total, list individual projects, or break the capacity down by state or region — the location detail its headline promises is not in the excerpt. GWh measures energy capacity — how much electricity a battery can store and discharge over time — as opposed to the megawatt (MW) power rating that describes how fast it can deliver that energy.
 
 </div>
 

@@ -29,7 +29,9 @@ description: "Anthropic has made Claude Opus 5.5 the default model on all paid p
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a prompting guide that advises retiring older habits. The headline recommendation is to stop using instructions like "think hard" and instead start at Medium effort. The Decoder's report relays Anthropic's own announcement and does not include benchmarks or measurements showing how much the older prompting style actually costs users. The guidance is therefore a vendor recommendation rather than an independently verified result.
+Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a prompting guide that advises retiring older habits. The headline recommendation is to stop using instructions like "think hard" and instead start at Medium effort.
+
+The Decoder's report relays Anthropic's own announcement and does not include benchmarks or measurements showing how much the older prompting style actually costs users. The guidance is therefore a vendor recommendation rather than an independently verified result.
 
 </div>
 

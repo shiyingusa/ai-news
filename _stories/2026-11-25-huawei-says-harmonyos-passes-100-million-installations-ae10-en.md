@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Huawei announced that HarmonyOS, its Android-free operating system, has surpassed 100 million installations across smartphones, tablets and PCs, the South China Morning Post reported. The company says the platform offers more than 460,000 apps and services and has more than 12 million registered developers. The milestone is a vendor-reported installation count, not an active-user figure, and no per-device breakdown was provided.
+Huawei announced that HarmonyOS, its Android-free operating system, has surpassed 100 million installations across smartphones, tablets and PCs, the South China Morning Post reported. The company says the platform offers more than 460,000 apps and services and has more than 12 million registered developers.
+
+The milestone is a vendor-reported installation count, not an active-user figure, and no per-device breakdown was provided.
 
 </div>
 

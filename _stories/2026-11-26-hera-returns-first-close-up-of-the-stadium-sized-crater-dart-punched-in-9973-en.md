@@ -31,7 +31,11 @@ photo_credit: {"url": "https://pixabay.com/get/gdb224c70d5dd74c5dc7aee05c916a706
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The European Space Agency's Hera spacecraft has sent back the first close-up views of the scar left by NASA's DART impact on the asteroid moonlet Dimorphos, showing that the September 2022 collision flattened one entire face of the moonlet into a crater spanning its full width, set it tumbling chaotically, and apparently blasted out hundreds of previously unknown boulders a few meters across that now circle the Didymos system. Hera, launched in October 2024, made the 194-million-kilometer (120-million-mile) trip and is holding a rectangular orbit about 30 kilometers (18.6 miles) from the binary asteroid. ESA presented the images on Wednesday, Nov. 25, at Berlin's Museum für Naturkunde. Regions of Dimorphos outside the impact zone look the same as they did in DART's 2022 images, ESA says. Telescopes had already shown that DART lengthened Dimorphos's orbit around Didymos by about 33 minutes; Hera's job is to show what happened to the asteroid itself.
+The European Space Agency's Hera spacecraft has sent back the first close-up views of the scar left by NASA's DART impact on the asteroid moonlet Dimorphos, showing that the September 2022 collision flattened one entire face of the moonlet into a crater spanning its full width, set it tumbling chaotically, and apparently blasted out hundreds of previously unknown boulders a few meters across that now circle the Didymos system. Hera, launched in October 2024, made the 194-million-kilometer (120-million-mile) trip and is holding a rectangular orbit about 30 kilometers (18.6 miles) from the binary asteroid.
+
+ESA presented the images on Wednesday, Nov. 25, at Berlin's Museum für Naturkunde. Regions of Dimorphos outside the impact zone look the same as they did in DART's 2022 images, ESA says.
+
+Telescopes had already shown that DART lengthened Dimorphos's orbit around Didymos by about 33 minutes; Hera's job is to show what happened to the asteroid itself.
 
 </div>
 

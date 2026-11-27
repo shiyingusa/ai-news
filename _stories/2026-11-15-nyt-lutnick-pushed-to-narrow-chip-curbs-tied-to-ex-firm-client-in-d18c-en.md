@@ -30,7 +30,9 @@ description: "A New York Times investigation published Nov. 15 reports that Comm
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A New York Times investigation published Nov. 15 reports that Commerce Secretary Howard Lutnick has pushed to narrow chip export restrictions that would affect data centers in Southeast Asia, some of which are clients of his former firm, Cantor Fitzgerald. According to the article as summarized by Techmeme, one such facility in Malaysia may serve Tencent, the Chinese cloud and social-media company. The account describes Lutnick as personally involved in writing the new rules while the commercial interests at stake overlap with his former firm's business. The available item is a headline and one-line summary of the Times investigation: it does not identify the specific rule provisions being narrowed, the evidence behind the report, whether any change has been adopted, or how Lutnick or Cantor Fitzgerald responded.
+A New York Times investigation published Nov. 15 reports that Commerce Secretary Howard Lutnick has pushed to narrow chip export restrictions that would affect data centers in Southeast Asia, some of which are clients of his former firm, Cantor Fitzgerald. According to the article as summarized by Techmeme, one such facility in Malaysia may serve Tencent, the Chinese cloud and social-media company.
+
+The account describes Lutnick as personally involved in writing the new rules while the commercial interests at stake overlap with his former firm's business. The available item is a headline and one-line summary of the Times investigation: it does not identify the specific rule provisions being narrowed, the evidence behind the report, whether any change has been adopted, or how Lutnick or Cantor Fitzgerald responded.
 
 </div>
 

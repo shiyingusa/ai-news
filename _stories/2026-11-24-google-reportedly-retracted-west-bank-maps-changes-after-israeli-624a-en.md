@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Wired reported, citing anonymous sources, that a Google product manager spent years updating Google Maps to serve Palestinians in the West Bank more accurately—including mapping Israeli checkpoints—and that Google later retracted key parts of that work after Israeli pressure. The report does not specify which Maps features or data were removed, when the rollback happened, or who ordered it. It relies on unnamed sources rather than documents or an on-the-record Google response.
+Wired reported, citing anonymous sources, that a Google product manager spent years updating Google Maps to serve Palestinians in the West Bank more accurately—including mapping Israeli checkpoints—and that Google later retracted key parts of that work after Israeli pressure. The report does not specify which Maps features or data were removed, when the rollback happened, or who ordered it.
+
+It relies on unnamed sources rather than documents or an on-the-record Google response.
 
 </div>
 

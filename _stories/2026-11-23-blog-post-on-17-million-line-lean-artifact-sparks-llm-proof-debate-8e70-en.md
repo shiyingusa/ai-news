@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8bcd542abf8abc8b60971117f4318976
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A blog post at micjm.com argues that a 17-million-line Lean proof is unusually large and examines the implications for review and correctness. The post sparked a Hacker News discussion in which commenters debated whether LLM-assisted proofs of that size can be trusted, with some warning that errors could hide in converted sub-proofs or in the sheer volume of code. Commenters also said the artifact had been shrunk to 13 million lines, a claim that was not independently verified in the available reporting.
+A blog post at micjm.com argues that a 17-million-line Lean proof is unusually large and examines the implications for review and correctness. The post sparked a Hacker News discussion in which commenters debated whether LLM-assisted proofs of that size can be trusted, with some warning that errors could hide in converted sub-proofs or in the sheer volume of code.
+
+Commenters also said the artifact had been shrunk to 13 million lines, a claim that was not independently verified in the available reporting.
 
 </div>
 
@@ -48,13 +50,17 @@ A blog post at micjm.com argues that a 17-million-line Lean proof is unusually l
 
 Lean is a proof assistant in which proofs are written as code and checked by a small trusted kernel, so a formalization can in principle be verified mechanically instead of read line by line — which is why the size of a Lean development matters as a practical review problem. This artifact traces to a November 20, 2026 note by mathematician Levent Alpöge, who said that working with Claude he believed he had found a proof of the Riemann Hypothesis and of the Generalized Riemann Hypothesis for Dirichlet L-functions, and released it as a Lean development of 175,187 files and roughly 17 million lines, with no accompanying paper, according to a University of Waterloo page that collects checks of the proof.
 
-## Community discussion
-
-Commenters questioned whether LLM-generated proofs of millions of lines can be trusted, with one arguing that a large proof has a larger attack surface and another suggesting an incorrect converted sub-proof could be the failure point rather than a Lean bug. A further commenter noted the artifact had reportedly shrunk from 17 million to 13 million lines, while others worried that no human will ever review code of that size.
-
 ## Further reading
 
 - [17 Million Lines Claim to Prove Riemann . We Ran Them. - YouTube](https://www.youtube.com/watch?v=aDl7-MWFLVc)
 - [Alpöge/Claude proof of the Generalized Riemann Hypothesis](https://math.uwaterloo.ca/~mrubinst/alpoge_claude_grh/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters questioned whether LLM-generated proofs of millions of lines can be trusted, with one arguing that a large proof has a larger attack surface and another suggesting an incorrect converted sub-proof could be the failure point rather than a Lean bug. A further commenter noted the artifact had reportedly shrunk from 17 million to 13 million lines, while others worried that no human will ever review code of that size.
+
+</div>
 
 {% endraw %}

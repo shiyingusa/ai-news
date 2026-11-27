@@ -29,7 +29,9 @@ description: "Tesla has raised the EPA-estimated range of the Model Y rear-wheel
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla has raised the EPA-estimated range of the Model Y rear-wheel-drive version by 8.5%, from roughly 321 miles to 348 miles, while keeping the U.S. starting price at $39,990, according to Not a Tesla App. The report does not say whether the gain comes from a hardware change, a software update, or revised testing or rating procedures, and it cites no primary Tesla confirmation of the figure. The increase applies to the EPA estimate for the entry Model Y, Tesla's highest-volume vehicle, at an unchanged sticker price.
+Tesla has raised the EPA-estimated range of the Model Y rear-wheel-drive version by 8.5%, from roughly 321 miles to 348 miles, while keeping the U.S. starting price at $39,990, according to Not a Tesla App. The report does not say whether the gain comes from a hardware change, a software update, or revised testing or rating procedures, and it cites no primary Tesla confirmation of the figure.
+
+The increase applies to the EPA estimate for the entry Model Y, Tesla's highest-volume vehicle, at an unchanged sticker price.
 
 </div>
 

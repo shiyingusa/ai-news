@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g03d0e072726668e62a4fce54fcc1f534
 {% raw %}
 <div class="story-lead" markdown="1">
 
-On CNBC's "Halftime Report" on Monday, Altimeter Capital founder Brad Gerstner said the firm is aiming to invest $5 billion in Anthropic's IPO — roughly five times his largest previous IPO investment — describing the AI lab as "a cornerstone compounder for a long time." CNBC's Kif Leswing reported the remarks. The number is a stated target rather than a completed order: the report gives no IPO date, pricing or valuation, and does not say whether the commitment is binding or how it would be structured.
+On CNBC's "Halftime Report" on Monday, Altimeter Capital founder Brad Gerstner said the firm is aiming to invest $5 billion in Anthropic's IPO — roughly five times his largest previous IPO investment — describing the AI lab as "a cornerstone compounder for a long time." CNBC's Kif Leswing reported the remarks.
+
+The number is a stated target rather than a completed order: the report gives no IPO date, pricing or valuation, and does not say whether the commitment is binding or how it would be structured.
 
 </div>
 

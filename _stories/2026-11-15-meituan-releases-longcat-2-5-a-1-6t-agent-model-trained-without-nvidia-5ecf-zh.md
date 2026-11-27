@@ -30,7 +30,9 @@ description: "美团已发布 LongCat-2.5 的模型权重，这是一个面向 A
 {% raw %}
 <div class="story-lead" markdown="1">
 
-美团已发布 LongCat-2.5 的模型权重，这是一个面向 AI 智能体的 1.6 万亿参数模型；据 The Decoder 报道，其训练全程使用中国硬件，示例部署运行在 194 颗华为升腾芯片上，报道未提及英伟达 GPU。该报道称其在 Terminal Bench 上得分 88.4，仅次于 Claude Opus 5。上述性能与硬件细节目前来自简短转述，尚缺独立复现和完整技术披露。
+美团已发布 LongCat-2.5 的模型权重，这是一个面向 AI 智能体的 1.6 万亿参数模型；据 The Decoder 报道，其训练全程使用中国硬件，示例部署运行在 194 颗华为升腾芯片上，报道未提及英伟达 GPU。该报道称其在 Terminal Bench 上得分 88.4，仅次于 Claude Opus 5。
+
+上述性能与硬件细节目前来自简短转述，尚缺独立复现和完整技术披露。
 
 </div>
 

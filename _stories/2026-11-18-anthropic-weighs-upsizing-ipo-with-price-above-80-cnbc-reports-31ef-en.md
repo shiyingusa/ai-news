@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic is considering enlarging its initial public offering and pricing shares well above $80, according to CNBC, which cited people familiar with the matter. That would be above the $70–$78 per share range previously indicated for the offering, with the report attributing the move to surging investor demand. No final price, share count, total proceeds, valuation or pricing date was reported, and the figures rest on unnamed sources rather than an Anthropic announcement or a filed pricing notice.
+Anthropic is considering enlarging its initial public offering and pricing shares well above $80, according to CNBC, which cited people familiar with the matter. That would be above the $70–$78 per share range previously indicated for the offering, with the report attributing the move to surging investor demand.
+
+No final price, share count, total proceeds, valuation or pricing date was reported, and the figures rest on unnamed sources rather than an Anthropic announcement or a filed pricing notice.
 
 </div>
 

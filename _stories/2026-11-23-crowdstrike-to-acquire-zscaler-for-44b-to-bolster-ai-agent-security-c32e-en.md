@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g837e59c4a95a82e9407dd07a6ee64c28
 {% raw %}
 <div class="story-lead" markdown="1">
 
-CrowdStrike has announced plans to acquire Zscaler for $44 billion, a deal that would fold a major standalone zero-trust security vendor into the endpoint-security company. CrowdStrike said the purchase would better equip its customers to use AI agents, according to TechCrunch's report. Zscaler sells zero-trust products to large enterprises — access and network controls built on the assumption that no user or device is trusted by default. The report gives no deal structure, per-share price, financing plan, expected closing date or regulatory timeline, and carries no confirmation from Zscaler itself.
+CrowdStrike has announced plans to acquire Zscaler for $44 billion, a deal that would fold a major standalone zero-trust security vendor into the endpoint-security company. CrowdStrike said the purchase would better equip its customers to use AI agents, according to TechCrunch's report.
+
+Zscaler sells zero-trust products to large enterprises — access and network controls built on the assumption that no user or device is trusted by default. The report gives no deal structure, per-share price, financing plan, expected closing date or regulatory timeline, and carries no confirmation from Zscaler itself.
 
 </div>
 

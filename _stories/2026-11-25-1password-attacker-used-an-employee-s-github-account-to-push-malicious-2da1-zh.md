@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g38f7e2778364e2cb2f2208d9fd3f30d2
 {% raw %}
 <div class="story-lead" markdown="1">
 
-1Password 于 11 月 25 日公开一起安全事故：攻击者控制了公司一名员工的 GitHub 企业账号，借此读取源代码，并向后台服务推送恶意代码以下载客户数据，导致部分用户的姓名和电子邮箱被窃取。公司称客户保险库（vault，即加密存储密码的容器）内的密码等数据未被访问，但未说明受影响用户的具体数量。1Password 表示于 11 月 19 日开始调查此事，并已通知受影响的那一小部分用户。The Verge 指出，泄露的姓名和邮箱可能被用于钓鱼攻击。
+1Password 于 11 月 25 日公开一起安全事故：攻击者控制了公司一名员工的 GitHub 企业账号，借此读取源代码，并向后台服务推送恶意代码以下载客户数据，导致部分用户的姓名和电子邮箱被窃取。公司称客户保险库（vault，即加密存储密码的容器）内的密码等数据未被访问，但未说明受影响用户的具体数量。
+
+1Password 表示于 11 月 19 日开始调查此事，并已通知受影响的那一小部分用户。The Verge 指出，泄露的姓名和邮箱可能被用于钓鱼攻击。
 
 </div>
 
@@ -56,14 +58,18 @@ photo_credit: {"url": "https://pixabay.com/get/g38f7e2778364e2cb2f2208d9fd3f30d2
 
 关注 1Password 后续是否公布受影响用户数量，以及是否说明 GitHub 仓库的分支保护与推送权限是否被绕过——社区对这两点在本次公告中缺失的质疑最为集中。
 
-## 社区讨论
-
-安全研究员 tptacek 认为，员工设备被攻陷后攻击者得以向 GitHub 推送代码、代码再被部署上线，是 SaaS 公司长期以来的标准入侵路径，员工越多这一概率越接近必然。评论者 ctidd 批评公告未交代是否禁用直接向主分支推送、分支保护规则是缺失还是被绕过；长期用户 ChrisHardie 则表示自己坚持使用本地保险库，正是担心“恶意代码被推进生产服务”这类风险。
-
 ## 本事件的相关报道
 
 - 2026-11-25 · 1password.com: [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 - 2026-11-25 · TechCrunch: [1Password said hackers broke into its internal systems, but customer passwords are safe](https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/)
 - 2026-11-25 · The Verge: [1Password breach leaked customer names and emails, but not passwords](https://www.theverge.com/tech/1042409/1password-data-breach-leak)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+安全研究员 tptacek 认为，员工设备被攻陷后攻击者得以向 GitHub 推送代码、代码再被部署上线，是 SaaS 公司长期以来的标准入侵路径，员工越多这一概率越接近必然。评论者 ctidd 批评公告未交代是否禁用直接向主分支推送、分支保护规则是缺失还是被绕过；长期用户 ChrisHardie 则表示自己坚持使用本地保险库，正是担心“恶意代码被推进生产服务”这类风险。
+
+</div>
 
 {% endraw %}

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb114c3c6ce261d12a090ed19066d1402
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Sellas Life Sciences 于周二宣布，其实验性免疫疗法 galinpepimut-S 在晚期急性髓系白血病（AML）的三期临床试验中达到主要终点：与标准治疗相比，该疗法将患者死亡风险降低了 41%。上述结论来自公司发布的顶线结果，完整数据尚未公布。STAT 记者 Adam Feuerstein 指出，他曾在今年 9 月的专栏中预测该药在三期试验中无法延长生存期，如今这一预测被公司的结果推翻。
+Sellas Life Sciences 于周二宣布，其实验性免疫疗法 galinpepimut-S 在晚期急性髓系白血病（AML）的三期临床试验中达到主要终点：与标准治疗相比，该疗法将患者死亡风险降低了 41%。上述结论来自公司发布的顶线结果，完整数据尚未公布。
+
+STAT 记者 Adam Feuerstein 指出，他曾在今年 9 月的专栏中预测该药在三期试验中无法延长生存期，如今这一预测被公司的结果推翻。
 
 </div>
 

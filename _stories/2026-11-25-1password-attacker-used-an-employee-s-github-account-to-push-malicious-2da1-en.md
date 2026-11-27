@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g38f7e2778364e2cb2f2208d9fd3f30d2
 {% raw %}
 <div class="story-lead" markdown="1">
 
-1Password has disclosed that an attacker took some customers' names and email addresses after gaining access to an employee's corporate GitHub account. According to the company's incident post, the attacker used that account to reach 1Password's source code and push malicious code to backend services in order to download customer data. 1Password says passwords and other items stored in customer vaults were not exposed, and it began investigating on November 19th; The Verge reports that the number of affected users is not yet known. The company warned that the stolen names and addresses could be used for phishing.
+1Password has disclosed that an attacker took some customers' names and email addresses after gaining access to an employee's corporate GitHub account. According to the company's incident post, the attacker used that account to reach 1Password's source code and push malicious code to backend services in order to download customer data.
+
+1Password says passwords and other items stored in customer vaults were not exposed, and it began investigating on November 19th; The Verge reports that the number of affected users is not yet known. The company warned that the stolen names and addresses could be used for phishing.
 
 </div>
 
@@ -56,14 +58,18 @@ Affected users should treat unexpected emails that cite their 1Password account 
 
 Watch for 1Password's promised follow-up items — in particular a detailed account of whether branch protection or push restrictions on its repositories failed or were bypassed, and a figure for how many users were notified.
 
-## Community discussion
-
-Commenters argued that a compromised employee laptop leading to code pushed through GitHub and deployed is the standard pattern behind SaaS breaches, with one longtime user saying the incident vindicates keeping a local-only vault. Others pressed 1Password on whether it disables pushes to main branches and asked for an explicit statement that encrypted vaults were never downloaded, saying the post's phrasing left room for doubt.
-
 ## Coverage of this story
 
 - 2026-11-25 · 1password.com: [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 - 2026-11-25 · TechCrunch: [1Password said hackers broke into its internal systems, but customer passwords are safe](https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/)
 - 2026-11-25 · The Verge: [1Password breach leaked customer names and emails, but not passwords](https://www.theverge.com/tech/1042409/1password-data-breach-leak)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters argued that a compromised employee laptop leading to code pushed through GitHub and deployed is the standard pattern behind SaaS breaches, with one longtime user saying the incident vindicates keeping a local-only vault. Others pressed 1Password on whether it disables pushes to main branches and asked for an explicit statement that encrypted vaults were never downloaded, saying the post's phrasing left room for doubt.
+
+</div>
 
 {% endraw %}

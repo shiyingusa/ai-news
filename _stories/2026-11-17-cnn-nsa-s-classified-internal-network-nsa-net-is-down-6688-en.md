@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-CNN reported on November 17, citing six people familiar with the matter, that NSA Net — the highly classified network the National Security Agency uses for its own internal communications — is down. Those sources said there is no evidence so far of a cyberattack. The report gives no cause, no indication of how much of the network is affected, and no restoration timeline, and the NSA has not publicly confirmed the outage, so the account rests entirely on anonymous sourcing.
+CNN reported on November 17, citing six people familiar with the matter, that NSA Net — the highly classified network the National Security Agency uses for its own internal communications — is down. Those sources said there is no evidence so far of a cyberattack.
+
+The report gives no cause, no indication of how much of the network is affected, and no restoration timeline, and the NSA has not publicly confirmed the outage, so the account rests entirely on anonymous sourcing.
 
 </div>
 

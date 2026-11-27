@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ga8ab256c940b93d7ebdfac3deed32518
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google is extending how long it keeps Gemini conversations from 72 hours to two months, and the longer window applies even to users who have turned chat history off, TechCrunch reported on November 17. The change is described as rolling out globally over the coming weeks, so the 72-hour figure still applies in at least some markets until it reaches them. The report is brief and relays no statement from Google itself, and it does not say whether the new window affects chats already deleted or how users can shorten retention themselves.
+Google is extending how long it keeps Gemini conversations from 72 hours to two months, and the longer window applies even to users who have turned chat history off, TechCrunch reported on November 17. The change is described as rolling out globally over the coming weeks, so the 72-hour figure still applies in at least some markets until it reaches them.
+
+The report is brief and relays no statement from Google itself, and it does not say whether the new window affects chats already deleted or how users can shorten retention themselves.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g30b02215d4dcdf185f240b3760f24bea
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic told IPO investors that its Claude Mythos Preview model needed about three days and “basically no human intervention” to get one of its models running on AMD MI355X GPUs for prompt processing, versus six to 12 months of work by dozens of engineers using traditional methods. Tom Brown, Anthropic’s co-founder and chief compute officer, said Mythos ported or wrote “almost 100% of the kernels,” the low-level code that adapts a model to specific chips. The figures are Anthropic’s own and have not been independently verified; they cover prompt processing for one model at “a useful level of performance,” not training or broader workloads. Anthropic’s prospectus says only that it can onboard new chip platforms “in a fraction of the time it once took,” without a number.
+Anthropic told IPO investors that its Claude Mythos Preview model needed about three days and “basically no human intervention” to get one of its models running on AMD MI355X GPUs for prompt processing, versus six to 12 months of work by dozens of engineers using traditional methods. Tom Brown, Anthropic’s co-founder and chief compute officer, said Mythos ported or wrote “almost 100% of the kernels,” the low-level code that adapts a model to specific chips.
+
+The figures are Anthropic’s own and have not been independently verified; they cover prompt processing for one model at “a useful level of performance,” not training or broader workloads. Anthropic’s prospectus says only that it can onboard new chip platforms “in a fraction of the time it once took,” without a number.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g294ac28901c67a9d5c056981a0298874
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A security write-up reports a universal XSS vulnerability in uBlock Origin involving its website-driven element picker, the tool users invoke to select page elements for blocking. Universal XSS is a class of bug that can let a malicious page execute code in other sites' origins instead of being confined to its own. The write-up is not an official vendor advisory, and the item supplies no CVE, affected-version range, or project statement. Commenters say users should update to uBlock Origin 1.75.4 or uBO Lite 2026.1110.1816, or later, but those fixed versions are community-reported here rather than confirmed by the project.
+A security write-up reports a universal XSS vulnerability in uBlock Origin involving its website-driven element picker, the tool users invoke to select page elements for blocking. Universal XSS is a class of bug that can let a malicious page execute code in other sites' origins instead of being confined to its own.
+
+The write-up is not an official vendor advisory, and the item supplies no CVE, affected-version range, or project statement. Commenters say users should update to uBlock Origin 1.75.4 or uBO Lite 2026.1110.1816, or later, but those fixed versions are community-reported here rather than confirmed by the project.
 
 </div>
 
@@ -56,10 +58,6 @@ Until the extension updates, a Firefox user on the MV2 build can be pushed from 
 
 Watch for an official uBlock Origin advisory or release note confirming the affected version range, the fixed builds, and whether the element-picker issue is fully resolved.
 
-## Community discussion
-
-Commenters focused on the architecture that places extension UI inside the page's DOM: one argued this can expose a password manager's suggested accounts to the site, and another asked why the rule-creation UI cannot live in browser chrome instead. A separate commenter raised whether a leaked UUID could become a stable fingerprint for ad-blocker users; these are opinions and hypotheses, not confirmed findings.
-
 ## Further reading
 
 - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
@@ -68,5 +66,13 @@ Commenters focused on the architecture that places extension UI inside the page'
 - [Universal XSS from website-driven element picker](https://github.com/gorhill/uBlock/security/advisories/GHSA-cmqw-9r2w-6wv2)
 - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 - [Universal XSS in uBlock Origin from website-driven element picker](https://techbytes.app/posts/universal-xss-in-ublock-origin-from-website-driven-element-picker/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters focused on the architecture that places extension UI inside the page's DOM: one argued this can expose a password manager's suggested accounts to the site, and another asked why the rule-creation UI cannot live in browser chrome instead. A separate commenter raised whether a leaked UUID could become a stable fingerprint for ad-blocker users; these are opinions and hypotheses, not confirmed findings.
+
+</div>
 
 {% endraw %}

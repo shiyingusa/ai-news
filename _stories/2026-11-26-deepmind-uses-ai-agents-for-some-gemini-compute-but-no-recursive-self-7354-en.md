@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g0929b2185b6d560a856505846154800f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google DeepMind is using AI agents to run some of its own experiments for upcoming Gemini models, according to research chief Koray Kavukcuoglu, as reported by The Decoder. Kavukcuoglu said the lab remains far from recursive self-improvement — the idea that an AI system could autonomously improve itself in a compounding loop. For oversight, DeepMind deliberately leaves the agents' internal chains of thought untrained so that humans can review that reasoning. He also said he measures progress toward AGI by whether everyday users trust the systems rather than by benchmark scores.
+Google DeepMind is using AI agents to run some of its own experiments for upcoming Gemini models, according to research chief Koray Kavukcuoglu, as reported by The Decoder. Kavukcuoglu said the lab remains far from recursive self-improvement — the idea that an AI system could autonomously improve itself in a compounding loop.
+
+For oversight, DeepMind deliberately leaves the agents' internal chains of thought untrained so that humans can review that reasoning. He also said he measures progress toward AGI by whether everyday users trust the systems rather than by benchmark scores.
 
 </div>
 

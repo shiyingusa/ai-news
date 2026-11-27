@@ -29,7 +29,9 @@ description: "Anthropic 已把 Claude Opus 5.5 设为所有付费方案的默认
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic 已把 Claude Opus 5.5 设为所有付费方案的默认模型，同时发布提示指南，要求用户放弃旧习惯。指南的核心建议是：不要再写“think hard”（让模型“努力思考”）这类指令，而是从 Medium effort（中等推理强度）起步。这一建议来自 Anthropic 自己的说明，The Decoder 的报道只是转述其要点，未给出配套的基准测试或量化数据，因此实际提速幅度尚不清楚。
+Anthropic 已把 Claude Opus 5.5 设为所有付费方案的默认模型，同时发布提示指南，要求用户放弃旧习惯。指南的核心建议是：不要再写“think hard”（让模型“努力思考”）这类指令，而是从 Medium effort（中等推理强度）起步。
+
+这一建议来自 Anthropic 自己的说明，The Decoder 的报道只是转述其要点，未给出配套的基准测试或量化数据，因此实际提速幅度尚不清楚。
 
 </div>
 

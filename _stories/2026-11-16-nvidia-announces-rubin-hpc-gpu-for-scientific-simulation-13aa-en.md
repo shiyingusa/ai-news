@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g9053a1c3bbef449a7362f898ecdb2080
 {% raw %}
 <div class="story-lead" markdown="1">
 
-At SC26, NVIDIA announced Rubin HPC, a new GPU in its Vera Rubin data-center platform aimed at simulation and data processing for science, engineering and analytics workloads. NVIDIA says the chip carries more than 50,000 CUDA cores on a single GPU — which it calls a record — plus a "sparse data acceleration" capability meant to keep those cores fed during irregular memory access patterns common in sparse matrix, stencil, sorting and reduction operations, and seventh-generation NVLink for GPU-to-GPU connectivity. The pitch is that AI agents exploring candidate materials, molecules and designs will drive more simulation demand, so faster simulation shortens the discovery loop. NVIDIA states Rubin HPC is "expected to be available in 2028"; no pricing, memory capacity, bandwidth, power figures or independent benchmark results were disclosed.
+At SC26, NVIDIA announced Rubin HPC, a new GPU in its Vera Rubin data-center platform aimed at simulation and data processing for science, engineering and analytics workloads. NVIDIA says the chip carries more than 50,000 CUDA cores on a single GPU — which it calls a record — plus a "sparse data acceleration" capability meant to keep those cores fed during irregular memory access patterns common in sparse matrix, stencil, sorting and reduction operations, and seventh-generation NVLink for GPU-to-GPU connectivity.
+
+The pitch is that AI agents exploring candidate materials, molecules and designs will drive more simulation demand, so faster simulation shortens the discovery loop. NVIDIA states Rubin HPC is "expected to be available in 2028"; no pricing, memory capacity, bandwidth, power figures or independent benchmark results were disclosed.
 
 </div>
 

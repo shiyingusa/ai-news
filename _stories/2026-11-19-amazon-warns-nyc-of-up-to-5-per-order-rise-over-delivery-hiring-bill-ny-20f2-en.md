@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gc6184051ee986f62a12ad3881f51af32
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Amazon is warning New York City customers that orders could cost up to $5 more each if the City Council passes a bill requiring the company to directly hire delivery workers, the New York Post reported. The company is publicly campaigning against the legislation, but the report does not give the bill's text, its current status in the Council, or the basis for Amazon's estimate. The $5 figure is Amazon's own projection, not an independently verified surcharge, and no vote date is specified.
+Amazon is warning New York City customers that orders could cost up to $5 more each if the City Council passes a bill requiring the company to directly hire delivery workers, the New York Post reported. The company is publicly campaigning against the legislation, but the report does not give the bill's text, its current status in the Council, or the basis for Amazon's estimate.
+
+The $5 figure is Amazon's own projection, not an independently verified surcharge, and no vote date is specified.
 
 </div>
 

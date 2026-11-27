@@ -31,7 +31,11 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-United Launch Alliance's Vulcan rocket lifted off from Space Launch Complex 41 at Cape Canaveral on Sunday, November 15, and suffered an anomaly about 10 minutes into flight, failing to deliver its payload to orbit. The vehicle and its 40 Amazon Leo broadband satellites were lost — the first of 38 Vulcan launches Amazon has booked to build a constellation meant to rival SpaceX's Starlink. ULA said it has no specific data yet on the cause and will work with the customer and other organizations on an investigation and corrective action; the company called it a failure to meet its own standard of mission success. Reports citing early telemetry point to possible suspects including first-stage BE-4 engines burning longer than planned and altitude issues near staging, but no cause has been established. Vulcan is under contract for roughly half of the US military's national security space missions in the next few years, and the failure is expected to ground the rocket for an indefinite period.
+United Launch Alliance's Vulcan rocket lifted off from Space Launch Complex 41 at Cape Canaveral on Sunday, November 15, and suffered an anomaly about 10 minutes into flight, failing to deliver its payload to orbit. The vehicle and its 40 Amazon Leo broadband satellites were lost — the first of 38 Vulcan launches Amazon has booked to build a constellation meant to rival SpaceX's Starlink.
+
+ULA said it has no specific data yet on the cause and will work with the customer and other organizations on an investigation and corrective action; the company called it a failure to meet its own standard of mission success. Reports citing early telemetry point to possible suspects including first-stage BE-4 engines burning longer than planned and altitude issues near staging, but no cause has been established.
+
+Vulcan is under contract for roughly half of the US military's national security space missions in the next few years, and the failure is expected to ground the rocket for an indefinite period.
 
 </div>
 

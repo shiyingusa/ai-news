@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-圣地亚哥市议会周一晚间投票决定终止与监控设备供应商 Flock 和 Ubicquia 的合同，涉及 Flock 摄像头和智能路灯。圣地亚哥因此成为终止 Flock 合同的最大城市之一；Flock 是一家估值约 83 亿美元的监控初创公司。投票对当地隐私倡导者是一次胜利，TRUST SD 联盟的 Lilly Irani 对此表示胜利。合同终止的生效时间、设备拆除和数据处置安排尚未公布。
+圣地亚哥市议会周一晚间投票决定终止与监控设备供应商 Flock 和 Ubicquia 的合同，涉及 Flock 摄像头和智能路灯。圣地亚哥因此成为终止 Flock 合同的最大城市之一；Flock 是一家估值约 83 亿美元的监控初创公司。
+
+投票对当地隐私倡导者是一次胜利，TRUST SD 联盟的 Lilly Irani 对此表示胜利。合同终止的生效时间、设备拆除和数据处置安排尚未公布。
 
 </div>
 

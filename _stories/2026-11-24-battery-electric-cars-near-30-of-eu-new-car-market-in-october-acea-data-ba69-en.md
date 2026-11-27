@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g968e8d0ce27aca4be15a2678c2af0083
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Battery-electric cars accounted for nearly 30% of EU passenger car registrations in October, with 280,000 units registered — 61% more than in the same month a year earlier, according to figures from ACEA, the European automobile manufacturers' association. The October total is above the 250,000-plus monthly pace the report says pure electric cars have recently been sustaining across the bloc. The report does not give a country-by-country or model breakdown, and does not state the absolute October 2025 comparison figure behind the 61% growth rate.
+Battery-electric cars accounted for nearly 30% of EU passenger car registrations in October, with 280,000 units registered — 61% more than in the same month a year earlier, according to figures from ACEA, the European automobile manufacturers' association. The October total is above the 250,000-plus monthly pace the report says pure electric cars have recently been sustaining across the bloc.
+
+The report does not give a country-by-country or model breakdown, and does not state the absolute October 2025 comparison figure behind the 61% growth rate.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g343571a038390c62a29b6665f7c547db
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A real-hardware four-server CXL test by UT Arlington and Intel researchers has quantified the software tax on shared memory pools: because the hardware lacks cross-host cache coherence and atomics, software-enforced locks add 3–5 µs per lock, roughly an order of magnitude above local hardware spin locks. In the SC26 presentation, breadth-first search was 35% slower on four servers than on one (0.74 s versus 0.55 s), while workloads partitioned to avoid shared state scaled—a 95%-read hash table rose from 4.1M to 16.6M ops/s and triangle counting fell from 2.43 s to 0.97 s. The setup used four 86-core Intel Xeon 6787P servers with 256 GB DRAM each, linked over PCIe 5.0 to one CXL memory box; the switch caps the pool at four hosts, and the researchers had no vendor confirmation that the platform supports CXL 3.0's Back-Invalidate coherence feature.
+A real-hardware four-server CXL test by UT Arlington and Intel researchers has quantified the software tax on shared memory pools: because the hardware lacks cross-host cache coherence and atomics, software-enforced locks add 3–5 µs per lock, roughly an order of magnitude above local hardware spin locks. In the SC26 presentation, breadth-first search was 35% slower on four servers than on one (0.74 s versus 0.55 s), while workloads partitioned to avoid shared state scaled—a 95%-read hash table rose from 4.1M to 16.6M ops/s and triangle counting fell from 2.43 s to 0.97 s.
+
+The setup used four 86-core Intel Xeon 6787P servers with 256 GB DRAM each, linked over PCIe 5.0 to one CXL memory box; the switch caps the pool at four hosts, and the researchers had no vendor confirmation that the platform supports CXL 3.0's Back-Invalidate coherence feature.
 
 </div>
 

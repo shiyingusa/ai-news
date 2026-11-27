@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g931628262e69a3e6ce72fbcc9a566feb
 {% raw %}
 <div class="story-lead" markdown="1">
 
-BMW has begun series production of the iX4 at its Debrecen plant in Hungary, where the iX3 is already built, making the coupé-styled electric SUV the second Neue Klasse model assembled there. According to electrive, the car will reach dealers from March 2027, initially in two drivetrain variants. The report gives no specifications, battery or range figures, prices, production volumes, or which two variants will be offered first.
+BMW has begun series production of the iX4 at its Debrecen plant in Hungary, where the iX3 is already built, making the coupé-styled electric SUV the second Neue Klasse model assembled there. According to electrive, the car will reach dealers from March 2027, initially in two drivetrain variants.
+
+The report gives no specifications, battery or range figures, prices, production volumes, or which two variants will be offered first.
 
 </div>
 

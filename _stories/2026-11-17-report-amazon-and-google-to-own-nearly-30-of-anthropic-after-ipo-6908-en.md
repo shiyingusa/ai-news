@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf5121b8a08fd0a57c98eae38dde0df0b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-TechCrunch reports that after Anthropic's IPO, Amazon will hold just under 15% of the AI lab and Google nearly 14%, giving the two cloud companies close to 30% combined. Amazon also has an option to increase its stake substantially, though the report does not give the terms or timing. The figures describe post-IPO ownership, and the supplied article does not provide an IPO date, valuation, or confirmation from Anthropic, Amazon, or Google.
+TechCrunch reports that after Anthropic's IPO, Amazon will hold just under 15% of the AI lab and Google nearly 14%, giving the two cloud companies close to 30% combined. Amazon also has an option to increase its stake substantially, though the report does not give the terms or timing.
+
+The figures describe post-IPO ownership, and the supplied article does not provide an IPO date, valuation, or confirmation from Anthropic, Amazon, or Google.
 
 </div>
 

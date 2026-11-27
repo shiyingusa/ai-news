@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gd3d2fe7d63947bd2437be64aad8bce6a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 CoinDesk 记者 Francisco Rodrigues 报道，Solana 基金会已取得加密价格追踪平台 CoinGecko 的多数股权。CoinGecko 是加密生态中使用最广的行情数据平台之一，其报告的注册用户数为 1800 万。报道未披露交易金额、具体持股比例或估值，也没有说明交易完成后 CoinGecko 的数据口径、接口服务或管理层是否会发生变动。
+据 CoinDesk 记者 Francisco Rodrigues 报道，Solana 基金会已取得加密价格追踪平台 CoinGecko 的多数股权。CoinGecko 是加密生态中使用最广的行情数据平台之一，其报告的注册用户数为 1800 万。
+
+报道未披露交易金额、具体持股比例或估值，也没有说明交易完成后 CoinGecko 的数据口径、接口服务或管理层是否会发生变动。
 
 </div>
 

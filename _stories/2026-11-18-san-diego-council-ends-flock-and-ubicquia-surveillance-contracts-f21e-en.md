@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-San Diego's city council voted Monday evening to end its contracts with two surveillance equipment vendors, Flock and Ubicquia, according to the San Diego Union-Tribune report cited by Ars Technica. Flock, a license-plate-reader startup with an estimated $8.3 billion valuation, loses one of the largest cities to cut ties with it so far; Ubicquia supplied the hardware behind the city's "smart streetlight" sensors. The reports do not specify the vote margin, how many devices are affected, or the date the equipment will go dark. The decision follows a broader run of city-level contract cancellations Ars Technica documented in August 2026.
+San Diego's city council voted Monday evening to end its contracts with two surveillance equipment vendors, Flock and Ubicquia, according to the San Diego Union-Tribune report cited by Ars Technica. Flock, a license-plate-reader startup with an estimated $8.3 billion valuation, loses one of the largest cities to cut ties with it so far; Ubicquia supplied the hardware behind the city's "smart streetlight" sensors.
+
+The reports do not specify the vote margin, how many devices are affected, or the date the equipment will go dark. The decision follows a broader run of city-level contract cancellations Ars Technica documented in August 2026.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4d77c3524b312559c618cf3ff8d1ccfd
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Palo Alto Networks has agreed to acquire Applied Compute, a startup that helps companies customize open-weight AI models, for $4.5 billion in stock, the Wall Street Journal reported. Applied Compute was valued at $3.25 billion earlier this month, so the purchase price represents a substantial premium over that private valuation. The company was founded last year by former OpenAI researchers and specializes in tuning open-weight models — models whose trained weights are published for download, so customers can adapt them to their own data rather than only calling a vendor's hosted API. The report describes an agreement to buy; it gives no closing date or regulatory timetable.
+Palo Alto Networks has agreed to acquire Applied Compute, a startup that helps companies customize open-weight AI models, for $4.5 billion in stock, the Wall Street Journal reported. Applied Compute was valued at $3.25 billion earlier this month, so the purchase price represents a substantial premium over that private valuation.
+
+The company was founded last year by former OpenAI researchers and specializes in tuning open-weight models — models whose trained weights are published for download, so customers can adapt them to their own data rather than only calling a vendor's hosted API. The report describes an agreement to buy; it gives no closing date or regulatory timetable.
 
 </div>
 

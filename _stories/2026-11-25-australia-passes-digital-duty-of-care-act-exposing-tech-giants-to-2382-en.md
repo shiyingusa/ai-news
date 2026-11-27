@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Australia's Parliament passed the Digital Duty of Care Act on Wednesday, according to the Associated Press, creating an online safety obligation that could expose tech giants to multibillion-dollar fines if they fail to prevent foreseeable online harms. The law's core mechanism is a general duty of care rather than a list of banned content types, meaning platforms are expected to anticipate harm instead of responding only after specific material is reported. The AP report as excerpted does not give the maximum penalty figures, name the platforms covered, or state when the obligations take effect, so the practical reach of the regime is not yet established by the available reporting.
+Australia's Parliament passed the Digital Duty of Care Act on Wednesday, according to the Associated Press, creating an online safety obligation that could expose tech giants to multibillion-dollar fines if they fail to prevent foreseeable online harms. The law's core mechanism is a general duty of care rather than a list of banned content types, meaning platforms are expected to anticipate harm instead of responding only after specific material is reported.
+
+The AP report as excerpted does not give the maximum penalty figures, name the platforms covered, or state when the obligations take effect, so the practical reach of the regime is not yet established by the available reporting.
 
 </div>
 

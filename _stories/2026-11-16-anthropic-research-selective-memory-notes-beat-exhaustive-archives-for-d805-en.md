@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g890fea8df3b02edca43bc85d9a4fadc8
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic researchers studying how Claude carries knowledge across sessions report that keeping a small set of curated memory notes outperforms storing exhaustive archives, according to The Decoder's account of the work. In a Pokémon Red play test, the newer Claude Fable 5 progressed four times as far as the older Sonnet 3.7 while relying on just a handful of strategy files rather than more than 400. The research also describes a "Dreaming" process that retroactively corrects faulty stored memories instead of leaving errors in place. The report is secondary coverage and does not include the underlying paper, benchmark methodology, or any product or API availability.
+Anthropic researchers studying how Claude carries knowledge across sessions report that keeping a small set of curated memory notes outperforms storing exhaustive archives, according to The Decoder's account of the work. In a Pokémon Red play test, the newer Claude Fable 5 progressed four times as far as the older Sonnet 3.7 while relying on just a handful of strategy files rather than more than 400.
+
+The research also describes a "Dreaming" process that retroactively corrects faulty stored memories instead of leaving errors in place. The report is secondary coverage and does not include the underlying paper, benchmark methodology, or any product or API availability.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g00111df43708cf22ced06126af8a17c5
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Voters in Ohio passed midterm ballot measures restricting data-center development, putting three proposed Amazon projects at risk within a planned investment of more than $17 billion, according to a Financial Times analysis re-reported by Techmeme. The report frames the vote as part of a wider pattern of local resistance to Big Tech's AI infrastructure buildout across the US. The account is a news analysis rather than an Amazon statement, regulatory filing or project notice, so it does not specify the terms of the measures, which three projects are affected, or how much of the $17 billion-plus figure is now in doubt. Amazon has not publicly confirmed any cancellation, delay or change to its Ohio plans in the supplied material.
+Voters in Ohio passed midterm ballot measures restricting data-center development, putting three proposed Amazon projects at risk within a planned investment of more than $17 billion, according to a Financial Times analysis re-reported by Techmeme. The report frames the vote as part of a wider pattern of local resistance to Big Tech's AI infrastructure buildout across the US.
+
+The account is a news analysis rather than an Amazon statement, regulatory filing or project notice, so it does not specify the terms of the measures, which three projects are affected, or how much of the $17 billion-plus figure is now in doubt. Amazon has not publicly confirmed any cancellation, delay or change to its Ohio plans in the supplied material.
 
 </div>
 

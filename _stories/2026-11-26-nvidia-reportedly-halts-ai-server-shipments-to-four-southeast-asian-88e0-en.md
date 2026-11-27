@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g06eea79c9d1a056d199cd23dda2d15d2
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Nvidia has told its manufacturing partners to stop shipping AI servers to Malaysia, Singapore, Thailand and Indonesia, according to the Financial Times, which cited unnamed sources. The report links the move to a tightening round of US export controls intended to stop Chinese buyers from reaching AI computing power through third countries. Neither Nvidia nor the US government has publicly confirmed the instruction, and the report as summarised does not specify an effective date, which server configurations are covered, or whether the halt is a formal licence requirement or voluntary compliance by Nvidia and its contract manufacturers.
+Nvidia has told its manufacturing partners to stop shipping AI servers to Malaysia, Singapore, Thailand and Indonesia, according to the Financial Times, which cited unnamed sources. The report links the move to a tightening round of US export controls intended to stop Chinese buyers from reaching AI computing power through third countries.
+
+Neither Nvidia nor the US government has publicly confirmed the instruction, and the report as summarised does not specify an effective date, which server configurations are covered, or whether the halt is a formal licence requirement or voluntary compliance by Nvidia and its contract manufacturers.
 
 </div>
 

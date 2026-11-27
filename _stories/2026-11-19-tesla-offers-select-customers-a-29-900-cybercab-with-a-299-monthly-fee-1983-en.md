@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla's robotaxi account said on Friday that it had invited "select customers" to buy their own Cybercab, a two-seat gold vehicle with no steering wheel and no brake pedals, for $29,900 with delivery promised in December. Tesla called it a "limited release" but did not say how many cars or customers are involved. Buyers would also owe $299 a month to keep the car on the road, according to the report, though Tesla has not publicly detailed what that fee covers. The offer differs from Waymo and Amazon's Zoox, which sell rides on their own networks rather than vehicles to individuals.
+Tesla's robotaxi account said on Friday that it had invited "select customers" to buy their own Cybercab, a two-seat gold vehicle with no steering wheel and no brake pedals, for $29,900 with delivery promised in December. Tesla called it a "limited release" but did not say how many cars or customers are involved.
+
+Buyers would also owe $299 a month to keep the car on the road, according to the report, though Tesla has not publicly detailed what that fee covers. The offer differs from Waymo and Amazon's Zoox, which sell rides on their own networks rather than vehicles to individuals.
 
 </div>
 

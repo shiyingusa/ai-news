@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g47d5709a4a78d62769dff550b95fc03f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI 正在将 GPT-6.2 Sol 设为 ChatGPT 聊天标签页的全球默认模型。据 The Decoder 报道，OpenAI 的内部测试显示图像理解得分从 47.4% 升至 71.7%，复杂指令正确率为 78.1%，并称该模型更稳定地遵守安全策略。上述数字均为 OpenAI 自测，未提供独立复现结果；报道也未说明 API 是否同步、各套餐的上线时间或定价变化。
+OpenAI 正在将 GPT-6.2 Sol 设为 ChatGPT 聊天标签页的全球默认模型。据 The Decoder 报道，OpenAI 的内部测试显示图像理解得分从 47.4% 升至 71.7%，复杂指令正确率为 78.1%，并称该模型更稳定地遵守安全策略。
+
+上述数字均为 OpenAI 自测，未提供独立复现结果；报道也未说明 API 是否同步、各套餐的上线时间或定价变化。
 
 </div>
 

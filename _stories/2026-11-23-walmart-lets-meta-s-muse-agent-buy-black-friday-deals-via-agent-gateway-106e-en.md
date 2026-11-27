@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gecd88b4a78bde43bdc81e8926b0c582c
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Walmart is rolling out a live implementation of the Agent Gateway it announced last month, and Meta's Muse AI agent is the first shopping agent using it: Muse can search for and purchase Black Friday deals through Walmart's Sparky assistant. Purchases run through Walmart "Agent Profiles," a dedicated space for agent activity inside a customer's Walmart account where shoppers can set spending limits, approve purchases, and review a history of everything the agent bought. Walmart says the gateway lets agents find relevant products without being given the customer's purchase history. The Verge describes the integration as live and rolling out, without specifying how many customers have access or whether it extends past the Black Friday period.
+Walmart is rolling out a live implementation of the Agent Gateway it announced last month, and Meta's Muse AI agent is the first shopping agent using it: Muse can search for and purchase Black Friday deals through Walmart's Sparky assistant. Purchases run through Walmart "Agent Profiles," a dedicated space for agent activity inside a customer's Walmart account where shoppers can set spending limits, approve purchases, and review a history of everything the agent bought.
+
+Walmart says the gateway lets agents find relevant products without being given the customer's purchase history. The Verge describes the integration as live and rolling out, without specifying how many customers have access or whether it extends past the Black Friday period.
 
 </div>
 

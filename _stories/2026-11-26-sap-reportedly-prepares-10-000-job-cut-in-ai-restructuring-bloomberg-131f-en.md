@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-SAP is preparing a plan to eliminate at least 10,000 positions — roughly 9% of its global workforce — as part of an effort to transform its software business for the AI era, Bloomberg reported on November 26, citing people familiar with the matter. The report, attributed to Christina Kyriasoglou and unnamed sources, describes planning rather than an announced program: SAP has not publicly confirmed the cuts, and the report gives no timeline, cost estimate, or breakdown of which units, regions or roles would be affected. No figure beyond the "at least 10,000" minimum and the 9% share was disclosed.
+SAP is preparing a plan to eliminate at least 10,000 positions — roughly 9% of its global workforce — as part of an effort to transform its software business for the AI era, Bloomberg reported on November 26, citing people familiar with the matter. The report, attributed to Christina Kyriasoglou and unnamed sources, describes planning rather than an announced program: SAP has not publicly confirmed the cuts, and the report gives no timeline, cost estimate, or breakdown of which units, regions or roles would be affected.
+
+No figure beyond the "at least 10,000" minimum and the 9% share was disclosed.
 
 </div>
 

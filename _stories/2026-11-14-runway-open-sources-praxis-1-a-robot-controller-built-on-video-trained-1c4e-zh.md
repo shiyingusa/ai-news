@@ -29,7 +29,9 @@ description: "Runway 发布了机器人模型 Praxis-1，同时公开模型权�
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Runway 发布了机器人模型 Praxis-1，同时公开模型权重与源代码，采用 Apache 2.0 许可。该模型把视频训练中获得的知识迁移到机器人控制任务上，按照 Runway 的说法，它在 Nvidia 的 RoboLab-120 基准的 World Action Model（世界动作模型）类别中排名第一；这一排名属于厂商自述，尚未见到独立复现。目前的限制是，它还不能自行规划复杂的动作序列，因此仍需外部规划器或人工给出任务步骤。
+Runway 发布了机器人模型 Praxis-1，同时公开模型权重与源代码，采用 Apache 2.0 许可。该模型把视频训练中获得的知识迁移到机器人控制任务上，按照 Runway 的说法，它在 Nvidia 的 RoboLab-120 基准的 World Action Model（世界动作模型）类别中排名第一；这一排名属于厂商自述，尚未见到独立复现。
+
+目前的限制是，它还不能自行规划复杂的动作序列，因此仍需外部规划器或人工给出任务步骤。
 
 </div>
 

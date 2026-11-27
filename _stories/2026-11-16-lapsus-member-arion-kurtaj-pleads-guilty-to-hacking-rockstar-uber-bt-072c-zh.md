@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g90826792ace631f0b7be7b5720ee774c
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 BBC 报道，21 岁的 Lapsus$ 成员 Arion Kurtaj 已在英国法院承认一系列网络犯罪，涉及入侵 Rockstar、Uber、BT 等公司。他还承认窃取数十段未完成的《GTA 6》游戏片段，并试图以此勒索 Rockstar。报道称，他是在从一家安全医院（secure hospital）获释后出庭的；目前公开信息没有给出量刑日期或具体刑期。
+据 BBC 报道，21 岁的 Lapsus$ 成员 Arion Kurtaj 已在英国法院承认一系列网络犯罪，涉及入侵 Rockstar、Uber、BT 等公司。他还承认窃取数十段未完成的《GTA 6》游戏片段，并试图以此勒索 Rockstar。
+
+报道称，他是在从一家安全医院（secure hospital）获释后出庭的；目前公开信息没有给出量刑日期或具体刑期。
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gfa1f3981615dfb7c8a65a0bdf8159e8f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Wired reported that CreditNirvana, a platform that uses AI to run debt collection calls, carried a pair of serious vulnerabilities that would have given attackers access to 6.6 million accounts and 315,000 call recordings. The exposed data also included emails, texts and credit reports, according to the report. The report describes the flaws and the scale of the data they reached but does not state that anyone actually exploited them, nor does it name who discovered the vulnerabilities or whether affected consumers have been notified.
+Wired reported that CreditNirvana, a platform that uses AI to run debt collection calls, carried a pair of serious vulnerabilities that would have given attackers access to 6.6 million accounts and 315,000 call recordings. The exposed data also included emails, texts and credit reports, according to the report.
+
+The report describes the flaws and the scale of the data they reached but does not state that anyone actually exploited them, nor does it name who discovered the vulnerabilities or whether affected consumers have been notified.
 
 </div>
 

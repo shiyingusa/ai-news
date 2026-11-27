@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gd5012ed06ec0118202e430ab5cd24b1f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-vLLM 发布 v0.34.0，面向使用该开源推理引擎部署模型的团队，新增 Mistral Large 4、MiniMax-M3.1-Flash、Nemotron-3.5-Transcribe 等 10 个模型支持，并默认启用可扩展 KV 缓存：缓存按预热后实际空闲显存确定，发布说明举例称 MiniMax-M3 在 H200 上从 433k 增至 672k tokens。该版本移除了 Model Runner V1，V2 成为唯一 GPU runner，同时列出多项性能提升，例如 Step5 在 4×GB200 上解码最高 1.95×、GLM-5.3-Flash 输出吞吐 1.6×，但这些数字来自发布说明，尚无独立复测。升级前需处理破坏性变更：默认 block size 从 16 改为 64、gpu_memory_utilization 默认 1.0、ROCm 7.2 构建不再发布，并要求 huggingface_hub >= 2.0.0；设置 VLLM_USE_V2_MODEL_RUNNER=0 现在会在启动时失败。
+vLLM 发布 v0.34.0，面向使用该开源推理引擎部署模型的团队，新增 Mistral Large 4、MiniMax-M3.1-Flash、Nemotron-3.5-Transcribe 等 10 个模型支持，并默认启用可扩展 KV 缓存：缓存按预热后实际空闲显存确定，发布说明举例称 MiniMax-M3 在 H200 上从 433k 增至 672k tokens。该版本移除了 Model Runner V1，V2 成为唯一 GPU runner，同时列出多项性能提升，例如 Step5 在 4×GB200 上解码最高 1.95×、GLM-5.3-Flash 输出吞吐 1.6×，但这些数字来自发布说明，尚无独立复测。
+
+升级前需处理破坏性变更：默认 block size 从 16 改为 64、gpu_memory_utilization 默认 1.0、ROCm 7.2 构建不再发布，并要求 huggingface_hub >= 2.0.0；设置 VLLM_USE_V2_MODEL_RUNNER=0 现在会在启动时失败。
 
 </div>
 

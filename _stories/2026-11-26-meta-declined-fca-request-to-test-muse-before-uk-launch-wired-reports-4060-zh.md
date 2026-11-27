@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g37f56b44b313bdaa8c82cce08859192b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Meta 于周二在英国上线其个人 AI 代理 Muse，但英国金融行为监管局（FCA）表示，曾请求在发布前与 Meta 联合测试该代理，这一请求被 Meta 拒绝。FCA 就此警告，AI 代理会带来“另一种攻击力量”（another force of attack）。目前公开信息仅有 FCA 的这一表态，报道未披露 Meta 的回应与拒绝理由，也未说明拟议联合测试的具体范围或 Muse 在英国的具体功能。
+Meta 于周二在英国上线其个人 AI 代理 Muse，但英国金融行为监管局（FCA）表示，曾请求在发布前与 Meta 联合测试该代理，这一请求被 Meta 拒绝。FCA 就此警告，AI 代理会带来“另一种攻击力量”（another force of attack）。
+
+目前公开信息仅有 FCA 的这一表态，报道未披露 Meta 的回应与拒绝理由，也未说明拟议联合测试的具体范围或 Muse 在英国的具体功能。
 
 </div>
 

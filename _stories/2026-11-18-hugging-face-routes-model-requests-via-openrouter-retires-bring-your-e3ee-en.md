@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8da812e0e59a768050389b3b0ff0e29f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Hugging Face now sends language-model requests through OpenRouter, a routing service that automatically picks the cheapest or fastest provider available for a given model, The Decoder reported. The change also ends bring-your-own API keys for language models on the platform, so developers who previously plugged in their own OpenAI, Anthropic or other provider credentials will have to use the routed path instead. OpenRouter says the new routing reduced capacity errors by 46 percent, a figure the company has not backed with an independent measurement. The report also alludes to "multibillion-dollar acquisitions" facing both partners without naming them or giving terms.
+Hugging Face now sends language-model requests through OpenRouter, a routing service that automatically picks the cheapest or fastest provider available for a given model, The Decoder reported. The change also ends bring-your-own API keys for language models on the platform, so developers who previously plugged in their own OpenAI, Anthropic or other provider credentials will have to use the routed path instead.
+
+OpenRouter says the new routing reduced capacity errors by 46 percent, a figure the company has not backed with an independent measurement. The report also alludes to "multibillion-dollar acquisitions" facing both partners without naming them or giving terms.
 
 </div>
 

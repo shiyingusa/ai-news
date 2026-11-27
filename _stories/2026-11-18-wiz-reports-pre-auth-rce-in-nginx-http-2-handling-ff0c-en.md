@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g49aeda4f6dcfa7f3853bb91f3073980a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Wiz published research describing pre-authentication remote code execution (RCE) flaws in nginx's HTTP/2 handling — a class of bug that can let an attacker run code on a web server without logging in first. The same flaws are separately claimed by Xint, a Darpa-backed security company that told Forbes its AI models, GPT 6.1 Sol and GPT-6 Luna, found RCE vulnerabilities in nginx; Wiz says it had independently found the same bugs. The write-up is a research blog, not an official nginx advisory, and no evidence of active exploitation was presented. Commenters noted that a fix appears to have landed in nginx's open-source repository roughly a week before the disclosure, with a commit crediting "Reported by Xint.io" but no public notice telling operators to disable HTTP/2 in the meantime.
+Wiz published research describing pre-authentication remote code execution (RCE) flaws in nginx's HTTP/2 handling — a class of bug that can let an attacker run code on a web server without logging in first. The same flaws are separately claimed by Xint, a Darpa-backed security company that told Forbes its AI models, GPT 6.1 Sol and GPT-6 Luna, found RCE vulnerabilities in nginx; Wiz says it had independently found the same bugs.
+
+The write-up is a research blog, not an official nginx advisory, and no evidence of active exploitation was presented. Commenters noted that a fix appears to have landed in nginx's open-source repository roughly a week before the disclosure, with a commit crediting "Reported by Xint.io" but no public notice telling operators to disable HTTP/2 in the meantime.
 
 </div>
 
@@ -56,10 +58,6 @@ Anyone running nginx with HTTP/2 enabled has a concrete decision to make: apply 
 
 Whether nginx's maintainers or F5 publish an official advisory with CVE identifiers and the affected version ranges, which would let operators confirm whether their builds are exposed.
 
-## Community discussion
-
-The strongest argument in the thread, from black3r, is about disclosure timing: the fix was reportedly visible in the open-source repo about a week earlier, so skilled attackers could have mined it, and a bare notice to disable HTTP/2 would have cost little. Other commenters reacted to the AI angle — one worried about the volume of vulnerable small servers — while hokkos flagged a separate oddity, an empty SHA-256 digest on the nginx 1.31.9-alpine Docker image, which is an observation about that image rather than a stated link to the flaws.
-
 ## Coverage of this story
 
 - 2026-11-18 · wiz.io: [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
@@ -73,5 +71,13 @@ The strongest argument in the thread, from black3r, is about disclosure timing: 
 - [NGINX HTTP/2 Flaws Could Allow Memory Corruption and Remote ...](https://cybersecuritynews.com/nginx-http-2-vulnerabilities/)
 - [PSA: Immediately Patch NGINX Web Servers Due to Critical ...](https://finance.yahoo.com/technology/ai/articles/psa-immediately-patch-nginx-servers-160000691.html?fr=sycsrp_catchall)
 - [nginx Advisories Jump to 26 From 2 as AI Finds Critical RCEs](https://fourweekmba.com/ai-nginx-advisories-jump-to-26-from-2-as-ai-finds-critical-rces/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+The strongest argument in the thread, from black3r, is about disclosure timing: the fix was reportedly visible in the open-source repo about a week earlier, so skilled attackers could have mined it, and a bare notice to disable HTTP/2 would have cost little. Other commenters reacted to the AI angle — one worried about the volume of vulnerable small servers — while hokkos flagged a separate oddity, an empty SHA-256 digest on the nginx 1.31.9-alpine Docker image, which is an observation about that image rather than a stated link to the flaws.
+
+</div>
 
 {% endraw %}

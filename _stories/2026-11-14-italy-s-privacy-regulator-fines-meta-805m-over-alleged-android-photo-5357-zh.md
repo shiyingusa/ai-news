@@ -38,14 +38,18 @@ description: "意大利数据保护机构周六宣布，对 Meta 处以 8.05 亿
 
 意大利数据保护局（Garante）是欧盟《通用数据保护条例》（GDPR）在意大利的执行机构，因此在欧盟运营的跨国平台在当地是否合规，通常由各国监管机构分别调查并作出处罚。据路透社等媒体报道，此次处罚针对 Facebook 在 Android 上的相册相关功能：监管机构认定 Meta 在未取得用户明确同意、也未告知用户的情况下访问了意大利用户的照片和视频，并要求其修改该功能。
 
-## 社区讨论
-
-Hacker News 评论者主要追问技术细节：有人问 Meta 究竟如何在未出现同意提示的情况下访问照片；另一人引用报道中“用户必须先授权、且可随时更改设置”的说法，反问意大利监管机构到底在防止什么。还有评论贴出 enforcementtracker.com 作为科技公司罚款汇总，并对这类罚款是否实际执行表示怀疑。
-
 ## 延伸阅读
 
 - [Italy fines Meta $887 million over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
 - [Italy Fines Meta Nearly $1 Billion Over Company Accessing ...](https://www.yahoo.com/news/world/articles/italy-fines-meta-nearly-1-140421554.html?fr=sycsrp_catchall)
 - [Italy fines Meta €805 million over Android data access | The ...](https://www.straitstimes.com/world/europe/italy-fines-meta-1-14-billion-over-android-users-data-access)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+Hacker News 评论者主要追问技术细节：有人问 Meta 究竟如何在未出现同意提示的情况下访问照片；另一人引用报道中“用户必须先授权、且可随时更改设置”的说法，反问意大利监管机构到底在防止什么。还有评论贴出 enforcementtracker.com 作为科技公司罚款汇总，并对这类罚款是否实际执行表示怀疑。
+
+</div>
 
 {% endraw %}

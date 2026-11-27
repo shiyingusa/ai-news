@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gdd12d00046fd9d9c7e9c464fd8fc07d8
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The AI-text detector Pangram classified 99 percent of a prize-winning Peruvian novel as machine-generated, and more than 80 percent of the author's personal texts as well, according to The Decoder. Mexican publisher Almadía said it conducted its own review of the award and is standing by the author rather than rescinding the prize. The case lands as French publisher Gallimard reportedly plans to begin screening submitted manuscripts with the same tool, putting a commercial detector's error rate directly in the path of acquisition decisions. The report does not name the author or the novel, and does not include any response from Pangram or an independent test of its accuracy.
+The AI-text detector Pangram classified 99 percent of a prize-winning Peruvian novel as machine-generated, and more than 80 percent of the author's personal texts as well, according to The Decoder. Mexican publisher Almadía said it conducted its own review of the award and is standing by the author rather than rescinding the prize.
+
+The case lands as French publisher Gallimard reportedly plans to begin screening submitted manuscripts with the same tool, putting a commercial detector's error rate directly in the path of acquisition decisions. The report does not name the author or the novel, and does not include any response from Pangram or an independent test of its accuracy.
 
 </div>
 

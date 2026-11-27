@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gd743113e800d6f683207d953960447b5
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Cloudflare 博客称，公共 DNS 解析器 Quad9 因法国的 DNS 屏蔽要求退出法国，并将此视为强制过滤对互联网基础设施的早期警示。DNS 解析器负责把域名转换为 IP 地址，Quad9 的退出意味着法国用户少了一个可选的公共解析服务，也显示合规压力可能直接改变 DNS 服务的可用范围。现有材料未给出相关裁决、退出时间表或替代安排；Quad9 首席技术官在 Hacker News 评论中称，其立场在 IETF 127 获得广泛支持，并对 DNS 治理走向表示担忧。
+Cloudflare 博客称，公共 DNS 解析器 Quad9 因法国的 DNS 屏蔽要求退出法国，并将此视为强制过滤对互联网基础设施的早期警示。DNS 解析器负责把域名转换为 IP 地址，Quad9 的退出意味着法国用户少了一个可选的公共解析服务，也显示合规压力可能直接改变 DNS 服务的可用范围。
+
+现有材料未给出相关裁决、退出时间表或替代安排；Quad9 首席技术官在 Hacker News 评论中称，其立场在 IETF 127 获得广泛支持，并对 DNS 治理走向表示担忧。
 
 </div>
 
@@ -52,10 +54,6 @@ Cloudflare 博客称，公共 DNS 解析器 Quad9 因法国的 DNS 屏蔽要求�
 
 对法国的 Quad9 用户来说，最直接的后果是失去这层恶意软件与钓鱼域名拦截，得另换一个公共解析器；对其他公共解析器（如 Cloudflare、Google）而言，beIN Sports 在巴黎法庭寻求的每日最高 58 万欧元罚款则是一个可复制的先例：要么按要求对递归解析器执行屏蔽，要么退出该市场。ICANN 安全与稳定咨询委员会（SSAC）2025 年的报告指出，通过递归解析器做 DNS 屏蔽只在用户确实使用该解析器时有效，换个解析器即可绕过，因此把合规成本压在少数几家公共解析器身上，实际屏蔽效果很大程度上取决于这些服务商的市场集中度。
 
-## 社区讨论
-
-Quad9 首席技术官在评论中称，IETF 127 上同行几乎一致支持 Quad9 的立场，并对 DNS 领域的走向感到担忧；他把反对声音主要归于“版权产业”的雇员。另一名评论者认为，要求互联网基础设施像道路一样保持“中立”的假设已经过时，因为互联网已承载所有人；还有人批评 Cloudflare 只表达反对，却没有承诺在类似不利裁决下采取具体行动。
-
 ## 延伸阅读
 
 - [Quad9 plans France withdrawal over beIN site-blocking orders](https://disputeindex.com/cases/quad9-france-bein-dns-blocking-withdrawal)
@@ -63,5 +61,13 @@ Quad9 首席技术官在评论中称，IETF 127 上同行几乎一致支持 Quad
 - [Farewell, France | Quad9](https://quad9.net/news/blog/au-revoir-france/)
 - [DNS Resolver Quad 9 Rejects French Piracy Blocks ... * TorrentFreak](https://torrentfreak.com/dns-resolver-quad9-rejects-french-piracy-blocks-weighs-exit-as-bein-seeks-up-to-e580k-a-day/)
 - [sac127_ dns _ blocking _revisited](https://itp.cdn.icann.org/en/files/security-and-stability-advisory-committee-ssac-reports/sac127-dns-blocking-revisited-16-05-2025-en.pdf)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+Quad9 首席技术官在评论中称，IETF 127 上同行几乎一致支持 Quad9 的立场，并对 DNS 领域的走向感到担忧；他把反对声音主要归于“版权产业”的雇员。另一名评论者认为，要求互联网基础设施像道路一样保持“中立”的假设已经过时，因为互联网已承载所有人；还有人批评 Cloudflare 只表达反对，却没有承诺在类似不利裁决下采取具体行动。
+
+</div>
 
 {% endraw %}

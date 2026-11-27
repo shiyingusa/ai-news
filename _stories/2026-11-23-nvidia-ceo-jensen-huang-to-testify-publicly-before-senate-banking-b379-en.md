@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Senate Banking Committee Chairman Tim Scott said in a statement that Nvidia CEO Jensen Huang will testify publicly before the panel on December 3, Bloomberg reported. According to Bloomberg, the hearing will focus on oversight of US export controls — the rules governing which advanced chips, including Nvidia's AI accelerators, can be sold to which countries. No witness list beyond Huang, hearing title, or committee notice has been released, and no testimony or policy outcome exists yet; the December 3 appearance is scheduled, not held.
+Senate Banking Committee Chairman Tim Scott said in a statement that Nvidia CEO Jensen Huang will testify publicly before the panel on December 3, Bloomberg reported. According to Bloomberg, the hearing will focus on oversight of US export controls — the rules governing which advanced chips, including Nvidia's AI accelerators, can be sold to which countries.
+
+No witness list beyond Huang, hearing title, or committee notice has been released, and no testimony or policy outcome exists yet; the December 3 appearance is scheduled, not held.
 
 </div>
 

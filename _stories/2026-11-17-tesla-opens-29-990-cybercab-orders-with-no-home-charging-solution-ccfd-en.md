@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Electrek reports that Tesla has opened orders for the $29,990 Cybercab, with first deliveries expected in Austin next month. The report says the vehicle has no onboard charger, so it can only use DC fast charging, and the wireless home charging pad Tesla has been teasing since 2023 is still not available to buy. That leaves buyers without a home-charging option at launch unless Tesla releases the pad or offers another accessory. The account is a secondary report and does not specify an exact delivery date or a price for the pad.
+Electrek reports that Tesla has opened orders for the $29,990 Cybercab, with first deliveries expected in Austin next month. The report says the vehicle has no onboard charger, so it can only use DC fast charging, and the wireless home charging pad Tesla has been teasing since 2023 is still not available to buy.
+
+That leaves buyers without a home-charging option at launch unless Tesla releases the pad or offers another accessory. The account is a secondary report and does not specify an exact delivery date or a price for the pad.
 
 </div>
 

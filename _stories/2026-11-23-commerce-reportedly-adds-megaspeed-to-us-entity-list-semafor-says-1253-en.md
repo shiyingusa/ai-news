@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g2895d8e9e46978ba5359f097cfa6c44d
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The US Commerce Department reportedly added Megaspeed to its Entity List on Monday, Semafor reported, citing unnamed sources. The designation would require US companies to obtain a license before selling chips to Megaspeed, which Semafor describes as the company at the center of an Nvidia-related controversy. The report did not specify the license policy's scope, any affiliated entities covered, or an effective date, and no official listing was included.
+The US Commerce Department reportedly added Megaspeed to its Entity List on Monday, Semafor reported, citing unnamed sources. The designation would require US companies to obtain a license before selling chips to Megaspeed, which Semafor describes as the company at the center of an Nvidia-related controversy.
+
+The report did not specify the license policy's scope, any affiliated entities covered, or an effective date, and no official listing was included.
 
 </div>
 

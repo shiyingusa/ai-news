@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf047857b772f3bf0a8863ec9c4b77b2e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Lenders have reportedly pulled back from billions of dollars in data-center loans tied to ByteDance, Alibaba and Tencent, as US restrictions on AI chip exports complicate the financing, Bloomberg reported, citing people it did not name. Among the affected deals, some lenders are delaying a $6.6 billion loan for Bridge Data Centres, a Malaysia-headquartered data-center operator. The report describes a financing slowdown rather than any new export-control measure, and no lender or company named was quoted directly. The scale of the pullback beyond the Bridge loan, and whether any of the stalled deals have been cancelled outright, was not specified.
+Lenders have reportedly pulled back from billions of dollars in data-center loans tied to ByteDance, Alibaba and Tencent, as US restrictions on AI chip exports complicate the financing, Bloomberg reported, citing people it did not name. Among the affected deals, some lenders are delaying a $6.6 billion loan for Bridge Data Centres, a Malaysia-headquartered data-center operator.
+
+The report describes a financing slowdown rather than any new export-control measure, and no lender or company named was quoted directly. The scale of the pullback beyond the Bridge loan, and whether any of the stalled deals have been cancelled outright, was not specified.
 
 </div>
 

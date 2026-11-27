@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8c2fc366df9e988ccc1f93bd569de406
 {% raw %}
 <div class="story-lead" markdown="1">
 
-智谱（Z.ai）发布旗舰模型 GLM-5.4，采用“循环”（loop）架构：28 个层在推理时各执行两遍，模型总参数 7500 亿。公司称这一设计可对标 2 万亿至 3 万亿参数级别的模型，但据 The Decoder 报道，目前公开的基准分数只来自一个 300 亿参数的测试用小模型，7500 亿参数的正式模型尚无自家跑分。智谱把 GLM-5.4 定位为“广义编程”（Generalized Coding）的起点，即代码不仅生成程序，还能产出视频、游戏和 CAD 模型。可用性上，该模型目前不在 OpenRouter 或 Z.ai 常规 API 套餐中提供，开发者需改用其 Coding Plan，所获 API key 与常规 key 用法一致，但可访问新模型。
+智谱（Z.ai）发布旗舰模型 GLM-5.4，采用“循环”（loop）架构：28 个层在推理时各执行两遍，模型总参数 7500 亿。公司称这一设计可对标 2 万亿至 3 万亿参数级别的模型，但据 The Decoder 报道，目前公开的基准分数只来自一个 300 亿参数的测试用小模型，7500 亿参数的正式模型尚无自家跑分。
+
+智谱把 GLM-5.4 定位为“广义编程”（Generalized Coding）的起点，即代码不仅生成程序，还能产出视频、游戏和 CAD 模型。可用性上，该模型目前不在 OpenRouter 或 Z.ai 常规 API 套餐中提供，开发者需改用其 Coding Plan，所获 API key 与常规 key 用法一致，但可访问新模型。
 
 </div>
 
@@ -56,10 +58,6 @@ photo_credit: {"url": "https://pixabay.com/get/g8c2fc366df9e988ccc1f93bd569de406
 
 值得关注智谱何时公布 7500 亿参数正式模型自身的基准成绩，以及第三方对循环架构在同等显存带宽下实际吞吐的独立测试结果。
 
-## 社区讨论
-
-Hacker News 讨论中，有评论者认为智谱给出的技术细节相当透明，并称循环 Transformer 是显而易见的方向、只是仍有工程问题待解；另一位评论者从 HBM 带宽角度解释了循环层为何能省下权重搬运开销。开发者 Simon Willison 则记录了实测经历：为拿到 GLM-5.4 不得不切换到 Coding Plan，并对比称 GLM-5.2 生成同一“鹈鹕”测试题时默认使用渐变与动画，风格明显不同。也有用户抱怨部分中国模型“马拉松式思考”，在最简单的任务上反复自我怀疑、完成时间远高于前沿模型。
-
 ## 本事件的相关报道
 
 - 2026-11-23 · z.ai: [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
@@ -68,5 +66,13 @@ Hacker News 讨论中，有评论者认为智谱给出的技术细节相当透�
 ## 延伸阅读
 
 - [2026-11-16 — Alibaba launches Qwen4-Max flagship with 2.4T parameters](https://qwen.ai/blog?id=qwen4-max)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+Hacker News 讨论中，有评论者认为智谱给出的技术细节相当透明，并称循环 Transformer 是显而易见的方向、只是仍有工程问题待解；另一位评论者从 HBM 带宽角度解释了循环层为何能省下权重搬运开销。开发者 Simon Willison 则记录了实测经历：为拿到 GLM-5.4 不得不切换到 Coding Plan，并对比称 GLM-5.2 生成同一“鹈鹕”测试题时默认使用渐变与动画，风格明显不同。也有用户抱怨部分中国模型“马拉松式思考”，在最简单的任务上反复自我怀疑、完成时间远高于前沿模型。
+
+</div>
 
 {% endraw %}

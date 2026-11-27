@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gcfe17b5cca24bcf9f6a0b770ba498c93
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A UK tribunal ruled that the Home Office must acknowledge it issued a secret "technical capability notice" (TCN) to Apple in connection with bypassing its encryption, rejecting the government's claim that disclosing the order would damage national security. The Financial Times' Tim Bradshaw reported the decision, which privacy rights campaigners called "a big win for accountability, transparency and online security." The ruling settles whether the government must confirm the notice exists, not whether the underlying demand on Apple is lawful, and it does not disclose the notice's operational content.
+A UK tribunal ruled that the Home Office must acknowledge it issued a secret "technical capability notice" (TCN) to Apple in connection with bypassing its encryption, rejecting the government's claim that disclosing the order would damage national security. The Financial Times' Tim Bradshaw reported the decision, which privacy rights campaigners called "a big win for accountability, transparency and online security."
+
+The ruling settles whether the government must confirm the notice exists, not whether the underlying demand on Apple is lawful, and it does not disclose the notice's operational content.
 
 </div>
 

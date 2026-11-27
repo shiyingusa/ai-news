@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6e146d65942a96c732f018ca275b5646
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A developer posting on Hacker News says Anthropic flagged their company's API usage as model distillation and gave the company 24 hours to prove it was not doing so. The poster, weli, says the company does not train its own models and that the only usage likely to look suspicious is automated regression benchmarking run whenever AI settings change. They are asking how to rebut the accusation without exposing user data; Anthropic has not publicly confirmed the account in the thread.
+A developer posting on Hacker News says Anthropic flagged their company's API usage as model distillation and gave the company 24 hours to prove it was not doing so. The poster, weli, says the company does not train its own models and that the only usage likely to look suspicious is automated regression benchmarking run whenever AI settings change.
+
+They are asking how to rebut the accusation without exposing user data; Anthropic has not publicly confirmed the account in the thread.
 
 </div>
 
@@ -56,15 +58,19 @@ For teams running automated evaluations against Anthropic's API, the practical c
 
 Whether Anthropic responds publicly to the thread or the poster reports the outcome after the 24-hour deadline is the next checkable step.
 
-## Community discussion
-
-Commenters advised preserving the benchmark code and git history and even submitting the same evidence to Claude to test whether it looks sufficient, while one reported a similar OpenAI flag that turned out to involve a compromised API key used for actual distillation. Others argued the episode is a reason to move to a provider with human account support, such as Bedrock, or to switch vendors entirely.
-
 ## Further reading
 
 - [2026 Usage Policy update \ Anthropic](https://www.anthropic.com/news/2026-usage-policy-update)
 - [Usage Policy - assets.claude.com](https://assets.claude.com/88cf16e8b7d203be16d2c726bcd28a6ec7c7f5c8.pdf)
 - [Anthropic Accuses DeepSeek and Chinese AI Firms of Claude Model ...](https://explore.n1n.ai/blog/anthropic-accuses-deepseek-claude-model-distillation-2026-02-24)
 - [Anthropic 's Accounts of Distillation , Gray-Market Transfer Stations...](https://www.deeplearning.ai/the-batch/some-kimi-and-deepseek-users-were-served-claude-instead-anthropic-says)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters advised preserving the benchmark code and git history and even submitting the same evidence to Claude to test whether it looks sufficient, while one reported a similar OpenAI flag that turned out to involve a compromised API key used for actual distillation. Others argued the episode is a reason to move to a provider with human account support, such as Bedrock, or to switch vendors entirely.
+
+</div>
 
 {% endraw %}

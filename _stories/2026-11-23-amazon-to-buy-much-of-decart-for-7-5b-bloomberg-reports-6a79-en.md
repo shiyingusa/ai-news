@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g642e43d2583a7e8396586f1409d439d7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Amazon has agreed to acquire much of AI startup Decart, including its Decart Optimization Stack software along with its founding team and AI researchers, for roughly $7.5 billion, Bloomberg reported on November 23, citing one unnamed source. The deal has not been publicly confirmed by either company in the reporting, so the price, the precise assets that transfer, and the timing all remain unverified. TechCrunch framed the purchase as part of Amazon's push to strengthen the AI infrastructure underpinning its in-house Trainium chips as it prepares to sell that silicon to outside customers.
+Amazon has agreed to acquire much of AI startup Decart, including its Decart Optimization Stack software along with its founding team and AI researchers, for roughly $7.5 billion, Bloomberg reported on November 23, citing one unnamed source. The deal has not been publicly confirmed by either company in the reporting, so the price, the precise assets that transfer, and the timing all remain unverified.
+
+TechCrunch framed the purchase as part of Amazon's push to strengthen the AI infrastructure underpinning its in-house Trainium chips as it prepares to sell that silicon to outside customers.
 
 </div>
 

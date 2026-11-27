@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4d77c3524b312559c618cf3ff8d1ccfd
 {% raw %}
 <div class="story-lead" markdown="1">
 
-《华尔街日报》报道，Palo Alto Networks 已同意以 45 亿美元股票收购 Applied Compute。Applied Compute 去年由前 OpenAI 研究人员创立，专门帮助企业定制开放权重 AI 模型，据该报道本月估值为 32.5 亿美元。报道未说明交易预计何时完成，也没有包含两家公司的官方表态。
+《华尔街日报》报道，Palo Alto Networks 已同意以 45 亿美元股票收购 Applied Compute。Applied Compute 去年由前 OpenAI 研究人员创立，专门帮助企业定制开放权重 AI 模型，据该报道本月估值为 32.5 亿美元。
+
+报道未说明交易预计何时完成，也没有包含两家公司的官方表态。
 
 </div>
 

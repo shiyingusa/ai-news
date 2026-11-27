@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-特斯拉于 11 月 16 日宣布扩大其迈阿密 Robotaxi 的运营地理围栏（geofence，即允许无人驾驶车辆行驶的边界）；据 Teslarati 依据官方发布地图测算，范围从约 31 平方英里增至约 59 平方英里，增幅约 92%。新增区域首次覆盖市中心、Brickell、Wynwood、小哈瓦那和比斯坎湾滨水区，并向北延伸至 Hialeah。该服务 7 月 3 日在迈阿密上线，是特斯拉在得克萨斯州和加利福尼亚州之外的首个市场，乘客通过 Tesla Robotaxi 应用呼叫 Model Y，自 11 月中起 24 小时运营。迈阿密海滩是否纳入新范围，报道前后说法并不一致。
+特斯拉于 11 月 16 日宣布扩大其迈阿密 Robotaxi 的运营地理围栏（geofence，即允许无人驾驶车辆行驶的边界）；据 Teslarati 依据官方发布地图测算，范围从约 31 平方英里增至约 59 平方英里，增幅约 92%。新增区域首次覆盖市中心、Brickell、Wynwood、小哈瓦那和比斯坎湾滨水区，并向北延伸至 Hialeah。
+
+该服务 7 月 3 日在迈阿密上线，是特斯拉在得克萨斯州和加利福尼亚州之外的首个市场，乘客通过 Tesla Robotaxi 应用呼叫 Model Y，自 11 月中起 24 小时运营。迈阿密海滩是否纳入新范围，报道前后说法并不一致。
 
 </div>
 

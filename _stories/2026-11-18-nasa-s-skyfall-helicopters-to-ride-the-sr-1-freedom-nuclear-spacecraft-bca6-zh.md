@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NASA 的 SkyFall 任务计划用三架“Ingenuity 级”火星直升机在火星上空约 1 公里处从进入舱释放，随后各自着陆并每隔一个火星日飞行一次；它们将搭乘计划于 2028 年底发射的 Space Reactor-1 Freedom（SR-1）核裂变动力行星际飞船前往火星，2029 年首次飞掠火星，2030 年秋季再次接近时释放进入舱。NASA JPL 的 SkyFall 项目科学家 Matthew Golombek 在 11 月 10 日的 MEPAG 会议上说，该项目 2026 年 3 月启动，团队已从约 6 人增至 200 多人，主任务为期 6 个月、目标 1 年，三架直升机携带 5 台仪器，核心是带柔性天线的探地雷达，用于寻找地下冰、岩层和掩埋岩石。曾主管 NASA 火星项目的 Scott Hubbard 则称这一组合是“shotgun marriage”（勉强拼凑），认为 SkyFall 有项目或政治推动因素，SR-1 作为技术演示未必能赶上 2028 年发射窗口，且核电动推进对缩短火星飞行时间帮助不大。
+NASA 的 SkyFall 任务计划用三架“Ingenuity 级”火星直升机在火星上空约 1 公里处从进入舱释放，随后各自着陆并每隔一个火星日飞行一次；它们将搭乘计划于 2028 年底发射的 Space Reactor-1 Freedom（SR-1）核裂变动力行星际飞船前往火星，2029 年首次飞掠火星，2030 年秋季再次接近时释放进入舱。NASA JPL 的 SkyFall 项目科学家 Matthew Golombek 在 11 月 10 日的 MEPAG 会议上说，该项目 2026 年 3 月启动，团队已从约 6 人增至 200 多人，主任务为期 6 个月、目标 1 年，三架直升机携带 5 台仪器，核心是带柔性天线的探地雷达，用于寻找地下冰、岩层和掩埋岩石。
+
+曾主管 NASA 火星项目的 Scott Hubbard 则称这一组合是“shotgun marriage”（勉强拼凑），认为 SkyFall 有项目或政治推动因素，SR-1 作为技术演示未必能赶上 2028 年发射窗口，且核电动推进对缩短火星飞行时间帮助不大。
 
 </div>
 

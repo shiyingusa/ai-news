@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g91b278f3d6cb3184f53beb33ee0bdf41
 {% raw %}
 <div class="story-lead" markdown="1">
 
-BYD confirmed on November 24 that it has entered exclusive negotiations to acquire Ineos Automotive's car plant in Hambach, France. If completed, the purchase would make BYD the first Chinese automaker to buy an existing European car plant, and would give it a second passenger-car factory in the EU after its Hungary site. The plant was originally built by Mercedes for the Smart city car and later became the production home of Ineos' Grenadier, a Defender-style off-roader; the report links the move to Grenadier production shifting to the US. The companies have not disclosed a purchase price, the plant's future capacity, which BYD models would be built there, or a timeline beyond the fact that talks are exclusive.
+BYD confirmed on November 24 that it has entered exclusive negotiations to acquire Ineos Automotive's car plant in Hambach, France. If completed, the purchase would make BYD the first Chinese automaker to buy an existing European car plant, and would give it a second passenger-car factory in the EU after its Hungary site.
+
+The plant was originally built by Mercedes for the Smart city car and later became the production home of Ineos' Grenadier, a Defender-style off-roader; the report links the move to Grenadier production shifting to the US. The companies have not disclosed a purchase price, the plant's future capacity, which BYD models would be built there, or a timeline beyond the fact that talks are exclusive.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge6b5a1a88a26288ba228bf34c157f7ef
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added ARTEX — described by The Record as a powerful AI penetration-testing tool — to their attack toolkits, according to a new Microsoft report. The Record's Jonathan Greig reports the finding as an adoption trend among government-backed intrusions rather than a single incident. The account gives no technical detail on how ARTEX was used, what it targets, who built it, or how many intrusions it appeared in. The attribution and the tooling claim rest on Microsoft's own research, which the article summarizes but does not reproduce in full.
+Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added ARTEX — described by The Record as a powerful AI penetration-testing tool — to their attack toolkits, according to a new Microsoft report. The Record's Jonathan Greig reports the finding as an adoption trend among government-backed intrusions rather than a single incident.
+
+The account gives no technical detail on how ARTEX was used, what it targets, who built it, or how many intrusions it appeared in. The attribution and the tooling claim rest on Microsoft's own research, which the article summarizes but does not reproduce in full.
 
 </div>
 

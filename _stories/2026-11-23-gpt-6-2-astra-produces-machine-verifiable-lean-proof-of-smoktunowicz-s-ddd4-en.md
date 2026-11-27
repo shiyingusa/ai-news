@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g471bc68681c746727c88e96b01cbdae7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI's GPT-6.2 Astra independently produced a Lean proof of Smoktunowicz's gap theorem that, according to The Decoder citing the evaluation firm Vals AI, is the first machine-verifiable proof of the result by any AI. Because key foundations were missing from Mathlib — Lean's standard library of formalized mathematics — the model chose its own proof strategy instead of assembling existing lemmas. On Autoform-Hard, a theorem-proving benchmark, Astra now leads the leaderboard with 49 of 56 tasks solved. The report is secondary coverage: it does not say how the model was prompted, whether anyone outside OpenAI and Vals AI has checked the proof, or whether Astra is generally available.
+OpenAI's GPT-6.2 Astra independently produced a Lean proof of Smoktunowicz's gap theorem that, according to The Decoder citing the evaluation firm Vals AI, is the first machine-verifiable proof of the result by any AI. Because key foundations were missing from Mathlib — Lean's standard library of formalized mathematics — the model chose its own proof strategy instead of assembling existing lemmas.
+
+On Autoform-Hard, a theorem-proving benchmark, Astra now leads the leaderboard with 49 of 56 tasks solved. The report is secondary coverage: it does not say how the model was prompted, whether anyone outside OpenAI and Vals AI has checked the proof, or whether Astra is generally available.
 
 </div>
 

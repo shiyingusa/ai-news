@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gfc1424b7ac9333e289e64d42c97f2335
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google is rebranding its Spark AI agent as Gemini Tasks and making it free, with the mode powered by the new Gemini 4 Hydrogen model, according to The Verge. Tasks can create meal plans, manage calendars, and search email for recurring expenses. For US users, the expansion adds agentic actions: calling businesses to compare prices and check inventory, buying items with Google Pay, and signing into accounts supported by Google Password Manager, plus assigning tasks by emailing gemini@google.com or by text.
+Google is rebranding its Spark AI agent as Gemini Tasks and making it free, with the mode powered by the new Gemini 4 Hydrogen model, according to The Verge. Tasks can create meal plans, manage calendars, and search email for recurring expenses.
+
+For US users, the expansion adds agentic actions: calling businesses to compare prices and check inventory, buying items with Google Pay, and signing into accounts supported by Google Password Manager, plus assigning tasks by emailing gemini@google.com or by text.
 
 </div>
 

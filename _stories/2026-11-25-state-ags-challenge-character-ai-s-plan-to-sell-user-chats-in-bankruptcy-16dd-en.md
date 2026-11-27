@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g0a8a3da65a468c174f8537f27cb21f36
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A group of state attorneys general is challenging Character.AI's proposed bankruptcy sale of user data, saying the assets up for auction include sensitive personal information from more than 21 million U.S. accounts, about 2.1 million of which are registered to minors, TechCrunch reported. The objection targets the planned sale of the chatbot company's assets, in which that account data would change hands along with the rest of the estate. The AGs' challenge does not by itself stop the auction; it puts the privacy and child-safety questions in front of the bankruptcy court before any transfer is approved.
+A group of state attorneys general is challenging Character.AI's proposed bankruptcy sale of user data, saying the assets up for auction include sensitive personal information from more than 21 million U.S. accounts, about 2.1 million of which are registered to minors, TechCrunch reported. The objection targets the planned sale of the chatbot company's assets, in which that account data would change hands along with the rest of the estate.
+
+The AGs' challenge does not by itself stop the auction; it puts the privacy and child-safety questions in front of the bankruptcy court before any transfer is approved.
 
 </div>
 

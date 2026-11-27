@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gcee7f81c85195226fd7de93295476cf0
 {% raw %}
 <div class="story-lead" markdown="1">
 
-英伟达在博客中称，Vera Rubin 首次参加 MLPerf 就横扫 MLPerf Training v6.1 全部基准，并在首份 MLPerf Endpoints（v1.0）提交中，于智能体工作负载上实现超过 10 倍于 GB300 NVL72 的每瓦吞吐量。训练方面，Vera Rubin NVL72 每 GPU 性能最高为 GB300 NVL72 的 2 倍；在 DeepSeek-V3 上从 256 个 GPU 扩展到 1,024 个 GPU 仍保持约 97% 效率，训练时间从 16 分钟降到约 4 分钟。推理侧的 10 倍数字来自 Kimi K3 的临时结果，比较的是 32 加速器、100.89 kW 的 Vera Rubin NVL72 与 48 加速器、60 kW 的 GB300 NVL72，在双方至少 50 tokens/s/用户的交互速度下按每千瓦吞吐量计算。该 Endpoints 结果尚待 MLCommons 验证、可能变化；GB300 的结果已由 MLCommons 验证。
+英伟达在博客中称，Vera Rubin 首次参加 MLPerf 就横扫 MLPerf Training v6.1 全部基准，并在首份 MLPerf Endpoints（v1.0）提交中，于智能体工作负载上实现超过 10 倍于 GB300 NVL72 的每瓦吞吐量。训练方面，Vera Rubin NVL72 每 GPU 性能最高为 GB300 NVL72 的 2 倍；在 DeepSeek-V3 上从 256 个 GPU 扩展到 1,024 个 GPU 仍保持约 97% 效率，训练时间从 16 分钟降到约 4 分钟。
+
+推理侧的 10 倍数字来自 Kimi K3 的临时结果，比较的是 32 加速器、100.89 kW 的 Vera Rubin NVL72 与 48 加速器、60 kW 的 GB300 NVL72，在双方至少 50 tokens/s/用户的交互速度下按每千瓦吞吐量计算。该 Endpoints 结果尚待 MLCommons 验证、可能变化；GB300 的结果已由 MLCommons 验证。
 
 </div>
 

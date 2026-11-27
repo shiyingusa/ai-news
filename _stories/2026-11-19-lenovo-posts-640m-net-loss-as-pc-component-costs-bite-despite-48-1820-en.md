@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Lenovo reported a $640 million net loss for the September quarter, far wider than the $38 million analysts had expected, and its first operating loss since 2017, Bloomberg's Yuan Gao reported. Revenue rose 48% year over year to $30.2 billion, beating estimates on solid AI hardware demand, but accounting charges and rising PC component costs drove the loss. The report does not break out how much of the loss came from the accounting charges versus component costs, and it does not cite Lenovo's own filing.
+Lenovo reported a $640 million net loss for the September quarter, far wider than the $38 million analysts had expected, and its first operating loss since 2017, Bloomberg's Yuan Gao reported. Revenue rose 48% year over year to $30.2 billion, beating estimates on solid AI hardware demand, but accounting charges and rising PC component costs drove the loss.
+
+The report does not break out how much of the loss came from the accounting charges versus component costs, and it does not cite Lenovo's own filing.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-China plans to launch Shenzhou-24 to the Tiangong station no earlier than Nov. 25 at 00:18 UTC from the Jiuquan Satellite Launch Center, with a three-person crew that includes Pakistan's Muhammad Zeeshan Ali as payload specialist — the first foreign national assigned to the station. Ali, who has trained in Beijing since April under a February 2025 China–Pakistan agreement, is to stay about a week and return to Earth aboard the Shenzhou-23 craft, while his colleague Khurram Daud remains on the ground as backup. Tang Hongbo commands the mission and would become the first astronaut to visit Tiangong three times; flight engineer Wu Yi is making his first flight. The mission has not yet flown — this is a scheduled launch, and the China Manned Space Agency announced the crew names at a news conference the day before liftoff.
+China plans to launch Shenzhou-24 to the Tiangong station no earlier than Nov. 25 at 00:18 UTC from the Jiuquan Satellite Launch Center, with a three-person crew that includes Pakistan's Muhammad Zeeshan Ali as payload specialist — the first foreign national assigned to the station. Ali, who has trained in Beijing since April under a February 2025 China–Pakistan agreement, is to stay about a week and return to Earth aboard the Shenzhou-23 craft, while his colleague Khurram Daud remains on the ground as backup.
+
+Tang Hongbo commands the mission and would become the first astronaut to visit Tiangong three times; flight engineer Wu Yi is making his first flight. The mission has not yet flown — this is a scheduled launch, and the China Manned Space Agency announced the crew names at a news conference the day before liftoff.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb817fe14b1e5e2182a99bd7d90b6fa0c
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The US is moving to require a license for Nvidia chip purchases by data centers in third countries such as Singapore and Malaysia, closing a route that let Chinese firms rent AI compute abroad rather than buy restricted hardware directly, The Decoder reports. The measure is described only as coming "soon": no rule text, effective date, licensing authority or scope beyond those example countries is given, so it is a stated plan rather than an active requirement. Separately, the outlet cites a Reuters investigation finding that China is offsetting its hardware shortfall through industrial-scale distillation — training domestic models on the outputs of US AI models — to build a parallel supply chain out of American AI output.
+The US is moving to require a license for Nvidia chip purchases by data centers in third countries such as Singapore and Malaysia, closing a route that let Chinese firms rent AI compute abroad rather than buy restricted hardware directly, The Decoder reports. The measure is described only as coming "soon": no rule text, effective date, licensing authority or scope beyond those example countries is given, so it is a stated plan rather than an active requirement.
+
+Separately, the outlet cites a Reuters investigation finding that China is offsetting its hardware shortfall through industrial-scale distillation — training domestic models on the outputs of US AI models — to build a parallel supply chain out of American AI output.
 
 </div>
 

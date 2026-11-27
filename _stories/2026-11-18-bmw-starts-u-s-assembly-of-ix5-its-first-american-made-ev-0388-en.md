@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-BMW has begun assembling the iX5 electric SUV in the United States, the first EV the German automaker has built there, according to InsideEVs. The outlet reports the line is currently producing about 70 iX5s per day and describes that figure as a starting point rather than the intended full rate. The report does not give the factory location, a price, or a date for when U.S.-built iX5s reach customers, and BMW has not been quoted with its own production figure.
+BMW has begun assembling the iX5 electric SUV in the United States, the first EV the German automaker has built there, according to InsideEVs. The outlet reports the line is currently producing about 70 iX5s per day and describes that figure as a starting point rather than the intended full rate.
+
+The report does not give the factory location, a price, or a date for when U.S.-built iX5s reach customers, and BMW has not been quoted with its own production figure.
 
 </div>
 

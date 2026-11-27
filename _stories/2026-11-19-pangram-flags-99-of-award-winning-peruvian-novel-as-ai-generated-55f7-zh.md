@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gdd12d00046fd9d9c7e9c464fd8fc07d8
 {% raw %}
 <div class="story-lead" markdown="1">
 
-AI 检测工具 Pangram 把一部获奖秘鲁小说的 99% 文本判定为 AI 生成，但墨西哥出版社 Almadía 在自行复核后仍然支持该作品及其作者。据 The Decoder 报道，Pangram 还把这位作者个人文本的 80% 以上标记为机器写作。法国出版社 Gallimard 计划开始用这款工具筛查投稿稿件。目前没有任何一方公布检测所用的具体段落、判定阈值或独立复测结果，作者姓名与奖项名称也未在报道中出现。
+AI 检测工具 Pangram 把一部获奖秘鲁小说的 99% 文本判定为 AI 生成，但墨西哥出版社 Almadía 在自行复核后仍然支持该作品及其作者。据 The Decoder 报道，Pangram 还把这位作者个人文本的 80% 以上标记为机器写作。
+
+法国出版社 Gallimard 计划开始用这款工具筛查投稿稿件。目前没有任何一方公布检测所用的具体段落、判定阈值或独立复测结果，作者姓名与奖项名称也未在报道中出现。
 
 </div>
 

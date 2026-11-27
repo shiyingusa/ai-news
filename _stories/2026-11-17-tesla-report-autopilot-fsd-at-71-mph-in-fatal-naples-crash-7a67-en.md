@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla's report to federal regulators states that a Model 3 with Autopilot or Full Self-Driving engaged struck an overturned box truck on I-75 near Naples, Florida, at 71 mph, killing two occupants and a man who had stopped to help. Local police and media covered the May 31 crash as a truck wreck in the dark and did not mention a driver-assist system, according to Electrek, which says the case is part of its investigation into fatal crashes recorded in Tesla's NHTSA data. The disclosure is Tesla's own account to regulators, not an independent determination of what caused the crash. Autopilot and Full Self-Driving are Tesla's branded driver-assistance systems, and Tesla's reports to federal regulators record crashes in which either was engaged.
+Tesla's report to federal regulators states that a Model 3 with Autopilot or Full Self-Driving engaged struck an overturned box truck on I-75 near Naples, Florida, at 71 mph, killing two occupants and a man who had stopped to help. Local police and media covered the May 31 crash as a truck wreck in the dark and did not mention a driver-assist system, according to Electrek, which says the case is part of its investigation into fatal crashes recorded in Tesla's NHTSA data.
+
+The disclosure is Tesla's own account to regulators, not an independent determination of what caused the crash. Autopilot and Full Self-Driving are Tesla's branded driver-assistance systems, and Tesla's reports to federal regulators record crashes in which either was engaged.
 
 </div>
 

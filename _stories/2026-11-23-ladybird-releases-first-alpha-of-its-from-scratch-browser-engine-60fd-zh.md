@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g26b80ec4dac2aa9e750c4633ed621739
 {% raw %}
 <div class="story-lead" markdown="1">
 
-11 月 23 日，Ladybird 发布首个 alpha 版，macOS 和 Linux 用户可以直接下载安装，不必再自行编译。这个从零实现的浏览器覆盖 HTML 解析、CSS、布局、JavaScript 和 WebAssembly，只借用 HarfBuzz、Skia、ffmpeg、SQLite 等外部组件，并以独立进程运行不同标签页。项目在 10 月进展说明中称，借助 AI 编程代理新增 75,650 项 Web Platform Tests 通过，换上新的 JavaScript JIT 和基于 Cranelift 的 WebAssembly 引擎，后者在 JetStream 3 的 WASM 基准上快 7 倍；但官方明确说 alpha 仍会崩溃、部分网站打不开，且暂不承诺安全性。
+11 月 23 日，Ladybird 发布首个 alpha 版，macOS 和 Linux 用户可以直接下载安装，不必再自行编译。这个从零实现的浏览器覆盖 HTML 解析、CSS、布局、JavaScript 和 WebAssembly，只借用 HarfBuzz、Skia、ffmpeg、SQLite 等外部组件，并以独立进程运行不同标签页。
+
+项目在 10 月进展说明中称，借助 AI 编程代理新增 75,650 项 Web Platform Tests 通过，换上新的 JavaScript JIT 和基于 Cranelift 的 WebAssembly 引擎，后者在 JetStream 3 的 WASM 基准上快 7 倍；但官方明确说 alpha 仍会崩溃、部分网站打不开，且暂不承诺安全性。
 
 </div>
 
@@ -56,10 +58,6 @@ photo_credit: {"url": "https://pixabay.com/get/g26b80ec4dac2aa9e750c4633ed621739
 
 后续可关注 Ladybird 对 Datasette Lite 暴露的 service worker 兼容问题的修复，以及项目在邀请安全研究者测试后如何处理提交的漏洞报告；官方尚未给出时间表。
 
-## 社区讨论
-
-早期测试者的反馈以正面为主：freakynit 称试过的网站“每一个都正确渲染”，只是滚动略有卡顿；alentred 说 Proxmox 的 NoVNC 在 Ladybird 中甚至比 Firefox 更流畅。drnick1 则希望项目未来认真处理指纹识别，提供更细粒度权限和反指纹模式，这属于对后续功能的期望而非现有能力。
-
 ## 本事件的相关报道
 
 - 2026-11-23 · ladybird.org: [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
@@ -69,5 +67,13 @@ photo_credit: {"url": "https://pixabay.com/get/g26b80ec4dac2aa9e750c4633ed621739
 
 - [Ladybird ( web browser) - Wikipedia](https://en.wikipedia.org/wiki/Ladybird_(web_browser))
 - [This Month in Ladybird - October 2026 - Ladybird](https://ladybird.org/newsletter/2026-10-31/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+早期测试者的反馈以正面为主：freakynit 称试过的网站“每一个都正确渲染”，只是滚动略有卡顿；alentred 说 Proxmox 的 NoVNC 在 Ladybird 中甚至比 Firefox 更流畅。drnick1 则希望项目未来认真处理指纹识别，提供更细粒度权限和反指纹模式，这属于对后续功能的期望而非现有能力。
+
+</div>
 
 {% endraw %}

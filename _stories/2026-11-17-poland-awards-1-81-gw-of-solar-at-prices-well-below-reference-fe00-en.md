@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g181c1c2e35ce82ca9fddefecf61921ff
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Poland's Energy Regulatory Office (URE) awarded about 1.81 GW of solar capacity in two renewable energy auctions held on Nov. 9 and 10, with photovoltaic projects accounting for 65 of the 68 successful bids. In the main category for projects above 1 MW, URE selected 50 bids from 22 developers covering roughly 1,799 MW of solar and 64 MW of onshore wind, at solar prices of PLN 180 ($49)/MWh to PLN 327.77/MWh against a PLN 389/MWh reference price; that auction contracted about 17.7 TWh of electricity worth more than PLN 5.5 billion ($1.5 billion), only around 33% of the volume on offer. The separate auction for installations up to 1 MW selected 18 solar bids from 13 developers totalling about 15.6 MW, at PLN 320/MWh to PLN 377.77/MWh against a PLN 414/MWh reference, contracting just under 0.15 TWh, or 1.3% of available volume. Auctions for hydropower, agricultural biogas, and biomass or non-agricultural biogas installations again produced no successful bids.
+Poland's Energy Regulatory Office (URE) awarded about 1.81 GW of solar capacity in two renewable energy auctions held on Nov. 9 and 10, with photovoltaic projects accounting for 65 of the 68 successful bids. In the main category for projects above 1 MW, URE selected 50 bids from 22 developers covering roughly 1,799 MW of solar and 64 MW of onshore wind, at solar prices of PLN 180 ($49)/MWh to PLN 327.77/MWh against a PLN 389/MWh reference price; that auction contracted about 17.7 TWh of electricity worth more than PLN 5.5 billion ($1.5 billion), only around 33% of the volume on offer.
+
+The separate auction for installations up to 1 MW selected 18 solar bids from 13 developers totalling about 15.6 MW, at PLN 320/MWh to PLN 377.77/MWh against a PLN 414/MWh reference, contracting just under 0.15 TWh, or 1.3% of available volume. Auctions for hydropower, agricultural biogas, and biomass or non-agricultural biogas installations again produced no successful bids.
 
 </div>
 

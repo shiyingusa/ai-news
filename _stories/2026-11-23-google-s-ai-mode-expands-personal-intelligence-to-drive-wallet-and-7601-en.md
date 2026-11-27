@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google's AI Mode in Search can now draw on data from Google Drive and Google Wallet to personalize its answers, and the same Personal Intelligence capability is being extended to the standalone Gemini app, TechCrunch reported on November 23. The practical shift is that AI Mode responses can be grounded in a user's own files and saved items rather than only the public web, with the personalization running inside Google's existing ecosystem instead of through a third-party connector. The report did not say which countries or account types get the feature, whether users must opt in, or which Drive file types and Wallet contents can be read.
+Google's AI Mode in Search can now draw on data from Google Drive and Google Wallet to personalize its answers, and the same Personal Intelligence capability is being extended to the standalone Gemini app, TechCrunch reported on November 23. The practical shift is that AI Mode responses can be grounded in a user's own files and saved items rather than only the public web, with the personalization running inside Google's existing ecosystem instead of through a third-party connector.
+
+The report did not say which countries or account types get the feature, whether users must opt in, or which Drive file types and Wallet contents can be read.
 
 </div>
 

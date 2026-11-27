@@ -31,7 +31,11 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Volkswagen Group underestimated demand for its new family of small electric cars, and buyers are now waiting well over a year for delivery. The ID. Polo, Cupra Raval and Škoda Epiq are assembled at the group's Martorell plant in Spain, which is already building about 1,000 cars per day. InsideEVs' headline cites waits of nearly two years, while the electrive report behind it says ID. Polo customers sometimes wait more than a year and that the other three models in the family also require patience; the two accounts are not reconciled and no order-book figures are published. Volkswagen now plans to scale up Spanish production faster, but a shortage of battery cells is also slowing output.
+Volkswagen Group underestimated demand for its new family of small electric cars, and buyers are now waiting well over a year for delivery. The ID.
+
+Polo, Cupra Raval and Škoda Epiq are assembled at the group's Martorell plant in Spain, which is already building about 1,000 cars per day. InsideEVs' headline cites waits of nearly two years, while the electrive report behind it says ID.
+
+Polo customers sometimes wait more than a year and that the other three models in the family also require patience; the two accounts are not reconciled and no order-book figures are published. Volkswagen now plans to scale up Spanish production faster, but a shortage of battery cells is also slowing output.
 
 </div>
 

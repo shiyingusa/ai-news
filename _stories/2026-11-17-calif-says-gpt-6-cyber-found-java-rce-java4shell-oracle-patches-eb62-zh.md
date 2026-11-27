@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g379888fa9028ed776fbbbf6a09df2f3a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-网络安全初创公司 Calif 声称，它使用 GPT-6 Cyber 模型发现了一个 Java 远程代码执行漏洞，并将其命名为“Java4Shell”；Techmeme 转引《纽约时报》的报道称，Oracle 已发布补丁。报道称，这项发现展示了 AI 在流行软件中找出严重安全漏洞的能力，但公开摘要未给出受影响版本和完整技术细节。社区讨论称，该利用链对网络时延和抖动敏感、利用条件较具体，同时仍有大量主机可能受影响。
+网络安全初创公司 Calif 声称，它使用 GPT-6 Cyber 模型发现了一个 Java 远程代码执行漏洞，并将其命名为“Java4Shell”；Techmeme 转引《纽约时报》的报道称，Oracle 已发布补丁。报道称，这项发现展示了 AI 在流行软件中找出严重安全漏洞的能力，但公开摘要未给出受影响版本和完整技术细节。
+
+社区讨论称，该利用链对网络时延和抖动敏感、利用条件较具体，同时仍有大量主机可能受影响。
 
 </div>
 
@@ -56,10 +58,6 @@ photo_credit: {"url": "https://pixabay.com/get/g379888fa9028ed776fbbbf6a09df2f3a
 
 后续可关注 Oracle 安全公告中的 CVE 编号与受影响版本，以及独立研究者能否复现该利用链。
 
-## 社区讨论
-
-评论者称该工作令人印象深刻，但指出利用条件很具体；Semgrep 的 ievans 称已发布检测脚本，覆盖 HotSpot 等五类条件。另有评论转述未经证实的说法，称漏洞与 AVX512 Base64 解码有关，并可通过 -XX:UseAVX=2 参数规避。
-
 ## 本事件的相关报道
 
 - 2026-11-17 · calif.io: [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
@@ -69,5 +67,13 @@ photo_credit: {"url": "https://pixabay.com/get/g379888fa9028ed776fbbbf6a09df2f3a
 
 - [2026-11-16 — Google TIG reports first observed autonomous AI patch-to-exploit operation](https://www.techmeme.com/261116/p30#a261116p30)
 - [A Major Security Flaw Found Using ChatGPT Is... - Business Insider](https://www.businessinsider.com/php-vulnerability-cybersecurity-ai-patch-openai-gpt-calif-wiz-hacking-2026-10)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+评论者称该工作令人印象深刻，但指出利用条件很具体；Semgrep 的 ievans 称已发布检测脚本，覆盖 HotSpot 等五类条件。另有评论转述未经证实的说法，称漏洞与 AVX512 Base64 解码有关，并可通过 -XX:UseAVX=2 参数规避。
+
+</div>
 
 {% endraw %}

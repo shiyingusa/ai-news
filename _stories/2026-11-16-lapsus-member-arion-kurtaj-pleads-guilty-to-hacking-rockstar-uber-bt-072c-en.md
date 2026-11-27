@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g90826792ace631f0b7be7b5720ee774c
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Arion Kurtaj, 21, a member of the Lapsus$ extortion group, pleaded guilty in a UK court to a string of online crimes, including attempting to extort Rockstar Games after stealing dozens of unfinished clips of Grand Theft Auto 6, according to a BBC report by Joe Tidy. The plea covers intrusions against Rockstar, Uber, BT and other organisations, and came after Kurtaj was released from a secure hospital. The BBC account, relayed by Techmeme, does not specify the individual charges, the court, the hearing date or the sentence Kurtaj faces. The guilty pleas are a court outcome rather than a vendor claim, though the details rest on the BBC's reporting alone in the material supplied here.
+Arion Kurtaj, 21, a member of the Lapsus$ extortion group, pleaded guilty in a UK court to a string of online crimes, including attempting to extort Rockstar Games after stealing dozens of unfinished clips of Grand Theft Auto 6, according to a BBC report by Joe Tidy. The plea covers intrusions against Rockstar, Uber, BT and other organisations, and came after Kurtaj was released from a secure hospital.
+
+The BBC account, relayed by Techmeme, does not specify the individual charges, the court, the hearing date or the sentence Kurtaj faces. The guilty pleas are a court outcome rather than a vendor claim, though the details rest on the BBC's reporting alone in the material supplied here.
 
 </div>
 

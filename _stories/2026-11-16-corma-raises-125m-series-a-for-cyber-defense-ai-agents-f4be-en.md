@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g559aeb1118c2f552660454e9fcaa8b0b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Corma, a year-old startup with offices in Tel Aviv and San Francisco, raised a $125 million Series A led by NEA, according to a Wall Street Journal report by Angus Loten. The round follows a $60 million seed the company raised in August, meaning Corma has disclosed roughly $185 million in funding within about three months of launching publicly. Corma builds AI agents that it says are custom-trained for defensive cybersecurity — software that watches for and responds to attacks rather than generating them. The report excerpt does not give a valuation, named customers, or say whether the agents are generally available, so the product's real-world deployment remains unverified.
+Corma, a year-old startup with offices in Tel Aviv and San Francisco, raised a $125 million Series A led by NEA, according to a Wall Street Journal report by Angus Loten. The round follows a $60 million seed the company raised in August, meaning Corma has disclosed roughly $185 million in funding within about three months of launching publicly.
+
+Corma builds AI agents that it says are custom-trained for defensive cybersecurity — software that watches for and responds to attacks rather than generating them. The report excerpt does not give a valuation, named customers, or say whether the agents are generally available, so the product's real-world deployment remains unverified.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Toyota is expanding a recall of its electric C-HR SUV to about 19,000 vehicles globally, with roughly 10,000 of the affected cars in the United States, Electrek reported. The report describes the action as an expansion of an existing recall rather than a new one, but does not state the defect being addressed, the remedy, or when owners will be notified. No US regulator filing or Toyota statement detailing the campaign is cited in the report.
+Toyota is expanding a recall of its electric C-HR SUV to about 19,000 vehicles globally, with roughly 10,000 of the affected cars in the United States, Electrek reported. The report describes the action as an expansion of an existing recall rather than a new one, but does not state the defect being addressed, the remedy, or when owners will be notified.
+
+No US regulator filing or Toyota statement detailing the campaign is cited in the report.
 
 </div>
 

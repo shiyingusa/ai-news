@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gcee7f81c85195226fd7de93295476cf0
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NVIDIA says its Vera Rubin platform was the only system with results on every MLPerf Training v6.1 benchmark this round, covering large language models, image generation, recommender systems and reinforcement-learning post-training, with Vera Rubin NVL72 delivering up to 2x more performance per GPU than the GB300 NVL72 system. On the DeepSeek-V3 benchmark it scaled from 256 to 1,024 GPUs at about 97% efficiency, cutting training time from 16 minutes to roughly four. In its first MLPerf Endpoints v1.0 submission, NVIDIA reports a provisional Kimi K3 result in which Vera Rubin NVL72 gives more than 10x the throughput per watt of GB300 NVL72 at a shared minimum of 50 tokens/sec per user. The Training results were released today, but the Endpoints figures are explicitly provisional and pending MLCommons Association verification, and every comparison here comes from NVIDIA's own blog rather than an independent measurement.
+NVIDIA says its Vera Rubin platform was the only system with results on every MLPerf Training v6.1 benchmark this round, covering large language models, image generation, recommender systems and reinforcement-learning post-training, with Vera Rubin NVL72 delivering up to 2x more performance per GPU than the GB300 NVL72 system. On the DeepSeek-V3 benchmark it scaled from 256 to 1,024 GPUs at about 97% efficiency, cutting training time from 16 minutes to roughly four.
+
+In its first MLPerf Endpoints v1.0 submission, NVIDIA reports a provisional Kimi K3 result in which Vera Rubin NVL72 gives more than 10x the throughput per watt of GB300 NVL72 at a shared minimum of 50 tokens/sec per user. The Training results were released today, but the Endpoints figures are explicitly provisional and pending MLCommons Association verification, and every comparison here comes from NVIDIA's own blog rather than an independent measurement.
 
 </div>
 

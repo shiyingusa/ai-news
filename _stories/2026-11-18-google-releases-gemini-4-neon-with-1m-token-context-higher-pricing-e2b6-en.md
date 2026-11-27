@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google released Gemini 4 Neon, a frontier model for software engineering, knowledge work and science, and is rolling it out in the API, the Antigravity coding platform and the Gemini app. According to The Decoder, Neon handles text, images, video, audio and PDFs with a one-million-token context window and costs $3 per million input tokens and $15 per million output tokens, above earlier Gemini 4 models. The Decoder described it as Google's fourth new Gemini model in a month, while Google's announcement emphasizes "fast end-to-end task completion" rather than listing benchmark results in the available reporting.
+Google released Gemini 4 Neon, a frontier model for software engineering, knowledge work and science, and is rolling it out in the API, the Antigravity coding platform and the Gemini app. According to The Decoder, Neon handles text, images, video, audio and PDFs with a one-million-token context window and costs $3 per million input tokens and $15 per million output tokens, above earlier Gemini 4 models.
+
+The Decoder described it as Google's fourth new Gemini model in a month, while Google's announcement emphasizes "fast end-to-end task completion" rather than listing benchmark results in the available reporting.
 
 </div>
 
@@ -52,14 +54,18 @@ A context window is the amount of text, images or other input a model can consid
 
 For teams using Gemini through the API, the immediate change is cost: at $3 per million input tokens and $15 per million output tokens, Neon sits above earlier Gemini 4 models, so production workloads need a fresh cost check before switching. Developers can test it in Antigravity and the Gemini app, but the Hacker News thread suggests comparing it with Carbon on long-horizon research tasks rather than treating the newest model as a strict upgrade.
 
-## Community discussion
-
-Hacker News commenters focused on naming fatigue and lineup positioning: one said Google, Anthropic and OpenAI have created a confusing map of model names, while another argued Carbon remains the "long horizon" model and scores higher on research-scale evals even as Neon leads on the AA Index overall. A separate commenter reported that Neon, Carbon and Hydrogen used three to four times more tokens than Argon for the same demo-building task — a single user's experience, not a benchmark.
-
 ## Coverage of this story
 
 - 2026-11-18 · The Decoder: [Google ships Gemini 4 Neon, its fourth new Gemini model in a month](https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/)
 - 2026-11-18 · Google: [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 - 2026-11-18 · Google DeepMind: [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Hacker News commenters focused on naming fatigue and lineup positioning: one said Google, Anthropic and OpenAI have created a confusing map of model names, while another argued Carbon remains the "long horizon" model and scores higher on research-scale evals even as Neon leads on the AA Index overall. A separate commenter reported that Neon, Carbon and Hydrogen used three to four times more tokens than Argon for the same demo-building task — a single user's experience, not a benchmark.
+
+</div>
 
 {% endraw %}

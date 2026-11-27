@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g2d14126927c00a6961dc0a96e5d189a3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Nuro has begun testing Lucid Gravity robotaxis on public roads in the San Francisco Bay Area with no one in the driver's seat, starting in four Peninsula and South Bay cities using a fleet of more than 100 Gravity SUVs that Lucid has delivered for the program. It is the largest step so far in the Uber-Nuro-Lucid partnership. At the same time, the public launch that was originally promised for 2026 is now expected in the first quarter of 2027. The report describes an active driverless test, not a service the public can hail.
+Nuro has begun testing Lucid Gravity robotaxis on public roads in the San Francisco Bay Area with no one in the driver's seat, starting in four Peninsula and South Bay cities using a fleet of more than 100 Gravity SUVs that Lucid has delivered for the program. It is the largest step so far in the Uber-Nuro-Lucid partnership.
+
+At the same time, the public launch that was originally promised for 2026 is now expected in the first quarter of 2027. The report describes an active driverless test, not a service the public can hail.
 
 </div>
 

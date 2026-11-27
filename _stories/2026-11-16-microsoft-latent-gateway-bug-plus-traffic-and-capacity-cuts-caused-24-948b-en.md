@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Microsoft's preliminary post-incident report attributes last week's global Microsoft 365 and Exchange outage to three combined factors: a latent defect in its cloud gateway that had been dormant since July, changes in traffic patterns, and reduced server capacity. The report places the incident between November 12 at 16:20 UTC and November 13 at 16:10 UTC — just under 24 hours — with additional monitoring of affected systems continuing through November 14, and logs it under incident IDs EX1550543 and MO1550821. Microsoft classifies the event as "a technical issue not related to cyber or AI/agents." The full report sits behind Microsoft 365 admin credentials; Office Watch has reproduced the preliminary text, and the University of Pennsylvania keeps an archive of Microsoft's service-health updates.
+Microsoft's preliminary post-incident report attributes last week's global Microsoft 365 and Exchange outage to three combined factors: a latent defect in its cloud gateway that had been dormant since July, changes in traffic patterns, and reduced server capacity. The report places the incident between November 12 at 16:20 UTC and November 13 at 16:10 UTC — just under 24 hours — with additional monitoring of affected systems continuing through November 14, and logs it under incident IDs EX1550543 and MO1550821.
+
+Microsoft classifies the event as "a technical issue not related to cyber or AI/agents." The full report sits behind Microsoft 365 admin credentials; Office Watch has reproduced the preliminary text, and the University of Pennsylvania keeps an archive of Microsoft's service-health updates.
 
 </div>
 

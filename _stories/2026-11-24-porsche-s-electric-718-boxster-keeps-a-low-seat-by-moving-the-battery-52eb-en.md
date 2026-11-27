@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g88b8bf7b78c7878c2333b8d35f2dda6f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Ars Technica drove a prototype of Porsche's first all-electric sports car, the 718 Boxster, which the company says will be fully revealed next year. The packaging is the distinctive part: instead of the skateboard-style pack under the floor used by nearly all modern EVs — which the report says raises seating by roughly 3 inches — Porsche put the battery behind the driver, powering a single motor that turns the rear wheels. The result, per the reviewer, is a seating position low enough to be eye-level with a Tesla Model Y door handle in traffic, preserving the mid-engined feel of the combustion Boxster. This is a manufacturer-hosted prototype drive, not a launch: no power, range, price, or on-sale date were disclosed.
+Ars Technica drove a prototype of Porsche's first all-electric sports car, the 718 Boxster, which the company says will be fully revealed next year. The packaging is the distinctive part: instead of the skateboard-style pack under the floor used by nearly all modern EVs — which the report says raises seating by roughly 3 inches — Porsche put the battery behind the driver, powering a single motor that turns the rear wheels.
+
+The result, per the reviewer, is a seating position low enough to be eye-level with a Tesla Model Y door handle in traffic, preserving the mid-engined feel of the combustion Boxster. This is a manufacturer-hosted prototype drive, not a launch: no power, range, price, or on-sale date were disclosed.
 
 </div>
 

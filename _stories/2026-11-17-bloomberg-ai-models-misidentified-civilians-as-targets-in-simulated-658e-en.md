@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Bloomberg's Katrina Manson reported on November 17 that, in simulated scenarios, advanced AI models from Anthropic, Google, xAI, DeepSeek and OpenAI regularly misidentified civilians, ambulances and a school as military targets. The headline attributes the testing to an entity named "Vals"; the available excerpt does not identify the evaluators' methodology, which model versions were tested, or how often each model erred. The account describes simulation results, not fielded systems, and does not say whether any military or defense user has deployed the models for targeting work.
+Bloomberg's Katrina Manson reported on November 17 that, in simulated scenarios, advanced AI models from Anthropic, Google, xAI, DeepSeek and OpenAI regularly misidentified civilians, ambulances and a school as military targets. The headline attributes the testing to an entity named "Vals"; the available excerpt does not identify the evaluators' methodology, which model versions were tested, or how often each model erred.
+
+The account describes simulation results, not fielded systems, and does not say whether any military or defense user has deployed the models for targeting work.
 
 </div>
 

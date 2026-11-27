@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge70dbb36bee5df2bf4141c145d863d33
 {% raw %}
 <div class="story-lead" markdown="1">
 
-TSMC's Arizona subsidiary has applied to Texas's JETI incentive program for a $22.6 billion fab campus on a 3,232-acre site southwest of College Station in Brazos County — its first advanced-chip campus outside Arizona. The filing describes commercial operations beginning in 2031 on 2nm-class or more advanced chips, with full operations in 2032, six years after N2 entered volume production in Taiwan in Q4 2025. Construction is projected to start in 2027, and the requested school property-tax limit is valued at about $354 million; the Texas Comptroller has recommended approval, but the school district and the governor still must grant it. Nothing in the filing commits TSMC to buy the land or to build.
+TSMC's Arizona subsidiary has applied to Texas's JETI incentive program for a $22.6 billion fab campus on a 3,232-acre site southwest of College Station in Brazos County — its first advanced-chip campus outside Arizona. The filing describes commercial operations beginning in 2031 on 2nm-class or more advanced chips, with full operations in 2032, six years after N2 entered volume production in Taiwan in Q4 2025.
+
+Construction is projected to start in 2027, and the requested school property-tax limit is valued at about $354 million; the Texas Comptroller has recommended approval, but the school district and the governor still must grant it. Nothing in the filing commits TSMC to buy the land or to build.
 
 </div>
 

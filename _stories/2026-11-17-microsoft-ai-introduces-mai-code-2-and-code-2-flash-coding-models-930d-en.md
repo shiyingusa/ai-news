@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6e100c9b00474a56cd5dd3ad35e1465a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Microsoft AI published an announcement introducing MAI Code 2 and MAI Code 2 Flash, two models presented as coding-focused. The material available for this item contains no parameter counts, benchmark scores, context limits, pricing, or access details, so it is not possible to say how the models perform, what they cost, or whether developers can use them today. Community commenters discuss the release as a competitive move against OpenAI and Anthropic and allude to benchmarks, but no figures were available to review.
+Microsoft AI published an announcement introducing MAI Code 2 and MAI Code 2 Flash, two models presented as coding-focused. The material available for this item contains no parameter counts, benchmark scores, context limits, pricing, or access details, so it is not possible to say how the models perform, what they cost, or whether developers can use them today.
+
+Community commenters discuss the release as a competitive move against OpenAI and Anthropic and allude to benchmarks, but no figures were available to review.
 
 </div>
 
@@ -56,13 +58,17 @@ Developers now have a named Microsoft alternative to evaluate for coding work, b
 
 Whether Microsoft follows the launch post with a technical report containing benchmark results and pricing, and whether the models surface in GitHub Copilot or a public API. The announcement material reviewed here gives no date for either.
 
-## Community discussion
-
-Commenters read the release mainly as a competitive signal: one argues OpenAI and Anthropic lead by only a few months and lack a durable moat, while another asks how Microsoft caught up so quickly and speculates, without evidence, about distillation from OpenAI models. A practitioner reports cancelling a $19 GitHub Copilot subscription as poor value and says they will try the new models anyway, and another asks Microsoft to keep publishing detailed technical reports as it did for MAI-Thinking-1.
-
 ## Further reading
 
 - [MAI Code 2 and Code 2 Flash : Everyday coding at... | Microsoft AI](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
 - [MAI Code 2 and MAI Code 2 Flash in GitHub... - GitHub Changelog](https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters read the release mainly as a competitive signal: one argues OpenAI and Anthropic lead by only a few months and lack a durable moat, while another asks how Microsoft caught up so quickly and speculates, without evidence, about distillation from OpenAI models. A practitioner reports cancelling a $19 GitHub Copilot subscription as poor value and says they will try the new models anyway, and another asks Microsoft to keep publishing detailed technical reports as it did for MAI-Thinking-1.
+
+</div>
 
 {% endraw %}

@@ -33,7 +33,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/
 
 Nvidia said on November 23 that its board voted unanimously to reinstate Jensen Huang as president, CEO and board director, effective immediately. The company said the board took input from senior levels of the U.S. government and is confident his return poses no national security risk.
 
-Jensen Huang resigned as Nvidia's CEO on November 12 after admitting he had been "unfaithful" to his wife and had "created problems for the board" amid scrutiny of alleged affairs, then returned to the role after President Trump pushed Nvidia to reinstate him, according to Axios. Axios, citing unnamed sources, reported that Trump's allies argued Huang was "too big to fail" for the US economy and a victim of "deep state" maneuvering. The Verge's account ties the resignation to earlier New York Times reporting on Huang's "close relationship" with a woman passing intelligence to China; those espionage-related claims have not been independently confirmed.
+Jensen Huang resigned as Nvidia's CEO on November 12 after admitting he had been "unfaithful" to his wife and had "created problems for the board" amid scrutiny of alleged affairs, then returned to the role after President Trump pushed Nvidia to reinstate him, according to Axios. Axios, citing unnamed sources, reported that Trump's allies argued Huang was "too big to fail" for the US economy and a victim of "deep state" maneuvering.
+
+The Verge's account ties the resignation to earlier New York Times reporting on Huang's "close relationship" with a woman passing intelligence to China; those espionage-related claims have not been independently confirmed.
 
 </div>
 

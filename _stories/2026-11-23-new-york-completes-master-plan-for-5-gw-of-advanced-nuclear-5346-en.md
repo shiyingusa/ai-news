@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-New York Governor Kathy Hochul announced that the state has completed its Master Plan for Responsible Advanced Nuclear Development, a roadmap intended to reach a target of 5 GW of new nuclear generating capacity. The announcement covers the planning document and the capacity goal; it does not describe individual projects. No sites, reactor designs, construction schedules, cost estimates or funding mechanisms were included in the report of the announcement, so the 5 GW figure remains a state target rather than a committed build programme.
+New York Governor Kathy Hochul announced that the state has completed its Master Plan for Responsible Advanced Nuclear Development, a roadmap intended to reach a target of 5 GW of new nuclear generating capacity. The announcement covers the planning document and the capacity goal; it does not describe individual projects.
+
+No sites, reactor designs, construction schedules, cost estimates or funding mechanisms were included in the report of the announcement, so the 5 GW figure remains a state target rather than a committed build programme.
 
 </div>
 

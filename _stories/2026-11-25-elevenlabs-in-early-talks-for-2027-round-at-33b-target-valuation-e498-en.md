@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-ElevenLabs, which builds AI voice models and voice agents, is in early discussions about a funding round for 2027 that would target a $33 billion valuation, Bloomberg reported, citing unnamed sources. That target is up from the $22 billion valuation the company was reported to carry in September. The same people put ElevenLabs' annual recurring revenue at $700 million. Nothing is signed: the talks are described as early, no investors, terms or timing beyond the 2027 frame were disclosed, and ElevenLabs has not confirmed the round.
+ElevenLabs, which builds AI voice models and voice agents, is in early discussions about a funding round for 2027 that would target a $33 billion valuation, Bloomberg reported, citing unnamed sources. That target is up from the $22 billion valuation the company was reported to carry in September.
+
+The same people put ElevenLabs' annual recurring revenue at $700 million. Nothing is signed: the talks are described as early, no investors, terms or timing beyond the 2027 frame were disclosed, and ElevenLabs has not confirmed the round.
 
 </div>
 

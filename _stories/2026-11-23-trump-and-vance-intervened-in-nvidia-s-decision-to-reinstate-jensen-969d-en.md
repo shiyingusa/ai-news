@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Reuters reported, citing unnamed sources, that US President Donald Trump and Vice President JD Vance personally intervened in Nvidia's decision to reinstate Jensen Huang as CEO over the weekend, convinced that Huang alone was protecting American-made open-weight AI models — models whose trained weights are published so anyone can download and modify them. The report, as summarized by Techmeme, does not explain why Huang needed to be reinstated, what form the intervention took, or how Nvidia and the White House responded. Neither Nvidia nor the administration has confirmed the account on the record.
+Reuters reported, citing unnamed sources, that US President Donald Trump and Vice President JD Vance personally intervened in Nvidia's decision to reinstate Jensen Huang as CEO over the weekend, convinced that Huang alone was protecting American-made open-weight AI models — models whose trained weights are published so anyone can download and modify them. The report, as summarized by Techmeme, does not explain why Huang needed to be reinstated, what form the intervention took, or how Nvidia and the White House responded.
+
+Neither Nvidia nor the administration has confirmed the account on the record.
 
 </div>
 

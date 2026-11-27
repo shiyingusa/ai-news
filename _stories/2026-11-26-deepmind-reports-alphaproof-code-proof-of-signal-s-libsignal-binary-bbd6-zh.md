@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6caf1941f8ecd62dd372f86b94080e77
 {% raw %}
 <div class="story-lead" markdown="1">
 
-谷歌 DeepMind 团队用一套名为 AlphaProof Code 的流程，为 Signal 使用的加密库 libsignal 的 Arm（AArch64）编译二进制给出了端到端形式化证明。流程分两步：先为 libsignal 的密码学实现写出形式化规范并生成约 120 万行 Lean 证明；再用约 530 万行 Lean 逐条指令核对二进制与所定义的 AArch64 指令、寄存器、内存及 Linux 进程行为一致，期间约 1% 的代码被标记出来交人工复核。论文与代码仓库已在 DeepMind 官网和 GitHub（google-deepmind/code-verification）公开。报道指出验证对象是编译后的二进制而非源码，因此该方法可复用于其他软件；但证明只表明 libsignal 按规范运行，无法发现有人向 Signal 或其他应用植入窃取消息的额外代码。
+谷歌 DeepMind 团队用一套名为 AlphaProof Code 的流程，为 Signal 使用的加密库 libsignal 的 Arm（AArch64）编译二进制给出了端到端形式化证明。流程分两步：先为 libsignal 的密码学实现写出形式化规范并生成约 120 万行 Lean 证明；再用约 530 万行 Lean 逐条指令核对二进制与所定义的 AArch64 指令、寄存器、内存及 Linux 进程行为一致，期间约 1% 的代码被标记出来交人工复核。
+
+论文与代码仓库已在 DeepMind 官网和 GitHub（google-deepmind/code-verification）公开。报道指出验证对象是编译后的二进制而非源码，因此该方法可复用于其他软件；但证明只表明 libsignal 按规范运行，无法发现有人向 Signal 或其他应用植入窃取消息的额外代码。
 
 </div>
 

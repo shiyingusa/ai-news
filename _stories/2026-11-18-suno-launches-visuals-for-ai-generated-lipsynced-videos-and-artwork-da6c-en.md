@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Suno launched Visuals, a feature that turns Suno-generated songs into AI video clips that automatically lipsync to lyrics, and also generates prompt-based images for thumbnails or album artwork. It is available on web, iOS, and Android through a new Visuals tab in Create mode; on the web, users can also open it from the three-dot menu on a song in their library. The Verge reports that the layout differs between Suno's desktop and mobile interfaces. The report does not detail output resolution, export formats, or plan limits.
+Suno launched Visuals, a feature that turns Suno-generated songs into AI video clips that automatically lipsync to lyrics, and also generates prompt-based images for thumbnails or album artwork. It is available on web, iOS, and Android through a new Visuals tab in Create mode; on the web, users can also open it from the three-dot menu on a song in their library.
+
+The Verge reports that the layout differs between Suno's desktop and mobile interfaces. The report does not detail output resolution, export formats, or plan limits.
 
 </div>
 

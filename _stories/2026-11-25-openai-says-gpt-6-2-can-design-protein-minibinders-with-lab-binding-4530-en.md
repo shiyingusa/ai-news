@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g970f0e1cf6c1dcf3e371e26bb4b39840
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI reports that its GPT-6 models, specifically GPT-6.2, can design protein minibinders — small binding proteins — when given the three-dimensional structures of target proteins and the intended attachment site. According to OpenAI, the model wrote code to generate 3D designs without using specialized protein AI models, and laboratory tests found evidence of binding across five targets. The end-to-end workflow was not fully general-purpose, however: OpenAI says a specialized model called SolubleMPNN was used to suggest amino acid sequences for the designs, and other specialized protein models helped select candidates predicted to fold as intended and bind at the correct site. The report describes a research result, not a product or a service users can access.
+OpenAI reports that its GPT-6 models, specifically GPT-6.2, can design protein minibinders — small binding proteins — when given the three-dimensional structures of target proteins and the intended attachment site. According to OpenAI, the model wrote code to generate 3D designs without using specialized protein AI models, and laboratory tests found evidence of binding across five targets.
+
+The end-to-end workflow was not fully general-purpose, however: OpenAI says a specialized model called SolubleMPNN was used to suggest amino acid sequences for the designs, and other specialized protein models helped select candidates predicted to fold as intended and bind at the correct site. The report describes a research result, not a product or a service users can access.
 
 </div>
 
@@ -52,10 +54,6 @@ OpenAI's GPT-6.2 family, the flagship Astra and the lighter Sol, arrived in mid-
 
 For protein designers, the interesting claim is architectural rather than a new model: a general reasoning model can write the design code and act as an orchestration layer over specialized tools like SolubleMPNN, which still handle sequence generation and filtering. Teams evaluating this should treat the five-target binding result as a vendor-reported demonstration and keep existing physics- and ML-based design pipelines in place until success rates per target are published and independently reproduced.
 
-## Community discussion
-
-Commenters pushed back on the framing that this goes "beyond specialized models": one reader asked what GPT-6.2 actually designed, since SolubleMPNN supplied the amino acid sequences and other protein models did the selection, and another described the model more modestly as a glue layer between specialized tools. A commenter who says they did a PhD at the Baker lab called the direction expected — fusing language models with protein design natively, as has been done with images — while treating the current result as early.
-
 ## Coverage of this story
 
 - 2026-11-24 · OpenAI News: [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
@@ -65,5 +63,13 @@ Commenters pushed back on the framing that this goes "beyond specialized models"
 
 - [2026-11-19 — OpenAI 发布 GPT-6.2 Astra 与 Sol，跑分领先但实测口碑分化](http://www.geekpark.net/news/374175)
 - [SolubleMPNN - OpenProtein.AI docs](https://docs.openprotein.ai/models/proteinmpnn/solublempnn/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters pushed back on the framing that this goes "beyond specialized models": one reader asked what GPT-6.2 actually designed, since SolubleMPNN supplied the amino acid sequences and other protein models did the selection, and another described the model more modestly as a glue layer between specialized tools. A commenter who says they did a PhD at the Baker lab called the direction expected — fusing language models with protein design natively, as has been done with images — while treating the current result as early.
+
+</div>
 
 {% endraw %}

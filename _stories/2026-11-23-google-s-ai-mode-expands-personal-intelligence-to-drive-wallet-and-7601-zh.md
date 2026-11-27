@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-谷歌正在把 AI 模式（AI Mode，搜索中的对话式 AI 界面）里的“个人智能”（Personal Intelligence）扩展到 Google Drive、Google Wallet 以及 Gemini 应用。据 TechCrunch 报道，这意味着 AI 模式的回答可以直接调用用户已经存放在谷歌生态内的文件和信息，从而给出更贴合个人的结果，不再只依赖公开网页。报道没有说明该功能覆盖哪些国家或账号类型、是否需要用户主动开启，也没有给出上线时间表。
+谷歌正在把 AI 模式（AI Mode，搜索中的对话式 AI 界面）里的“个人智能”（Personal Intelligence）扩展到 Google Drive、Google Wallet 以及 Gemini 应用。据 TechCrunch 报道，这意味着 AI 模式的回答可以直接调用用户已经存放在谷歌生态内的文件和信息，从而给出更贴合个人的结果，不再只依赖公开网页。
+
+报道没有说明该功能覆盖哪些国家或账号类型、是否需要用户主动开启，也没有给出上线时间表。
 
 </div>
 

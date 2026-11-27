@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8a9f4ad162ab7c11c7f183f127692e5d
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NariQ 在 Hugging Face 发布了 Qwen3.8-27B 的 3 比特及更低比特量化版本（GGUF 格式），文件约 10 GB，作者称其在智能体任务、数学、多语言推理和图像理解上保持接近 BF16 的质量，并称这是首个在长程智能体任务上保持 BF16 水平性能的 3 比特及以下量化。作者自报的对比数据（BF16 / 3-bit / 2.5-bit / 2-bit）为：DeepSWE 39.8 / 41.0 / 41.9 / 28.6，Terminal-Bench 2.1 62.6 / 63.8 / 60.2 / 52.4，AIME 25+26 97.7 / 98.3 / 96.5 / 86.0，MSGM 94.0 / 93.1 / 91.8 / 90.6，RealWorldQA 82.4 / 82.4 / 81.3 / 80.9——在多数项目上 3-bit 与 2.5-bit 与 BF16 持平甚至略高，但 2-bit 在 DeepSWE 和 AIME 上明显下降。作者称在 RTX PRO 6000 上解码速度与其他量化相当，并给出了 4K/16K/64K 上下文下的速度数值（如 64K 时 3-bit 为 70.7、2.5-bit 为 77.5、2-bit 为 85.0，对比 Unsloth UD-IQ3_XXS 的 74.8）。运行这些模型目前需要使用作者的 llama.cpp 分支 nari-llama.cpp，而非上游版本；在 M3 Pro（18 GB）上需从源码编译，3.0bpw 文件解码约 3.8 tok/s（2.0bpw 约 4.9 tok/s），作者称远慢于 CUDA，其他 Mac 机型未测试。
+NariQ 在 Hugging Face 发布了 Qwen3.8-27B 的 3 比特及更低比特量化版本（GGUF 格式），文件约 10 GB，作者称其在智能体任务、数学、多语言推理和图像理解上保持接近 BF16 的质量，并称这是首个在长程智能体任务上保持 BF16 水平性能的 3 比特及以下量化。作者自报的对比数据（BF16 / 3-bit / 2.5-bit / 2-bit）为：DeepSWE 39.8 / 41.0 / 41.9 / 28.6，Terminal-Bench 2.1 62.6 / 63.8 / 60.2 / 52.4，AIME 25+26 97.7 / 98.3 / 96.5 / 86.0，MSGM 94.0 / 93.1 / 91.8 / 90.6，RealWorldQA 82.4 / 82.4 / 81.3 / 80.9——在多数项目上 3-bit 与 2.5-bit 与 BF16 持平甚至略高，但 2-bit 在 DeepSWE 和 AIME 上明显下降。
+
+作者称在 RTX PRO 6000 上解码速度与其他量化相当，并给出了 4K/16K/64K 上下文下的速度数值（如 64K 时 3-bit 为 70.7、2.5-bit 为 77.5、2-bit 为 85.0，对比 Unsloth UD-IQ3_XXS 的 74.8）。运行这些模型目前需要使用作者的 llama.cpp 分支 nari-llama.cpp，而非上游版本；在 M3 Pro（18 GB）上需从源码编译，3.0bpw 文件解码约 3.8 tok/s（2.0bpw 约 4.9 tok/s），作者称远慢于 CUDA，其他 Mac 机型未测试。
 
 </div>
 
@@ -56,15 +58,19 @@ NariQ 在 Hugging Face 发布了 Qwen3.8-27B 的 3 比特及更低比特量化�
 
 值得留意 nari-llama.cpp 的相关改动是否会进入上游 llama.cpp，以及其他开发者对这些文件在自有工作负载上的独立复现结果，包括与 Bonsai 2 27B 等同类量化的对比。
 
-## 社区讨论
-
-有评论者对这类高算力量化训练（QAT 风格）容易过拟合基准数据集表示怀疑，但认为该项目做了少见的基本检验——覆盖多种长程任务并提到使用了“held out”（留出）数据。另有评论者依据作者给出的图表认为，大部分提升来自测试框架（harness）差异而非模型本身；也有人追问压缩过程中究竟损失了什么信息，并关心能否塞进 16 GB 的 Mac。
-
 ## 延伸阅读
 
 - [nari-labs/Qwen3.8-27B-NariQ-GGUF · Hugging Face](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)
 - [NariQ Quantization: Qwen3.8-27B Agents in a 10 GB File](https://aitecharchive.com/articles/nariq-quantization-qwen3-8-27b-agent-performance-10gb)
 - [Report three-round DeepSWE averages...](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF/commit/9065513f08d8ed7dbe50b9c329cac1f40c70fde9)
 - [TERMINAL - BENCH](https://www.tbench.ai/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+有评论者对这类高算力量化训练（QAT 风格）容易过拟合基准数据集表示怀疑，但认为该项目做了少见的基本检验——覆盖多种长程任务并提到使用了“held out”（留出）数据。另有评论者依据作者给出的图表认为，大部分提升来自测试框架（harness）差异而非模型本身；也有人追问压缩过程中究竟损失了什么信息，并关心能否塞进 16 GB 的 Mac。
+
+</div>
 
 {% endraw %}

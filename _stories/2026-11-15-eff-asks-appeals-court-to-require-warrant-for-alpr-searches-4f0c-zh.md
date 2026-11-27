@@ -30,7 +30,9 @@ description: "EFF 表示已向上诉法院提交意见书（brief），请求法
 {% raw %}
 <div class="story-lead" markdown="1">
 
-EFF 表示已向上诉法院提交意见书（brief），请求法院裁定警方查询联网车牌识别（ALPR，automatic license plate recognition，自动记录过往车辆车牌与位置的摄像头网络）数据库属于美国宪法第四修正案意义上的“搜查”，因而需要搜查令。EFF 称该意见书详述了全美范围内相互连接、持续追踪驾驶者的 ALPR 网络如何运作。这属于倡导性法律行动而非法院裁决：现有材料中没有受理法院名称、案件名、案号或庭审排期，也没有任何法官对该主张作出裁定。
+EFF 表示已向上诉法院提交意见书（brief），请求法院裁定警方查询联网车牌识别（ALPR，automatic license plate recognition，自动记录过往车辆车牌与位置的摄像头网络）数据库属于美国宪法第四修正案意义上的“搜查”，因而需要搜查令。EFF 称该意见书详述了全美范围内相互连接、持续追踪驾驶者的 ALPR 网络如何运作。
+
+这属于倡导性法律行动而非法院裁决：现有材料中没有受理法院名称、案件名、案号或庭审排期，也没有任何法官对该主张作出裁定。
 
 </div>
 
@@ -51,13 +53,17 @@ EFF 表示已向上诉法院提交意见书（brief），请求法院裁定警�
 
 若上诉法院采纳 EFF 的主张，执法机构在调取历史车牌位置记录前将需先取得搜查令，这直接改变警局与商业 ALPR 网络运营商之间的查询流程、数据保留期限与合同条款；若法院驳回，现行无需搜查令即可回溯查询车辆轨迹的做法将维持不变。使用这类系统的城市与警察局应关注判决后其内部政策与采购合同是否需要改写。
 
-## 社区讨论
-
-评论者普遍支持 EFF 的立场，但多位读者认为方案应更进一步：hedora 和 largbae 主张只应保留与有效搜查令相关的车牌数据，hedora 同时提出应兼顾受害者权益，使这些数据能真正用于侦查。petcat 举出新罕布什尔州法律作为现成模板——只采集车牌、三分钟内删除未命中的图像、禁止将未命中图像上传离开设备——但补充说仍应要求搜查令才能访问数据。topshelf 则质疑“身处公共空间即放弃第四修正案保护”的前提。
-
 ## 延伸阅读
 
 - [# fourth - amendment tag - Briefly](https://briefly.co/tag/fourth-amendment)
 - [Hearing Thursday: EFF Urges Appeals Court to... | PressReleasePoint](https://www.pressreleasepoint.com/hearing-thursday-eff-urges-appeals-court-curb-police-access-alpr-databases)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+评论者普遍支持 EFF 的立场，但多位读者认为方案应更进一步：hedora 和 largbae 主张只应保留与有效搜查令相关的车牌数据，hedora 同时提出应兼顾受害者权益，使这些数据能真正用于侦查。petcat 举出新罕布什尔州法律作为现成模板——只采集车牌、三分钟内删除未命中的图像、禁止将未命中图像上传离开设备——但补充说仍应要求搜查令才能访问数据。topshelf 则质疑“身处公共空间即放弃第四修正案保护”的前提。
+
+</div>
 
 {% endraw %}

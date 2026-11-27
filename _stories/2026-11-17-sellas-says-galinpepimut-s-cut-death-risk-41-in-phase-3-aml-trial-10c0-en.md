@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb114c3c6ce261d12a090ed19066d1402
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Sellas Life Sciences said on Tuesday that its experimental immunotherapy galinpepimut-S reduced the risk of death by 41% compared with standard treatment in patients with an advanced stage of acute myeloid leukemia (AML), meeting the primary goal of a Phase 3 trial, according to the company's announcement as reported by STAT. Galinpepimut-S is a therapeutic cancer vaccine designed to train the immune system against WT1, a protein found at high levels on several tumor types, including AML. The announcement is not a full data release: the 41% figure is company-reported, and the article provides no hazard-ratio confidence interval, no median overall survival for either arm, and no safety results, nor any peer-reviewed publication or independent verification. STAT reporter Adam Feuerstein noted that in a September column he had predicted the therapy would fail to prolong survival in this same Phase 3 study.
+Sellas Life Sciences said on Tuesday that its experimental immunotherapy galinpepimut-S reduced the risk of death by 41% compared with standard treatment in patients with an advanced stage of acute myeloid leukemia (AML), meeting the primary goal of a Phase 3 trial, according to the company's announcement as reported by STAT. Galinpepimut-S is a therapeutic cancer vaccine designed to train the immune system against WT1, a protein found at high levels on several tumor types, including AML.
+
+The announcement is not a full data release: the 41% figure is company-reported, and the article provides no hazard-ratio confidence interval, no median overall survival for either arm, and no safety results, nor any peer-reviewed publication or independent verification. STAT reporter Adam Feuerstein noted that in a September column he had predicted the therapy would fail to prolong survival in this same Phase 3 study.
 
 </div>
 

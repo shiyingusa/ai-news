@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-TechCrunch 11 月 23 日报道，Google 搜索的对话式 AI 模式（AI Mode）现在可以接入 Google Drive、Google Wallet 和 Gemini 应用中的个人数据，通过 AI 模式里的“Personal Intelligence”（个人智能）让回答更个性化。报道称，这是把 Personal Intelligence 扩展到上述服务，但没有说明上线地区、适用账户、授权流程或隐私控制。信息来自单一报道，且没有独立测试；实际会调用哪些数据类型、用户如何关闭连接仍不明确。
+TechCrunch 11 月 23 日报道，Google 搜索的对话式 AI 模式（AI Mode）现在可以接入 Google Drive、Google Wallet 和 Gemini 应用中的个人数据，通过 AI 模式里的“Personal Intelligence”（个人智能）让回答更个性化。报道称，这是把 Personal Intelligence 扩展到上述服务，但没有说明上线地区、适用账户、授权流程或隐私控制。
+
+信息来自单一报道，且没有独立测试；实际会调用哪些数据类型、用户如何关闭连接仍不明确。
 
 </div>
 

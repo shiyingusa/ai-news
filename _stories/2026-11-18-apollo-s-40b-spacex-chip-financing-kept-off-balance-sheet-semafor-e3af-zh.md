@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8a2c1bf33af9fdcdb69fcb3866bb4ebc
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 Semafor 记者 Ellen DiMauro 援引未具名消息人士报道，Apollo 正为 SpaceX 安排一笔 400 亿美元的芯片融资，通过一个特殊目的载体（SPV，即为单笔交易单独设立的法律实体）搭建结构，使这批 GPU 不进入 SpaceX 的资产负债表，而由 SpaceX 以租赁方式使用。报道称该融资最快可能在本周进入市场。报道未披露 GPU 数量、供应商、部署地点、租期或租金等条款，Apollo 与 SpaceX 也均未公开确认这笔交易。
+据 Semafor 记者 Ellen DiMauro 援引未具名消息人士报道，Apollo 正为 SpaceX 安排一笔 400 亿美元的芯片融资，通过一个特殊目的载体（SPV，即为单笔交易单独设立的法律实体）搭建结构，使这批 GPU 不进入 SpaceX 的资产负债表，而由 SpaceX 以租赁方式使用。报道称该融资最快可能在本周进入市场。
+
+报道未披露 GPU 数量、供应商、部署地点、租期或租金等条款，Apollo 与 SpaceX 也均未公开确认这笔交易。
 
 </div>
 

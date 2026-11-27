@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Amazon-owned Zoox's robotaxis can now be hailed through the Uber app in Las Vegas, the company's first partnership with a ride-hailing platform. TechCrunch reports the tie-up as a first for Zoox, which until now has not distributed its vehicles through a third-party app. Neither company disclosed the size of the fleet exposed to Uber, the area covered, pricing, or the operational terms of the arrangement, so the scale of the service is unclear. The report also gives no ridership or performance data showing how the vehicles are doing under Uber demand.
+Amazon-owned Zoox's robotaxis can now be hailed through the Uber app in Las Vegas, the company's first partnership with a ride-hailing platform. TechCrunch reports the tie-up as a first for Zoox, which until now has not distributed its vehicles through a third-party app.
+
+Neither company disclosed the size of the fleet exposed to Uber, the area covered, pricing, or the operational terms of the arrangement, so the scale of the service is unclear. The report also gives no ridership or performance data showing how the vehicles are doing under Uber demand.
 
 </div>
 

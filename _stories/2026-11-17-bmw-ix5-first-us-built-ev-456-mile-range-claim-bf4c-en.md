@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-BMW has announced the iX5, its first fully electric vehicle built in the United States, claiming an estimated range of up to 456 miles along with ultra-fast charging and "Neue Klasse" technology — BMW's next-generation EV platform. The announcement, as reported by Electrek, is a preview rather than a full launch: no price, production start date, battery capacity or charging power in kilowatts was disclosed. The 456-mile figure is BMW's own estimate, not an EPA-certified rating, so the number that will appear on US window stickers is still unknown.
+BMW has announced the iX5, its first fully electric vehicle built in the United States, claiming an estimated range of up to 456 miles along with ultra-fast charging and "Neue Klasse" technology — BMW's next-generation EV platform. The announcement, as reported by Electrek, is a preview rather than a full launch: no price, production start date, battery capacity or charging power in kilowatts was disclosed.
+
+The 456-mile figure is BMW's own estimate, not an EPA-certified rating, so the number that will appear on US window stickers is still unknown.
 
 </div>
 

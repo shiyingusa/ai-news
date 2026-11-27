@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge16470c0da08dfeb086a5370200280a6
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google DeepMind has made Genie 4 available inside Project Genie for Google AI Ultra subscribers, calling it its most realistic world model to date. It generates interactive 3D worlds that can be edited in real time through text input, and for the first time includes native sound. The update also adds chainable worlds, a Project Genie agent that builds worlds, and a community gallery where users can share and remix what they create. Access is limited to "eligible" AI Ultra subscribers, and neither Google's post nor the coverage spells out which countries or account types qualify.
+Google DeepMind has made Genie 4 available inside Project Genie for Google AI Ultra subscribers, calling it its most realistic world model to date. It generates interactive 3D worlds that can be edited in real time through text input, and for the first time includes native sound.
+
+The update also adds chainable worlds, a Project Genie agent that builds worlds, and a community gallery where users can share and remix what they create. Access is limited to "eligible" AI Ultra subscribers, and neither Google's post nor the coverage spells out which countries or account types qualify.
 
 </div>
 
@@ -56,14 +58,18 @@ For anyone planning to build on Project Genie, the practical gate is the subscri
 
 Watch whether Google updates its Project Genie eligibility documentation to add countries beyond the current list and to state Workspace support, which would confirm or refute the access complaints raised on Hacker News.
 
-## Community discussion
-
-Hacker News commenters focused less on capability than on access: one said they wanted to pay Google but could not tell whether their Workspace account, their UK location, or a missing page update was blocking AI Ultra with Genie 4. Others debated the technology itself — questioning whether a generated world stays consistent when you spin 360°, praising DeepMind for work that reads as craft rather than profit-seeking, and speculating about generated worlds eventually serving as a game engine.
-
 ## Coverage of this story
 
 - 2026-11-18 · Google DeepMind: [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/)
 - 2026-11-18 · Google: [Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 - 2026-11-18 · The Decoder: [Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing](https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Hacker News commenters focused less on capability than on access: one said they wanted to pay Google but could not tell whether their Workspace account, their UK location, or a missing page update was blocking AI Ultra with Genie 4. Others debated the technology itself — questioning whether a generated world stays consistent when you spin 360°, praising DeepMind for work that reads as craft rather than profit-seeking, and speculating about generated worlds eventually serving as a game engine.
+
+</div>
 
 {% endraw %}

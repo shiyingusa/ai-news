@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6c5aca6bcd831c3006f7ddc79e22086a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-AYK Energy is supplying battery systems totalling 165 MWh for three new all-electric fast ferries operated by Danish shipping company Molslinjen, with 55 MWh installed on each vessel. The catamaran ferries are being built by Incat Tasmania, the Australian yard known for large aluminium fast-ferry hulls. The report gives no contract value, delivery schedule, battery chemistry or charging specification, so the order is a disclosed supply agreement rather than a system already in service.
+AYK Energy is supplying battery systems totalling 165 MWh for three new all-electric fast ferries operated by Danish shipping company Molslinjen, with 55 MWh installed on each vessel. The catamaran ferries are being built by Incat Tasmania, the Australian yard known for large aluminium fast-ferry hulls.
+
+The report gives no contract value, delivery schedule, battery chemistry or charging specification, so the order is a disclosed supply agreement rather than a system already in service.
 
 </div>
 

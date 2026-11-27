@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gd760a4568f0db419f00d72d5a7324f6e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-美国联邦调查局（FBI）表示，一款名为 Artex AI 的开源黑客工具已被用于真实网络入侵，目标包括一家美国 IT 巨头和韩国金融行业。据 TechCrunch 报道，FBI 称部分攻击在不到三小时内就攻破了网络。报道未说明攻击发生的时间、受害公司名称或 Artex AI 的具体能力，也未给出 FBI 原始公告的细节，因此上述判断目前仅来自这篇简短的二手报道。
+美国联邦调查局（FBI）表示，一款名为 Artex AI 的开源黑客工具已被用于真实网络入侵，目标包括一家美国 IT 巨头和韩国金融行业。据 TechCrunch 报道，FBI 称部分攻击在不到三小时内就攻破了网络。
+
+报道未说明攻击发生的时间、受害公司名称或 Artex AI 的具体能力，也未给出 FBI 原始公告的细节，因此上述判断目前仅来自这篇简短的二手报道。
 
 </div>
 

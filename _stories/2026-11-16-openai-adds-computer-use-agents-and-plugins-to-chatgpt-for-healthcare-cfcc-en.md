@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gee2379d6e7f75ef1d9845a8968500ee9
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI announced three additions to ChatGPT for Healthcare: computer-use agents, improved clinical answers, and new healthcare plugins that it says work across healthcare software. The company describes the goal as getting real work done in care settings rather than just answering questions. The announcement does not specify a release date, pricing, which customers can use the features, which software the plugins support, or what evidence backs the claim of improved clinical answers.
+OpenAI announced three additions to ChatGPT for Healthcare: computer-use agents, improved clinical answers, and new healthcare plugins that it says work across healthcare software. The company describes the goal as getting real work done in care settings rather than just answering questions.
+
+The announcement does not specify a release date, pricing, which customers can use the features, which software the plugins support, or what evidence backs the claim of improved clinical answers.
 
 </div>
 

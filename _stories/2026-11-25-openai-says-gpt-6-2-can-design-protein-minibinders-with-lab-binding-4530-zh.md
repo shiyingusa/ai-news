@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g970f0e1cf6c1dcf3e371e26bb4b39840
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI 发布报告称，在只给出五个靶蛋白的三维结构和指定结合位点的情况下，GPT-6.2 通过编写代码生成候选微结合体（minibinder，即能贴附到目标蛋白特定位置的小型结合蛋白）的三维设计，并在实验室测试中观察到五个靶点均存在结合的证据。不过要把设计变成可测试的蛋白，仍需专用模型参与：氨基酸序列由专用模型 SolubleMPNN 提出，另有其他专用蛋白模型负责筛选那些被预测能按设计折叠、并在预期位点结合的候选。OpenAI 把这条路线描述为不依赖专用蛋白 AI 模型的结构设计，但从披露的流程看，序列生成与候选筛选仍由专用模型承担，实验室结合证据也只有 OpenAI 一方给出。
+OpenAI 发布报告称，在只给出五个靶蛋白的三维结构和指定结合位点的情况下，GPT-6.2 通过编写代码生成候选微结合体（minibinder，即能贴附到目标蛋白特定位置的小型结合蛋白）的三维设计，并在实验室测试中观察到五个靶点均存在结合的证据。不过要把设计变成可测试的蛋白，仍需专用模型参与：氨基酸序列由专用模型 SolubleMPNN 提出，另有其他专用蛋白模型负责筛选那些被预测能按设计折叠、并在预期位点结合的候选。
+
+OpenAI 把这条路线描述为不依赖专用蛋白 AI 模型的结构设计，但从披露的流程看，序列生成与候选筛选仍由专用模型承担，实验室结合证据也只有 OpenAI 一方给出。
 
 </div>
 
@@ -52,10 +54,6 @@ AI Daily Radar 11 月 19 日的日报曾报道，OpenAI 于 11 月 18 日发布 
 
 对做蛋白设计的团队来说，这份报告说明通用大模型当前的实用角色更像是串联流程的编排层：用它理解靶点结构、写代码生成骨架，而序列生成和筛选仍交给 SolubleMPNN 等专用模型。因此评估这类结果时，应把“三维结构设计”与“能表达、能结合的序列”分开看，并要求公布结合亲和力与阴性对照数据。
 
-## 社区讨论
-
-评论者 fabian2k 质疑 GPT-6.2 究竟设计出了什么，理由是决定蛋白质的其实是氨基酸序列；plaidfuji 认为“超越专用模型”的说法为时尚早，GPT 更像是连接各专用模型的“胶水层”。在 Baker 实验室读过博士的 elhospitaler 则认为，这一方向与把语言模型和蛋白质原生多模态融合的设想一致，并不意外。
-
 ## 本事件的相关报道
 
 - 2026-11-24 · OpenAI News: [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
@@ -65,5 +63,13 @@ AI Daily Radar 11 月 19 日的日报曾报道，OpenAI 于 11 月 18 日发布 
 
 - [2026-11-19 — OpenAI 发布 GPT-6.2 Astra 与 Sol，跑分领先但实测口碑分化](http://www.geekpark.net/news/374175)
 - [SolubleMPNN - OpenProtein.AI docs](https://docs.openprotein.ai/models/proteinmpnn/solublempnn/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+评论者 fabian2k 质疑 GPT-6.2 究竟设计出了什么，理由是决定蛋白质的其实是氨基酸序列；plaidfuji 认为“超越专用模型”的说法为时尚早，GPT 更像是连接各专用模型的“胶水层”。在 Baker 实验室读过博士的 elhospitaler 则认为，这一方向与把语言模型和蛋白质原生多模态融合的设想一致，并不意外。
+
+</div>
 
 {% endraw %}

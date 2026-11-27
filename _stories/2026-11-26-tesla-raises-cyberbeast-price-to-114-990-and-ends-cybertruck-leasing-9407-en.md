@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla has raised the price of the Cybertruck's top Cyberbeast trim to $114,990 and stopped offering Cybertruck leases, according to Not a Tesla App. The report says delivery estimates for the Cyberbeast now stretch to June 2027. It does not give the previous price, so the size of this latest increase — the report frames it as another rise — cannot be established from the available information. Tesla has not publicly explained either the price change or the end of leasing.
+Tesla has raised the price of the Cybertruck's top Cyberbeast trim to $114,990 and stopped offering Cybertruck leases, according to Not a Tesla App. The report says delivery estimates for the Cyberbeast now stretch to June 2027.
+
+It does not give the previous price, so the size of this latest increase — the report frames it as another rise — cannot be established from the available information. Tesla has not publicly explained either the price change or the end of leasing.
 
 </div>
 

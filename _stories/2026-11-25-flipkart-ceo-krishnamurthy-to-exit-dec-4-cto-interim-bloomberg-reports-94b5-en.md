@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb6fe8ebd24657d3738e2a1a27eb96e3b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Walmart said Kalyan Krishnamurthy, chief executive of its Flipkart unit, India's largest online retailer, will leave the company on December 4, and named Flipkart's chief technology officer as interim CEO, Bloomberg reported on November 25. The report describes Krishnamurthy as a key architect of Flipkart's rise to the No. 1 position in Indian online retail. The announcement gives no reason for the departure, does not name the CTO serving as interim, and does not set out a timeline for appointing a permanent successor. The change is dated and attributed to Walmart, but the operational details behind it remain undisclosed.
+Walmart said Kalyan Krishnamurthy, chief executive of its Flipkart unit, India's largest online retailer, will leave the company on December 4, and named Flipkart's chief technology officer as interim CEO, Bloomberg reported on November 25. The report describes Krishnamurthy as a key architect of Flipkart's rise to the No. 1 position in Indian online retail.
+
+The announcement gives no reason for the departure, does not name the CTO serving as interim, and does not set out a timeline for appointing a permanent successor. The change is dated and attributed to Walmart, but the operational details behind it remain undisclosed.
 
 </div>
 

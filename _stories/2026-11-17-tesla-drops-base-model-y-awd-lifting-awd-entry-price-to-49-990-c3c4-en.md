@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla has removed the entry-level all-wheel-drive version of the Model Y from its configurator, raising the cheapest way to get a dual-motor Model Y from $41,990 to $49,990 — the price of the Premium trim, which is now the AWD entry point. The rear-wheel-drive base Model Y is unchanged at $39,990. According to electrive, the discontinued trim had been on sale for just over nine months. The report does not say why Tesla made the change or whether equipment on the remaining AWD trim differs from the version it replaces.
+Tesla has removed the entry-level all-wheel-drive version of the Model Y from its configurator, raising the cheapest way to get a dual-motor Model Y from $41,990 to $49,990 — the price of the Premium trim, which is now the AWD entry point. The rear-wheel-drive base Model Y is unchanged at $39,990.
+
+According to electrive, the discontinued trim had been on sale for just over nine months. The report does not say why Tesla made the change or whether equipment on the remaining AWD trim differs from the version it replaces.
 
 </div>
 

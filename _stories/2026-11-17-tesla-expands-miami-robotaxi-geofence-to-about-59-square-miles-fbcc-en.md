@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla announced on November 16 that it had expanded its Miami Robotaxi service area to about 59 square miles from roughly 31, a 92% increase that Teslarati describes as roughly double the previous geofence. The new map adds Downtown Miami, Brickell, Wynwood, Little Havana and Hialeah, and riders can hail Model Y vehicles through the Tesla Robotaxi app around the clock, a schedule in place since mid-November. Tesla began unsupervised Robotaxi rides in Miami on July 3. The article contradicts itself on Miami Beach: one passage says it is now included, while a later passage says it remains outside the service area.
+Tesla announced on November 16 that it had expanded its Miami Robotaxi service area to about 59 square miles from roughly 31, a 92% increase that Teslarati describes as roughly double the previous geofence. The new map adds Downtown Miami, Brickell, Wynwood, Little Havana and Hialeah, and riders can hail Model Y vehicles through the Tesla Robotaxi app around the clock, a schedule in place since mid-November.
+
+Tesla began unsupervised Robotaxi rides in Miami on July 3. The article contradicts itself on Miami Beach: one passage says it is now included, while a later passage says it remains outside the service area.
 
 </div>
 

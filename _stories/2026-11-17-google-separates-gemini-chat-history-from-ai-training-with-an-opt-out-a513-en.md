@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8ec752942058eb5c30d597c1080b025b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google is rolling out new Gemini app settings that split two things that were previously bundled: keeping your chat history and allowing your chats to be used for AI training. Until now, the only way to stop Google from training on your conversations and attachments was to turn off history entirely, which also meant losing the ability to return to a past chat. With the change, users get separate toggles, and the history setting keeps its adjustable retention limit. Training remains on by default — blocking it is an opt-out, found under Activity in Gemini settings, or via your Google account under Data and Privacy > My Activity > Other activity > Gemini Apps Activity.
+Google is rolling out new Gemini app settings that split two things that were previously bundled: keeping your chat history and allowing your chats to be used for AI training. Until now, the only way to stop Google from training on your conversations and attachments was to turn off history entirely, which also meant losing the ability to return to a past chat.
+
+With the change, users get separate toggles, and the history setting keeps its adjustable retention limit. Training remains on by default — blocking it is an opt-out, found under Activity in Gemini settings, or via your Google account under Data and Privacy > My Activity > Other activity > Gemini Apps Activity.
 
 </div>
 

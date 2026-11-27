@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g07824aa19fadf9f20a1dd27ee32d4c5e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-在 Ignite 大会开幕主题演讲中，微软 CEO 萨提亚·纳德拉宣布 Word、Excel 和 PowerPoint 已在 Copilot 内正式可用（general availability），并将 Copilot 称为“工作的新操作系统”，同时提出名为“前沿（frontier）”的生态构想。用户现在可以直接在 Copilot 中创建文档、电子表格和演示文稿，生成的文件仍可在对应的 Office 应用中继续编辑。微软设想的方向与过去相反：由代理驱动流程，Office 应用退为代理工作的插件组件，并由一个从邮件、会议、日历、聊天和文件中提取上下文的“组织知识层”提供支撑。以上能力与定位均由微软在发布会上公布，报道未提及价格、许可条件或独立测试结果。
+在 Ignite 大会开幕主题演讲中，微软 CEO 萨提亚·纳德拉宣布 Word、Excel 和 PowerPoint 已在 Copilot 内正式可用（general availability），并将 Copilot 称为“工作的新操作系统”，同时提出名为“前沿（frontier）”的生态构想。用户现在可以直接在 Copilot 中创建文档、电子表格和演示文稿，生成的文件仍可在对应的 Office 应用中继续编辑。
+
+微软设想的方向与过去相反：由代理驱动流程，Office 应用退为代理工作的插件组件，并由一个从邮件、会议、日历、聊天和文件中提取上下文的“组织知识层”提供支撑。以上能力与定位均由微软在发布会上公布，报道未提及价格、许可条件或独立测试结果。
 
 </div>
 

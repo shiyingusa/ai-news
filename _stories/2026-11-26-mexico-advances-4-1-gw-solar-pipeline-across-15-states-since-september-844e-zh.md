@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 pv magazine México 汇总，自 9 月 10 日以来，墨西哥 15 个州共有超过 4.1 GW 的大型光伏项目取得进展，形式包括提交环境影响评估、获得环境许可或发电许可、签订设备供货协议与长期购电协议（PPA）。其中规模最大的是 Veracruz 的 621.17 MW Cerro Colorado 项目，环境与自然资源部（Semarnat）已给出有条件环境许可，该项目将采用 941,166 块 660 W 组件和 1,803 台华为逆变器，建设期预计两年。Jalisco 的 400 MW Teuchitlán 项目刚提交环评，开发商估算投资 1.5 亿美元；Coahuila 的 269 MW 光伏配储项目则由 Atlas Renewable Energy 与墨西哥矿业集团 Industrias Peñoles 签订 20 年 PPA，预计年供电 550 GWh，2029 年上半年开始交付。需要说明的是，这些进展大多是许可、协议与规划节点，尚不代表已经建成或并网的发电容量。
+据 pv magazine México 汇总，自 9 月 10 日以来，墨西哥 15 个州共有超过 4.1 GW 的大型光伏项目取得进展，形式包括提交环境影响评估、获得环境许可或发电许可、签订设备供货协议与长期购电协议（PPA）。其中规模最大的是 Veracruz 的 621.17 MW Cerro Colorado 项目，环境与自然资源部（Semarnat）已给出有条件环境许可，该项目将采用 941,166 块 660 W 组件和 1,803 台华为逆变器，建设期预计两年。
+
+Jalisco 的 400 MW Teuchitlán 项目刚提交环评，开发商估算投资 1.5 亿美元；Coahuila 的 269 MW 光伏配储项目则由 Atlas Renewable Energy 与墨西哥矿业集团 Industrias Peñoles 签订 20 年 PPA，预计年供电 550 GWh，2029 年上半年开始交付。需要说明的是，这些进展大多是许可、协议与规划节点，尚不代表已经建成或并网的发电容量。
 
 </div>
 

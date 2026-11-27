@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-《纽约时报》11月23日报道，知情人士称，埃隆·马斯克已告诉SpaceX员工，公司在AI方面正在落后；同时，把公司数据中心的算力出租给包括Anthropic在内的竞争对手，比用于改进SpaceX自身产品更赚钱。报道称，这种做法正在让SpaceX自己的AI工作更难推进。上述说法来自知情人士，而非SpaceX的公开声明。
+《纽约时报》11月23日报道，知情人士称，埃隆·马斯克已告诉SpaceX员工，公司在AI方面正在落后；同时，把公司数据中心的算力出租给包括Anthropic在内的竞争对手，比用于改进SpaceX自身产品更赚钱。报道称，这种做法正在让SpaceX自己的AI工作更难推进。
+
+上述说法来自知情人士，而非SpaceX的公开声明。
 
 </div>
 

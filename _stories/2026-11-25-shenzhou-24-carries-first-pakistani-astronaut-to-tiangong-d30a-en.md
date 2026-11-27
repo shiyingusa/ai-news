@@ -31,7 +31,11 @@ photo_credit: {"url": "https://pixabay.com/get/g6276eb6bb4c154e6bc47b5ad3f9ebc80
 {% raw %}
 <div class="story-lead" markdown="1">
 
-China launched Shenzhou-24 on Nov. 25 at 00:18 UTC (08:18 Beijing time) from the Jiuquan Satellite Launch Center atop a Chang Zheng 2F/G, carrying commander Tang Hongbo, flight engineer Wu Yi and Pakistani payload specialist Muhammad Zeeshan Ali — the first foreign national to fly to the Tiangong station. The China Manned Space Agency named the crew at a press conference the day before launch. Ali, who has trained in Beijing since April under a China–Pakistan agreement signed in February 2025, will stay about a week, run joint microgravity experiments and install experiment units before returning to Earth aboard the Shenzhou-23 craft; his countryman Khurram Daud was assigned as backup. Tang becomes the first astronaut to visit Tiangong three times, Wu is on his first flight, and Shenzhou-23 commander Zhu Yangzhu, who stays on, is set to become China's first astronaut to spend a year in orbit in a single visit. It is China's 18th crewed spaceflight and the eighth of the station's application-and-development phase.
+China launched Shenzhou-24 on Nov. 25 at 00:18 UTC (08:18 Beijing time) from the Jiuquan Satellite Launch Center atop a Chang Zheng 2F/G, carrying commander Tang Hongbo, flight engineer Wu Yi and Pakistani payload specialist Muhammad Zeeshan Ali — the first foreign national to fly to the Tiangong station. The China Manned Space Agency named the crew at a press conference the day before launch.
+
+Ali, who has trained in Beijing since April under a China–Pakistan agreement signed in February 2025, will stay about a week, run joint microgravity experiments and install experiment units before returning to Earth aboard the Shenzhou-23 craft; his countryman Khurram Daud was assigned as backup. Tang becomes the first astronaut to visit Tiangong three times, Wu is on his first flight, and Shenzhou-23 commander Zhu Yangzhu, who stays on, is set to become China's first astronaut to spend a year in orbit in a single visit.
+
+It is China's 18th crewed spaceflight and the eighth of the station's application-and-development phase.
 
 </div>
 

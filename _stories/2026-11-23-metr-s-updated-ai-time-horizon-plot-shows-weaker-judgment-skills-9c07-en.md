@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gec3cbb7ef5855745c856083a9b0922e4
 {% raw %}
 <div class="story-lead" markdown="1">
 
-METR, the AI evaluation nonprofit, has published a new version of its widely shared "time horizon" plot, which measures how long a task a model can complete, and reports that some capabilities are still improving exponentially while models perform worse on tasks requiring judgment than on coding. The update adds more open-ended tasks, including designing AI evaluations and scoring philosophical arguments, and the models struggled with them. MIT Technology Review's The Download newsletter, which summarizes the report, frames that gap as potentially crucial to automating research and development. The newsletter does not link directly to METR's report, so the specific task counts, scores and doubling times behind the update are not given in the account available here.
+METR, the AI evaluation nonprofit, has published a new version of its widely shared "time horizon" plot, which measures how long a task a model can complete, and reports that some capabilities are still improving exponentially while models perform worse on tasks requiring judgment than on coding. The update adds more open-ended tasks, including designing AI evaluations and scoring philosophical arguments, and the models struggled with them.
+
+MIT Technology Review's The Download newsletter, which summarizes the report, frames that gap as potentially crucial to automating research and development. The newsletter does not link directly to METR's report, so the specific task counts, scores and doubling times behind the update are not given in the account available here.
 
 </div>
 

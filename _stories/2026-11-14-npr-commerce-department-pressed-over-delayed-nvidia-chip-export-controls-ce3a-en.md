@@ -29,7 +29,9 @@ description: "NPR reports that the US Commerce Department is facing pressure for
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NPR reports that the US Commerce Department is facing pressure for delaying export controls on Nvidia chips, according to a headline carried in a chip-industry news feed. The supplied material contains only that headline: it names no officials applying the pressure, no date for the delay, no indication of which specific controls are affected, and no response from Commerce or Nvidia. It should therefore be treated as a reported, developing policy story rather than a confirmed change to export rules. No details on scope, timing, or the legal mechanism involved could be verified from the available content.
+NPR reports that the US Commerce Department is facing pressure for delaying export controls on Nvidia chips, according to a headline carried in a chip-industry news feed. The supplied material contains only that headline: it names no officials applying the pressure, no date for the delay, no indication of which specific controls are affected, and no response from Commerce or Nvidia.
+
+It should therefore be treated as a reported, developing policy story rather than a confirmed change to export rules. No details on scope, timing, or the legal mechanism involved could be verified from the available content.
 
 </div>
 

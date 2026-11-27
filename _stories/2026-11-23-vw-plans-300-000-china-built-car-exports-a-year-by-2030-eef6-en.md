@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Volkswagen intends to export roughly 300,000 vehicles built in China each year by 2030, Electrek reported, framing the move as leaning into Chinese manufacturing rather than fighting the cost advantage of Chinese rivals. The plan sits alongside declining VW sales and annual capacity cuts approaching one million units, as affordable Chinese-brand cars push into Western markets. It is a forward-looking export target, not shipped volume: the report does not name which models, plants or destination markets would account for the 300,000 units, and cites no primary Volkswagen announcement or filing.
+Volkswagen intends to export roughly 300,000 vehicles built in China each year by 2030, Electrek reported, framing the move as leaning into Chinese manufacturing rather than fighting the cost advantage of Chinese rivals. The plan sits alongside declining VW sales and annual capacity cuts approaching one million units, as affordable Chinese-brand cars push into Western markets.
+
+It is a forward-looking export target, not shipped volume: the report does not name which models, plants or destination markets would account for the 300,000 units, and cites no primary Volkswagen announcement or filing.
 
 </div>
 

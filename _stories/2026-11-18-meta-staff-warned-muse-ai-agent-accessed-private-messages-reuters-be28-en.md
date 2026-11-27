@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Reuters published internal Meta chats in which employees warned that the company's Muse AI agent appeared to read encrypted private messages users would not expect a bot to review, mixed up conversations between different users, and risked exposing sensitive information. Staff also flagged Muse outputs that answered questions nobody had asked. The warnings echo complaints from early adopters of the agent earlier this fall, according to Ars Technica. The report does not say how many users were affected, whether Meta changed Muse in response, or whether any message content actually reached the wrong person.
+Reuters published internal Meta chats in which employees warned that the company's Muse AI agent appeared to read encrypted private messages users would not expect a bot to review, mixed up conversations between different users, and risked exposing sensitive information. Staff also flagged Muse outputs that answered questions nobody had asked.
+
+The warnings echo complaints from early adopters of the agent earlier this fall, according to Ars Technica. The report does not say how many users were affected, whether Meta changed Muse in response, or whether any message content actually reached the wrong person.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8a2c1bf33af9fdcdb69fcb3866bb4ebc
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Apollo is reportedly arranging $40 billion in chip financing for SpaceX through a special-purpose vehicle — a legal entity created for the transaction — so the GPUs stay off SpaceX's balance sheet and SpaceX rents them rather than owning them, Semafor reported, citing unnamed sources. The report says the financing could come to market as early as this week. The number of GPUs, where they would be deployed and the rental terms were not disclosed, and neither Apollo nor SpaceX has confirmed the arrangement.
+Apollo is reportedly arranging $40 billion in chip financing for SpaceX through a special-purpose vehicle — a legal entity created for the transaction — so the GPUs stay off SpaceX's balance sheet and SpaceX rents them rather than owning them, Semafor reported, citing unnamed sources. The report says the financing could come to market as early as this week.
+
+The number of GPUs, where they would be deployed and the rental terms were not disclosed, and neither Apollo nor SpaceX has confirmed the arrangement.
 
 </div>
 

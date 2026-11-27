@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Meta and Amazon are in ongoing discussions about a deal that would connect Meta's Muse AI agent to Amazon and end Amazon's block on that connection, Fortune reported, citing unnamed sources. Any agreement would require sign-off from both companies' CEOs. The report did not disclose proposed terms, timing, or the scope of what Muse would be allowed to do on Amazon, and neither company has publicly confirmed the talks.
+Meta and Amazon are in ongoing discussions about a deal that would connect Meta's Muse AI agent to Amazon and end Amazon's block on that connection, Fortune reported, citing unnamed sources. Any agreement would require sign-off from both companies' CEOs.
+
+The report did not disclose proposed terms, timing, or the scope of what Muse would be allowed to do on Amazon, and neither company has publicly confirmed the talks.
 
 </div>
 

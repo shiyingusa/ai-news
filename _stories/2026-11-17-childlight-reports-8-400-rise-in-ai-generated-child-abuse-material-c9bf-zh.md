@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf0fd5648bc7a5b9fd66b7775c0b6055f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-爱丁堡的 Childlight Institute 报告称，AI 生成的儿童性虐待材料（CSAM）举报量从 2023 年约 4,700 起增至 2025 年逾 40 万起，两年增幅超过 8,400%。报告称施害者利用“脱衣”（nudify）类应用生成此类图像，并用于勒索。该机构 CEO Paul Stanfield 呼吁各国政府把这一问题定性为可预防的公共卫生紧急事件。需要注意，上述数字是该机构自己统计的“举报”数量，而不是已逐案确认的案件数；The Decoder 的报道没有给出这些数字的独立核实，也没有说明统计口径。
+爱丁堡的 Childlight Institute 报告称，AI 生成的儿童性虐待材料（CSAM）举报量从 2023 年约 4,700 起增至 2025 年逾 40 万起，两年增幅超过 8,400%。报告称施害者利用“脱衣”（nudify）类应用生成此类图像，并用于勒索。
+
+该机构 CEO Paul Stanfield 呼吁各国政府把这一问题定性为可预防的公共卫生紧急事件。需要注意，上述数字是该机构自己统计的“举报”数量，而不是已逐案确认的案件数；The Decoder 的报道没有给出这些数字的独立核实，也没有说明统计口径。
 
 </div>
 

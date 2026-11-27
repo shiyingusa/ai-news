@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Reflect Orbital, a California-based startup, has raised $73.5 million in new funding—bringing its total to more than $100 million—and says it has received a formal go-ahead from the U.S. government to test sunlight-reflecting mirrors in orbit. The company is preparing its first test satellite for launch in the second quarter of 2027 and has bought two launches from India's Skyroot Aerospace, though it has not named the provider for the first satellite. In October, it ran a permitted ground demonstration near Lone Pine, California, using spotlights to simulate a roughly 0.7-lumen illumination spot for search-and-rescue volunteers. The orbital service, intended to extend solar-farm output and provide lighting for emergency responders after dark, remains prospective: no mirror has yet been shown working in orbit, and the article's body says the first test satellite is targeted for Q2 2027 while a photo caption says the Earendil-1 demonstration satellite is slated for 2026.
+Reflect Orbital, a California-based startup, has raised $73.5 million in new funding—bringing its total to more than $100 million—and says it has received a formal go-ahead from the U.S. government to test sunlight-reflecting mirrors in orbit. The company is preparing its first test satellite for launch in the second quarter of 2027 and has bought two launches from India's Skyroot Aerospace, though it has not named the provider for the first satellite.
+
+In October, it ran a permitted ground demonstration near Lone Pine, California, using spotlights to simulate a roughly 0.7-lumen illumination spot for search-and-rescue volunteers. The orbital service, intended to extend solar-farm output and provide lighting for emergency responders after dark, remains prospective: no mirror has yet been shown working in orbit, and the article's body says the first test satellite is targeted for Q2 2027 while a photo caption says the Earendil-1 demonstration satellite is slated for 2026.
 
 </div>
 

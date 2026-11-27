@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g837e59c4a95a82e9407dd07a6ee64c28
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 TechCrunch 报道，CrowdStrike 表示将以 440 亿美元收购零信任（zero trust，指不默认信任内网流量、对每次访问逐一验证的安全模型）安全厂商 Zscaler。CrowdStrike 称，这笔交易将让客户更好地使用 AI 智能体（AI agent）。报道没有披露交易的对价结构（现金或股票）、预计完成时间，也没有提到监管审批安排，Zscaler 方面未在报道中表态。440 亿美元这一数字目前只有该报道一个来源，交易尚未完成。
+据 TechCrunch 报道，CrowdStrike 表示将以 440 亿美元收购零信任（zero trust，指不默认信任内网流量、对每次访问逐一验证的安全模型）安全厂商 Zscaler。CrowdStrike 称，这笔交易将让客户更好地使用 AI 智能体（AI agent）。
+
+报道没有披露交易的对价结构（现金或股票）、预计完成时间，也没有提到监管审批安排，Zscaler 方面未在报道中表态。440 亿美元这一数字目前只有该报道一个来源，交易尚未完成。
 
 </div>
 

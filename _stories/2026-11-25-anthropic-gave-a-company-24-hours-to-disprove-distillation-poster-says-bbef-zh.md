@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6e146d65942a96c732f018ca275b5646
 {% raw %}
 <div class="story-lead" markdown="1">
 
-一位开发者在 Hacker News 的 Ask HN 版块发帖称，Anthropic 指控其公司利用 Anthropic API 进行模型蒸馏（distillation，即用强模型的输出训练自己的模型），并要求在 24 小时内证明合规。发帖人否认这一指控：公司并不训练自己的模型，唯一可能触发标记的用法，是在调整 AI 配置时运行自动化回归基准测试。这一说法目前只有发帖人单方面的陈述，Anthropic 未公开回应，也未说明检测依据、判罚标准或申诉渠道。讨论集中在两件事上：供应商的执法过程不透明、容易误伤正常用户；以及在不泄露用户数据的前提下，开发者究竟能拿出什么证据来自证清白。
+一位开发者在 Hacker News 的 Ask HN 版块发帖称，Anthropic 指控其公司利用 Anthropic API 进行模型蒸馏（distillation，即用强模型的输出训练自己的模型），并要求在 24 小时内证明合规。发帖人否认这一指控：公司并不训练自己的模型，唯一可能触发标记的用法，是在调整 AI 配置时运行自动化回归基准测试。
+
+这一说法目前只有发帖人单方面的陈述，Anthropic 未公开回应，也未说明检测依据、判罚标准或申诉渠道。讨论集中在两件事上：供应商的执法过程不透明、容易误伤正常用户；以及在不泄露用户数据的前提下，开发者究竟能拿出什么证据来自证清白。
 
 </div>
 
@@ -56,15 +58,19 @@ photo_credit: {"url": "https://pixabay.com/get/g6e146d65942a96c732f018ca275b5646
 
 可以关注发帖人在 24 小时期限结束后是否更新结果，例如账号与 API 访问是否被恢复，以及 Anthropic 是否公开说明其蒸馏检测逻辑与申诉流程。
 
-## 社区讨论
-
-有评论建议把提交给 Anthropic 的证据同样交给 Claude，让它判断这些材料是否足以排除蒸馏嫌疑，理由是 Anthropic 一方很可能也用 Claude 做审核。另有开发者分享亲身经历：在 OpenAI 也遇到过同类指控，事后发现是一个 API key 被泄露、第三方确实在蒸馏，撤销密钥并沟通后访问被恢复。也有人质疑这种做法是否虚伪，或干脆建议换用其他供应商。
-
 ## 延伸阅读
 
 - [2026 Usage Policy update \ Anthropic](https://www.anthropic.com/news/2026-usage-policy-update)
 - [Usage Policy - assets.claude.com](https://assets.claude.com/88cf16e8b7d203be16d2c726bcd28a6ec7c7f5c8.pdf)
 - [Anthropic Accuses DeepSeek and Chinese AI Firms of Claude Model ...](https://explore.n1n.ai/blog/anthropic-accuses-deepseek-claude-model-distillation-2026-02-24)
 - [Anthropic 's Accounts of Distillation , Gray-Market Transfer Stations...](https://www.deeplearning.ai/the-batch/some-kimi-and-deepseek-users-were-served-claude-instead-anthropic-says)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+有评论建议把提交给 Anthropic 的证据同样交给 Claude，让它判断这些材料是否足以排除蒸馏嫌疑，理由是 Anthropic 一方很可能也用 Claude 做审核。另有开发者分享亲身经历：在 OpenAI 也遇到过同类指控，事后发现是一个 API key 被泄露、第三方确实在蒸馏，撤销密钥并沟通后访问被恢复。也有人质疑这种做法是否虚伪，或干脆建议换用其他供应商。
+
+</div>
 
 {% endraw %}

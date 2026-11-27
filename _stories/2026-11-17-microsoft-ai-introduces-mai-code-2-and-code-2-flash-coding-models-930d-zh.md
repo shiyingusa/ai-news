@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6e100c9b00474a56cd5dd3ad35e1465a
 {% raw %}
 <div class="story-lead" markdown="1">
 
-微软 AI 在其官方站点发布文章，宣布推出 MAI Code 2 与 MAI Code 2 Flash 两款面向编程的模型。目前可核实的信息仅限于这次发布本身：参数规模、基准测试成绩、定价、是否开放权重以及可供哪些用户使用，均未在可见材料中披露，因此尚不能把它当作已可普遍使用的产品。消息在 Hacker News 上引发讨论，有评论者认为微软正快速逼近 OpenAI 与 Anthropic 的编程模型水平，也有人质疑这类基准成绩在真实项目中能否成立。
+微软 AI 在其官方站点发布文章，宣布推出 MAI Code 2 与 MAI Code 2 Flash 两款面向编程的模型。目前可核实的信息仅限于这次发布本身：参数规模、基准测试成绩、定价、是否开放权重以及可供哪些用户使用，均未在可见材料中披露，因此尚不能把它当作已可普遍使用的产品。
+
+消息在 Hacker News 上引发讨论，有评论者认为微软正快速逼近 OpenAI 与 Anthropic 的编程模型水平，也有人质疑这类基准成绩在真实项目中能否成立。
 
 </div>
 
@@ -52,13 +54,17 @@ photo_credit: {"url": "https://pixabay.com/get/g6e100c9b00474a56cd5dd3ad35e1465a
 
 对正在评估编程助手的开发者来说，这多了一个待验证的选项：有 Hacker News 评论者表示已取消每月 19 美元的 GitHub Copilot 订阅，理由是额度消耗快、代码评审不可定制，并称愿意试用这两款新模型。但能否真正替代，取决于尚未公布的价格与接入方式，目前无法据此做迁移决策。
 
-## 社区讨论
-
-Hacker News 上的主要分歧在于竞争格局：一位评论者认为 OpenAI 与 Anthropic 的领先只有几个月，难以构成持久的竞争壁垒；另一位则追问微软为何能如此快速追赶，并猜测可能通过其 OpenAI 访问权限做蒸馏，同时承认这可能并不被允许。另有评论者淡化命名与人格化设定的作用，并希望微软继续保持 MAI-Thinking-1 那种深入的技术报告传统。以上均为个人观点，非事实陈述。
-
 ## 延伸阅读
 
 - [MAI Code 2 and Code 2 Flash : Everyday coding at... | Microsoft AI](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
 - [MAI Code 2 and MAI Code 2 Flash in GitHub... - GitHub Changelog](https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+Hacker News 上的主要分歧在于竞争格局：一位评论者认为 OpenAI 与 Anthropic 的领先只有几个月，难以构成持久的竞争壁垒；另一位则追问微软为何能如此快速追赶，并猜测可能通过其 OpenAI 访问权限做蒸馏，同时承认这可能并不被允许。另有评论者淡化命名与人格化设定的作用，并希望微软继续保持 MAI-Thinking-1 那种深入的技术报告传统。以上均为个人观点，非事实陈述。
+
+</div>
 
 {% endraw %}

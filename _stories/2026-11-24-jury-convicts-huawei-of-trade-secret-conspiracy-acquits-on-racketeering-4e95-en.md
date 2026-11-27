@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb3fc627ff9a7bda1936c29c1db878756
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A federal jury in New York on Tuesday convicted Huawei and its subsidiaries of conspiracy to steal trade secrets and bank fraud, while acquitting the Chinese telecom giant of the most severe charge, criminal racketeering conspiracy, according to the Justice Department and the Associated Press. The Verge reported that the verdict concludes a years-long case that accused Huawei of stealing source code and proprietary technology from companies including T-Mobile, Cisco and Motorola. The charges stem from the DOJ's 2018 criminal indictment, which became public after the arrest of Huawei CFO Wanzhou Meng; the indictment against Meng was later dismissed, though she admitted misleading banks about Huawei's operations.
+A federal jury in New York on Tuesday convicted Huawei and its subsidiaries of conspiracy to steal trade secrets and bank fraud, while acquitting the Chinese telecom giant of the most severe charge, criminal racketeering conspiracy, according to the Justice Department and the Associated Press. The Verge reported that the verdict concludes a years-long case that accused Huawei of stealing source code and proprietary technology from companies including T-Mobile, Cisco and Motorola.
+
+The charges stem from the DOJ's 2018 criminal indictment, which became public after the arrest of Huawei CFO Wanzhou Meng; the indictment against Meng was later dismissed, though she admitted misleading banks about Huawei's operations.
 
 </div>
 

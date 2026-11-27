@@ -30,7 +30,9 @@ description: "Microsoft said access to all Microsoft 365 products has been fully
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Microsoft said access to all Microsoft 365 products has been fully restored, ending a global outage that disrupted government offices, traders, hospitals, and businesses. Bloomberg described it as one of Microsoft's longest outages, but the supplied report does not give the cause, exact duration, or number of affected customers. The restoration is Microsoft's own account; independent verification and a technical postmortem were not included.
+Microsoft said access to all Microsoft 365 products has been fully restored, ending a global outage that disrupted government offices, traders, hospitals, and businesses. Bloomberg described it as one of Microsoft's longest outages, but the supplied report does not give the cause, exact duration, or number of affected customers.
+
+The restoration is Microsoft's own account; independent verification and a technical postmortem were not included.
 
 </div>
 

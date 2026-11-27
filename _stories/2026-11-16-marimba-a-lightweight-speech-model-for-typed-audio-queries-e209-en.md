@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g462a1570afc2de752e4e73a98d4e5a98
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A new arXiv paper presents Marimba, a lightweight speech model that answers typed yes/no, choice and score queries over an 8-second audio window and returns calibrated probabilities. It uses one frozen Qwen3-ASR-0.6B encoder pass per window, scoring term queries from the decoder's greedy and four beam hypotheses, taking language scores from the ASR model, and adding small readouts on frozen layers for turn-end and speaker tasks. The authors report that on 1,000 public questions it matches or beats Qwen3-Omni (30B-A3B) on 6 of 9 tests, reaches 100% language ID on 300 FLEURS clips and 0.966–0.980 speaker-change AUROC on AMI and VoxConverse, but trails Smart Turn v3.2 on turn-end detection (0.930 vs 0.982 AUROC) and scores at chance on CochlScene scene classification; they also disclose that the turn-end readout was trained on Smart Turn data. Code, Apache-2.0 weights, a demo and a pip-installable `marimba-audio` package are public.
+A new arXiv paper presents Marimba, a lightweight speech model that answers typed yes/no, choice and score queries over an 8-second audio window and returns calibrated probabilities. It uses one frozen Qwen3-ASR-0.6B encoder pass per window, scoring term queries from the decoder's greedy and four beam hypotheses, taking language scores from the ASR model, and adding small readouts on frozen layers for turn-end and speaker tasks.
+
+The authors report that on 1,000 public questions it matches or beats Qwen3-Omni (30B-A3B) on 6 of 9 tests, reaches 100% language ID on 300 FLEURS clips and 0.966–0.980 speaker-change AUROC on AMI and VoxConverse, but trails Smart Turn v3.2 on turn-end detection (0.930 vs 0.982 AUROC) and scores at chance on CochlScene scene classification; they also disclose that the turn-end readout was trained on Smart Turn data. Code, Apache-2.0 weights, a demo and a pip-installable `marimba-audio` package are public.
 
 </div>
 

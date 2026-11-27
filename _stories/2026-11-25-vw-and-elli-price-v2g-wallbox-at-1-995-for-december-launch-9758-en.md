@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g5647b5967c6f06b0f52086e746ea5808
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Volkswagen and its energy subsidiary Elli say they will launch their first vehicle-to-grid (V2G) package in Germany in December 2026, with the required DC wallbox priced at €1,995. The package covers VW, VW Commercial Vehicles, Cupra and Skoda. V2G allows an electric car to discharge power back to the home or grid; Elli has announced tariff details, but the report does not specify them.
+Volkswagen and its energy subsidiary Elli say they will launch their first vehicle-to-grid (V2G) package in Germany in December 2026, with the required DC wallbox priced at €1,995. The package covers VW, VW Commercial Vehicles, Cupra and Skoda.
+
+V2G allows an electric car to discharge power back to the home or grid; Elli has announced tariff details, but the report does not specify them.
 
 </div>
 

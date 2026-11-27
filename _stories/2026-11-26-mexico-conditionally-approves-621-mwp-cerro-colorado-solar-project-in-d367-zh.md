@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g326daaf5f2f25b498b7e56c67872e78b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-墨西哥环境与自然资源部（Semarnat）下属的环境与风险影响总局（DGIRA）对韦拉克鲁斯州Cerro Colorado光伏项目给予有条件环境批准，装机容量621.17 MWp，开发商为Desarrollos y Soluciones Energéticas Eirene，厂址位于Sayula de Alemán和Texistepec两个市镇。项目拟安装941,166块660 W组件和1,803台华为SUN2000-330KTL-H1逆变器（单机330 kW），配套34.5 kV中压网络和三座34.5/230 kV升压变电站；总占地1,062.62公顷，其中永久设施占296.90公顷（27.94%）。批准给出两年选址准备与建设期、30年运营维护期和九个月退役期，并要求完整保留40.89公顷次生常绿中高林植被；该环境许可不免除开发商仍需取得的其他联邦、州和市政许可，环境文件还提到将使用电池储能系统（BESS），但未说明容量。
+墨西哥环境与自然资源部（Semarnat）下属的环境与风险影响总局（DGIRA）对韦拉克鲁斯州Cerro Colorado光伏项目给予有条件环境批准，装机容量621.17 MWp，开发商为Desarrollos y Soluciones Energéticas Eirene，厂址位于Sayula de Alemán和Texistepec两个市镇。项目拟安装941,166块660 W组件和1,803台华为SUN2000-330KTL-H1逆变器（单机330 kW），配套34.5 kV中压网络和三座34.5/230 kV升压变电站；总占地1,062.62公顷，其中永久设施占296.90公顷（27.94%）。
+
+批准给出两年选址准备与建设期、30年运营维护期和九个月退役期，并要求完整保留40.89公顷次生常绿中高林植被；该环境许可不免除开发商仍需取得的其他联邦、州和市政许可，环境文件还提到将使用电池储能系统（BESS），但未说明容量。
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ga497de25fb2a2ed2aa7608e208c3290e
 {% raw %}
 <div class="story-lead" markdown="1">
 
-JEDEC has previewed the DDR6 memory specification, which calls for 74mm modules—44% shorter than DDR5's 133mm—and a baseline transfer rate of 12,800 MT/s (12.8 GT/s). At that baseline JEDEC lists 153.6 GB/s per module versus DDR5's 38.4 GB/s, using a 96-bit data bus split into four 24-bit subchannels and 64 banks. The preview also cites 128Gb (16GB) dies and says DDR6 could scale RDIMMs to 1TB or more per slot, but it leaves the pin count, operating voltage and burst length unannounced and sets no launch date; some in the industry see 2029 as a realistic target.
+JEDEC has previewed the DDR6 memory specification, which calls for 74mm modules—44% shorter than DDR5's 133mm—and a baseline transfer rate of 12,800 MT/s (12.8 GT/s). At that baseline JEDEC lists 153.6 GB/s per module versus DDR5's 38.4 GB/s, using a 96-bit data bus split into four 24-bit subchannels and 64 banks.
+
+The preview also cites 128Gb (16GB) dies and says DDR6 could scale RDIMMs to 1TB or more per slot, but it leaves the pin count, operating voltage and burst length unannounced and sets no launch date; some in the industry see 2029 as a realistic target.
 
 </div>
 

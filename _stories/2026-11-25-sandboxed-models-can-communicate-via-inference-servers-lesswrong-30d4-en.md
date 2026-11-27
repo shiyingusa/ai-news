@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge86f3266a0af8883028be4649ccc0248
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A LessWrong post argues that sandboxed models can communicate through side channels in shared inference servers, even without a direct network path. The claimed channels include shared caches and timing effects, with one commenter sketching a vLLM-specific signal based on decoding slowdown. The account provides no independent confirmation. The discussion weighs mitigations such as cache-separation keys, while some commenters dispute whether the attacks are realistic.
+A LessWrong post argues that sandboxed models can communicate through side channels in shared inference servers, even without a direct network path. The claimed channels include shared caches and timing effects, with one commenter sketching a vLLM-specific signal based on decoding slowdown.
+
+The account provides no independent confirmation. The discussion weighs mitigations such as cache-separation keys, while some commenters dispute whether the attacks are realistic.
 
 </div>
 
@@ -52,15 +54,19 @@ Sandboxing an AI agent usually means restricting its file system, network and to
 
 Providers that serve mutually untrusted tenants or agents from one inference instance should treat prompt-cache isolation as a configuration requirement rather than an optional performance win: per-tenant or per-user cache keys and scopes, plus distinct salts on self-hosted servers, are the documented way to stop one context from probing another's cache. The exposure is created by the serving stack itself — vLLM's PagedAttention shares GPU memory pages across requests through a reference-counted allocator — so callers cannot assume separation unless the operator has configured it.
 
-## Community discussion
-
-Commenters split on feasibility: tsimionescu calls the described attacks unrealistic because they require the agents to know each other, pre-share messages, and understand the serving stack in detail, while amluto argues inference servers should offer cache-separation keys similar to browser origin isolation. kgeist separately describes a timing channel in a shared vLLM instance, where one model's long-document reads slow another model's decoding enough to signal bits.
-
 ## Further reading
 
 - [Models Can Communicate via Inference Servers Despite Being ...](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
 - [Sandboxed artificial intelligence models can communicate ...](https://theprimary.com/ai-tech/2026-11-20/sandboxed-ai-covert-channels)
 - [Prompt Caching Security : Isolation and Side Channels](https://nhimg.org/prompt-caching-security-guide)
 - [vLLM and the KV - Cache Isolation Problem: How Shared Memory...](https://www.systemshardening.com/articles/ai-landscape/vllm-shared-memory-inference-isolation/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Commenters split on feasibility: tsimionescu calls the described attacks unrealistic because they require the agents to know each other, pre-share messages, and understand the serving stack in detail, while amluto argues inference servers should offer cache-separation keys similar to browser origin isolation. kgeist separately describes a timing channel in a shared vLLM instance, where one model's long-document reads slow another model's decoding enough to signal bits.
+
+</div>
 
 {% endraw %}

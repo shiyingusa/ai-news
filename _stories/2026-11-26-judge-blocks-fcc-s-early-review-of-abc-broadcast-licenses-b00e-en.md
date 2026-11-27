@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-US District Judge Loren AliKhan issued a preliminary injunction barring the Federal Communications Commission from conducting an early review of ABC's broadcast licenses, and rejected the agency's attempt to dismiss ABC's First Amendment lawsuit. In the ruling, the judge said ABC was "likely to succeed on their retaliation claim" — the network alleges the FCC "waged a retaliatory campaign" against it over content it broadcast. The dispute began after the FCC ordered ABC last April to file for license renewal early, even though Disney's licenses were not due for renewal until 2028. The injunction is a preliminary ruling, not a final decision on the merits of the case.
+US District Judge Loren AliKhan issued a preliminary injunction barring the Federal Communications Commission from conducting an early review of ABC's broadcast licenses, and rejected the agency's attempt to dismiss ABC's First Amendment lawsuit. In the ruling, the judge said ABC was "likely to succeed on their retaliation claim" — the network alleges the FCC "waged a retaliatory campaign" against it over content it broadcast.
+
+The dispute began after the FCC ordered ABC last April to file for license renewal early, even though Disney's licenses were not due for renewal until 2028. The injunction is a preliminary ruling, not a final decision on the merits of the case.
 
 </div>
 

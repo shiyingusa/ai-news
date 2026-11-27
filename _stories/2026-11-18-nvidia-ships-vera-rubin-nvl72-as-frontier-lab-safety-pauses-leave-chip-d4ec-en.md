@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gaf4872de431e8e684b3dfaa7d2f2ce27
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Nvidia has begun shipping its Vera Rubin NVL72 AI computing system, which the company calls the "fastest product ramp in its history," even as the most prominent frontier labs have publicly stepped back from maximum-scale training. This summer OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested its next model could independently find and exploit security flaws; in September Anthropic CEO Dario Amodei called for slowing advances in the most powerful models. The Verge's analysis, pegged to Nvidia's and AMD's fall earnings, finds no sign that chip spending has followed those warnings down. The piece offers no order figures or cancelled contracts to test that reading, and the "fastest ramp" description is Nvidia's own.
+Nvidia has begun shipping its Vera Rubin NVL72 AI computing system, which the company calls the "fastest product ramp in its history," even as the most prominent frontier labs have publicly stepped back from maximum-scale training. This summer OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested its next model could independently find and exploit security flaws; in September Anthropic CEO Dario Amodei called for slowing advances in the most powerful models.
+
+The Verge's analysis, pegged to Nvidia's and AMD's fall earnings, finds no sign that chip spending has followed those warnings down. The piece offers no order figures or cancelled contracts to test that reading, and the "fastest ramp" description is Nvidia's own.
 
 </div>
 

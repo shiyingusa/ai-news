@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Sen. Mike Rounds (R-SD), a member of the Senate Select Committee on Intelligence, told Politico that Section 702 of the Foreign Intelligence Surveillance Act could be attached to the National Defense Authorization Act (NDAA), the military spending bill Congress treats as must-pass, as the legislative session runs down. "We don't have two weeks to work just on FISA," Rounds said, according to The Verge, adding that amending it onto the NDAA would open a path. Section 702 is the authority that lets US intelligence agencies collect the communications of foreigners abroad without individual warrants, which also sweeps in some Americans' messages; The Verge reports it has not technically lapsed even though an earlier reauthorization vote failed. No bill text has been filed, and Rounds described only a possible procedural route, not a settled plan.
+Sen. Mike Rounds (R-SD), a member of the Senate Select Committee on Intelligence, told Politico that Section 702 of the Foreign Intelligence Surveillance Act could be attached to the National Defense Authorization Act (NDAA), the military spending bill Congress treats as must-pass, as the legislative session runs down. "We don't have two weeks to work just on FISA," Rounds said, according to The Verge, adding that amending it onto the NDAA would open a path.
+
+Section 702 is the authority that lets US intelligence agencies collect the communications of foreigners abroad without individual warrants, which also sweeps in some Americans' messages; The Verge reports it has not technically lapsed even though an earlier reauthorization vote failed. No bill text has been filed, and Rounds described only a possible procedural route, not a settled plan.
 
 </div>
 

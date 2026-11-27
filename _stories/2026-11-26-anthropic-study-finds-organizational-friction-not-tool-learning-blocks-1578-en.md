@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g9063ddebaedbf035be669b7e86a7e972
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic examined nearly 300 AI deployments across 58 US companies and found that almost one in five still produces no business value. According to The Decoder's account of the study, the obstacles are heavy review workloads, internal bottlenecks and employee resistance rather than difficulty learning the tools, and the researchers trace the biggest hurdles to outdated company structures. The coverage does not detail how business value was measured, how the deployments were selected, or whether the full study has been published.
+Anthropic examined nearly 300 AI deployments across 58 US companies and found that almost one in five still produces no business value. According to The Decoder's account of the study, the obstacles are heavy review workloads, internal bottlenecks and employee resistance rather than difficulty learning the tools, and the researchers trace the biggest hurdles to outdated company structures.
+
+The coverage does not detail how business value was measured, how the deployments were selected, or whether the full study has been published.
 
 </div>
 

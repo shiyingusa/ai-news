@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb9f647bcba97d6864e0b100b72704629
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 The Information 援引未具名消息人士报道，Bret Taylor 创办的 AI 客服初创公司 Sierra 正洽谈募集约 15 亿美元新资金，估值约 300 亿美元，较今年 5 月的 158 亿美元接近翻倍。报道称，Sierra 曾在 10 月表示其年化收入已超过 4 亿美元。目前这笔融资尚处于洽谈阶段，Sierra 与潜在投资方均未公开确认金额、估值或时间表。
+据 The Information 援引未具名消息人士报道，Bret Taylor 创办的 AI 客服初创公司 Sierra 正洽谈募集约 15 亿美元新资金，估值约 300 亿美元，较今年 5 月的 158 亿美元接近翻倍。报道称，Sierra 曾在 10 月表示其年化收入已超过 4 亿美元。
+
+目前这笔融资尚处于洽谈阶段，Sierra 与潜在投资方均未公开确认金额、估值或时间表。
 
 </div>
 

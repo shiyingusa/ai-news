@@ -29,7 +29,9 @@ description: "据 CNBC 的 Katie Tarasov 报道，Altimeter Capital 的 Brad Ger
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 CNBC 的 Katie Tarasov 报道，Altimeter Capital 的 Brad Gerstner 与 Atreides Management 的 Gavin Baker 联名致信英伟达董事会，要求其权衡公司未来领导层的“所有选项”，其中包括“黄仁勋回归的可能性”；报道称两人合计持有价值 21.3 亿美元的英伟达股票。信中“回归”的措辞暗示黄仁勋目前并未执掌公司，但报道摘要没有说明其职位变动的具体情况或时间。目前可确认的只是这封信的存在与主张，报道未提到董事会回应、正式议程或任何治理程序，因此这不等于已经发生的管理层调整。
+据 CNBC 的 Katie Tarasov 报道，Altimeter Capital 的 Brad Gerstner 与 Atreides Management 的 Gavin Baker 联名致信英伟达董事会，要求其权衡公司未来领导层的“所有选项”，其中包括“黄仁勋回归的可能性”；报道称两人合计持有价值 21.3 亿美元的英伟达股票。信中“回归”的措辞暗示黄仁勋目前并未执掌公司，但报道摘要没有说明其职位变动的具体情况或时间。
+
+目前可确认的只是这封信的存在与主张，报道未提到董事会回应、正式议程或任何治理程序，因此这不等于已经发生的管理层调整。
 
 </div>
 

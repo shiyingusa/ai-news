@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g51c362a7e371d67b8dd1b3662dba7dca
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The US Commerce Department added Apex Enterprise Solutions, a Singapore-based subsidiary of Alibaba Group, to its Entity List, alongside Singapore-linked distributor Megaspeed and five affiliates, Bloomberg reported, citing a filing. The listing puts the entities on a roster that requires US suppliers to obtain a license before exporting controlled goods to them, including advanced AI chips — a constraint on Alibaba's AI compute plans routed through Singapore. The report did not give an effective date, the full list of items covered, or any comment from Commerce or Alibaba. The action came the same day Singapore Prime Minister Lawrence Wong said Singapore should not be used as a route to circumvent US chip export controls, as authorities probe Megaspeed's purchases of Nvidia chips.
+The US Commerce Department added Apex Enterprise Solutions, a Singapore-based subsidiary of Alibaba Group, to its Entity List, alongside Singapore-linked distributor Megaspeed and five affiliates, Bloomberg reported, citing a filing. The listing puts the entities on a roster that requires US suppliers to obtain a license before exporting controlled goods to them, including advanced AI chips — a constraint on Alibaba's AI compute plans routed through Singapore.
+
+The report did not give an effective date, the full list of items covered, or any comment from Commerce or Alibaba. The action came the same day Singapore Prime Minister Lawrence Wong said Singapore should not be used as a route to circumvent US chip export controls, as authorities probe Megaspeed's purchases of Nvidia chips.
 
 </div>
 

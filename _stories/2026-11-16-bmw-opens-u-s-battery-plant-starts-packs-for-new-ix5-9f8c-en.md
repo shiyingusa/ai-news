@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gc27cbfec4ca460eb31ffa645644572bf
 {% raw %}
 <div class="story-lead" markdown="1">
 
-BMW has opened its Woodruff, South Carolina, battery assembly plant and started series production of high-voltage battery packs for the new iX5 electric SUV. The iX5 is expected to be first in line among BMW's U.S.-made Neue Klasse models as the automaker ramps up vehicle production. The supplied report does not give pack output, cell suppliers, or the iX5's launch date and price.
+BMW has opened its Woodruff, South Carolina, battery assembly plant and started series production of high-voltage battery packs for the new iX5 electric SUV. The iX5 is expected to be first in line among BMW's U.S.-made Neue Klasse models as the automaker ramps up vehicle production.
+
+The supplied report does not give pack output, cell suppliers, or the iX5's launch date and price.
 
 </div>
 

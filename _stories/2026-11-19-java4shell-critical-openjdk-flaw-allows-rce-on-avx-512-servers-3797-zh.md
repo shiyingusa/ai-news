@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g035d58e886eeb7ec49ac0b875dfb2585
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据发现该漏洞的 Calif Research 披露，OpenJDK 中一段手写的 Base64 解码汇编优化漏掉了边界检查：攻击者只需输入 64 个“A”加一个“=”填充符，就能越界改写相邻内存并据此实现远程代码执行。漏洞编号 CVE-2026-114938，Calif 按较新的 CVSS 4.0 给出 9.2 分，Oracle、Red Hat 等厂商各自评级在 8 至 9.8 之间，口径并不一致。触发有条件限制：目标须运行在支持 AVX-512 VBMI 扩展的 x86-64 CPU 上，实际对应 2021 年前后的 Intel Ice Lake 和 2022 年的 AMD Zen 4 服务器型号，更老的芯片因不含这段优化而不受影响。Oracle 表示已修复并发布更新版本，但 Calif 称披露时 Keycloak、Jira、Confluence、Jenkins、PingFederate 存在无需登录的完整 RCE，Apache Kafka Broker、Solr、Elasticsearch、Gerrit、Spinnaker 则可在认证后被利用，IBM、Red Hat、Siemens、Broadcom 以及大量内嵌 Java 的容器镜像都需要各自跟进。
+据发现该漏洞的 Calif Research 披露，OpenJDK 中一段手写的 Base64 解码汇编优化漏掉了边界检查：攻击者只需输入 64 个“A”加一个“=”填充符，就能越界改写相邻内存并据此实现远程代码执行。漏洞编号 CVE-2026-114938，Calif 按较新的 CVSS 4.0 给出 9.2 分，Oracle、Red Hat 等厂商各自评级在 8 至 9.8 之间，口径并不一致。
+
+触发有条件限制：目标须运行在支持 AVX-512 VBMI 扩展的 x86-64 CPU 上，实际对应 2021 年前后的 Intel Ice Lake 和 2022 年的 AMD Zen 4 服务器型号，更老的芯片因不含这段优化而不受影响。Oracle 表示已修复并发布更新版本，但 Calif 称披露时 Keycloak、Jira、Confluence、Jenkins、PingFederate 存在无需登录的完整 RCE，Apache Kafka Broker、Solr、Elasticsearch、Gerrit、Spinnaker 则可在认证后被利用，IBM、Red Hat、Siemens、Broadcom 以及大量内嵌 Java 的容器镜像都需要各自跟进。
 
 </div>
 

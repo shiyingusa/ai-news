@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g30d48088c1a673f7cb831e8a318fb018
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Nvidia is no longer shipping licensed Hopper data-center products, including the H200, to China, interim CEO Colette Kress said on the company's third-quarter fiscal 2027 earnings call. Kress said Nvidia's guidance for the quarter contains no licensed Hopper data-center products and gave no reason for the halt. The stop comes despite approval from the White House last December that let Nvidia ship the H200 to China, a right the company had lobbied for under then-CEO Jensen Huang.
+Nvidia is no longer shipping licensed Hopper data-center products, including the H200, to China, interim CEO Colette Kress said on the company's third-quarter fiscal 2027 earnings call. Kress said Nvidia's guidance for the quarter contains no licensed Hopper data-center products and gave no reason for the halt.
+
+The stop comes despite approval from the White House last December that let Nvidia ship the H200 to China, a right the company had lobbied for under then-CEO Jensen Huang.
 
 </div>
 

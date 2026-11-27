@@ -31,7 +31,9 @@ photo_credit: {"url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Europ
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The EU Council appears to be siding with the European Parliament in favour of turning proposed binding electric-vehicle quotas for corporate fleets into voluntary targets, according to electrive. The European Commission had included a draft passage in its 'Auto Package' that would have required member states to set concrete mandates for ramping up electric company cars from 2030; the Parliament has already downgraded those quotas to voluntary targets, and the Council now seems to be following that approach. Nothing has been adopted: the report describes a Council signal rather than a formal negotiating position, and the final shape of the rules will only emerge from the legislative process.
+The EU Council appears to be siding with the European Parliament in favour of turning proposed binding electric-vehicle quotas for corporate fleets into voluntary targets, according to electrive. The European Commission had included a draft passage in its 'Auto Package' that would have required member states to set concrete mandates for ramping up electric company cars from 2030; the Parliament has already downgraded those quotas to voluntary targets, and the Council now seems to be following that approach.
+
+Nothing has been adopted: the report describes a Council signal rather than a formal negotiating position, and the final shape of the rules will only emerge from the legislative process.
 
 </div>
 

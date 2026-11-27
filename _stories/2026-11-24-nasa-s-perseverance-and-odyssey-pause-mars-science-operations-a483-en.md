@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NASA's Perseverance rover and Odyssey orbiter have suspended science operations after separate technical problems, leaving two of the agency's four active Mars missions offline. Perseverance's fault is in its communications system: the rover has two redundant UHF radios for high-rate relay through Mars orbiters and a separate, slower X-band system for direct-to-Earth links, while NASA has not detailed Odyssey's issue. Both spacecraft are operating beyond their design lifetimes—Perseverance is in its sixth year on Mars and Odyssey has been in orbit since 2001—and NASA described the outages as hopefully temporary.
+NASA's Perseverance rover and Odyssey orbiter have suspended science operations after separate technical problems, leaving two of the agency's four active Mars missions offline. Perseverance's fault is in its communications system: the rover has two redundant UHF radios for high-rate relay through Mars orbiters and a separate, slower X-band system for direct-to-Earth links, while NASA has not detailed Odyssey's issue.
+
+Both spacecraft are operating beyond their design lifetimes—Perseverance is in its sixth year on Mars and Odyssey has been in orbit since 2001—and NASA described the outages as hopefully temporary.
 
 </div>
 

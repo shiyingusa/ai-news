@@ -28,7 +28,9 @@ description: "Tesla has reportedly opened orders for its Cybercab to \"select cu
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla has reportedly opened orders for its Cybercab to "select customers" at $29,990, which would make it the company's cheapest vehicle, according to InsideEVs. Autonomous driving is not included in that price: the report pegs it at $299 per month. The source is a brief report and does not specify how customers qualify for an order, when deliveries begin, or whether the $29,990 figure is before taxes and incentives; the pricing and order access have not been independently confirmed in the supplied material.
+Tesla has reportedly opened orders for its Cybercab to "select customers" at $29,990, which would make it the company's cheapest vehicle, according to InsideEVs. Autonomous driving is not included in that price: the report pegs it at $299 per month.
+
+The source is a brief report and does not specify how customers qualify for an order, when deliveries begin, or whether the $29,990 figure is before taxes and incentives; the pricing and order access have not been independently confirmed in the supplied material.
 
 </div>
 

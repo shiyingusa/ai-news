@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6bee027e351b9a81d3ef12bc1b4cb5bb
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Western intelligence officials are concerned that Russia could launch a nuclear-armed satellite into orbit before the end of the year, German media reported Monday, suggesting a satellite-killing weapon of mass destruction is further along than previously thought. Such a weapon would threaten thousands of satellites in low-Earth orbit — including military and commercial constellations such as Starlink and Starshield — as well as Western surveillance satellites and crewed platforms like the International Space Station. The report offers no launch date, no technical detail on the payload, and no on-the-record confirmation from Western governments; US officials have not said a nuclear weapon has been placed in orbit. US lawmakers were first briefed on the ambition in early 2024, when officials said Russia had flown a 2022 test satellite to study radiation effects on space hardware but had not yet orbited a nuclear device.
+Western intelligence officials are concerned that Russia could launch a nuclear-armed satellite into orbit before the end of the year, German media reported Monday, suggesting a satellite-killing weapon of mass destruction is further along than previously thought. Such a weapon would threaten thousands of satellites in low-Earth orbit — including military and commercial constellations such as Starlink and Starshield — as well as Western surveillance satellites and crewed platforms like the International Space Station.
+
+The report offers no launch date, no technical detail on the payload, and no on-the-record confirmation from Western governments; US officials have not said a nuclear weapon has been placed in orbit. US lawmakers were first briefed on the ambition in early 2024, when officials said Russia had flown a 2022 test satellite to study radiation effects on space hardware but had not yet orbited a nuclear device.
 
 </div>
 

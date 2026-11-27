@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla's report to federal regulators says Autopilot or Full Self-Driving was engaged at 74 mph when a Model Y left a parkway in El Dorado Hills, California, hit a tree and caught fire in September, killing three of the four people inside, according to Electrek. The detail was absent from earlier Sacramento-area coverage of the single-car wreck. The report establishes that a driver-assist system was active, not that it caused the crash.
+Tesla's report to federal regulators says Autopilot or Full Self-Driving was engaged at 74 mph when a Model Y left a parkway in El Dorado Hills, California, hit a tree and caught fire in September, killing three of the four people inside, according to Electrek. The detail was absent from earlier Sacramento-area coverage of the single-car wreck.
+
+The report establishes that a driver-assist system was active, not that it caused the crash.
 
 </div>
 

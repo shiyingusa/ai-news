@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gfbc3f280f7b2a5af2b24e7c4c1681fae
 {% raw %}
 <div class="story-lead" markdown="1">
 
-北京时间 11 月 18 日凌晨，OpenAI 推出新一代旗舰 GPT-6.2 Astra 与日常主力 GPT-6.2 Sol，两者均配备 105 万 token 上下文窗口（输入上限 92.2 万、输出上限 12.8 万），目前只接受文本与图像输入、输出纯文本，不支持音视频与微调。Astra 的 API 定价为每百万 token 输入 8 美元、输出 40 美元，比 9 月的 GPT-6 Astra 低 20%，缓存输入降至 0.40 美元；Sol 维持 2 美元 / 10 美元不变。据极客公园援引 Artificial Analysis v5.0.1 指数，Astra 以 62 分升至总榜第二，仅落后 Claude Fable 5.2 的 65 分，但编程智能体榜停留在 53 分、与上代持平，Sol 反而倒退 3 分至 49 分，Astra 幻觉率则从上代 50% 升至 59%。上线仅 8 分钟，创业者 Matt Shumer 就给出「基本不可用，不推荐」的评价，Theo Browne、Ethan Mollick、Dan Shipper、Simon Willison 等人也报告了沟通不畅、死循环与同题实测失败，且该模型尚未进入面向普通用户的常规 ChatGPT 界面，只放在工作区与编程工具中。
+北京时间 11 月 18 日凌晨，OpenAI 推出新一代旗舰 GPT-6.2 Astra 与日常主力 GPT-6.2 Sol，两者均配备 105 万 token 上下文窗口（输入上限 92.2 万、输出上限 12.8 万），目前只接受文本与图像输入、输出纯文本，不支持音视频与微调。Astra 的 API 定价为每百万 token 输入 8 美元、输出 40 美元，比 9 月的 GPT-6 Astra 低 20%，缓存输入降至 0.40 美元；Sol 维持 2 美元 / 10 美元不变。
+
+据极客公园援引 Artificial Analysis v5.0.1 指数，Astra 以 62 分升至总榜第二，仅落后 Claude Fable 5.2 的 65 分，但编程智能体榜停留在 53 分、与上代持平，Sol 反而倒退 3 分至 49 分，Astra 幻觉率则从上代 50% 升至 59%。上线仅 8 分钟，创业者 Matt Shumer 就给出「基本不可用，不推荐」的评价，Theo Browne、Ethan Mollick、Dan Shipper、Simon Willison 等人也报告了沟通不畅、死循环与同题实测失败，且该模型尚未进入面向普通用户的常规 ChatGPT 界面，只放在工作区与编程工具中。
 
 </div>
 

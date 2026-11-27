@@ -31,7 +31,11 @@ photo_credit: {"url": "https://pixabay.com/get/g70671b8ef48e7a1d813e88e18517baee
 {% raw %}
 <div class="story-lead" markdown="1">
 
-China's two homegrown memory champions are scaling fast on commodity products but still cannot supply the AI-critical part. CXMT, the DRAM maker, reported a nine-month net profit of ¥132.0 billion ($19.6 billion) on revenue of ¥269.0 billion ($40.0 billion), versus a ¥5.28 billion loss a year earlier, and now runs three 12-inch fabs at roughly 100,000 wafers a month each, with three more planned that could push it past 600,000 wafers a month. NAND maker YMTC posted ¥47.04 billion ($7.0 billion) in first-quarter revenue and ¥33.38 billion ($5.0 billion) in attributable profit, more than double 2025. Neither company produces high-bandwidth memory (HBM) — the stacked DRAM that AI accelerators depend on — in volume: CXMT's IPO prospectus lists no HBM project, and its HBM3E is only reported to be in risk production, an early run before the process is fully qualified. The report notes that fab counts, products and financials come from filings and company statements, while capacities and HBM progress rest largely on anonymous reporting.
+China's two homegrown memory champions are scaling fast on commodity products but still cannot supply the AI-critical part. CXMT, the DRAM maker, reported a nine-month net profit of ¥132.0 billion ($19.6 billion) on revenue of ¥269.0 billion ($40.0 billion), versus a ¥5.28 billion loss a year earlier, and now runs three 12-inch fabs at roughly 100,000 wafers a month each, with three more planned that could push it past 600,000 wafers a month.
+
+NAND maker YMTC posted ¥47.04 billion ($7.0 billion) in first-quarter revenue and ¥33.38 billion ($5.0 billion) in attributable profit, more than double 2025. Neither company produces high-bandwidth memory (HBM) — the stacked DRAM that AI accelerators depend on — in volume: CXMT's IPO prospectus lists no HBM project, and its HBM3E is only reported to be in risk production, an early run before the process is fully qualified.
+
+The report notes that fab counts, products and financials come from filings and company statements, while capacities and HBM progress rest largely on anonymous reporting.
 
 </div>
 

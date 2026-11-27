@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb6d3aefa84b3adb6cdbe556e8b8ea485
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 ComplexDiscovery 报道，哈佛研究人员得出的结论是：AI 编码代理普及后，开发流程的主要瓶颈已从编写代码转移到审查代码。该报道称这一发现引发了大量从业者讨论，但目前只有二手报道，没有给出论文标题、作者、样本规模、所用模型版本或具体测量指标。报道本身也没有说明这项研究是预印本、同行评审论文，还是尚未公开的内部成果。
+据 ComplexDiscovery 报道，哈佛研究人员得出的结论是：AI 编码代理普及后，开发流程的主要瓶颈已从编写代码转移到审查代码。该报道称这一发现引发了大量从业者讨论，但目前只有二手报道，没有给出论文标题、作者、样本规模、所用模型版本或具体测量指标。
+
+报道本身也没有说明这项研究是预印本、同行评审论文，还是尚未公开的内部成果。
 
 </div>
 
@@ -52,14 +54,18 @@ photo_credit: {"url": "https://pixabay.com/get/gb6d3aefa84b3adb6cdbe556e8b8ea485
 
 如果瓶颈确实落在审查端，团队的约束条件就从“写得够快”变成“看得够快”：有评论者指出，合并请求里的代码量变大，且 AI 倾向给出过度设计的方案，审查者需要更多时间判断是否真的需要这些复杂度。对采用编码代理的团队来说，这意味着要同步投入审查容量与审查工具（例如让多个代理互相审查），否则吞吐量会卡在评审队列上。
 
-## 社区讨论
-
-多位从业者称自己的日常工作已变成审查 AI 写的代码：一位有 25 年经验的开发者表示，AI 写得不比自己差，找问题时甚至更好，但他仍强调审查还有“理解代码”的作用；另一位专职做代码审查的评论者则认为，AI 生成的合并请求代码更多、方案常常过度设计。也有人质疑这类大学研究已经过时，认为学界跟不上实践节奏，另有医疗行业开发者强调仍有人坚持手写代码与测试。
-
 ## 延伸阅读
 
 - [Harvard study of 718 firms finds AI coding agents ' output... | Pondero](https://pondero.ai/news/2026-10-12-harvard-jellyfish-code-review-bottleneck/)
 - [AI Coding Agents and the Code Review Bottleneck ( 2026 Data)](https://dromeas.ai/blog/ai-coding-agents-code-review-bottleneck)
 - [AI Coding Agents Add Code ; Review Is the Bottleneck · SW Architect](https://www.swarchitect.net/en/ai-coding-agents-review-bottleneck-2026-10/)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+多位从业者称自己的日常工作已变成审查 AI 写的代码：一位有 25 年经验的开发者表示，AI 写得不比自己差，找问题时甚至更好，但他仍强调审查还有“理解代码”的作用；另一位专职做代码审查的评论者则认为，AI 生成的合并请求代码更多、方案常常过度设计。也有人质疑这类大学研究已经过时，认为学界跟不上实践节奏，另有医疗行业开发者强调仍有人坚持手写代码与测试。
+
+</div>
 
 {% endraw %}

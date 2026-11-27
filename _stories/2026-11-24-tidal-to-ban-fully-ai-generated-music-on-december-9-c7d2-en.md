@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g6ba291ef73622a374f60e3f91ac529ac
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tidal will ban music made entirely by AI starting December 9, removing its existing AI-labeled catalog — reported at 27 million to 29 million tracks — and expecting to reject 80,000 to 85,000 uploads a day, according to its music lead. The policy applies only to fully AI-generated music; artists can still use AI tools as long as the final track contains human elements. Tidal says AI-made tracks accounted for 43% of uploads over the past 90 days and more than 60% of new uploads on November 6, and that 96% of AI-labeled tracks received zero plays in that period.
+Tidal will ban music made entirely by AI starting December 9, removing its existing AI-labeled catalog — reported at 27 million to 29 million tracks — and expecting to reject 80,000 to 85,000 uploads a day, according to its music lead. The policy applies only to fully AI-generated music; artists can still use AI tools as long as the final track contains human elements.
+
+Tidal says AI-made tracks accounted for 43% of uploads over the past 90 days and more than 60% of new uploads on November 6, and that 96% of AI-labeled tracks received zero plays in that period.
 
 </div>
 

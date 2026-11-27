@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gd8099e98ecd772c1f91a51a6830df9eb
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Agile Robots has raised a $500 million Series F round at an $8.5 billion valuation, bringing total funding to $2 billion. SoftBank Group led the round, with NVIDIA, Hitachi Group and T.Capital also participating. The company, a 2018 spin-off from the German Aerospace Center, says it will use the money to expand production capacity and its presence in the United States, building on a Fürstenfeldbruck, Germany, plant opened earlier in 2026 with capacity for up to 10,000 legged and wheeled humanoid robots a year. Agile Robots says it has deployed 20,000 industrial robots to date for automotive, consumer electronics, logistics and other customers.
+Agile Robots has raised a $500 million Series F round at an $8.5 billion valuation, bringing total funding to $2 billion. SoftBank Group led the round, with NVIDIA, Hitachi Group and T.Capital also participating.
+
+The company, a 2018 spin-off from the German Aerospace Center, says it will use the money to expand production capacity and its presence in the United States, building on a Fürstenfeldbruck, Germany, plant opened earlier in 2026 with capacity for up to 10,000 legged and wheeled humanoid robots a year. Agile Robots says it has deployed 20,000 industrial robots to date for automotive, consumer electronics, logistics and other customers.
 
 </div>
 

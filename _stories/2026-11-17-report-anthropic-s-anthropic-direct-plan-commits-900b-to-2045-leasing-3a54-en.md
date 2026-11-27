@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gc29704c4be97aae7607c32fba9674a55
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic is reportedly planning a data-center and compute program called Anthropic Direct that would commit more than $900 billion through 2045, according to Financial Times reporting based on internal documents and summarized by Techmeme. Those documents indicate the company would lease 875,000 TPUs — tensor processing units, the AI chips Google designs — for $7.2 billion a year. The report is set against a 600,000 sq ft data center under construction just inland from the Mississippi River in Louisiana, where about 1,300 workers are racing to finish the building. Neither Anthropic nor Google has confirmed the program's name, financial terms, or schedule, and the details come from a single outlet's account of documents it says it reviewed.
+Anthropic is reportedly planning a data-center and compute program called Anthropic Direct that would commit more than $900 billion through 2045, according to Financial Times reporting based on internal documents and summarized by Techmeme. Those documents indicate the company would lease 875,000 TPUs — tensor processing units, the AI chips Google designs — for $7.2 billion a year.
+
+The report is set against a 600,000 sq ft data center under construction just inland from the Mississippi River in Louisiana, where about 1,300 workers are racing to finish the building. Neither Anthropic nor Google has confirmed the program's name, financial terms, or schedule, and the details come from a single outlet's account of documents it says it reviewed.
 
 </div>
 

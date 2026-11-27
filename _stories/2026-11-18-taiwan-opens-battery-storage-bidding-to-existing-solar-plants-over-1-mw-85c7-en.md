@@ -31,7 +31,11 @@ photo_credit: {"url": "https://pixabay.com/get/gc93e696dfc8b075266f8e80d24d5426b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Taiwan's Ministry of Economic Affairs (MOEA) has published a regulatory framework letting existing grid-connected solar plants larger than 1 MW bid for permission to add battery energy storage, with a competitive auction setting the capacity tariff paid to winners. Eligible projects must install at least 2.61 MWh of storage for every MW of rated storage power, and successful applicants must generally finish installation and grid connection within 15 months. In exchange, they must free up grid connection capacity equal to 1.5 times their rated storage power, and they receive a daily guaranteed billing quantity tied to 2.61 times that rated capacity, subject to conditions. Discharge is scheduled by the state utility Taipower, part of an effort to move solar output out of the midday peak. The article states the guidelines were issued on November 6, 2024, an internal date that is inconsistent with the November 2026 publication date.
+Taiwan's Ministry of Economic Affairs (MOEA) has published a regulatory framework letting existing grid-connected solar plants larger than 1 MW bid for permission to add battery energy storage, with a competitive auction setting the capacity tariff paid to winners. Eligible projects must install at least 2.61 MWh of storage for every MW of rated storage power, and successful applicants must generally finish installation and grid connection within 15 months.
+
+In exchange, they must free up grid connection capacity equal to 1.5 times their rated storage power, and they receive a daily guaranteed billing quantity tied to 2.61 times that rated capacity, subject to conditions. Discharge is scheduled by the state utility Taipower, part of an effort to move solar output out of the midday peak.
+
+The article states the guidelines were issued on November 6, 2024, an internal date that is inconsistent with the November 2026 publication date.
 
 </div>
 

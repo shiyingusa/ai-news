@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-宝马已开始在美国组装其首款美国制造的电动车 iX5，目前每天生产约 70 辆 iX5 电动 SUV。InsideEVs 的报道称这“才刚刚开始”，即这一产量只是起步水平，并不代表该产线的最终产能。报道没有披露工厂所在地、投产的具体日期，也没有说明 iX5 的售价、续航和上市时间。
+宝马已开始在美国组装其首款美国制造的电动车 iX5，目前每天生产约 70 辆 iX5 电动 SUV。InsideEVs 的报道称这“才刚刚开始”，即这一产量只是起步水平，并不代表该产线的最终产能。
+
+报道没有披露工厂所在地、投产的具体日期，也没有说明 iX5 的售价、续航和上市时间。
 
 </div>
 

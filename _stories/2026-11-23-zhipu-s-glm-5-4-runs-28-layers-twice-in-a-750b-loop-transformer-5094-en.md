@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8c2fc366df9e988ccc1f93bd569de406
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Z.ai has published the release note for GLM-5.4, a 750-billion-parameter flagship model built on what the company calls its first "Loop Transformer": 28 of its layers are computed twice per token instead of once. Z.ai says this lets the model match systems with 2 to 3 trillion parameters, but the only benchmark scores released so far come from a smaller 30B test model, not the full flagship. The company is framing GLM-5.4 as the start of "Generalized Coding," in which code generation also produces videos, games, and CAD models. Access is currently gated: commenters report the model is not on OpenRouter or the standard Z.ai API plan, and requires Z.ai's Coding Plan, whose API keys otherwise behave like regular ones.
+Z.ai has published the release note for GLM-5.4, a 750-billion-parameter flagship model built on what the company calls its first "Loop Transformer": 28 of its layers are computed twice per token instead of once. Z.ai says this lets the model match systems with 2 to 3 trillion parameters, but the only benchmark scores released so far come from a smaller 30B test model, not the full flagship.
+
+The company is framing GLM-5.4 as the start of "Generalized Coding," in which code generation also produces videos, games, and CAD models. Access is currently gated: commenters report the model is not on OpenRouter or the standard Z.ai API plan, and requires Z.ai's Coding Plan, whose API keys otherwise behave like regular ones.
 
 </div>
 
@@ -56,13 +58,17 @@ Developers who want to try GLM-5.4 today have to subscribe to Z.ai's Coding Plan
 
 Watch for benchmark results for the full 750B model rather than the 30B test model, along with independent evaluations, and for GLM-5.4 to appear on the standard Z.ai API or OpenRouter.
 
-## Community discussion
-
-Hacker News commenters welcomed the technical detail Zhipu published, with one calling it a refreshing contrast to the disclosure typical of Western labs, and another explaining loop transformers as a fix for the memory-bandwidth bottleneck of moving each layer on and off the chip. Simon Willison reported that access required switching to the Coding Plan and that GLM-5.4's generated "pelican" images look very different from GLM-5.2's gradient-and-animation-heavy defaults, while another commenter argued that Chinese models' long "marathon thinking" sessions make them slow on simple tasks.
-
 ## Coverage of this story
 
 - 2026-11-23 · z.ai: [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
 - 2026-11-23 · The Decoder: [Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model](https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/)
+
+<div class="community" markdown="1">
+
+## Community discussion: opinion, not evidence
+
+Hacker News commenters welcomed the technical detail Zhipu published, with one calling it a refreshing contrast to the disclosure typical of Western labs, and another explaining loop transformers as a fix for the memory-bandwidth bottleneck of moving each layer on and off the chip. Simon Willison reported that access required switching to the Coding Plan and that GLM-5.4's generated "pelican" images look very different from GLM-5.2's gradient-and-animation-heavy defaults, while another commenter argued that Chinese models' long "marathon thinking" sessions make them slow on simple tasks.
+
+</div>
 
 {% endraw %}

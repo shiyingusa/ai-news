@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gf197094dd7ec7811ecc8e63b920a2339
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic announced Claude Ship, a developer product that lets Claude agents review, fix and approve GitHub pull requests, with two new agents — PR Steward and Claude Approvals — launching in beta. PR Steward steps in on failing CI checks, merge conflicts, and review feedback from Anthropic's Code Review or from other review tools and team members, while Claude Approvals handles the sign-off step according to team policies, ZDNET reported. The beta is limited to Claude Team and Enterprise tiers, and it builds on Claude's Code Review feature, which Anthropic announced in March and made generally available in October. Anthropic has not disclosed pricing, a general-availability date, or how much autonomy the approval agent is granted.
+Anthropic announced Claude Ship, a developer product that lets Claude agents review, fix and approve GitHub pull requests, with two new agents — PR Steward and Claude Approvals — launching in beta. PR Steward steps in on failing CI checks, merge conflicts, and review feedback from Anthropic's Code Review or from other review tools and team members, while Claude Approvals handles the sign-off step according to team policies, ZDNET reported.
+
+The beta is limited to Claude Team and Enterprise tiers, and it builds on Claude's Code Review feature, which Anthropic announced in March and made generally available in October. Anthropic has not disclosed pricing, a general-availability date, or how much autonomy the approval agent is granted.
 
 </div>
 

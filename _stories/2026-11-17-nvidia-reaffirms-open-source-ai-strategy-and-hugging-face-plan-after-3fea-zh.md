@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4c5ba7705ae32cf54dcd3d90138729a3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 TechCrunch 报道，在黄仁勋突然离职后，英伟达临时 CEO 重申公司既有的开源 AI 战略保持不变，并表示计划收购模型托管平台 Hugging Face。报道没有说明黄仁勋离职的原因与时间、临时 CEO 的姓名，也没有给出收购的价格、时间表或监管审批状态。维持开源战略目前只是公司表态，收购 Hugging Face 也仅停留在计划层面，尚无交易完成、签署协议或提交监管申报的证据。
+据 TechCrunch 报道，在黄仁勋突然离职后，英伟达临时 CEO 重申公司既有的开源 AI 战略保持不变，并表示计划收购模型托管平台 Hugging Face。报道没有说明黄仁勋离职的原因与时间、临时 CEO 的姓名，也没有给出收购的价格、时间表或监管审批状态。
+
+维持开源战略目前只是公司表态，收购 Hugging Face 也仅停留在计划层面，尚无交易完成、签署协议或提交监管申报的证据。
 
 </div>
 

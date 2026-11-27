@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4c5ba7705ae32cf54dcd3d90138729a3
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Nvidia's interim CEO has reaffirmed that the company will keep its open-source AI strategy and still intends to acquire Hugging Face, according to TechCrunch, following Jensen Huang's sudden departure. The report frames both the strategy and the acquisition as continuing commitments rather than new initiatives, but gives no price, timeline, financing or regulatory status for a Hugging Face deal, and does not name the interim CEO. No Nvidia filing or deal terms appear in the material available, so the acquisition is a stated intention rather than a completed or signed transaction.
+Nvidia's interim CEO has reaffirmed that the company will keep its open-source AI strategy and still intends to acquire Hugging Face, according to TechCrunch, following Jensen Huang's sudden departure. The report frames both the strategy and the acquisition as continuing commitments rather than new initiatives, but gives no price, timeline, financing or regulatory status for a Hugging Face deal, and does not name the interim CEO.
+
+No Nvidia filing or deal terms appear in the material available, so the acquisition is a stated intention rather than a completed or signed transaction.
 
 </div>
 

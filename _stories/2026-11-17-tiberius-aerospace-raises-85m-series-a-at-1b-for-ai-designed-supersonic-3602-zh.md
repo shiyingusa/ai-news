@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb55a8f98bb19f8fa2473340b3982b6c7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 Wired 报道，国防即服务（defense-as-a-service）初创公司 Tiberius Aerospace 完成 8500 万美元 A 轮融资，估值超过 10 亿美元。公司由曾在 Google 和 Apple 任职的 Chad Steelberg 与 Andy Baynes 创办，核心主张是用 AI 设计远程超音速火炮弹药。报道称，这轮融资相当于押注把经营软件公司和设计 iPhone 的经验用于制造致命弹药；不过，目前可得的报道摘要没有披露原型测试、军方客户和交付时间表，也没有说明 AI 具体参与哪些设计环节。
+据 Wired 报道，国防即服务（defense-as-a-service）初创公司 Tiberius Aerospace 完成 8500 万美元 A 轮融资，估值超过 10 亿美元。公司由曾在 Google 和 Apple 任职的 Chad Steelberg 与 Andy Baynes 创办，核心主张是用 AI 设计远程超音速火炮弹药。
+
+报道称，这轮融资相当于押注把经营软件公司和设计 iPhone 的经验用于制造致命弹药；不过，目前可得的报道摘要没有披露原型测试、军方客户和交付时间表，也没有说明 AI 具体参与哪些设计环节。
 
 </div>
 

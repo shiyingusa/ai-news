@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g7c9ff30008eeae556c0c971ac5db47d7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The FDA on Monday approved Roche's giredestrant, marketed as Wilserdly, for patients with HR-positive, HER2-negative advanced breast cancer whose tumors carry an ESR1 mutation. The approval covers an oral selective estrogen receptor degrader (SERD) for a population in which that mutation is a sign of resistance to standard treatment. STAT reported that Roche's evERA trial showed the drug extended the time before tumors progressed, but the available excerpt was truncated before full efficacy, safety, pricing, or launch details. Roche has said the medicine could become its top-selling product ever, a company claim rather than an independent forecast.
+The FDA on Monday approved Roche's giredestrant, marketed as Wilserdly, for patients with HR-positive, HER2-negative advanced breast cancer whose tumors carry an ESR1 mutation. The approval covers an oral selective estrogen receptor degrader (SERD) for a population in which that mutation is a sign of resistance to standard treatment.
+
+STAT reported that Roche's evERA trial showed the drug extended the time before tumors progressed, but the available excerpt was truncated before full efficacy, safety, pricing, or launch details. Roche has said the medicine could become its top-selling product ever, a company claim rather than an independent forecast.
 
 </div>
 

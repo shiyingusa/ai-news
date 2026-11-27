@@ -31,7 +31,11 @@ photo_credit: {"url": "https://pixabay.com/get/g0e360dcc5dad820a67839937f197750b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-美国联邦通信委员会（FCC）11月25日（周三）宣布，已给予 SpaceX 有条件授权，允许其部署最多100万颗“Starmind”卫星，用作轨道上的 AI 数据中心。FCC 主席 Brendan Carr 在声明中称，此举“为支撑美国领先地位与增长所需的计算基础设施开辟了大胆的新疆域”。据 The Verge 引述的 FCC 文件，授权附带里程碑条件：SpaceX 须在2033年前部署至少一颗卫星，并在2040年前达到100万颗。若全部部署，在轨卫星数量将约为当前的50倍；自1957年以来人类累计发射约2.8万颗卫星，现有 Starlink 星座约1.1万颗。SpaceX 计划2027年第三季度用 Starship 发射首批 Starmind 卫星。
+美国联邦通信委员会（FCC）11月25日（周三）宣布，已给予 SpaceX 有条件授权，允许其部署最多100万颗“Starmind”卫星，用作轨道上的 AI 数据中心。FCC 主席 Brendan Carr 在声明中称，此举“为支撑美国领先地位与增长所需的计算基础设施开辟了大胆的新疆域”。
+
+据 The Verge 引述的 FCC 文件，授权附带里程碑条件：SpaceX 须在2033年前部署至少一颗卫星，并在2040年前达到100万颗。若全部部署，在轨卫星数量将约为当前的50倍；自1957年以来人类累计发射约2.8万颗卫星，现有 Starlink 星座约1.1万颗。
+
+SpaceX 计划2027年第三季度用 Starship 发射首批 Starmind 卫星。
 
 </div>
 

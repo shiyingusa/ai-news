@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g24a8064e02d183b7643415726bbffbff
 {% raw %}
 <div class="story-lead" markdown="1">
 
-LanceDB Inc., which sells what it calls a "multimodal lakehouse" for AI training, announced a $57.5M Series B led by Bessemer and Innovation Endeavors. The platform is built on Lance, an open data format, and is aimed at storing and querying the mixed media — images, video, audio, embeddings — that multimodal models train on, rather than the text-heavy tables a conventional data warehouse handles. The announcement, reported by SiliconANGLE, gives no valuation, total amount raised to date, customer counts, or a timeline for how the new capital will be spent.
+LanceDB Inc., which sells what it calls a "multimodal lakehouse" for AI training, announced a $57.5M Series B led by Bessemer and Innovation Endeavors. The platform is built on Lance, an open data format, and is aimed at storing and querying the mixed media — images, video, audio, embeddings — that multimodal models train on, rather than the text-heavy tables a conventional data warehouse handles.
+
+The announcement, reported by SiliconANGLE, gives no valuation, total amount raised to date, customer counts, or a timeline for how the new capital will be spent.
 
 </div>
 

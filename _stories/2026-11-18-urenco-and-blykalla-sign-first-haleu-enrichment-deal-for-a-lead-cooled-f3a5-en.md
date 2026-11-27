@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g4dd60e4195307fd290d87a7f92241d4f
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Urenco has signed a contract to provide enrichment for the fuel of Blykalla's first US reactor, an agreement the two companies call the world's first HALEU enrichment contract for a commercial lead-cooled reactor. HALEU, or high-assay low-enriched uranium, is uranium enriched beyond the roughly 5% level used in conventional reactor fuel, and only a small number of Western suppliers are working to produce it. Blykalla is a Swedish developer of lead-cooled advanced reactors; the announcement gave no contract volumes, delivery dates or financial terms.
+Urenco has signed a contract to provide enrichment for the fuel of Blykalla's first US reactor, an agreement the two companies call the world's first HALEU enrichment contract for a commercial lead-cooled reactor. HALEU, or high-assay low-enriched uranium, is uranium enriched beyond the roughly 5% level used in conventional reactor fuel, and only a small number of Western suppliers are working to produce it.
+
+Blykalla is a Swedish developer of lead-cooled advanced reactors; the announcement gave no contract volumes, delivery dates or financial terms.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g642e43d2583a7e8396586f1409d439d7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-彭博社11月23日援引一名知情人士报道，亚马逊已同意以约75亿美元收购Decart的大部分业务，包括Decart Optimization Stack、创始团队和AI研究人员。TechCrunch将这笔交易与亚马逊筹备销售自研AI训练芯片Trainium联系起来，称其意在增强AWS的AI基础设施能力。交易尚未得到亚马逊或Decart公开确认，官方也未披露具体金额、资产范围和交割时间。
+彭博社11月23日援引一名知情人士报道，亚马逊已同意以约75亿美元收购Decart的大部分业务，包括Decart Optimization Stack、创始团队和AI研究人员。TechCrunch将这笔交易与亚马逊筹备销售自研AI训练芯片Trainium联系起来，称其意在增强AWS的AI基础设施能力。
+
+交易尚未得到亚马逊或Decart公开确认，官方也未披露具体金额、资产范围和交割时间。
 
 </div>
 

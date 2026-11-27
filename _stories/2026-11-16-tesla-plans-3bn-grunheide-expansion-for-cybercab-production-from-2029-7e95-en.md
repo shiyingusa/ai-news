@@ -31,7 +31,11 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Tesla said on November 16 that it will invest €3 billion (about $3.3 billion) to expand Gigafactory Grünheide near Berlin, its only vehicle plant in Europe. The money covers a new production building roughly twice the size of the existing main hall plus supporting infrastructure such as an additional wastewater treatment plant; Tesla designs it to build up to one million Cybercab robotaxis a year once fully scaled, alongside continued Model Y output. Tesla plans to file the building permit before the end of 2026, start construction in the first half of 2027 and begin Cybercab production in 2029. Separately, plant manager André Thierig said on November 11 that full 4680-format battery cell production at the site — using Tesla's dry-electrode process, targeting up to 18 GWh a year — is on track for mid-2027; electrodes are already made there but are currently shipped to Texas for cell assembly and returned. All of this is an announced plan with future dates, not existing capacity.
+Tesla said on November 16 that it will invest €3 billion (about $3.3 billion) to expand Gigafactory Grünheide near Berlin, its only vehicle plant in Europe. The money covers a new production building roughly twice the size of the existing main hall plus supporting infrastructure such as an additional wastewater treatment plant; Tesla designs it to build up to one million Cybercab robotaxis a year once fully scaled, alongside continued Model Y output.
+
+Tesla plans to file the building permit before the end of 2026, start construction in the first half of 2027 and begin Cybercab production in 2029. Separately, plant manager André Thierig said on November 11 that full 4680-format battery cell production at the site — using Tesla's dry-electrode process, targeting up to 18 GWh a year — is on track for mid-2027; electrodes are already made there but are currently shipped to Texas for cell assembly and returned.
+
+All of this is an announced plan with future dates, not existing capacity.
 
 </div>
 

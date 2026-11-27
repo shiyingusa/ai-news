@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-A US federal jury convicted Huawei Technologies on Tuesday of conspiring to steal trade secrets from American technology firms and of evading US sanctions on Iran, finding the company guilty on 10 of the 12 counts it faced after a trial of nearly three months, Bloomberg reported. The counts included bank fraud, wire fraud, money laundering conspiracy, conspiracy to steal trade secrets, and substantive violations of the International Emergency Economic Powers Act (IEEPA, the main US statute for imposing sanctions), according to a Department of Justice press release. The jury cleared Huawei of racketeering conspiracy — the charge that alleged a company-wide culture of cheating and stealing — and of conspiracy to obstruct justice, a point the company's lead defense attorney, Brian Heberlig, emphasized. The charges date to a 2019 indictment tied to conduct reaching back to 2018; no penalty has been set, with a sentencing hearing scheduled for September 2027.
+A US federal jury convicted Huawei Technologies on Tuesday of conspiring to steal trade secrets from American technology firms and of evading US sanctions on Iran, finding the company guilty on 10 of the 12 counts it faced after a trial of nearly three months, Bloomberg reported. The counts included bank fraud, wire fraud, money laundering conspiracy, conspiracy to steal trade secrets, and substantive violations of the International Emergency Economic Powers Act (IEEPA, the main US statute for imposing sanctions), according to a Department of Justice press release.
+
+The jury cleared Huawei of racketeering conspiracy — the charge that alleged a company-wide culture of cheating and stealing — and of conspiracy to obstruct justice, a point the company's lead defense attorney, Brian Heberlig, emphasized. The charges date to a 2019 indictment tied to conduct reaching back to 2018; no penalty has been set, with a sentencing hearing scheduled for September 2027.
 
 </div>
 

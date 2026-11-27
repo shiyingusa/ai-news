@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge3b3eb3a7944384a8a3ab9062def5a2d
 {% raw %}
 <div class="story-lead" markdown="1">
 
-AWS on Monday launched Strands Decider v2, a family of five open “decision models” that The New Stack reports are built on Google’s Gemma 4 and released under the Apache 2.0 license. The models span 2 billion to 31 billion parameters, giving AI builders a single permissively licensed family across small and large sizes. The report does not include benchmark results or explain what the models do beyond the decision-model label, so the capability claims remain unverified.
+AWS on Monday launched Strands Decider v2, a family of five open “decision models” that The New Stack reports are built on Google’s Gemma 4 and released under the Apache 2.0 license. The models span 2 billion to 31 billion parameters, giving AI builders a single permissively licensed family across small and large sizes.
+
+The report does not include benchmark results or explain what the models do beyond the decision-model label, so the capability claims remain unverified.
 
 </div>
 

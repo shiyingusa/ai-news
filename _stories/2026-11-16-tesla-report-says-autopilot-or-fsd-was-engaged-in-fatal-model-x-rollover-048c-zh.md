@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-据 Electrek 11 月 16 日报道，特斯拉提交给美国国家公路交通安全管理局（NHTSA）的报告称，一辆 Model X 在 Autopilot 或 Full Self-Driving（FSD，特斯拉的高级驾驶辅助功能）启用时，于 9 月在佛罗里达州那不勒斯驶离 Golden Gate Parkway，撞上交通信号灯杆并翻覆，造成一名乘客死亡。特斯拉通过车辆远程信息处理自行上报了这起事故，并表示掌握车辆事件数据记录器（EDR）和视频；事故最初对外仅被描述为车辆“驶离道路”。Electrek 称这起事故是其调查特斯拉向 NHTSA 提交的数据中致命事故的一部分。
+据 Electrek 11 月 16 日报道，特斯拉提交给美国国家公路交通安全管理局（NHTSA）的报告称，一辆 Model X 在 Autopilot 或 Full Self-Driving（FSD，特斯拉的高级驾驶辅助功能）启用时，于 9 月在佛罗里达州那不勒斯驶离 Golden Gate Parkway，撞上交通信号灯杆并翻覆，造成一名乘客死亡。特斯拉通过车辆远程信息处理自行上报了这起事故，并表示掌握车辆事件数据记录器（EDR）和视频；事故最初对外仅被描述为车辆“驶离道路”。
+
+Electrek 称这起事故是其调查特斯拉向 NHTSA 提交的数据中致命事故的一部分。
 
 </div>
 

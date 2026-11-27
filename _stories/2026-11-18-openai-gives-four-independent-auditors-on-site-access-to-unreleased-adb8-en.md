@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-OpenAI has for the first time given four independent audit organizations direct, on-site access to its unreleased models, source code and training data, according to The Decoder. The four include Apollo Research and METR; the other two are not named in the report. The reviews are meant to surface hidden model misbehavior and safety gaps that external testing of shipped products would miss. The report also notes that OpenAI can redact or delay the auditors' reports, leaving open how independent the oversight will prove in practice.
+OpenAI has for the first time given four independent audit organizations direct, on-site access to its unreleased models, source code and training data, according to The Decoder. The four include Apollo Research and METR; the other two are not named in the report.
+
+The reviews are meant to surface hidden model misbehavior and safety gaps that external testing of shipped products would miss. The report also notes that OpenAI can redact or delay the auditors' reports, leaving open how independent the oversight will prove in practice.
 
 </div>
 

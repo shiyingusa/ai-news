@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g8ec752942058eb5c30d597c1080b025b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Google 正在向 Gemini 应用推送新的隐私控制，把聊天记录与模型训练拆成两个独立开关：用户可以保留聊天记录，同时关闭 Google 使用其聊天内容和附件训练 AI。此前要退出训练只能关闭历史记录，代价是无法再回到旧对话；现在历史记录仍可设置保留期限，训练则改为需要用户主动关闭的选项。相关开关位于 Gemini 设置的 Activity 下，也可从 Google 账户的 Data & Privacy > My Activity > Other activity > Gemini Apps Activity 进入。
+Google 正在向 Gemini 应用推送新的隐私控制，把聊天记录与模型训练拆成两个独立开关：用户可以保留聊天记录，同时关闭 Google 使用其聊天内容和附件训练 AI。此前要退出训练只能关闭历史记录，代价是无法再回到旧对话；现在历史记录仍可设置保留期限，训练则改为需要用户主动关闭的选项。
+
+相关开关位于 Gemini 设置的 Activity 下，也可从 Google 账户的 Data & Privacy > My Activity > Other activity > Gemini Apps Activity 进入。
 
 </div>
 

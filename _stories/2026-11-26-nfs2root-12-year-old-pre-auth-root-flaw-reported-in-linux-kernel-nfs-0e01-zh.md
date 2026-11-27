@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g11c9e2a4bd8e7d61bc05d3f08adb0336
 {% raw %}
 <div class="story-lead" markdown="1">
 
-一份公开报告称，Linux 内核的 NFS 服务器中存在编号为 CVE-2026-99362 的预认证远程 root 漏洞，即攻击者无需先通过身份认证即可触达该缺陷，且该缺陷据称已在代码中潜伏约 12 年。报告未随附可运行的利用代码，讨论中也有评论者指出目前没有公开的概念验证（PoC），因此该漏洞的实际可利用性尚未得到独立验证。报道没有给出受影响的完整内核版本区间和修复提交清单；评论者根据报告内容称，问题只涉及 NFS 4.1 及 4.2 以上协议版本，并据此提出临时缓解办法。
+一份公开报告称，Linux 内核的 NFS 服务器中存在编号为 CVE-2026-99362 的预认证远程 root 漏洞，即攻击者无需先通过身份认证即可触达该缺陷，且该缺陷据称已在代码中潜伏约 12 年。报告未随附可运行的利用代码，讨论中也有评论者指出目前没有公开的概念验证（PoC），因此该漏洞的实际可利用性尚未得到独立验证。
+
+报道没有给出受影响的完整内核版本区间和修复提交清单；评论者根据报告内容称，问题只涉及 NFS 4.1 及 4.2 以上协议版本，并据此提出临时缓解办法。
 
 </div>
 
@@ -56,10 +58,6 @@ NFS(Network File System)是 Linux 内核内置的网络文件系统，其服务�
 
 值得跟踪的是主流发行版内核是否发布对应修复提交与稳定版回溯，以及是否出现公开的 PoC 或独立复现报告——这两者会决定该漏洞从“已披露”变成“可被实际利用”的时间窗。
 
-## 社区讨论
-
-讨论集中在缓解手段而非漏洞本身：superkuh 认为关闭 NFS 4.1/4.2 是当下可行的临时方案，aidenn0 则推测用 spiped 隧道包裹 NFSv4 就安全，r3tr0 声称可用基于 XDP 的 L7 防火墙规则拦截并给出了仓库链接——这些均为评论者自述，未经独立验证。gsich 则直指关键限制：没有公开 PoC。另有评论者借此事讨论 AI 辅助代码审计对开源项目漏洞发现速度的影响。
-
 ## 延伸阅读
 
 - [CVE-2026-99362 - Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2026-99362)
@@ -68,5 +66,13 @@ NFS(Network File System)是 Linux 内核内置的网络文件系统，其服务�
 - [NFS2ROOT ( CVE - 2026 - 99362 ): pre-auth root in Linux nfsd | OpenSec](https://opensec.in/blog/nfs2root-cve-2026-99362)
 - [#linux # cve # nfsv 4 #kernelsecurity #freebsd #sysadmin #infosec...](https://www.linkedin.com/posts/azbest_linux-cve-nfsv4-activity-7450057323148009473-aq_e)
 - [Nfs2root: A 12-year-old pre-auth remote root in the... | Hacker News](https://news.ycombinator.com/item?id=50647161)
+
+<div class="community" markdown="1">
+
+## 社区讨论（观点，不是证据）
+
+讨论集中在缓解手段而非漏洞本身：superkuh 认为关闭 NFS 4.1/4.2 是当下可行的临时方案，aidenn0 则推测用 spiped 隧道包裹 NFSv4 就安全，r3tr0 声称可用基于 XDP 的 L7 防火墙规则拦截并给出了仓库链接——这些均为评论者自述，未经独立验证。gsich 则直指关键限制：没有公开 PoC。另有评论者借此事讨论 AI 辅助代码审计对开源项目漏洞发现速度的影响。
+
+</div>
 
 {% endraw %}

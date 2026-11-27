@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gc720560f44dc876c9c2cc3cc1f7dddce
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Sierra, the enterprise customer-experience company co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it raised $1.75 billion in a Series F round. TechCrunch reported that the round doubled Sierra's valuation to $30 billion within roughly six months, a figure attributed to the report rather than confirmed in the company's own statement. The report frames the raise as riding demand for AI in customer experience, but it does not name the participating investors, disclose revenue or customer counts, or specify how the new capital will be allocated. No product or capability launch accompanied the funding announcement.
+Sierra, the enterprise customer-experience company co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it raised $1.75 billion in a Series F round. TechCrunch reported that the round doubled Sierra's valuation to $30 billion within roughly six months, a figure attributed to the report rather than confirmed in the company's own statement.
+
+The report frames the raise as riding demand for AI in customer experience, but it does not name the participating investors, disclose revenue or customer counts, or specify how the new capital will be allocated. No product or capability launch accompanied the funding announcement.
 
 </div>
 

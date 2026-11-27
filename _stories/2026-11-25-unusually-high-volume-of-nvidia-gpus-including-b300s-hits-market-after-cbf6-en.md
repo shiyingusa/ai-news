@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/ge74d80ffa8f18c21db52b125f7e93db7
 {% raw %}
 <div class="story-lead" markdown="1">
 
-An unusually large supply of Nvidia GPUs, including thousands of B300 data-center chips, has reached the market after the U.S. restricted Chinese companies' remote access to AI chips, CNBC reported, citing three people familiar with the matter. Nvidia chip sellers are now seeking new buyers for the hardware, according to the report. The account rests on unnamed sources, and the report gives no specifics on total volume, pricing, or which measure triggered the shift; it also does not include on-record confirmation from Nvidia or U.S. officials.
+An unusually large supply of Nvidia GPUs, including thousands of B300 data-center chips, has reached the market after the U.S. restricted Chinese companies' remote access to AI chips, CNBC reported, citing three people familiar with the matter. Nvidia chip sellers are now seeking new buyers for the hardware, according to the report.
+
+The account rests on unnamed sources, and the report gives no specifics on total volume, pricing, or which measure triggered the shift; it also does not include on-record confirmation from Nvidia or U.S. officials.
 
 </div>
 

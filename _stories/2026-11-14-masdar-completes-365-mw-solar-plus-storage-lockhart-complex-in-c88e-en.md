@@ -29,7 +29,9 @@ description: "Masdar announced completion of the $950 million Lockhart Solar and
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Masdar announced completion of the $950 million Lockhart Solar and Storage complex in California, pairing 365 MW of solar photovoltaic generation with 173.7 MW of battery storage. The project was developed by Terra-Gen, which Masdar jointly owns with Igneo Infrastructure Partners, and is designed to generate enough electricity for roughly 350,000 homes and businesses. Its output is contracted through a mix of long-term power purchase agreements with California load-serving entities and corporate offtake agreements, and construction spanned about four years, peaking above 1,000 on-site jobs. Masdar says it has invested roughly $3 billion in the U.S. so far and plans another $20 billion over the next decade, targeting up to 25 GW of U.S. renewable capacity by 2030 — targets, not yet built capacity.
+Masdar announced completion of the $950 million Lockhart Solar and Storage complex in California, pairing 365 MW of solar photovoltaic generation with 173.7 MW of battery storage. The project was developed by Terra-Gen, which Masdar jointly owns with Igneo Infrastructure Partners, and is designed to generate enough electricity for roughly 350,000 homes and businesses.
+
+Its output is contracted through a mix of long-term power purchase agreements with California load-serving entities and corporate offtake agreements, and construction spanned about four years, peaking above 1,000 on-site jobs. Masdar says it has invested roughly $3 billion in the U.S. so far and plans another $20 billion over the next decade, targeting up to 25 GW of U.S. renewable capacity by 2030 — targets, not yet built capacity.
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g86f12ed4d91761870c6142b88d8835c2
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Anthropic began trading on Nasdaq under the ticker ANT at $111.50 a share on Nov. 19, up from its $83 IPO price, giving the AI developer a market value of about $2 trillion. The company raised roughly $81 billion in the listing, which CNBC described as the largest IPO on record and which Reuters said pushed Anthropic past SpaceX's market value. Anthropic's IPO filing showed $16.3 billion in revenue and an $80.7 billion net loss for the first half of the year, most of it a non-cash accounting charge the company says does not reflect its business. The opening price is a first trade, not a closing valuation; the source did not report where the stock finished the session.
+Anthropic began trading on Nasdaq under the ticker ANT at $111.50 a share on Nov. 19, up from its $83 IPO price, giving the AI developer a market value of about $2 trillion. The company raised roughly $81 billion in the listing, which CNBC described as the largest IPO on record and which Reuters said pushed Anthropic past SpaceX's market value.
+
+Anthropic's IPO filing showed $16.3 billion in revenue and an $80.7 billion net loss for the first half of the year, most of it a non-cash accounting charge the company says does not reflect its business. The opening price is a first trade, not a closing valuation; the source did not report where the stock finished the session.
 
 </div>
 

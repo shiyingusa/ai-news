@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g5094df37e25bd56d6b3f0f91c2b3d7e6
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Kymera Therapeutics reported Monday that its oral STAT6 degrader KT-621 — a pill designed to break down the STAT6 protein — met all primary and secondary endpoints in the Phase 2 BROADEN2 trial in moderate-to-severe eczema, with statistically significant improvements over placebo across all three doses after 16 weeks. At the middle dose, patients had a peak 45% placebo-adjusted improvement in disease severity, and 62% reached EASI-75 (at least 75% improvement) versus 22% on placebo. Kymera said the drug was generally safe and well tolerated; conjunctivitis was the only side effect more common on treatment, at 20%, 13% and 11% for low, middle and high doses, all mild to moderate and none leading to discontinuation. The results are company-announced and have not been peer-reviewed or published in full.
+Kymera Therapeutics reported Monday that its oral STAT6 degrader KT-621 — a pill designed to break down the STAT6 protein — met all primary and secondary endpoints in the Phase 2 BROADEN2 trial in moderate-to-severe eczema, with statistically significant improvements over placebo across all three doses after 16 weeks. At the middle dose, patients had a peak 45% placebo-adjusted improvement in disease severity, and 62% reached EASI-75 (at least 75% improvement) versus 22% on placebo.
+
+Kymera said the drug was generally safe and well tolerated; conjunctivitis was the only side effect more common on treatment, at 20%, 13% and 11% for low, middle and high doses, all mild to moderate and none leading to discontinuation. The results are company-announced and have not been peer-reviewed or published in full.
 
 </div>
 

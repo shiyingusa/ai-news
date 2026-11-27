@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-NPR 在 11 月 18 日报道，依据儿童安全诉讼中披露的内部文件，Meta 曾筹划代号“Project Gryffindor”的 2024 年校园项目，目标是给 Instagram 带来新的青少年用户，并“推动自然且不归因的用户获取”。一份 2023 年 11 月的内部演示把学校项目描述为“给青少年一个新理由加入 Instagram／在 IG 上找到更多价值”，文件还列出学校目录、横幅和“school blast”通知等触达方式。报道将这些材料与 Instagram 面向学校的 School Partnership Program 联系起来，称其安全校园举措同时服务于“acquisition（获取）、friending（加好友）、invites（邀请）”等增长目标。
+NPR 在 11 月 18 日报道，依据儿童安全诉讼中披露的内部文件，Meta 曾筹划代号“Project Gryffindor”的 2024 年校园项目，目标是给 Instagram 带来新的青少年用户，并“推动自然且不归因的用户获取”。一份 2023 年 11 月的内部演示把学校项目描述为“给青少年一个新理由加入 Instagram／在 IG 上找到更多价值”，文件还列出学校目录、横幅和“school blast”通知等触达方式。
+
+报道将这些材料与 Instagram 面向学校的 School Partnership Program 联系起来，称其安全校园举措同时服务于“acquisition（获取）、friending（加好友）、invites（邀请）”等增长目标。
 
 </div>
 

@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/g1e40db95e264eed3bf8e8c00e135d03b
 {% raw %}
 <div class="story-lead" markdown="1">
 
-福特已在密歇根州马歇尔的 BlueOval Battery Park 工厂生产出首批磷酸铁锂（LFP）电芯，并正将这些量产级电池运往肯塔基州，用于 Fathom 原型车的测试。Fathom 是福特计划推出的一款起售价约 3 万美元的电动皮卡。福特方面称这些是量产级电芯，但目前用途限于原型车测试，报道未给出 Fathom 的量产或交付时间表，也未说明该工厂的产能规模。
+福特已在密歇根州马歇尔的 BlueOval Battery Park 工厂生产出首批磷酸铁锂（LFP）电芯，并正将这些量产级电池运往肯塔基州，用于 Fathom 原型车的测试。Fathom 是福特计划推出的一款起售价约 3 万美元的电动皮卡。
+
+福特方面称这些是量产级电芯，但目前用途限于原型车测试，报道未给出 Fathom 的量产或交付时间表，也未说明该工厂的产能规模。
 
 </div>
 

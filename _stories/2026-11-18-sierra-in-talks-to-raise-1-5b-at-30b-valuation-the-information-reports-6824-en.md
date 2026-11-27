@@ -31,7 +31,9 @@ photo_credit: {"url": "https://pixabay.com/get/gb9f647bcba97d6864e0b100b72704629
 {% raw %}
 <div class="story-lead" markdown="1">
 
-Sierra, the AI customer-support company led by former Salesforce co-CEO Bret Taylor, is in talks to raise about $1.5 billion at a valuation of roughly $30 billion, according to The Information, citing unnamed sources. That would roughly double the $15.8 billion valuation it carried in May. The reported round rests partly on revenue Sierra disclosed in October: more than $400 million in annualized revenue, meaning revenue booked over the past month extrapolated across a year. Neither Sierra nor its investors have announced the round, so the size, valuation and terms remain unconfirmed.
+Sierra, the AI customer-support company led by former Salesforce co-CEO Bret Taylor, is in talks to raise about $1.5 billion at a valuation of roughly $30 billion, according to The Information, citing unnamed sources. That would roughly double the $15.8 billion valuation it carried in May.
+
+The reported round rests partly on revenue Sierra disclosed in October: more than $400 million in annualized revenue, meaning revenue booked over the past month extrapolated across a year. Neither Sierra nor its investors have announced the round, so the size, valuation and terms remain unconfirmed.
 
 </div>
 

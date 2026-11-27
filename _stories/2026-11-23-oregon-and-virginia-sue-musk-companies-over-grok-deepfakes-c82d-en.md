@@ -31,7 +31,9 @@ photo_credit: {"url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Grok_
 {% raw %}
 <div class="story-lead" markdown="1">
 
-The attorneys general of Oregon and Virginia have sued several of Elon Musk's companies, alleging that the Grok chatbot was shipped with safeguards too weak to stop it from producing sexualized imagery of real people, including children. Wired reported the filings, which target Musk's companies rather than a single product team. The report does not specify which entities are named as defendants, in which courts the suits were filed, or what relief the states are seeking. The allegations have not been tested in court.
+The attorneys general of Oregon and Virginia have sued several of Elon Musk's companies, alleging that the Grok chatbot was shipped with safeguards too weak to stop it from producing sexualized imagery of real people, including children. Wired reported the filings, which target Musk's companies rather than a single product team.
+
+The report does not specify which entities are named as defendants, in which courts the suits were filed, or what relief the states are seeking. The allegations have not been tested in court.
 
 </div>
 

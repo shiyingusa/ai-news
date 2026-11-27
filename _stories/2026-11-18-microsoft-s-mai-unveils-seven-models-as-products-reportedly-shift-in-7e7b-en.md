@@ -31,7 +31,9 @@ photo_credit: {"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/
 {% raw %}
 <div class="story-lead" markdown="1">
 
-At Ignite, Microsoft's MAI unit unveiled seven in-house models covering code, security, images, language, and routing, and Microsoft is reportedly moving some of its own products off external AI models to cheaper MAI alternatives. Microsoft says MAI Code 2 reaches 98% of GPT-6.1 Sol's performance at 40% of the cost, and the models are designed to run enterprise AI agents continuously. The report does not specify which products are switching, what prices apply, or whether the models are generally available; the performance and cost figures are Microsoft's own claims.
+At Ignite, Microsoft's MAI unit unveiled seven in-house models covering code, security, images, language, and routing, and Microsoft is reportedly moving some of its own products off external AI models to cheaper MAI alternatives. Microsoft says MAI Code 2 reaches 98% of GPT-6.1 Sol's performance at 40% of the cost, and the models are designed to run enterprise AI agents continuously.
+
+The report does not specify which products are switching, what prices apply, or whether the models are generally available; the performance and cost figures are Microsoft's own claims.
 
 </div>
 
