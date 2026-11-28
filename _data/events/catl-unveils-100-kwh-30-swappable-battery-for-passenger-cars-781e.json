@@ -1,0 +1,57 @@
+{
+ "event_id": "catl-unveils-100-kwh-30-swappable-battery-for-passenger-cars-781e",
+ "issue": "2026-11-28",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T14:30:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/27/catl-introduces-100kwh-30-swappable-battery-for-passenger-cars/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "CATL unveiled a 100 kWh passenger-car battery pack called “30#” for its swapping network in China, which the company says can be exchanged in about a minute and can also be fast-charged at ordinary charging stations, electrive reported on 27 November; Chinese and specialist outlets covering the same launch (CarNewsChina, Interesting Engineering) attribute the 99-second swap figure, a 700 km CLTC range and a lifetime warranty for packs in the network to CATL."
+   ],
+   "unconfirmed": [
+    "everything beyond capacity and the two use modes rests on CATL's own presentation — the 700 km CLTC range, 99-second swap, 600 kW peak discharge, a 3-second 0–100 km/h sprint and a 27-year locking-mechanism lifespan have not been independently tested, and the reports leave out battery chemistry, which vehicle models are compatible, pack price, and when or where the pack will be deployed; the sources also conflict on swap time, with electrive saying “under a minute” while the other outlets report 99 seconds, which is just over one minute."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 electrive 报道，宁德时代发布面向中国换电体系的“30#”电池块，容量为 100 kWh，换电时间不到一分钟，也可在常规充电站快充。"
+   ],
+   "unconfirmed": [
+    "99 秒换电、600 kW 峰值放电、3 秒级零百加速、约 700 公里（435 英里）CLTC 续航、锁止机构 27 年理论寿命等说法，都来自其他媒体报道或转述宁德时代的宣称；网络内电池终身质保仅见于单一报道。这些均无独立测试验证，车辆适配、部署时间和价格也未公布。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "CATL unveils 100 kWh '30#' swappable battery for passenger cars",
+  "zh": "宁德时代发布100kWh“30#”换电电池包，换电不到一分钟"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/catl-unveils-100-kwh-30-swappable-battery-for-passenger-cars-781e/",
+  "zh": "/zh/2026/11/28/catl-unveils-100-kwh-30-swappable-battery-for-passenger-cars-781e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

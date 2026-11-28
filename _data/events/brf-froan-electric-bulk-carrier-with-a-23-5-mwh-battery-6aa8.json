@@ -1,0 +1,57 @@
+{
+ "event_id": "brf-froan-electric-bulk-carrier-with-a-23-5-mwh-battery-6aa8",
+ "issue": "2026-11-28",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T19:22:01+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/27/worlds-largest-electric-bulk-cargo-shop-packs-massive-23-5-mwh-battery/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reports that the BRF Froan is a new electric bulk carrier fitted with a 23,500 kWh (23.5 MWh) battery, and describes it as the largest such ship in the bulk cargo segment."
+   ],
+   "unconfirmed": [
+    "The battery manufacturer, the ship's operator, its routes and service area, charging method and power, range, and any independent confirmation of the \"world's largest\" claim — the report does not state a delivery or commissioning date either."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Electrek 在报道中称，BRF Froan 是一艘新电动散货船，电池容量为 23,500 kWh（23.5 MWh）。"
+   ],
+   "unconfirmed": [
+    "“全球最大电动散货船”的说法、实际续航、充电时间、首航日期及运营方均未在报道中说明，也无独立数据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "BRF Froan: electric bulk carrier with a 23.5 MWh battery",
+  "zh": "报道称全球最大电动散货船 BRF Froan 配 23.5 MWh 电池"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/brf-froan-electric-bulk-carrier-with-a-23-5-mwh-battery-6aa8/",
+  "zh": "/zh/2026/11/28/brf-froan-electric-bulk-carrier-with-a-23-5-mwh-battery-6aa8/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

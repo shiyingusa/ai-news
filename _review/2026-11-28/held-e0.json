@@ -1,0 +1,33 @@
+{
+ "held_at": "2026-11-28T11:29:12+00:00",
+ "stories": [
+  {
+   "slug": "openai-countersues-apple-alleging-trade-secret-theft-and-coercion-of-06f5",
+   "title": "OpenAI countersues Apple, alleging trade-secret theft and coercion of shared suppliers, FT reports",
+   "category": "allegation",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家"
+   ],
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4",
+   "files": [
+    "2026-11-28-openai-countersues-apple-alleging-trade-secret-theft-and-coercion-of-06f5-en.md",
+    "2026-11-28-openai-countersues-apple-alleging-trade-secret-theft-and-coercion-of-06f5-zh.md"
+   ]
+  },
+  {
+   "slug": "us-air-force-s-cloud-one-platform-reportedly-hacked-sky-news-reports-3b8b",
+   "title": "US Air Force's Cloud One platform reportedly hacked, Sky News reports",
+   "category": "accident",
+   "reasons": [
+    "没有一手来源，独立报道也不足 2 家"
+   ],
+   "source": "news.sky.com",
+   "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+   "files": [
+    "2026-11-28-us-air-force-s-cloud-one-platform-reportedly-hacked-sky-news-reports-3b8b-en.md",
+    "2026-11-28-us-air-force-s-cloud-one-platform-reportedly-hacked-sky-news-reports-3b8b-zh.md"
+   ]
+  }
+ ]
+}

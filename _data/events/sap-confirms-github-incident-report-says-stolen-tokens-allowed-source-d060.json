@@ -1,0 +1,57 @@
+{
+ "event_id": "sap-confirms-github-incident-report-says-stolen-tokens-allowed-source-d060",
+ "issue": "2026-11-28",
+ "section": "tech-industry",
+ "published_at": "2026-11-27T16:35:08+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "SecurityWeek",
+   "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "SAP confirmed an IT security incident and said it detected suspicious activity on GitHub, according to SecurityWeek and BleepingComputer."
+   ],
+   "unconfirmed": [
+    "That attackers stole SAP employees' authentication tokens and used them to copy and alter source code rests on DER SPIEGEL reporting and insider sources cited by BleepingComputer; SAP has not confirmed which repositories were affected, whether altered code reached products, how many tokens were involved, or when the activity occurred."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "SAP 向 SecurityWeek 确认检测到 GitHub 上的可疑活动，并将其定性为一起网络安全事件；SAP 自身的表态是这一确认的依据。"
+   ],
+   "unconfirmed": [
+    "攻击者利用窃取的 SAP 员工认证令牌复制并篡改 GitHub 上的源代码，这一说法目前仅来自《明镜》周刊（DER SPIEGEL）的报道及知情人士转述，SAP 未公开证实；受影响代码的具体范围、是否涉及客户产品、事件时间线以及是否已通知监管机构或客户，现有报道均未说明，也未见独立的第三方取证结论。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "SAP confirms GitHub incident; report says stolen tokens allowed source-code changes, SecurityWeek reports",
+  "zh": "SAP 确认 GitHub 安全事件，源代码据报遭复制篡改"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/sap-confirms-github-incident-report-says-stolen-tokens-allowed-source-d060/",
+  "zh": "/zh/2026/11/28/sap-confirms-github-incident-report-says-stolen-tokens-allowed-source-d060/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

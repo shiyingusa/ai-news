@@ -1,0 +1,57 @@
+{
+ "event_id": "congress-passes-e-bike-battery-safety-law-making-voluntary-standards-3c75",
+ "issue": "2026-11-28",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T11:24:13+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/27/congress-just-passed-a-major-e-bike-safety-law-heres-what-it-actually-means/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Electrek reports that Congress passed legislation converting largely voluntary US e-bike battery safety standards into mandatory federal requirements."
+   ],
+   "unconfirmed": [
+    "Which specific standards the law codifies, when the requirements take effect, what enforcement or penalties apply, whether the bill has been signed, and how manufacturers and importers would be required to demonstrate compliance — none of these details appear in the report."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，美国国会通过了一项立法，将把电动自行车电池安全标准从自愿性质改为联邦强制要求。"
+   ],
+   "unconfirmed": [
+    "报道没有披露法案名称与编号、所援引的具体标准（例如具体的技术规范编号）、生效日期、过渡期安排、处罚条款，也没有说明是否已送交总统签署；关于“重大”这一评价以及实际执行力度，目前仅有该媒体的表述，尚无独立核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Congress passes e-bike battery safety law making voluntary standards mandatory",
+  "zh": "美国国会通过电动自行车电池安全立法，自愿标准将转为强制"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/congress-passes-e-bike-battery-safety-law-making-voluntary-standards-3c75/",
+  "zh": "/zh/2026/11/28/congress-passes-e-bike-battery-safety-law-making-voluntary-standards-3c75/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

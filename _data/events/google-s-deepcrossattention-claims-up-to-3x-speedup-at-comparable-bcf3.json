@@ -1,0 +1,62 @@
+{
+ "event_id": "google-s-deepcrossattention-claims-up-to-3x-speedup-at-comparable-bcf3",
+ "issue": "2026-11-28",
+ "section": "ai-news",
+ "published_at": "2026-11-27T23:06:29+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "research.google",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+  },
+  {
+   "tier": "community",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50672565"
+  }
+ ],
+ "discovered_via": "Hacker News",
+ "facts": {
+  "en": {
+   "verified": [
+    "Google Research's blog post and the underlying ICML 2025 paper (arXiv 2502.06785) both state that DeepCrossAttention — depth-wise cross-attention over the residual stream — reaches the same model quality up to 3x faster while adding a negligible number of parameters, and improves perplexity for a given training time; the blog also reports that retrofitting DCA onto a pre-trained transformer and briefly continuing training cut LM1B perplexity by 0.19 versus 0.02 for continued standard training."
+   ],
+   "unconfirmed": [
+    "the \"up to 3x\" figure is a best-case result from Google's own language-modeling experiments (LM1B-scale, per the paper) and has not been independently reproduced or shown to hold at frontier scale; the reported parameter overhead, perplexity gains and speedups are the authors' measurements rather than third-party benchmarks, and no released model, code availability or production deployment is confirmed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Google Research 的博客与 arXiv 论文（ICML 2025）报告，DeepCrossAttention 通过改造 transformer 残差连接、在层间做深度交叉注意力，在 LM1B 语言建模实验中达到同等质量最多快 3 倍，新增参数量可忽略。"
+   ],
+   "unconfirmed": [
+    "上述加速与质量结论仅来自 Google 自己的论文实验，尚无独立复现或第三方基准；现有公开摘要未说明代码或模型权重是否及何时开放，也未界定可迁移到哪些现有模型。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Google's DeepCrossAttention claims up to 3x speedup at comparable quality",
+  "zh": "Google Research 提出 DeepCrossAttention：质量相当下最高 3 倍提速"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/google-s-deepcrossattention-claims-up-to-3x-speedup-at-comparable-bcf3/",
+  "zh": "/zh/2026/11/28/google-s-deepcrossattention-claims-up-to-3x-speedup-at-comparable-bcf3/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

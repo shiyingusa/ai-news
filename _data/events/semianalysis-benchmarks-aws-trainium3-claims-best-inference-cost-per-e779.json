@@ -1,0 +1,57 @@
+{
+ "event_id": "semianalysis-benchmarks-aws-trainium3-claims-best-inference-cost-per-e779",
+ "issue": "2026-11-28",
+ "section": "chips-compute",
+ "published_at": "2026-11-27T15:54:59+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Released",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "SemiAnalysis",
+   "url": "https://newsletter.semianalysis.com/p/trainium3-inferencex"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "SemiAnalysis measured Trainium3 on its InferenceX and UBenchX suites, ran an end-to-end agentic coding workload against a Trainium3 server, and says AWS Annapurna Labs co-founder Nafea Bshara and Trainium chief architect Ron Diamant helped validate the experiments."
+   ],
+   "unconfirmed": [
+    "the specific claims that Trainium3 beats or matches Nvidia GB300 on cost per token and reaches peak HBM bandwidth utilization at small message sizes rest on SemiAnalysis's own benchmarks and charts, and the report gives no absolute performance numbers, instance pricing, general-availability date or independent replication."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "SemiAnalysis 将 Trainium3 纳入其开源的 InferenceX 基准（与 TPUv7、OpenAI Jalapeño、英伟达 Rubin NVL72、AMD 同列），并用 UBenchX 做了周期级 SRAM、机架级带宽与注意力等微基准；AWS Annapurna Labs 团队参与架构讲解与实验验证，这是该机构自己的说明。"
+   ],
+   "unconfirmed": [
+    "每美元性能“除 Vera Rubin 外全面领先”属 SemiAnalysis 自建基准上的厂商协助验证结果，摘录中未披露具体吞吐、延迟、价格假设与 TCO 计算口径，也无第三方复现；DGE 在小消息尺寸下达峰值 HBM 带宽利用率同样只有该机构的微基准支持。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "SemiAnalysis benchmarks AWS Trainium3, claims best inference cost-per-token after Nvidia Vera Rubin",
+  "zh": "SemiAnalysis 解析 AWS Trainium3：推理性价比对标英伟达"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/semianalysis-benchmarks-aws-trainium3-claims-best-inference-cost-per-e779/",
+  "zh": "/zh/2026/11/28/semianalysis-benchmarks-aws-trainium3-claims-best-inference-cost-per-e779/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

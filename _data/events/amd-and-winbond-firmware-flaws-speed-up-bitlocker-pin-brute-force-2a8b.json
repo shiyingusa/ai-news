@@ -1,0 +1,57 @@
+{
+ "event_id": "amd-and-winbond-firmware-flaws-speed-up-bitlocker-pin-brute-force-2a8b",
+ "issue": "2026-11-28",
+ "section": "tech-industry",
+ "published_at": "2026-11-27T12:30:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/amd-and-winbond-vulnerabilities-let-attackers-brute-force-bitlocker-pins-on-millions-of-pcs-cracking-a-six-digit-pin-drops-from-19-years-to-20-days"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Researchers at Technische Universität Berlin published an arXiv paper (2611.18126, \"Hello Again: Exploiting Replay Protected…\") in which they demonstrate end-to-end, on locked and encrypted hardware, that a low-cost interposer board can suppress or roll back the TPM's failed-attempt counter; their setup recovered a 4-digit Windows Hello PIN in 40 hours instead of 69 days, and the authors state that none of the vendors they contacted had committed to fixing the root-cause vulnerabilities. The attacks require physical access to the machine."
+   ],
+   "unconfirmed": [
+    "The \"millions of PCs\" scale rests on the paper's estimate of Winbond's roughly 25% SPI flash market share and on the researchers' theory that the flaw extends across Winbond's lineup and to all contemporary AMD consumer platforms — they verified at least one AMD attack only on machines from Zen 2 through an AI 5 330 laptop. The 20-day six-digit-PIN figure is the researchers' projected brute-force time, not an independently reproduced result, and neither AMD, Winbond, Microsoft nor OEMs have published fix timelines; the reported Microsoft guidance recommending six-digit PINs is described by the article without a linked Microsoft statement. Secondary coverage assigns CVE-2026-43613 to the AMD issue."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "柏林工业大学研究团队的论文《Hello Again: Exploiting Replay Protected…》已发布在 arXiv（编号 2611.18126，11 月 13 日），摘要称团队在锁定且加密的真实硬件上完成端到端演示，正常限速下需 69 天才能试出的 4 位 Windows Hello PIN，其装置 40 小时即破解；论文与 Tom's Hardware 的报道都确认，攻击需要接触设备本体。"
+   ],
+   "unconfirmed": [
+    "受影响设备到底有多少，目前只是按 Winbond 约占 SPI 闪存 25% 市场份额推算出的「数百万台」；「所有现代 AMD 平台均可能受影响」也只是推断，实测只覆盖 Zen 2 到 AI 5 330 机型，Winbond 侧只对两款芯片做了故障注入；「无厂商承诺修复根因、微软仅建议改用六位 PIN」出自论文作者说法与媒体转述，尚不见厂商公开回应或第三方复现；CVE-2026-43613 编号只见于二手报道。两处数字口径也不一致：Tom's Hardware 称六位数字 PIN 的破解时间从 19 年缩短到 20 天，论文摘要给出的则是四位 PIN 从 69 天缩短到 40 小时。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "AMD and Winbond firmware flaws speed up BitLocker PIN brute-force attacks",
+  "zh": "AMD 与 Winbond 固件漏洞让 BitLocker PIN 可被快速暴力破解"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/amd-and-winbond-firmware-flaws-speed-up-bitlocker-pin-brute-force-2a8b/",
+  "zh": "/zh/2026/11/28/amd-and-winbond-firmware-flaws-speed-up-bitlocker-pin-brute-force-2a8b/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

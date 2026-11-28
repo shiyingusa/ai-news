@@ -1,0 +1,57 @@
+{
+ "event_id": "deepmind-s-humanity-s-first-exam-finds-top-models-fail-repeated-6c10",
+ "issue": "2026-11-28",
+ "section": "ai-news",
+ "published_at": "2026-11-28T11:12:30+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Google DeepMind launched Humanity's First Exam, a reliability benchmark that Google's blog says uses 544 prompts; The Decoder reports that it tested 18 models and that even leading systems such as OpenAI's GPT-6.2 Astra stumbled when asked for 16 consecutive correct answers, with visual perception accounting for 73% of errors."
+   ],
+   "unconfirmed": [
+    "The full per-model scores, the exact 73% error breakdown across all 18 models, and the finding that more compute time does not fix the failures have not been independently replicated; those details rest on The Decoder's account and Google's benchmark description, and the report does not provide the underlying paper or a complete results table."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Google DeepMind 发布了名为“Humanity's First Exam”的评测，共包含 544 道日常题，并公开了部分数据集（Google 官方博客）；The Decoder 报道称，该评测考察了 18 个模型，关键在于要求模型对同一类任务连续 16 次答对，而不只是答对一次。"
+   ],
+   "unconfirmed": [
+    "哪些模型具体在哪些任务上失败、报道中提到的 GPT-6.2 Astra 等模型的相对位置，“视觉感知占 73% 的错误”和“增加算力时间并不能解决问题”这两项结论，目前都只见于 The Decoder 这一篇二次报道，现有报道未链接 DeepMind 的原始论文、排行榜或完整结果表；另有一条 YouTube 短视频称配套的 Kaggle 竞赛为期三周、截至 12 月 15 日、奖金 5 万美元，也缺少第二个来源佐证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "DeepMind's \"Humanity's First Exam\" finds top models fail repeated everyday tasks",
+  "zh": "DeepMind“人类首次考试”：顶尖模型难连续答对16题"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/deepmind-s-humanity-s-first-exam-finds-top-models-fail-repeated-6c10/",
+  "zh": "/zh/2026/11/28/deepmind-s-humanity-s-first-exam-finds-top-models-fail-repeated-6c10/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

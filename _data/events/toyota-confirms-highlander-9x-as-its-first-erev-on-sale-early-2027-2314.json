@@ -1,0 +1,57 @@
+{
+ "event_id": "toyota-confirms-highlander-9x-as-its-first-erev-on-sale-early-2027-2314",
+ "issue": "2026-11-28",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T17:18:59+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrek",
+   "url": "https://electrek.co/2026/11/27/toyota-confirms-highlander-9x-first-erev-top-tier-tech/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Toyota confirmed the Highlander 9X as its first EREV with an early-2027 on-sale date and named Huawei and CATL as technology suppliers, Electrek reported."
+   ],
+   "unconfirmed": [
+    "range, battery capacity, power output, price, target markets, and exactly which components Huawei and CATL will supply; no independent testing or production-model specifications exist yet."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Electrek 报道，丰田确认汉兰达 9X 将于 2027 年初上市，是丰田首款增程式电动车，并使用华为与宁德时代的技术。"
+   ],
+   "unconfirmed": [
+    "电池容量、纯电续航、动力参数、售价、首发市场，以及华为与宁德时代各自供应的具体部件均未公布；也没有第三方测试或量产车验证。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Toyota confirms Highlander 9X as its first EREV, on sale early 2027",
+  "zh": "丰田确认汉兰达9X于2027年初上市，成为品牌首款增程电动车"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/toyota-confirms-highlander-9x-as-its-first-erev-on-sale-early-2027-2314/",
+  "zh": "/zh/2026/11/28/toyota-confirms-highlander-9x-as-its-first-erev-on-sale-early-2027-2314/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

@@ -1,0 +1,57 @@
+{
+ "event_id": "kioxia-s-gen-3-xl-flash-targets-3-s-reads-samples-in-march-2027-194f",
+ "issue": "2026-11-28",
+ "section": "chips-compute",
+ "published_at": "2026-11-27T12:00:00+00:00",
+ "updated": null,
+ "status": "demonstrated",
+ "status_step": 5,
+ "planned": false,
+ "status_label": "Demonstrated",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/pc-components/ssds/kioxias-3rd-gen-xl-flash-hits-optane-class-3-microsecond-read-latency-with-70-percent-higher-density-samples-march-2027-ahead-of-18-million-iops-gp2-ssds"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Kioxia showcased the Gen 3 XL-Flash prototype at its KIOXIA Forum in Tokyo and states that it uses CBA bonding, delivers 3 µs average read latency, 70% higher bit density and roughly 135% better efficiency than Gen 2; it named GP2 as the first product to use it."
+   ],
+   "unconfirmed": [
+    "independent measurements of latency, IOPS or endurance; the SLC cell type, 128Gb die size, 150,000–250,000 P/E cycles and 4.8 Gb/s interface are reported details, and Kioxia has not disclosed layer count; GP2's 18 million+ IOPS, 28 GB/s sequential read and 50 DWPD figures are targets, with exact specifications subject to change."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "铠侠在自家论坛上展出了第三代 XL-Flash 原型，并公布 3 微秒平均读取延迟、较第二代高 70% 的位密度、CBA 键合结构，以及 2027 年 3 月向特定客户送样的计划；GP2 标称 512 字节随机读超过 1800 万 IOPS、顺序读最高 28 GB/s、最高每日 50 次全盘写入，铠侠称正考虑 E1.S 与 E3.S 形态并支持直接液冷。"
+   ],
+   "unconfirmed": [
+    "SLC 存储单元与 128Gb 单 die 容量在报道中均标注为“据称”，150000 至 250000 次 P/E 循环、4.8 Gb/s 接口速率亦出自铠侠自身说法，没有第三方实测；层数等完整规格未披露，GP2 最终规格可能变动，价格、容量和具体上市时间均未公布，评估样品要等到 2027 年底。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Kioxia's Gen 3 XL-Flash targets 3 µs reads, samples in March 2027",
+  "zh": "铠侠第三代 XL-Flash 原型读取延迟达 3 微秒，2027 年 3 月送样"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/kioxia-s-gen-3-xl-flash-targets-3-s-reads-samples-in-march-2027-194f/",
+  "zh": "/zh/2026/11/28/kioxia-s-gen-3-xl-flash-targets-3-s-reads-samples-in-march-2027-194f/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

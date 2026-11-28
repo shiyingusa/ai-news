@@ -1,0 +1,57 @@
+{
+ "event_id": "arriva-wins-2bn-north-holland-contract-with-200-electric-buses-0119",
+ "issue": "2026-11-28",
+ "section": "ev-energy",
+ "published_at": "2026-11-28T09:00:00+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Electrive",
+   "url": "https://www.electrive.com/2026/11/28/arriva-secures-two-billion-euro-contract-for-electric-buses-in-north-holland/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Arriva's own announcement states the North-West North Holland bus contract is worth about €2 billion and runs 13 years from July 2028, with a two-year option; the fleet will be 100% electric and number more than 200 buses, which Arriva calls its largest-ever bus contract (Arriva; also reported by Sustainable Bus and Bus News)."
+   ],
+   "unconfirmed": [
+    "the split between new and existing vehicles, which manufacturers will supply the buses, and how much of the €2 billion covers vehicles versus operations are not specified; the initial electrive report gave no start date or operator-level detail, so those figures rest on Arriva's release and the trade press rather than an independent test or regulatory filing."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Arriva 官方新闻稿以及 Sustainable Bus、Bus News 的报道均确认，Arriva 赢得荷兰北荷兰省西北部为期 13 年的公交特许经营合同（另有两年续约选项），合同价值约 20 亿欧元，是 Arriva 历史上最大的巴士合同；服务将于 2028 年 7 月启动，届时投入超过 200 辆巴士组成的 100% 纯电车队，并扩充线路、提高班次密度、增加接驳。"
+   ],
+   "unconfirmed": [
+    "20 亿欧元中车辆采购与运营各占多少、其中新购电动巴士有多少辆（“超过 200 辆”包含现有车辆与新增车辆）、电动巴士由哪家厂商供应，目前均无披露；合同是否已完成正式签署，也只有 Arriva 一方的说法。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Arriva wins €2bn North Holland contract with 200+ electric buses",
+  "zh": "Arriva 获荷兰北荷兰省约 20 亿欧元电动巴士合同"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/arriva-wins-2bn-north-holland-contract-with-200-electric-buses-0119/",
+  "zh": "/zh/2026/11/28/arriva-wins-2bn-north-holland-contract-with-200-electric-buses-0119/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

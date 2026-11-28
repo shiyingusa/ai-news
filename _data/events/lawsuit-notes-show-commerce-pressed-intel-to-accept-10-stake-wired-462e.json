@@ -1,0 +1,57 @@
+{
+ "event_id": "lawsuit-notes-show-commerce-pressed-intel-to-accept-10-stake-wired-462e",
+ "issue": "2026-11-28",
+ "section": "chips-compute",
+ "published_at": "2026-11-27T12:05:01+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "According to Ars Technica's account of WIRED's reporting, internal notes from an August 2025 call — contained in a federal lawsuit — record Commerce Department lawyer David Shapiro telling Intel's CFO not to make the \"mistake of thinking that this is a negotiation,\" that \"the President is expecting to announce a deal on these terms on Friday,\" and that rejection \"will have consequences that [Shapiro] cannot predict\"; Intel agreed to give the US government a roughly 10 percent stake (WIRED, The Daily Beast, Yahoo)."
+   ],
+   "unconfirmed": [
+    "The underlying lawsuit's allegations have not been adjudicated, the accuracy and completeness of the quoted call notes have not been independently tested, and the source text available here is truncated — it does not name the plaintiff, court or claims, nor state the stake's price, valuation, share class or voting rights, or the government's stated legal authority for the demand."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "据 Ars Technica 转述 WIRED 的报道，一份联邦诉讼中引用的公司通话内部记录显示，美国商务部律师 David Shapiro 于 2025 年 8 月告知英特尔首席财务官，此事“不要误以为是一场谈判”，总统预计当周五按这些条件宣布协议；记录还称他承认董事会可以不接受，但拒绝会带来他无法预测的后果。英特尔最终同意让联邦政府获得约 10% 的股份（The Daily Beast、Yahoo 的报道亦如此表述）。"
+   ],
+   "unconfirmed": [
+    "所谓“后果”具体指什么、是否曾以任何形式付诸行动，现有报道均未说明；上述引语出自诉讼中的内部笔记摘要，而非可公开核对的法庭文件原文，且这篇报道是 WIRED 报道的节选转载，未包含起诉方、案号或英特尔方面的回应。政府持股对英特尔产能与先进制程产出的实际影响，报道也未给出任何数据。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Lawsuit notes show Commerce pressed Intel to accept 10% stake, Wired reports",
+  "zh": "诉讼文件：美政府施压英特尔交出约10%股权"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/lawsuit-notes-show-commerce-pressed-intel-to-accept-10-stake-wired-462e/",
+  "zh": "/zh/2026/11/28/lawsuit-notes-show-commerce-pressed-intel-to-accept-10-stake-wired-462e/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

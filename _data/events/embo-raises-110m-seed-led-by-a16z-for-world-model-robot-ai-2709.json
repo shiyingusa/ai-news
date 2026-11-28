@@ -1,0 +1,62 @@
+{
+ "event_id": "embo-raises-110m-seed-led-by-a16z-for-world-model-robot-ai-2709",
+ "issue": "2026-11-28",
+ "section": "ai-news",
+ "published_at": "2026-11-28T10:48:18+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": false,
+ "status_label": "Announced",
+ "confidence": {
+  "level": "high",
+  "reason": "2 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/"
+  },
+  {
+   "tier": "independent",
+   "name": "techmeme.com",
+   "url": "https://www.techmeme.com/261128/p1#a261128p1"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Embo announced its public launch and a $110 million seed round led by a16z, according to the company's own announcement."
+   ],
+   "unconfirmed": [
+    "The technical claims — that video-trained world models can generalize across robot bodies and acquire fine-grained motor skills in simulation — rest only on Embo's description; no model release, benchmark, demo video, customer deployment, valuation, full investor list or launch date has been disclosed."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Embo 宣布完成 1.1 亿美元种子轮融资，由 a16z 领投，公司同时结束隐身状态；The Decoder 与 Embo 官方发布页均给出这一金额和领投方，并称团队成员来自 Google DeepMind、Meta 和 MIT。"
+   ],
+   "unconfirmed": [
+    "技术路线本身——即“从互联网视频学习物理规律、在仿真中训练动作技能”能否支撑一个通用机器人大脑；报道未给出任何模型规模、演示视频、基准测试或第三方评测，也未披露估值、资金具体用途和产品时间表。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Embo raises $110M seed led by a16z for world-model robot AI",
+  "zh": "Embo 获 1.1 亿美元种子轮，研发机器人世界模型"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/embo-raises-110m-seed-led-by-a16z-for-world-model-robot-ai-2709/",
+  "zh": "/zh/2026/11/28/embo-raises-110m-seed-led-by-a16z-for-world-model-robot-ai-2709/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

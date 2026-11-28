@@ -1,0 +1,57 @@
+{
+ "event_id": "eu-ev-sales-beat-gas-and-diesel-combined-in-october-insideevs-reports-c9e6",
+ "issue": "2026-11-28",
+ "section": "ev-energy",
+ "published_at": "2026-11-27T15:15:52+00:00",
+ "updated": null,
+ "status": "reported",
+ "status_step": 2,
+ "planned": false,
+ "status_label": null,
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "InsideEVs",
+   "url": "https://insideevs.com/news/817061/eu-ev-sales-october-jump/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "ACEA's October registration release reports battery-electric cars at 23.4% of EU new-car registrations in January–October 2026, up from 16.4% a year earlier, with petrol and diesel combined at 27.7%, down from 36.5%; it also reports 279,799 battery-electric registrations in October alone, up 61.4% year on year."
+   ],
+   "unconfirmed": [
+    "That EVs outsold petrol and diesel cars combined in October by nearly 70,000 units, and that the prior-year gap was 127,000, rests on InsideEVs' report; the supplied ACEA figures give year-to-date shares and October BEV volume but no October petrol-plus-diesel total, and the year-to-date shares (BEV 23.4% vs petrol and diesel 27.7%) do not by themselves establish the October overtake. The term “EVs” is also undefined—battery-electric only or including plug-in hybrids."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "欧洲汽车制造商协会（ACEA）11 月 24 日发布的数据显示，2026 年 10 月欧盟纯电动车注册量为 279,799 辆，同比增长 61.4%；1—10 月纯电动车占欧盟新车注册量的 23.4%，高于去年同期的 16.4%，同期汽油车与柴油车合计份额从 36.5% 降至 27.7%（来源：ACEA）。"
+   ],
+   "unconfirmed": [
+    "InsideEVs 称 10 月单月欧盟电动车销量比汽油车与柴油车合计多出近 7 万辆，而一年前是落后 12.7 万辆；该报道未给出月度分类销量明细，也未说明“电动车”是否只含纯电、是否计入插电混动。ACEA 的年内累计数据仍显示汽油车加柴油车的合计份额（27.7%）高于纯电动车（23.4%），与上述月度反超说法并不直接对应，两套口径的差异报道未作解释。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "EU EV Sales Beat Gas and Diesel Combined in October, InsideEVs Reports",
+  "zh": "欧盟10月电动汽车销量超过汽油车与柴油车之和"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/eu-ev-sales-beat-gas-and-diesel-combined-in-october-insideevs-reports-c9e6/",
+  "zh": "/zh/2026/11/28/eu-ev-sales-beat-gas-and-diesel-combined-in-october-insideevs-reports-c9e6/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

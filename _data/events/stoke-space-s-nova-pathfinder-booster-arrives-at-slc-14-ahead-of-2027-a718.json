@@ -1,0 +1,57 @@
+{
+ "event_id": "stoke-space-s-nova-pathfinder-booster-arrives-at-slc-14-ahead-of-2027-a718",
+ "issue": "2026-11-28",
+ "section": "space",
+ "published_at": "2026-11-27T14:52:40+00:00",
+ "updated": null,
+ "status": "announced",
+ "status_step": 3,
+ "planned": true,
+ "status_label": "Planned",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "NASASpaceflight reported that the first stage arrived at SLC-14 on Nov. 22 and entered the HIF, and that Stage 2 completed cryogenic proof testing and a full wet dress rehearsal; Stoke Space's own X post said a rocket was at SLC-14 for the first time in 60 years."
+   ],
+   "unconfirmed": [
+    "The early 2027 launch date and the December Stage 2 static fire are Stoke's plans, not completed events; the report gives no payload capacity, price, or independent confirmation that the integrated vehicle will fly on that schedule."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "一级已于 11 月 22 日抵达 SLC-14 并进入水平总装厂房；二级在摩西湖已完成贮箱结构验证（各贮箱加压至设计压力的 110%）和一次以液氢液氧为推进剂的全流程湿式演练；七台 Zenith 发动机中有四台完成验收测试——这些数据来自 Stoke Space 与 NASASpaceflight 的报道。"
+   ],
+   "unconfirmed": [
+    "2027 年初首飞只是目标时间，尚无确定的发射日期；湿式演练与两次静态点火能否按计划通过、剩余三台 Zenith 何时完成验收并运抵佛罗里达，均未得到确认；报道中提到的 Block 2 重型构型与融资细节因原文截断而无法核实。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Stoke Space's Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+  "zh": "Stoke Space 新星一级抵达 SLC-14，目标 2027 年初首飞"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/stoke-space-s-nova-pathfinder-booster-arrives-at-slc-14-ahead-of-2027-a718/",
+  "zh": "/zh/2026/11/28/stoke-space-s-nova-pathfinder-booster-arrives-at-slc-14-ahead-of-2027-a718/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

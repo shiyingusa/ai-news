@@ -1,0 +1,57 @@
+{
+ "event_id": "dwarkesh-q-a-erdil-and-kokotajlo-on-an-intelligence-explosion-before-6efd",
+ "issue": "2026-11-28",
+ "section": "ai-news",
+ "published_at": "2026-11-27T20:15:01+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 7.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "Dwarkesh Podcast",
+   "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil"
+  }
+ ],
+ "discovered_via": "Techmeme",
+ "facts": {
+  "en": {
+   "verified": [
+    "Dwarkesh Patel published a podcast episode featuring AI researchers Ege Erdil and Daniel Kokotajlo, according to the episode page and Techmeme's listing; the page carries the quote \"If we pause now, people still won't understand what's at stake,\" and Patel writes that the two agreed on more than he expected, with the discussion covering intelligence-explosion timing (including 2027 versus 2028), pausing AI, and US tensions with China."
+   ],
+   "unconfirmed": [
+    "the specific forecasts, odds figures or policy conclusions each guest gave, and whether they converged or disagreed on them — no transcript or independent account of the episode's content is available, and the \"before 2029\" framing comes from the episode's own description; Erdil has separately been described as holding 2045+ timelines, so how his position is presented in this episode cannot be checked from the listing alone."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "Dwarkesh Patel 的播客发布了 Ege Erdil 与 Daniel Kokotajlo 的对谈节目，议题包括智能爆炸的时间表、是否应暂停 AI 以及美国对华政策；主持人在节目页面表示，本以为会是一场辩论，但两人意见一致的程度远超预期（Dwarkesh Patel 本人撰文）。"
+   ],
+   "unconfirmed": [
+    "两人在节目中给出的具体概率与年份判断、各自立场是否发生变化，均只存在于这期播客的讨论中，所现有报道未给出任何数字或转录原文；此外，Erdil 此前公开表述过 2045 年以后的谨慎时间线、并认为智能爆炸不太可信，本期他是否修正该观点尚无法从现有信息确认。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Dwarkesh Q&A: Erdil and Kokotajlo on an intelligence explosion before 2029",
+  "zh": "Dwarkesh 播客：Erdil 与 Kokotajlo 谈 2029 年前智能爆炸概率"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/dwarkesh-q-a-erdil-and-kokotajlo-on-an-intelligence-explosion-before-6efd/",
+  "zh": "/zh/2026/11/28/dwarkesh-q-a-erdil-and-kokotajlo-on-an-intelligence-explosion-before-6efd/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}

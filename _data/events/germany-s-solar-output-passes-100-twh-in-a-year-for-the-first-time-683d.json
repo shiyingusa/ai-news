@@ -1,0 +1,57 @@
+{
+ "event_id": "germany-s-solar-output-passes-100-twh-in-a-year-for-the-first-time-683d",
+ "issue": "2026-11-28",
+ "section": "ev-energy",
+ "published_at": "2026-11-28T08:00:00+00:00",
+ "updated": null,
+ "status": "released",
+ "status_step": 4,
+ "planned": false,
+ "status_label": "Available",
+ "confidence": {
+  "level": "medium",
+  "reason": "1 independent"
+ },
+ "radar_score": 8.0,
+ "sources": [
+  {
+   "tier": "independent",
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/2026/11/28/germanys-solar-generation-tops-100-twh-in-2026/"
+  }
+ ],
+ "discovered_via": null,
+ "facts": {
+  "en": {
+   "verified": [
+    "Fraunhofer ISE's Energy-Charts data, as reported by pv magazine, shows 100.2 TWh of German solar generation by the morning of Nov. 27, split into 80.6 TWh of EEG-supported grid feed-in, 2.6 TWh from other PV systems and 16.9 TWh of self-consumption, against 90 TWh for the whole of 2025."
+   ],
+   "unconfirmed": [
+    "the final full-year 2026 total, since the 100.2 TWh figure is a year-to-date reading taken in late November; the report also relies on a single data platform and does not give an independently audited breakdown, and the mid-November projection of the milestone by the solar and battery trade group BSB rested on the same Fraunhofer ISE numbers."
+   ]
+  },
+  "zh": {
+   "verified": [
+    "pv magazine 援引 Fraunhofer ISE 的 Energy-Charts 数据，确认截至 11 月 27 日上午光伏累计发电 100.2 TWh，并给出 80.6 TWh、2.6 TWh、16.9 TWh 的分项及各类电源的年内发电量排序。"
+   ],
+   "unconfirmed": [
+    "2026 年尚未结束，100.2 TWh 是截至 11 月 27 日的年内累计值而非最终全年数据；德国太阳能与电池经济协会（BSB）11 月中旬称德国“即将达到”该里程碑，同样依据该所数据，未经过第三方独立核算；报道未提供新增装机容量或相关政策变动细节。"
+   ]
+  }
+ },
+ "has_fact_check": true,
+ "languages": [
+  "en",
+  "zh"
+ ],
+ "titles": {
+  "en": "Germany's solar output passes 100 TWh in a year for the first time",
+  "zh": "德国光伏年发电量首次突破100 TWh"
+ },
+ "permalinks": {
+  "en": "/2026/11/28/germany-s-solar-output-passes-100-twh-in-a-year-for-the-first-time-683d/",
+  "zh": "/zh/2026/11/28/germany-s-solar-output-passes-100-twh-in-a-year-for-the-first-time-683d/"
+ },
+ "merged_urls": [],
+ "corrected": false
+}
